@@ -1,0 +1,414 @@
+# 跟踪哪些 AI 顶组。增删关注对象只改本文件。
+#
+# 字段说明
+#   region:   cn | intl                     国内 / 国际
+#   kind:     academia | industry            学术界 / 工业界
+#   feeds:    官方 RSS/Atom，只接稳定 feed，不爬 HTML
+#   members:  每位可填 openalex_id / s2_id / arxiv_name 任意子集，缺哪个跳过哪个源
+#
+# 关于 ID 的纪律
+#   - openalex_id / s2_id 是稳定 ID，优先用；本文件里的 ID 均通过「该人确实署名的论文」反查得到，
+#     而不是按姓名搜索的首个结果（中文姓名在 OpenAlex 重名/合档严重）。
+#   - arxiv_name 只能按姓名检索，重名风险高：只用于姓名独特的个人，
+#     以及 arXiv 上真实存在的「机构作者」（如 DeepSeek-AI、Qwen Team），后者是跟踪国内大厂技术报告的最佳入口。
+#   - 没有可靠作者 ID 的工业组允许「0 成员 + 仅 feed」，反之没有 feed 的组就只跟论文。
+
+groups:
+  # ---------------- 国际 · 工业界 ----------------
+  - id: openai
+    name: OpenAI
+    name_cn: OpenAI
+    region: intl
+    kind: industry
+    affiliation: OpenAI
+    homepage: https://openai.com
+    description: GPT / o 系列模型与 Sora 的研发方，重要成果多以官方 News 与技术报告形式发布。
+    tags: [llm, agents, multimodal]
+    feeds:
+      - url: https://openai.com/news/rss.xml
+        label: OpenAI News
+
+  - id: google-deepmind
+    name: DeepMind
+    name_cn: DeepMind
+    region: intl
+    kind: industry
+    affiliation: Google DeepMind
+    homepage: https://deepmind.google
+    description: Gemini、AlphaFold、Gemini Robotics 等工作的研发方，覆盖基础模型与科学计算。
+    tags: [llm, rl, science, robotics]
+    feeds:
+      - url: https://blog.google/technology/google-deepmind/rss/
+        label: Google DeepMind Blog
+    members:
+      - id: oriol-vinyals
+        name: Oriol Vinyals
+        role: VP of Research
+        openalex_id: A5003562101
+        arxiv_name: "Vinyals, Oriol"
+
+  - id: google-research
+    name: Google Research
+    name_cn: Google Research
+    region: intl
+    kind: industry
+    affiliation: Google
+    homepage: https://research.google
+    description: Google 内部除 DeepMind 之外的研究体系，覆盖系统、算法与应用型 AI。
+    tags: [systems, ml, applied]
+    feeds:
+      - url: https://blog.google/technology/research/rss/
+        label: Google Research Blog
+
+  - id: anthropic
+    name: Anthropic
+    name_cn: Anthropic
+    region: intl
+    kind: industry
+    affiliation: Anthropic
+    homepage: https://www.anthropic.com
+    description: Claude 系列的研发方，在可解释性与对齐/安全方向产出密集。官网无稳定 RSS，故只跟论文。
+    tags: [llm, alignment, interpretability]
+    members:
+      - id: jared-kaplan
+        name: Jared Kaplan
+        role: Co-founder / Chief Science Officer
+        openalex_id: A5053213601
+        arxiv_name: "Kaplan, Jared"
+      - id: ethan-perez
+        name: Ethan Perez
+        role: Alignment Science
+        openalex_id: A5091112967
+        arxiv_name: "Perez, Ethan"
+
+  - id: meta-fair
+    name: Meta FAIR
+    name_cn: Meta FAIR
+    region: intl
+    kind: industry
+    affiliation: Meta
+    homepage: https://ai.meta.com/research/
+    description: Llama 与自监督表示学习（DINO / JEPA 系）的发源地。官方 feed 在部分网络环境不可达，故只跟论文。
+    tags: [llm, self-supervised, vision]
+    members:
+      - id: yann-lecun
+        name: Yann LeCun
+        role: FAIR 创始负责人
+        openalex_id: A5001226970
+        arxiv_name: "LeCun, Yann"
+
+  - id: microsoft-research
+    name: Microsoft Research
+    name_cn: Microsoft Research
+    region: intl
+    kind: industry
+    affiliation: Microsoft
+    homepage: https://www.microsoft.com/en-us/research/
+    description: 覆盖基础模型、AI for Science 与系统方向的综合研究院，官方 feed 更新稳定。
+    tags: [llm, systems, science]
+    feeds:
+      - url: https://www.microsoft.com/en-us/research/feed/
+        label: Microsoft Research Blog
+
+  # ---------------- 国际 · 学术界 ----------------
+  - id: berkeley-bair
+    name: BAIR
+    name_cn: BAIR
+    region: intl
+    kind: academia
+    affiliation: UC Berkeley
+    homepage: https://bair.berkeley.edu
+    description: 强化学习与机器人学习重镇，BAIR Blog 会把组内成果写成长文。
+    tags: [rl, robotics, embodied]
+    feeds:
+      - url: https://bair.berkeley.edu/blog/feed.xml
+        label: BAIR Blog
+    members:
+      - id: pieter-abbeel
+        name: Pieter Abbeel
+        role: PI
+        openalex_id: A5049349154
+        arxiv_name: "Abbeel, Pieter"
+      - id: sergey-levine
+        name: Sergey Levine
+        role: PI
+        openalex_id: A5026322200
+        arxiv_name: "Levine, Sergey"
+
+  - id: stanford-ai
+    name: Stanford AI
+    name_cn: Stanford AI
+    region: intl
+    kind: academia
+    affiliation: Stanford University
+    homepage: https://ai.stanford.edu
+    description: 机器人学习与基础模型评测（CRFM / HELM）两条主线。SAIL Blog 已停更，故只跟论文。
+    tags: [robotics, vla, foundation-models]
+    members:
+      - id: chelsea-finn
+        name: Chelsea Finn
+        role: PI
+        openalex_id: A5005431772
+        arxiv_name: "Finn, Chelsea"
+      - id: percy-liang
+        name: Percy Liang
+        role: PI
+        openalex_id: A5025255782
+        arxiv_name: "Liang, Percy"
+
+  - id: mit-csail
+    name: MIT CSAIL
+    name_cn: MIT CSAIL
+    region: intl
+    kind: academia
+    affiliation: MIT
+    homepage: https://www.csail.mit.edu
+    description: 计算机视觉、机器人与具身智能方向的老牌实验室；用 MIT News 的 AI 频道作为动态源。
+    tags: [vision, robotics, embodied]
+    feeds:
+      - url: https://news.mit.edu/rss/topic/artificial-intelligence2
+        label: MIT News · AI
+    members:
+      - id: antonio-torralba
+        name: Antonio Torralba
+        role: PI
+        openalex_id: A5085020955
+        arxiv_name: "Torralba, Antonio"
+      - id: pulkit-agrawal
+        name: Pulkit Agrawal
+        role: PI
+        openalex_id: A5111774389
+        arxiv_name: "Agrawal, Pulkit"
+
+  - id: cmu-ml
+    name: CMU
+    name_cn: CMU
+    region: intl
+    kind: academia
+    affiliation: Carnegie Mellon University
+    homepage: https://www.ml.cmu.edu
+    description: 机器学习理论与机器人学习并重，ML@CMU 博客由组内学生撰写。
+    tags: [ml, robotics, rl]
+    feeds:
+      - url: https://blog.ml.cmu.edu/feed/
+        label: ML@CMU Blog
+    members:
+      - id: ruslan-salakhutdinov
+        name: Ruslan Salakhutdinov
+        role: PI
+        openalex_id: A5071983998
+        arxiv_name: "Salakhutdinov, Ruslan"
+      - id: deepak-pathak
+        name: Deepak Pathak
+        role: PI
+        openalex_id: A5101851026
+        arxiv_name: "Pathak, Deepak"
+
+  # ---------------- 国内 · 工业界 ----------------
+  # 国内大厂普遍没有官方 RSS，但技术报告会以「机构作者」署名投 arXiv，
+  # 因此这些组主要靠 arxiv_name 跟踪（已逐个用 arXiv API 验证过命中）。
+  - id: deepseek
+    name: DeepSeek
+    name_cn: DeepSeek
+    region: cn
+    kind: industry
+    affiliation: 深度求索
+    homepage: https://www.deepseek.com
+    description: V 系列与 R 系列模型，技术报告以 DeepSeek-AI 署名投 arXiv。
+    tags: [llm, reasoning, moe]
+    members:
+      - id: deepseek-ai
+        name: DeepSeek-AI
+        role: 机构作者
+        arxiv_name: DeepSeek-AI
+
+  - id: zhipu-ai
+    name: 智谱
+    name_cn: 智谱
+    region: cn
+    kind: industry
+    affiliation: 智谱 · 清华 KEG
+    homepage: https://z.ai
+    description: GLM 系列模型，与清华 KEG 实验室深度绑定，团队论文与个人论文都值得跟。
+    tags: [llm, multimodal, agents]
+    members:
+      - id: jie-tang
+        name: Jie Tang
+        role: 清华 KEG / 智谱
+        openalex_id: A5066559797
+      - id: yuxiao-dong
+        name: Yuxiao Dong
+        role: 清华 KEG
+        openalex_id: A5052284218
+        arxiv_name: "Dong, Yuxiao"
+      - id: glm-v-team
+        name: GLM-V Team
+        role: 机构作者
+        arxiv_name: GLM-V Team
+
+  - id: moonshot-ai
+    name: 月之暗面
+    name_cn: 月之暗面
+    region: cn
+    kind: industry
+    affiliation: 月之暗面
+    homepage: https://www.moonshot.cn
+    description: Kimi 系列模型，技术报告以 Kimi Team 署名投 arXiv。
+    tags: [llm, long-context, agents]
+    members:
+      - id: kimi-team
+        name: Kimi Team
+        role: 机构作者
+        arxiv_name: Kimi Team
+
+  - id: bytedance-seed
+    name: 字节 Seed
+    name_cn: 字节 Seed
+    region: cn
+    kind: industry
+    affiliation: 字节跳动 Seed
+    homepage: https://seed.bytedance.com
+    description: 豆包/Seed 系列模型与 Model Card，技术报告以 ByteDance Seed 署名投 arXiv。
+    tags: [llm, multimodal, agents]
+    members:
+      - id: bytedance-seed-org
+        name: ByteDance Seed
+        role: 机构作者
+        arxiv_name: ByteDance Seed
+
+  - id: alibaba-qwen
+    name: Qwen
+    name_cn: Qwen
+    region: cn
+    kind: industry
+    affiliation: 阿里巴巴通义实验室
+    homepage: https://qwen.ai
+    description: Qwen 开源模型家族，既有官方博客也有以 Qwen Team 署名的技术报告。
+    tags: [llm, open-weights, multimodal]
+    feeds:
+      - url: https://qwenlm.github.io/blog/index.xml
+        label: Qwen Blog
+    members:
+      - id: qwen-team
+        name: Qwen Team
+        role: 机构作者
+        arxiv_name: Qwen Team
+
+  - id: minimax
+    name: MiniMax
+    name_cn: MiniMax
+    region: cn
+    kind: industry
+    affiliation: MiniMax 稀宇科技
+    homepage: https://www.minimax.io
+    description: MiniMax 系列模型，主打线性/混合注意力与长上下文效率。
+    tags: [llm, efficient-attention, multimodal]
+    members:
+      - id: minimax-org
+        name: MiniMax
+        role: 机构作者
+        arxiv_name: MiniMax
+
+  - id: stepfun
+    name: 阶跃星辰
+    name_cn: 阶跃星辰
+    region: cn
+    kind: industry
+    affiliation: 阶跃星辰
+    homepage: https://www.stepfun.com
+    description: Step 系列模型，偏模型-系统协同设计与多模态。
+    tags: [llm, multimodal, systems]
+    members:
+      - id: stepfun-org
+        name: StepFun
+        role: 机构作者
+        arxiv_name: StepFun
+
+  # ---------------- 国内 · 学术界 ----------------
+  - id: tsinghua-ai
+    name: 清华 AIR
+    name_cn: 清华 AIR
+    region: cn
+    kind: academia
+    affiliation: 清华大学
+    homepage: https://www.tsinghua.edu.cn
+    description: 多模态大模型（InternVL 线）与自动驾驶/具身智能方向产出密集。
+    tags: [multimodal, autonomous-driving, embodied]
+    members:
+      - id: jifeng-dai
+        name: Jifeng Dai
+        role: 清华电子 / 上海 AI Lab
+        openalex_id: A5026944066
+        arxiv_name: "Dai, Jifeng"
+      - id: hang-zhao
+        name: Hang Zhao
+        role: 清华 AIR / IIIS
+        openalex_id: A5104009095
+        arxiv_name: "Zhao, Hang"
+
+  - id: pku-ai
+    name: 北大
+    name_cn: 北大
+    region: cn
+    kind: academia
+    affiliation: 北京大学
+    homepage: https://www.pku.edu.cn
+    description: 具身智能与三维视觉方向，GAPartNet / 通用抓取等工作出自这里。
+    tags: [embodied, 3d-vision, manipulation]
+    members:
+      # 不填 arxiv_name：arXiv 上 "Wang, He" 命中大量同名他人，只靠 OpenAlex 稳定 ID 跟踪
+      - id: he-wang
+        name: He Wang
+        role: PI（具身智能）
+        openalex_id: A5111070991
+
+  - id: shanghai-ai-lab
+    name: 上海 AI Lab
+    name_cn: 上海 AI Lab
+    region: cn
+    kind: academia
+    affiliation: 上海人工智能实验室
+    homepage: https://www.shlab.org.cn
+    description: InternVL / InternLM 等开源基础模型体系的主要产出方。
+    tags: [multimodal, open-weights, foundation-models]
+    members:
+      # 同上，"Wang, Wenhai" 在 arXiv 上会混进材料学等无关论文
+      - id: wenhai-wang
+        name: Wenhai Wang
+        role: 多模态基础模型
+        openalex_id: A5062687402
+
+  - id: sjtu-ai
+    name: 上交
+    name_cn: 上交
+    region: cn
+    kind: academia
+    affiliation: 上海交通大学
+    homepage: https://www.sjtu.edu.cn
+    description: 机器人抓取与具身操作方向（GraspNet / AnyGrasp 线）。
+    tags: [robotics, manipulation, embodied]
+    members:
+      - id: cewu-lu
+        name: Cewu Lu
+        role: PI
+        openalex_id: A5010726528
+        arxiv_name: "Lu, Cewu"
+
+  - id: msra
+    name: MSRA
+    name_cn: MSRA
+    region: cn
+    kind: academia
+    affiliation: Microsoft Research Asia
+    homepage: https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/
+    description: 亚太地区最早的工业研究院之一，基础模型与低比特/长序列方向产出稳定。
+    tags: [llm, efficiency, systems]
+    feeds:
+      - url: https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/feed/
+        label: MSRA Blog
+    members:
+      - id: furu-wei
+        name: Furu Wei
+        role: Distinguished Scientist
+        openalex_id: A5014662947
+        arxiv_name: "Wei, Furu"

@@ -1,0 +1,1490 @@
+{
+  "works": {
+    "2607.05391": {
+      "work_id": "2607.05391",
+      "kind": "paper",
+      "title": "LLM-as-a-Verifier: A General-Purpose Verification Framework",
+      "date": "2026-08-04",
+      "published": "",
+      "arxiv_id": "2607.05391",
+      "group_ids": [
+        "stanford-irl"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "papers/papers-2026-08-04.json"
+    },
+    "2606.32027": {
+      "work_id": "2606.32027",
+      "kind": "paper",
+      "title": "Freeform Preference Learning for Robotic Manipulation",
+      "date": "2026-08-04",
+      "published": "",
+      "arxiv_id": "2606.32027",
+      "group_ids": [
+        "stanford-irl"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "papers/papers-2026-08-04.json"
+    },
+    "2606.30645": {
+      "work_id": "2606.30645",
+      "kind": "paper",
+      "title": "VLK: Learning Humanoid Loco-Manipulation from Synthetic Interactions in Reconstructed Scenes",
+      "date": "2026-08-04",
+      "published": "",
+      "arxiv_id": "2606.30645",
+      "group_ids": [
+        "berkeley-rl"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "papers/papers-2026-08-04.json"
+    },
+    "2606.27375": {
+      "work_id": "2606.27375",
+      "kind": "paper",
+      "title": "Scalable Behavior Cloning with Open Data, Training, and Evaluation",
+      "date": "2026-08-04",
+      "published": "",
+      "arxiv_id": "2606.27375",
+      "group_ids": [
+        "berkeley-rl"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "papers/papers-2026-08-04.json"
+    },
+    "2606.23595": {
+      "work_id": "2606.23595",
+      "kind": "paper",
+      "title": "SPIRAL: Learning to Search and Aggregate",
+      "date": "2026-08-04",
+      "published": "",
+      "arxiv_id": "2606.23595",
+      "group_ids": [
+        "stanford-irl"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "papers/papers-2026-08-04.json"
+    },
+    "2606.19333": {
+      "work_id": "2606.19333",
+      "kind": "paper",
+      "title": "Do as I Do: Dexterous Manipulation Data from Everyday Human Videos",
+      "date": "2026-08-04",
+      "published": "",
+      "arxiv_id": "2606.19333",
+      "group_ids": [
+        "berkeley-rl"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "papers/papers-2026-08-04.json"
+    },
+    "2606.17055": {
+      "work_id": "2606.17055",
+      "kind": "paper",
+      "title": "T-Rex: Tactile-Reactive Dexterous Manipulation",
+      "date": "2026-08-04",
+      "published": "",
+      "arxiv_id": "2606.17055",
+      "group_ids": [
+        "berkeley-rl"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "papers/papers-2026-08-04.json"
+    },
+    "2606.13795": {
+      "work_id": "2606.13795",
+      "kind": "paper",
+      "title": "DiPOD: Diffusion Policy Optimization without Drifting Apart",
+      "date": "2026-08-04",
+      "published": "",
+      "arxiv_id": "2606.13795",
+      "group_ids": [
+        "berkeley-rl"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "papers/papers-2026-08-04.json"
+    },
+    "2606.13677": {
+      "work_id": "2606.13677",
+      "kind": "paper",
+      "title": "Mana: Dexterous Manipulation of Articulated Tools",
+      "date": "2026-08-04",
+      "published": "",
+      "arxiv_id": "2606.13677",
+      "group_ids": [
+        "berkeley-rl"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "papers/papers-2026-08-04.json"
+    },
+    "2606.13675": {
+      "work_id": "2606.13675",
+      "kind": "paper",
+      "title": "Improving Robotic Generalist Policies via Flow Reversal Steering",
+      "date": "2026-08-04",
+      "published": "",
+      "arxiv_id": "2606.13675",
+      "group_ids": [
+        "stanford-irl"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "papers/papers-2026-08-04.json"
+    },
+    "2606.12402": {
+      "work_id": "2606.12402",
+      "kind": "paper",
+      "title": "DIRECT: When and Where Should You Allocate Test-Time Compute in Embodied Planners?",
+      "date": "2026-08-04",
+      "published": "",
+      "arxiv_id": "2606.12402",
+      "group_ids": [
+        "stanford-irl"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "papers/papers-2026-08-04.json"
+    },
+    "2606.12352": {
+      "work_id": "2606.12352",
+      "kind": "paper",
+      "title": "CHORUS: Decentralized Multi-Embodiment Collaboration with One VLA Policy",
+      "date": "2026-08-04",
+      "published": "",
+      "arxiv_id": "2606.12352",
+      "group_ids": [
+        "stanford-irl"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "papers/papers-2026-08-04.json"
+    },
+    "2606.10305": {
+      "work_id": "2606.10305",
+      "kind": "paper",
+      "title": "SARM2: Multi-Task Stage Aware Reward Modeling for Self Improving Robotic Manipulation",
+      "date": "2026-08-04",
+      "published": "",
+      "arxiv_id": "2606.10305",
+      "group_ids": [
+        "berkeley-rl"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "papers/papers-2026-08-04.json"
+    },
+    "2606.08107": {
+      "work_id": "2606.08107",
+      "kind": "paper",
+      "title": "Ego-Pi: VLA Fine-Tuning for Ego-Centric Human and Robot Data",
+      "date": "2026-08-04",
+      "published": "",
+      "arxiv_id": "2606.08107",
+      "group_ids": [
+        "stanford-irl"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "papers/papers-2026-08-04.json"
+    },
+    "2606.05873": {
+      "work_id": "2606.05873",
+      "kind": "paper",
+      "title": "LadderMan: Learning Humanoid Perceptive Ladder Climbing",
+      "date": "2026-08-04",
+      "published": "",
+      "arxiv_id": "2606.05873",
+      "group_ids": [
+        "berkeley-rl"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "papers/papers-2026-08-04.json"
+    },
+    "2605.25477": {
+      "work_id": "2605.25477",
+      "kind": "paper",
+      "title": "EXPO-FT: Sample-Efficient Reinforcement Learning Finetuning for Vision-Language-Action Models",
+      "date": "2026-08-04",
+      "published": "",
+      "arxiv_id": "2605.25477",
+      "group_ids": [
+        "stanford-irl"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "papers/papers-2026-08-04.json"
+    },
+    "2605.25210": {
+      "work_id": "2605.25210",
+      "kind": "paper",
+      "title": "Multi-Objective Learning for Diffusion Models: A Statistical Theory under Semi-Supervised Learning",
+      "date": "2026-08-04",
+      "published": "",
+      "arxiv_id": "2605.25210",
+      "group_ids": [
+        "berkeley-rl"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "papers/papers-2026-08-04.json"
+    },
+    "2605.10236": {
+      "work_id": "2605.10236",
+      "kind": "paper",
+      "title": "When Does Non-Uniform Replay Matter in Reinforcement Learning?",
+      "date": "2026-08-04",
+      "published": "",
+      "arxiv_id": "2605.10236",
+      "group_ids": [
+        "berkeley-rl"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "papers/papers-2026-08-04.json"
+    },
+    "2605.05812": {
+      "work_id": "2605.05812",
+      "kind": "paper",
+      "title": "Long-Horizon Q-Learning: Accurate Value Learning via n-Step Inequalities",
+      "date": "2026-08-04",
+      "published": "",
+      "arxiv_id": "2605.05812",
+      "group_ids": [
+        "stanford-irl"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "papers/papers-2026-08-04.json"
+    },
+    "2605.00080": {
+      "work_id": "2605.00080",
+      "kind": "paper",
+      "title": "World Model for Robot Learning: A Comprehensive Survey",
+      "date": "2026-08-04",
+      "published": "",
+      "arxiv_id": "2605.00080",
+      "group_ids": [
+        "berkeley-rl"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "papers/papers-2026-08-04.json"
+    },
+    "2604.21017": {
+      "work_id": "2604.21017",
+      "kind": "paper",
+      "title": "Open-H-Embodiment: A Large-Scale Dataset for Enabling Foundation Models in Medical Robotics",
+      "date": "2026-08-04",
+      "published": "",
+      "arxiv_id": "2604.21017",
+      "group_ids": [
+        "stanford-irl"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "papers/papers-2026-08-04.json"
+    },
+    "2604.19730": {
+      "work_id": "2604.19730",
+      "kind": "paper",
+      "title": "FASTER: Value-Guided Sampling for Fast RL",
+      "date": "2026-08-04",
+      "published": "",
+      "arxiv_id": "2604.19730",
+      "group_ids": [
+        "stanford-irl"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "papers/papers-2026-08-04.json"
+    },
+    "2604.17654": {
+      "work_id": "2604.17654",
+      "kind": "paper",
+      "title": "Poly-EPO: Training Exploratory Reasoning Models",
+      "date": "2026-08-04",
+      "published": "",
+      "arxiv_id": "2604.17654",
+      "group_ids": [
+        "stanford-irl"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "papers/papers-2026-08-04.json"
+    },
+    "2604.15483": {
+      "work_id": "2604.15483",
+      "kind": "paper",
+      "title": "$π_{0.7}$: a Steerable Generalist Robotic Foundation Model with Emergent Capabilities",
+      "date": "2026-08-04",
+      "published": "",
+      "arxiv_id": "2604.15483",
+      "group_ids": [
+        "stanford-irl"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "papers/papers-2026-08-04.json"
+    },
+    "2604.09793": {
+      "work_id": "2604.09793",
+      "kind": "paper",
+      "title": "GIANTS: Generative Insight Anticipation from Scientific Literature",
+      "date": "2026-08-04",
+      "published": "",
+      "arxiv_id": "2604.09793",
+      "group_ids": [
+        "stanford-irl"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "papers/papers-2026-08-04.json"
+    },
+    "2604.01985": {
+      "work_id": "2604.01985",
+      "kind": "paper",
+      "title": "World Action Verifier: Self-Improving World Models via Forward-Inverse Asymmetry",
+      "date": "2026-08-04",
+      "published": "",
+      "arxiv_id": "2604.01985",
+      "group_ids": [
+        "stanford-irl"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "papers/papers-2026-08-04.json"
+    },
+    "2603.28052": {
+      "work_id": "2603.28052",
+      "kind": "paper",
+      "title": "Meta-Harness: End-to-End Optimization of Model Harnesses",
+      "date": "2026-08-04",
+      "published": "",
+      "arxiv_id": "2603.28052",
+      "group_ids": [
+        "stanford-irl"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "papers/papers-2026-08-04.json"
+    },
+    "2603.10158": {
+      "work_id": "2603.10158",
+      "kind": "paper",
+      "title": "Cross-Hand Latent Representation for Vision-Language-Action Models",
+      "date": "2026-08-04",
+      "published": "",
+      "arxiv_id": "2603.10158",
+      "group_ids": [
+        "berkeley-rl"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "papers/papers-2026-08-04.json"
+    },
+    "2603.06450": {
+      "work_id": "2603.06450",
+      "kind": "paper",
+      "title": "Data Analogies Enable Efficient Cross-Embodiment Transfer",
+      "date": "2026-08-04",
+      "published": "",
+      "arxiv_id": "2603.06450",
+      "group_ids": [
+        "stanford-irl"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "papers/papers-2026-08-04.json"
+    },
+    "2603.06082": {
+      "work_id": "2603.06082",
+      "kind": "paper",
+      "title": "Offline Materials Optimization with CliqueFlowmer",
+      "date": "2026-08-04",
+      "published": "",
+      "arxiv_id": "2603.06082",
+      "group_ids": [
+        "berkeley-rl"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "papers/papers-2026-08-04.json"
+    },
+    "2603.05066": {
+      "work_id": "2603.05066",
+      "kind": "paper",
+      "title": "Reward-Conditioned Reinforcement Learning",
+      "date": "2026-08-04",
+      "published": "",
+      "arxiv_id": "2603.05066",
+      "group_ids": [
+        "berkeley-rl"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "papers/papers-2026-08-04.json"
+    },
+    "2603.04639": {
+      "work_id": "2603.04639",
+      "kind": "paper",
+      "title": "RoboMME: Benchmarking and Understanding Memory for Robotic Generalist Policies",
+      "date": "2026-08-04",
+      "published": "",
+      "arxiv_id": "2603.04639",
+      "group_ids": [
+        "stanford-irl"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "papers/papers-2026-08-04.json"
+    },
+    "2603.03596": {
+      "work_id": "2603.03596",
+      "kind": "paper",
+      "title": "MEM: Multi-Scale Embodied Memory for Vision Language Action Models",
+      "date": "2026-08-04",
+      "published": "",
+      "arxiv_id": "2603.03596",
+      "group_ids": [
+        "stanford-irl"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "papers/papers-2026-08-04.json"
+    },
+    "2603.03280": {
+      "work_id": "2603.03280",
+      "kind": "paper",
+      "title": "How to Peel with a Knife: Aligning Fine-Grained Manipulation with Human Preference",
+      "date": "2026-08-04",
+      "published": "",
+      "arxiv_id": "2603.03280",
+      "group_ids": [
+        "berkeley-rl"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "papers/papers-2026-08-04.json"
+    },
+    "2603.01151": {
+      "work_id": "2603.01151",
+      "kind": "paper",
+      "title": "D-REX: Differentiable Real-to-Sim-to-Real Engine for Learning Dexterous Grasping",
+      "date": "2026-08-04",
+      "published": "",
+      "arxiv_id": "2603.01151",
+      "group_ids": [
+        "berkeley-rl"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "papers/papers-2026-08-04.json"
+    },
+    "2602.15827": {
+      "work_id": "2602.15827",
+      "kind": "paper",
+      "title": "Perceptive Humanoid Parkour: Chaining Dynamic Human Skills via Motion Matching",
+      "date": "2026-08-04",
+      "published": "",
+      "arxiv_id": "2602.15827",
+      "group_ids": [
+        "berkeley-rl"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "papers/papers-2026-08-04.json"
+    },
+    "2602.12281": {
+      "work_id": "2602.12281",
+      "kind": "paper",
+      "title": "Scaling Verification Can Be More Effective than Scaling Policy Learning for Vision-Language-Action Alignment",
+      "date": "2026-08-04",
+      "published": "",
+      "arxiv_id": "2602.12281",
+      "group_ids": [
+        "stanford-irl"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "papers/papers-2026-08-04.json"
+    },
+    "2602.12063": {
+      "work_id": "2602.12063",
+      "kind": "paper",
+      "title": "VLAW: Iterative Co-Improvement of Vision-Language-Action Policy and World Model",
+      "date": "2026-08-04",
+      "published": "",
+      "arxiv_id": "2602.12063",
+      "group_ids": [
+        "stanford-irl"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "papers/papers-2026-08-04.json"
+    },
+    "2602.08440": {
+      "work_id": "2602.08440",
+      "kind": "paper",
+      "title": "SteerVLA: Steering Vision-Language-Action Models in Long-Tail Driving Scenarios",
+      "date": "2026-08-04",
+      "published": "",
+      "arxiv_id": "2602.08440",
+      "group_ids": [
+        "stanford-irl"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "papers/papers-2026-08-04.json"
+    },
+    "2602.06949": {
+      "work_id": "2602.06949",
+      "kind": "paper",
+      "title": "DreamDojo: A Generalist Robot World Model from Large-Scale Human Videos",
+      "date": "2026-08-04",
+      "published": "",
+      "arxiv_id": "2602.06949",
+      "group_ids": [
+        "berkeley-rl"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "papers/papers-2026-08-04.json"
+    },
+    "2602.03002": {
+      "work_id": "2602.03002",
+      "kind": "paper",
+      "title": "RPL: Learning Robust Humanoid Perceptive Locomotion on Challenging Terrains",
+      "date": "2026-08-04",
+      "published": "",
+      "arxiv_id": "2602.03002",
+      "group_ids": [
+        "berkeley-rl"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "papers/papers-2026-08-04.json"
+    },
+    "2602.02481": {
+      "work_id": "2602.02481",
+      "kind": "paper",
+      "title": "Flow Policy Gradients for Robot Control",
+      "date": "2026-08-04",
+      "published": "",
+      "arxiv_id": "2602.02481",
+      "group_ids": [
+        "berkeley-rl"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "papers/papers-2026-08-04.json"
+    },
+    "2602.01439": {
+      "work_id": "2602.01439",
+      "kind": "paper",
+      "title": "TQL: Scaling Q-Functions with Transformers by Preventing Attention Collapse",
+      "date": "2026-08-04",
+      "published": "",
+      "arxiv_id": "2602.01439",
+      "group_ids": [
+        "stanford-irl"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "papers/papers-2026-08-04.json"
+    },
+    "2601.22074": {
+      "work_id": "2601.22074",
+      "kind": "paper",
+      "title": "mjlab: A Lightweight Framework for GPU-Accelerated Robot Learning",
+      "date": "2026-08-04",
+      "published": "",
+      "arxiv_id": "2601.22074",
+      "group_ids": [
+        "berkeley-rl"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "papers/papers-2026-08-04.json"
+    },
+    "2601.16163": {
+      "work_id": "2601.16163",
+      "kind": "paper",
+      "title": "Cosmos Policy: Fine-Tuning Video Models for Visuomotor Control and Planning",
+      "date": "2026-08-04",
+      "published": "",
+      "arxiv_id": "2601.16163",
+      "group_ids": [
+        "stanford-irl"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "papers/papers-2026-08-04.json"
+    },
+    "2601.12796": {
+      "work_id": "2601.12796",
+      "kind": "paper",
+      "title": "Contact-Aware Neural Dynamics",
+      "date": "2026-08-04",
+      "published": "",
+      "arxiv_id": "2601.12796",
+      "group_ids": [
+        "berkeley-rl"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "papers/papers-2026-08-04.json"
+    },
+    "2601.00675": {
+      "work_id": "2601.00675",
+      "kind": "paper",
+      "title": "RoboReward: General-Purpose Vision-Language Reward Models for Robotics",
+      "date": "2026-08-04",
+      "published": "",
+      "arxiv_id": "2601.00675",
+      "group_ids": [
+        "stanford-irl"
+      ],
+      "venue": "arXiv",
+      "citation_count": 0,
+      "path": "papers/papers-2026-08-04.json"
+    },
+    "2512.22414": {
+      "work_id": "2512.22414",
+      "kind": "paper",
+      "title": "Emergence of Human to Robot Transfer in Vision-Language-Action Models",
+      "date": "2026-08-04",
+      "published": "",
+      "arxiv_id": "2512.22414",
+      "group_ids": [
+        "stanford-irl"
+      ],
+      "venue": "arXiv",
+      "citation_count": 0,
+      "path": "papers/papers-2026-08-04.json"
+    },
+    "2512.16911": {
+      "work_id": "2512.16911",
+      "kind": "paper",
+      "title": "Posterior Behavioral Cloning: Pretraining BC Policies for Efficient RL Finetuning",
+      "date": "2026-08-04",
+      "published": "",
+      "arxiv_id": "2512.16911",
+      "group_ids": [
+        "stanford-irl"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "papers/papers-2026-08-04.json"
+    },
+    "2512.16881": {
+      "work_id": "2512.16881",
+      "kind": "paper",
+      "title": "PolaRiS: Scalable Real-to-Sim Evaluations for Generalist Robot Policies",
+      "date": "2026-08-04",
+      "published": "",
+      "arxiv_id": "2512.16881",
+      "group_ids": [
+        "stanford-irl"
+      ],
+      "venue": "arXiv",
+      "citation_count": 0,
+      "path": "papers/papers-2026-08-04.json"
+    },
+    "2512.15840": {
+      "work_id": "2512.15840",
+      "kind": "paper",
+      "title": "Large Video Planner Enables Generalizable Robot Control",
+      "date": "2026-08-04",
+      "published": "",
+      "arxiv_id": "2512.15840",
+      "group_ids": [
+        "berkeley-rl"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "papers/papers-2026-08-04.json"
+    },
+    "2512.10042": {
+      "work_id": "2512.10042",
+      "kind": "paper",
+      "title": "SEMDICE: Off-policy State Entropy Maximization via Stationary Distribution Correction Estimation",
+      "date": "2026-08-04",
+      "published": "",
+      "arxiv_id": "2512.10042",
+      "group_ids": [
+        "berkeley-rl"
+      ],
+      "venue": "arXiv",
+      "citation_count": 0,
+      "path": "papers/papers-2026-08-04.json"
+    },
+    "2512.05230": {
+      "work_id": "2512.05230",
+      "kind": "paper",
+      "title": "Invariance Co-training for Robot Visual Generalization",
+      "date": "2026-08-04",
+      "published": "",
+      "arxiv_id": "2512.05230",
+      "group_ids": [
+        "stanford-irl"
+      ],
+      "venue": "arXiv",
+      "citation_count": 0,
+      "path": "papers/papers-2026-08-04.json"
+    },
+    "2512.01996": {
+      "work_id": "2512.01996",
+      "kind": "paper",
+      "title": "Learning Sim-to-Real Humanoid Locomotion in 15 Minutes",
+      "date": "2026-08-04",
+      "published": "",
+      "arxiv_id": "2512.01996",
+      "group_ids": [
+        "berkeley-rl"
+      ],
+      "venue": "arXiv",
+      "citation_count": 0,
+      "path": "papers/papers-2026-08-04.json"
+    },
+    "2511.22445": {
+      "work_id": "2511.22445",
+      "kind": "paper",
+      "title": "DIPOLE: Fusing Vision and Geometry for Robust Visuomotor Generalization",
+      "date": "2026-08-04",
+      "published": "",
+      "arxiv_id": "2511.22445",
+      "group_ids": [
+        "berkeley-rl"
+      ],
+      "venue": "arXiv",
+      "citation_count": 0,
+      "path": "papers/papers-2026-08-04.json"
+    },
+    "2511.20066": {
+      "work_id": "2511.20066",
+      "kind": "paper",
+      "title": "SOMBRL: Scalable and Optimistic Model-Based RL",
+      "date": "2026-08-04",
+      "published": "",
+      "arxiv_id": "2511.20066",
+      "group_ids": [
+        "berkeley-rl"
+      ],
+      "venue": "arXiv",
+      "citation_count": 0,
+      "path": "papers/papers-2026-08-04.json"
+    },
+    "2511.14759": {
+      "work_id": "2511.14759",
+      "kind": "paper",
+      "title": "$π^{*}_{0.6}$: a VLA That Learns From Experience",
+      "date": "2026-08-04",
+      "published": "",
+      "arxiv_id": "2511.14759",
+      "group_ids": [
+        "stanford-irl"
+      ],
+      "venue": "arXiv",
+      "citation_count": 0,
+      "path": "papers/papers-2026-08-04.json"
+    },
+    "2511.11672": {
+      "work_id": "2511.11672",
+      "kind": "paper",
+      "title": "OSGym: Scalable OS Infra for Computer Use Agents",
+      "date": "2026-08-04",
+      "published": "",
+      "arxiv_id": "2511.11672",
+      "group_ids": [
+        "berkeley-rl"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "papers/papers-2026-08-04.json"
+    },
+    "2511.07919": {
+      "work_id": "2511.07919",
+      "kind": "paper",
+      "title": "Feedback Descent: Open-Ended Text Optimization via Pairwise Comparison",
+      "date": "2026-08-04",
+      "published": "",
+      "arxiv_id": "2511.07919",
+      "group_ids": [
+        "stanford-irl"
+      ],
+      "venue": "arXiv",
+      "citation_count": 0,
+      "path": "papers/papers-2026-08-04.json"
+    },
+    "2511.07418": {
+      "work_id": "2511.07418",
+      "kind": "paper",
+      "title": "Lightning Grasp: High Performance Procedural Grasp Synthesis with Contact Fields",
+      "date": "2026-08-04",
+      "published": "",
+      "arxiv_id": "2511.07418",
+      "group_ids": [
+        "berkeley-rl"
+      ],
+      "venue": "arXiv",
+      "citation_count": 0,
+      "path": "papers/papers-2026-08-04.json"
+    },
+    "2511.02832": {
+      "work_id": "2511.02832",
+      "kind": "paper",
+      "title": "TWIST2: Scalable, Portable, and Holistic Humanoid Data Collection System",
+      "date": "2026-08-04",
+      "published": "",
+      "arxiv_id": "2511.02832",
+      "group_ids": [
+        "berkeley-rl"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "papers/papers-2026-08-04.json"
+    },
+    "2511.00153": {
+      "work_id": "2511.00153",
+      "kind": "paper",
+      "title": "EgoMI: Learning Active Vision and Whole-Body Manipulation from Egocentric Human Demonstrations",
+      "date": "2026-08-04",
+      "published": "",
+      "arxiv_id": "2511.00153",
+      "group_ids": [
+        "berkeley-rl"
+      ],
+      "venue": "arXiv",
+      "citation_count": 0,
+      "path": "papers/papers-2026-08-04.json"
+    },
+    "2510.25000": {
+      "work_id": "2510.25000",
+      "kind": "paper",
+      "title": "What Really Matters in Matrix-Whitening Optimizers?",
+      "date": "2026-08-04",
+      "published": "",
+      "arxiv_id": "2510.25000",
+      "group_ids": [
+        "berkeley-rl"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "papers/papers-2026-08-04.json"
+    },
+    "2510.20328": {
+      "work_id": "2510.20328",
+      "kind": "paper",
+      "title": "MemER: Scaling Up Memory for Robot Control via Experience Retrieval",
+      "date": "2026-08-04",
+      "published": "",
+      "arxiv_id": "2510.20328",
+      "group_ids": [
+        "stanford-irl"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "papers/papers-2026-08-04.json"
+    },
+    "2510.20965": {
+      "work_id": "2510.20965",
+      "kind": "paper",
+      "title": "SutureBot: A Precision Framework & Benchmark For Autonomous End-to-End Suturing",
+      "date": "2026-08-04",
+      "published": "",
+      "arxiv_id": "2510.20965",
+      "group_ids": [
+        "stanford-irl"
+      ],
+      "venue": "arXiv",
+      "citation_count": 0,
+      "path": "papers/papers-2026-08-04.json"
+    },
+    "2510.17086": {
+      "work_id": "2510.17086",
+      "kind": "paper",
+      "title": "Learning to Design Soft Hands using Reward Models",
+      "date": "2026-08-04",
+      "published": "",
+      "arxiv_id": "2510.17086",
+      "group_ids": [
+        "berkeley-rl"
+      ],
+      "venue": "arXiv",
+      "citation_count": 0,
+      "path": "papers/papers-2026-08-04.json"
+    },
+    "doi-10-1109-iros60139-2025-11247700": {
+      "work_id": "doi-10-1109-iros60139-2025-11247700",
+      "kind": "paper",
+      "title": "Geometric Retargeting: A Principled, Ultrafast Neural Hand Retargeting Algorithm",
+      "date": "2026-08-04",
+      "published": "",
+      "arxiv_id": "",
+      "group_ids": [
+        "berkeley-rl"
+      ],
+      "venue": "",
+      "citation_count": 1,
+      "path": "papers/papers-2026-08-04.json"
+    },
+    "doi-10-1109-iros60139-2025-11246854": {
+      "work_id": "doi-10-1109-iros60139-2025-11246854",
+      "kind": "paper",
+      "title": "Affordance-Guided Reinforcement Learning via Visual Prompting",
+      "date": "2026-08-04",
+      "published": "",
+      "arxiv_id": "",
+      "group_ids": [
+        "stanford-irl"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "papers/papers-2026-08-04.json"
+    },
+    "doi-10-1109-iros60139-2025-11246368": {
+      "work_id": "doi-10-1109-iros60139-2025-11246368",
+      "kind": "paper",
+      "title": "Helpful DoggyBot: Open-World Object Fetching using Legged Robots and Vision-Language Models",
+      "date": "2026-08-04",
+      "published": "",
+      "arxiv_id": "",
+      "group_ids": [
+        "stanford-irl"
+      ],
+      "venue": "",
+      "citation_count": 2,
+      "path": "papers/papers-2026-08-04.json"
+    },
+    "2510.15352": {
+      "work_id": "2510.15352",
+      "kind": "paper",
+      "title": "GaussGym: An open-source real-to-sim framework for learning locomotion from pixels",
+      "date": "2026-08-04",
+      "published": "",
+      "arxiv_id": "2510.15352",
+      "group_ids": [
+        "berkeley-rl"
+      ],
+      "venue": "arXiv",
+      "citation_count": 0,
+      "path": "papers/papers-2026-08-04.json"
+    },
+    "2510.10125": {
+      "work_id": "2510.10125",
+      "kind": "paper",
+      "title": "Ctrl-World: A Controllable Generative World Model for Robot Manipulation",
+      "date": "2026-08-04",
+      "published": "",
+      "arxiv_id": "2510.10125",
+      "group_ids": [
+        "stanford-irl"
+      ],
+      "venue": "arXiv",
+      "citation_count": 0,
+      "path": "papers/papers-2026-08-04.json"
+    },
+    "2510.07650": {
+      "work_id": "2510.07650",
+      "kind": "paper",
+      "title": "Value Flows",
+      "date": "2026-08-04",
+      "published": "",
+      "arxiv_id": "2510.07650",
+      "group_ids": [
+        "stanford-irl"
+      ],
+      "venue": "arXiv",
+      "citation_count": 0,
+      "path": "papers/papers-2026-08-04.json"
+    },
+    "2510.05070": {
+      "work_id": "2510.05070",
+      "kind": "paper",
+      "title": "ResMimic: From General Motion Tracking to Humanoid Whole-body Loco-Manipulation via Residual Learning",
+      "date": "2026-08-04",
+      "published": "",
+      "arxiv_id": "2510.05070",
+      "group_ids": [
+        "berkeley-rl"
+      ],
+      "venue": "arXiv",
+      "citation_count": 0,
+      "path": "papers/papers-2026-08-04.json"
+    },
+    "2510.02263": {
+      "work_id": "2510.02263",
+      "kind": "paper",
+      "title": "RLAD: Training LLMs to Discover Abstractions for Solving Reasoning Problems",
+      "date": "2026-08-04",
+      "published": "",
+      "arxiv_id": "2510.02263",
+      "group_ids": [
+        "stanford-irl"
+      ],
+      "venue": "arXiv",
+      "citation_count": 0,
+      "path": "papers/papers-2026-08-04.json"
+    },
+    "2509.26633": {
+      "work_id": "2509.26633",
+      "kind": "paper",
+      "title": "OmniRetarget: Interaction-Preserving Data Generation for Humanoid Whole-Body Loco-Manipulation and Scene Interaction",
+      "date": "2026-08-04",
+      "published": "",
+      "arxiv_id": "2509.26633",
+      "group_ids": [
+        "berkeley-rl"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "papers/papers-2026-08-04.json"
+    },
+    "2509.25424": {
+      "work_id": "2509.25424",
+      "kind": "paper",
+      "title": "Polychromic Objectives for Reinforcement Learning",
+      "date": "2026-08-04",
+      "published": "",
+      "arxiv_id": "2509.25424",
+      "group_ids": [
+        "stanford-irl"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "papers/papers-2026-08-04.json"
+    },
+    "2509.25358": {
+      "work_id": "2509.25358",
+      "kind": "paper",
+      "title": "SARM: Stage-Aware Reward Modeling for Long Horizon Robot Manipulation",
+      "date": "2026-08-04",
+      "published": "",
+      "arxiv_id": "2509.25358",
+      "group_ids": [
+        "berkeley-rl"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "papers/papers-2026-08-04.json"
+    },
+    "2509.19301": {
+      "work_id": "2509.19301",
+      "kind": "paper",
+      "title": "Residual Off-Policy RL for Finetuning Behavior Cloning Policies",
+      "date": "2026-08-04",
+      "published": "",
+      "arxiv_id": "2509.19301",
+      "group_ids": [
+        "berkeley-rl"
+      ],
+      "venue": "arXiv (Cornell University)",
+      "citation_count": 0,
+      "path": "papers/papers-2026-08-04.json"
+    },
+    "2509.16434": {
+      "work_id": "2509.16434",
+      "kind": "paper",
+      "title": "End-to-end RL Improves Dexterous Grasping Policies",
+      "date": "2026-08-04",
+      "published": "",
+      "arxiv_id": "2509.16434",
+      "group_ids": [
+        "berkeley-rl"
+      ],
+      "venue": "arXiv",
+      "citation_count": 0,
+      "path": "papers/papers-2026-08-04.json"
+    },
+    "2508.18691": {
+      "work_id": "2508.18691",
+      "kind": "paper",
+      "title": "Deep Sensorimotor Control by Imitating Predictive Models of Human Motion",
+      "date": "2026-08-04",
+      "published": "",
+      "arxiv_id": "2508.18691",
+      "group_ids": [
+        "berkeley-rl"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "papers/papers-2026-08-04.json"
+    },
+    "2508.14881": {
+      "work_id": "2508.14881",
+      "kind": "paper",
+      "title": "Compute-Optimal Scaling for Value-Based Deep RL",
+      "date": "2026-08-04",
+      "published": "",
+      "arxiv_id": "2508.14881",
+      "group_ids": [
+        "berkeley-rl"
+      ],
+      "venue": "arXiv",
+      "citation_count": 0,
+      "path": "papers/papers-2026-08-04.json"
+    },
+    "2508.12189": {
+      "work_id": "2508.12189",
+      "kind": "paper",
+      "title": "Self-Guided Action Diffusion",
+      "date": "2026-08-04",
+      "published": "",
+      "arxiv_id": "2508.12189",
+      "group_ids": [
+        "stanford-irl"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "papers/papers-2026-08-04.json"
+    },
+    "blog-gemini-omni-experts-roundtable-47d81b7b": {
+      "work_id": "blog-gemini-omni-experts-roundtable-47d81b7b",
+      "kind": "blog",
+      "title": "Omni experts share what excites them most about the model.",
+      "date": "2026-08-15",
+      "published": "2026-08-13T13:30:00+00:00",
+      "arxiv_id": "",
+      "group_ids": [
+        "google-deepmind"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-08-15.json"
+    },
+    "blog-builders-guide-to-gpt-5-6-7f3b7817": {
+      "work_id": "blog-builders-guide-to-gpt-5-6-7f3b7817",
+      "kind": "blog",
+      "title": "The builder’s guide to GPT‑5.6",
+      "date": "2026-08-15",
+      "published": "2026-08-13T11:00:00+00:00",
+      "arxiv_id": "",
+      "group_ids": [
+        "openai"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-08-15.json"
+    },
+    "blog-previewing-ultrafast-4183a7e4": {
+      "work_id": "blog-previewing-ultrafast-4183a7e4",
+      "kind": "blog",
+      "title": "Previewing Ultrafast mode: GPT-5.6 Sol at up to 14X the speed",
+      "date": "2026-08-15",
+      "published": "2026-08-13T10:00:00+00:00",
+      "arxiv_id": "",
+      "group_ids": [
+        "openai"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-08-15.json"
+    },
+    "blog-dali-rajic-chief-revenue-officer-a0ff5f05": {
+      "work_id": "blog-dali-rajic-chief-revenue-officer-a0ff5f05",
+      "kind": "blog",
+      "title": "OpenAI appoints Dali Rajic as Chief Revenue Officer",
+      "date": "2026-08-15",
+      "published": "2026-08-13T09:00:00+00:00",
+      "arxiv_id": "",
+      "group_ids": [
+        "openai"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-08-15.json"
+    },
+    "2608.12253": {
+      "work_id": "2608.12253",
+      "kind": "paper",
+      "title": "One Frozen Simulator Is Not Enough: Simulator Collapse in Multi-Agent RL",
+      "date": "2026-08-15",
+      "published": "2026-08-12T16:55:50+00:00",
+      "arxiv_id": "2608.12253",
+      "group_ids": [
+        "berkeley-bair"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-08-15.json"
+    },
+    "blog-mindtopo-reveals-vlms-spatial-reasoning--dffee608": {
+      "work_id": "blog-mindtopo-reveals-vlms-spatial-reasoning--dffee608",
+      "kind": "blog",
+      "title": "MindTopo reveals VLMs’ spatial reasoning abilities",
+      "date": "2026-08-15",
+      "published": "2026-08-12T16:00:00+00:00",
+      "arxiv_id": "",
+      "group_ids": [
+        "microsoft-research"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-08-15.json"
+    },
+    "2608.11739": {
+      "work_id": "2608.11739",
+      "kind": "paper",
+      "title": "G0.5: One Autoregressive Stream for Robot Reasoning and Action",
+      "date": "2026-08-15",
+      "published": "2026-08-12T07:26:47+00:00",
+      "arxiv_id": "2608.11739",
+      "group_ids": [
+        "tsinghua-ai"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-08-15.json"
+    },
+    "blog-how-enterprises-put-ai-to-work-37f4eda4": {
+      "work_id": "blog-how-enterprises-put-ai-to-work-37f4eda4",
+      "kind": "blog",
+      "title": "From assistance to execution: How enterprises put AI to work",
+      "date": "2026-08-15",
+      "published": "2026-08-12T06:00:00+00:00",
+      "arxiv_id": "",
+      "group_ids": [
+        "openai"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-08-15.json"
+    },
+    "blog-ringcentral-819d1fa9": {
+      "work_id": "blog-ringcentral-819d1fa9",
+      "kind": "blog",
+      "title": "How RingCentral builds AI-native work from engineering to ops",
+      "date": "2026-08-15",
+      "published": "2026-08-12T00:00:00+00:00",
+      "arxiv_id": "",
+      "group_ids": [
+        "openai"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-08-15.json"
+    },
+    "blog-amie-video-consultations-326d0c8e": {
+      "work_id": "blog-amie-video-consultations-326d0c8e",
+      "kind": "blog",
+      "title": "AMIE, our research medical AI system, demonstrates real-time clinical video consultation capabilities in a first-of-its-kind study.",
+      "date": "2026-08-15",
+      "published": "2026-08-11T17:00:00+00:00",
+      "arxiv_id": "",
+      "group_ids": [
+        "google-deepmind",
+        "google-research"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-08-15.json"
+    },
+    "blog-introducing-care-x-towards-clinically-us-43cd8d0c": {
+      "work_id": "blog-introducing-care-x-towards-clinically-us-43cd8d0c",
+      "kind": "blog",
+      "title": "Introducing CARE-X: Towards Clinically Useful Radiology VLMs with Auxiliary Supervision, Reward-Aligned Learning, and Tool-Augmented Measurement",
+      "date": "2026-08-15",
+      "published": "2026-08-11T16:00:00+00:00",
+      "arxiv_id": "",
+      "group_ids": [
+        "microsoft-research"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-08-15.json"
+    },
+    "blog-testing-ads-in-chatgpt-8d14e041": {
+      "work_id": "blog-testing-ads-in-chatgpt-8d14e041",
+      "kind": "blog",
+      "title": "Testing ads in ChatGPT",
+      "date": "2026-08-15",
+      "published": "2026-08-11T10:00:00+00:00",
+      "arxiv_id": "",
+      "group_ids": [
+        "openai"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-08-15.json"
+    },
+    "blog-daybreak-models-are-now-available-on-aws-fa7e8b15": {
+      "work_id": "blog-daybreak-models-are-now-available-on-aws-fa7e8b15",
+      "kind": "blog",
+      "title": "Daybreak models are now available on AWS",
+      "date": "2026-08-15",
+      "published": "2026-08-11T10:00:00+00:00",
+      "arxiv_id": "",
+      "group_ids": [
+        "openai"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-08-15.json"
+    },
+    "blog-forking-sequences-part-ii-multi-horizon--bfa76098": {
+      "work_id": "blog-forking-sequences-part-ii-multi-horizon--bfa76098",
+      "kind": "blog",
+      "title": "Forking-Sequences — Part II: Multi-Horizon Forecast Ensembling with Reduced Volatility",
+      "date": "2026-08-15",
+      "published": "2026-08-10T21:52:23+00:00",
+      "arxiv_id": "",
+      "group_ids": [
+        "cmu-ml"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-08-15.json"
+    },
+    "blog-ai-models-simulate-wider-range-of-real-w-8806e8e1": {
+      "work_id": "blog-ai-models-simulate-wider-range-of-real-w-8806e8e1",
+      "kind": "blog",
+      "title": "With a feel for physics, AI models simulate a wider range of real-world scenarios",
+      "date": "2026-08-15",
+      "published": "2026-08-10T19:25:00+00:00",
+      "arxiv_id": "",
+      "group_ids": [
+        "mit-csail"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-08-15.json"
+    },
+    "blog-building-an-ai-native-finance-function-7acf7d2a": {
+      "work_id": "blog-building-an-ai-native-finance-function-7acf7d2a",
+      "kind": "blog",
+      "title": "What building an AI-native finance function taught me",
+      "date": "2026-08-15",
+      "published": "2026-08-10T17:00:00+00:00",
+      "arxiv_id": "",
+      "group_ids": [
+        "openai"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-08-15.json"
+    },
+    "blog-responsible-ai-infrastructure-texas-5a7cd75a": {
+      "work_id": "blog-responsible-ai-infrastructure-texas-5a7cd75a",
+      "kind": "blog",
+      "title": "OpenAI’s letter to Governor Abbott on responsible AI infrastructure in Texas",
+      "date": "2026-08-15",
+      "published": "2026-08-10T14:00:00+00:00",
+      "arxiv_id": "",
+      "group_ids": [
+        "openai"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-08-15.json"
+    },
+    "blog-model-ml-ae6104d9": {
+      "work_id": "blog-model-ml-ae6104d9",
+      "kind": "blog",
+      "title": "Model ML completes finance work more efficiently with GPT-5.6 Sol",
+      "date": "2026-08-15",
+      "published": "2026-08-10T12:00:00+00:00",
+      "arxiv_id": "",
+      "group_ids": [
+        "openai"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-08-15.json"
+    },
+    "blog-putting-frontier-cyber-models-in-more-tr-cab792f2": {
+      "work_id": "blog-putting-frontier-cyber-models-in-more-tr-cab792f2",
+      "kind": "blog",
+      "title": "Putting frontier cyber models in more trusted hands",
+      "date": "2026-08-15",
+      "published": "2026-08-10T10:00:00+00:00",
+      "arxiv_id": "",
+      "group_ids": [
+        "openai"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-08-15.json"
+    },
+    "blog-expanding-daybreak-as-the-cyber-defense--456ca278": {
+      "work_id": "blog-expanding-daybreak-as-the-cyber-defense--456ca278",
+      "kind": "blog",
+      "title": "Expanding Daybreak as the Cyber Defense Window Narrows",
+      "date": "2026-08-15",
+      "published": "2026-08-10T10:00:00+00:00",
+      "arxiv_id": "",
+      "group_ids": [
+        "openai"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-08-15.json"
+    },
+    "2608.09138": {
+      "work_id": "2608.09138",
+      "kind": "paper",
+      "title": "SpeedTuning: Speeding Up Policy Execution with Lightweight Reinforcement Learning",
+      "date": "2026-08-15",
+      "published": "2026-08-10T05:31:41+00:00",
+      "arxiv_id": "2608.09138",
+      "group_ids": [
+        "stanford-ai"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-08-15.json"
+    },
+    "blog-premium-seats-chatgpt-business-fb07c13a": {
+      "work_id": "blog-premium-seats-chatgpt-business-fb07c13a",
+      "kind": "blog",
+      "title": "Premium seats are coming to ChatGPT Business",
+      "date": "2026-08-15",
+      "published": "2026-08-10T00:00:00+00:00",
+      "arxiv_id": "",
+      "group_ids": [
+        "openai"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-08-15.json"
+    },
+    "blog-chatgpt-work-e859c5d7": {
+      "work_id": "blog-chatgpt-work-e859c5d7",
+      "kind": "blog",
+      "title": "Virgin Atlantic sharpens customer journeys with ChatGPT Work",
+      "date": "2026-08-15",
+      "published": "2026-08-10T00:00:00+00:00",
+      "arxiv_id": "",
+      "group_ids": [
+        "openai"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-08-15.json"
+    },
+    "blog-zapier-8d5f04cd": {
+      "work_id": "blog-zapier-8d5f04cd",
+      "kind": "blog",
+      "title": "How Zapier transformed core marketing processes with ChatGPT Work",
+      "date": "2026-08-15",
+      "published": "2026-08-10T00:00:00+00:00",
+      "arxiv_id": "",
+      "group_ids": [
+        "openai"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-08-15.json"
+    }
+  },
+  "last_updated": "2026-08-15T15:02:09.294525+00:00"
+}

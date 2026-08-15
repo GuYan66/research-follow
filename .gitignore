@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+
+# Node / Next
+web/node_modules/
+web/.next/
+web/out/
+web/*.tsbuildinfo
+next-env.d.ts
+
+# data/ 需提交到仓库供站点构建读取，不要忽略
+!data/
+
+# 本地缓存
+*.log
+.DS_Store

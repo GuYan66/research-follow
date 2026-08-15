@@ -1,0 +1,612 @@
+[
+  {
+    "id": "openai",
+    "name": "OpenAI",
+    "name_cn": "OpenAI",
+    "region": "intl",
+    "kind": "industry",
+    "affiliation": "OpenAI",
+    "homepage": "https://openai.com",
+    "description": "GPT / o 系列模型与 Sora 的研发方，重要成果多以官方 News 与技术报告形式发布。",
+    "tags": [
+      "llm",
+      "agents",
+      "multimodal"
+    ],
+    "feeds": [
+      {
+        "url": "https://openai.com/news/rss.xml",
+        "label": "OpenAI News",
+        "type": "rss"
+      }
+    ],
+    "members": []
+  },
+  {
+    "id": "google-deepmind",
+    "name": "DeepMind",
+    "name_cn": "DeepMind",
+    "region": "intl",
+    "kind": "industry",
+    "affiliation": "Google DeepMind",
+    "homepage": "https://deepmind.google",
+    "description": "Gemini、AlphaFold、Gemini Robotics 等工作的研发方，覆盖基础模型与科学计算。",
+    "tags": [
+      "llm",
+      "rl",
+      "science",
+      "robotics"
+    ],
+    "feeds": [
+      {
+        "url": "https://blog.google/technology/google-deepmind/rss/",
+        "label": "Google DeepMind Blog",
+        "type": "rss"
+      }
+    ],
+    "members": [
+      {
+        "id": "oriol-vinyals",
+        "name": "Oriol Vinyals",
+        "group_id": "google-deepmind",
+        "role": "VP of Research"
+      }
+    ]
+  },
+  {
+    "id": "google-research",
+    "name": "Google Research",
+    "name_cn": "Google Research",
+    "region": "intl",
+    "kind": "industry",
+    "affiliation": "Google",
+    "homepage": "https://research.google",
+    "description": "Google 内部除 DeepMind 之外的研究体系，覆盖系统、算法与应用型 AI。",
+    "tags": [
+      "systems",
+      "ml",
+      "applied"
+    ],
+    "feeds": [
+      {
+        "url": "https://blog.google/technology/research/rss/",
+        "label": "Google Research Blog",
+        "type": "rss"
+      }
+    ],
+    "members": []
+  },
+  {
+    "id": "anthropic",
+    "name": "Anthropic",
+    "name_cn": "Anthropic",
+    "region": "intl",
+    "kind": "industry",
+    "affiliation": "Anthropic",
+    "homepage": "https://www.anthropic.com",
+    "description": "Claude 系列的研发方，在可解释性与对齐/安全方向产出密集。官网无稳定 RSS，故只跟论文。",
+    "tags": [
+      "llm",
+      "alignment",
+      "interpretability"
+    ],
+    "feeds": [],
+    "members": [
+      {
+        "id": "jared-kaplan",
+        "name": "Jared Kaplan",
+        "group_id": "anthropic",
+        "role": "Co-founder / Chief Science Officer"
+      },
+      {
+        "id": "ethan-perez",
+        "name": "Ethan Perez",
+        "group_id": "anthropic",
+        "role": "Alignment Science"
+      }
+    ]
+  },
+  {
+    "id": "meta-fair",
+    "name": "Meta FAIR",
+    "name_cn": "Meta FAIR",
+    "region": "intl",
+    "kind": "industry",
+    "affiliation": "Meta",
+    "homepage": "https://ai.meta.com/research/",
+    "description": "Llama 与自监督表示学习（DINO / JEPA 系）的发源地。官方 feed 在部分网络环境不可达，故只跟论文。",
+    "tags": [
+      "llm",
+      "self-supervised",
+      "vision"
+    ],
+    "feeds": [],
+    "members": [
+      {
+        "id": "yann-lecun",
+        "name": "Yann LeCun",
+        "group_id": "meta-fair",
+        "role": "FAIR 创始负责人"
+      }
+    ]
+  },
+  {
+    "id": "microsoft-research",
+    "name": "Microsoft Research",
+    "name_cn": "Microsoft Research",
+    "region": "intl",
+    "kind": "industry",
+    "affiliation": "Microsoft",
+    "homepage": "https://www.microsoft.com/en-us/research/",
+    "description": "覆盖基础模型、AI for Science 与系统方向的综合研究院，官方 feed 更新稳定。",
+    "tags": [
+      "llm",
+      "systems",
+      "science"
+    ],
+    "feeds": [
+      {
+        "url": "https://www.microsoft.com/en-us/research/feed/",
+        "label": "Microsoft Research Blog",
+        "type": "rss"
+      }
+    ],
+    "members": []
+  },
+  {
+    "id": "berkeley-bair",
+    "name": "BAIR",
+    "name_cn": "BAIR",
+    "region": "intl",
+    "kind": "academia",
+    "affiliation": "UC Berkeley",
+    "homepage": "https://bair.berkeley.edu",
+    "description": "强化学习与机器人学习重镇，BAIR Blog 会把组内成果写成长文。",
+    "tags": [
+      "rl",
+      "robotics",
+      "embodied"
+    ],
+    "feeds": [
+      {
+        "url": "https://bair.berkeley.edu/blog/feed.xml",
+        "label": "BAIR Blog",
+        "type": "rss"
+      }
+    ],
+    "members": [
+      {
+        "id": "pieter-abbeel",
+        "name": "Pieter Abbeel",
+        "group_id": "berkeley-bair",
+        "role": "PI"
+      },
+      {
+        "id": "sergey-levine",
+        "name": "Sergey Levine",
+        "group_id": "berkeley-bair",
+        "role": "PI"
+      }
+    ]
+  },
+  {
+    "id": "stanford-ai",
+    "name": "Stanford AI",
+    "name_cn": "Stanford AI",
+    "region": "intl",
+    "kind": "academia",
+    "affiliation": "Stanford University",
+    "homepage": "https://ai.stanford.edu",
+    "description": "机器人学习与基础模型评测（CRFM / HELM）两条主线。SAIL Blog 已停更，故只跟论文。",
+    "tags": [
+      "robotics",
+      "vla",
+      "foundation-models"
+    ],
+    "feeds": [],
+    "members": [
+      {
+        "id": "chelsea-finn",
+        "name": "Chelsea Finn",
+        "group_id": "stanford-ai",
+        "role": "PI"
+      },
+      {
+        "id": "percy-liang",
+        "name": "Percy Liang",
+        "group_id": "stanford-ai",
+        "role": "PI"
+      }
+    ]
+  },
+  {
+    "id": "mit-csail",
+    "name": "MIT CSAIL",
+    "name_cn": "MIT CSAIL",
+    "region": "intl",
+    "kind": "academia",
+    "affiliation": "MIT",
+    "homepage": "https://www.csail.mit.edu",
+    "description": "计算机视觉、机器人与具身智能方向的老牌实验室；用 MIT News 的 AI 频道作为动态源。",
+    "tags": [
+      "vision",
+      "robotics",
+      "embodied"
+    ],
+    "feeds": [
+      {
+        "url": "https://news.mit.edu/rss/topic/artificial-intelligence2",
+        "label": "MIT News · AI",
+        "type": "rss"
+      }
+    ],
+    "members": [
+      {
+        "id": "antonio-torralba",
+        "name": "Antonio Torralba",
+        "group_id": "mit-csail",
+        "role": "PI"
+      },
+      {
+        "id": "pulkit-agrawal",
+        "name": "Pulkit Agrawal",
+        "group_id": "mit-csail",
+        "role": "PI"
+      }
+    ]
+  },
+  {
+    "id": "cmu-ml",
+    "name": "CMU",
+    "name_cn": "CMU",
+    "region": "intl",
+    "kind": "academia",
+    "affiliation": "Carnegie Mellon University",
+    "homepage": "https://www.ml.cmu.edu",
+    "description": "机器学习理论与机器人学习并重，ML@CMU 博客由组内学生撰写。",
+    "tags": [
+      "ml",
+      "robotics",
+      "rl"
+    ],
+    "feeds": [
+      {
+        "url": "https://blog.ml.cmu.edu/feed/",
+        "label": "ML@CMU Blog",
+        "type": "rss"
+      }
+    ],
+    "members": [
+      {
+        "id": "ruslan-salakhutdinov",
+        "name": "Ruslan Salakhutdinov",
+        "group_id": "cmu-ml",
+        "role": "PI"
+      },
+      {
+        "id": "deepak-pathak",
+        "name": "Deepak Pathak",
+        "group_id": "cmu-ml",
+        "role": "PI"
+      }
+    ]
+  },
+  {
+    "id": "deepseek",
+    "name": "DeepSeek",
+    "name_cn": "DeepSeek",
+    "region": "cn",
+    "kind": "industry",
+    "affiliation": "深度求索",
+    "homepage": "https://www.deepseek.com",
+    "description": "V 系列与 R 系列模型，技术报告以 DeepSeek-AI 署名投 arXiv。",
+    "tags": [
+      "llm",
+      "reasoning",
+      "moe"
+    ],
+    "feeds": [],
+    "members": [
+      {
+        "id": "deepseek-ai",
+        "name": "DeepSeek-AI",
+        "group_id": "deepseek",
+        "role": "机构作者"
+      }
+    ]
+  },
+  {
+    "id": "zhipu-ai",
+    "name": "智谱",
+    "name_cn": "智谱",
+    "region": "cn",
+    "kind": "industry",
+    "affiliation": "智谱 · 清华 KEG",
+    "homepage": "https://z.ai",
+    "description": "GLM 系列模型，与清华 KEG 实验室深度绑定，团队论文与个人论文都值得跟。",
+    "tags": [
+      "llm",
+      "multimodal",
+      "agents"
+    ],
+    "feeds": [],
+    "members": [
+      {
+        "id": "jie-tang",
+        "name": "Jie Tang",
+        "group_id": "zhipu-ai",
+        "role": "清华 KEG / 智谱"
+      },
+      {
+        "id": "yuxiao-dong",
+        "name": "Yuxiao Dong",
+        "group_id": "zhipu-ai",
+        "role": "清华 KEG"
+      },
+      {
+        "id": "glm-v-team",
+        "name": "GLM-V Team",
+        "group_id": "zhipu-ai",
+        "role": "机构作者"
+      }
+    ]
+  },
+  {
+    "id": "moonshot-ai",
+    "name": "月之暗面",
+    "name_cn": "月之暗面",
+    "region": "cn",
+    "kind": "industry",
+    "affiliation": "月之暗面",
+    "homepage": "https://www.moonshot.cn",
+    "description": "Kimi 系列模型，技术报告以 Kimi Team 署名投 arXiv。",
+    "tags": [
+      "llm",
+      "long-context",
+      "agents"
+    ],
+    "feeds": [],
+    "members": [
+      {
+        "id": "kimi-team",
+        "name": "Kimi Team",
+        "group_id": "moonshot-ai",
+        "role": "机构作者"
+      }
+    ]
+  },
+  {
+    "id": "bytedance-seed",
+    "name": "字节 Seed",
+    "name_cn": "字节 Seed",
+    "region": "cn",
+    "kind": "industry",
+    "affiliation": "字节跳动 Seed",
+    "homepage": "https://seed.bytedance.com",
+    "description": "豆包/Seed 系列模型与 Model Card，技术报告以 ByteDance Seed 署名投 arXiv。",
+    "tags": [
+      "llm",
+      "multimodal",
+      "agents"
+    ],
+    "feeds": [],
+    "members": [
+      {
+        "id": "bytedance-seed-org",
+        "name": "ByteDance Seed",
+        "group_id": "bytedance-seed",
+        "role": "机构作者"
+      }
+    ]
+  },
+  {
+    "id": "alibaba-qwen",
+    "name": "Qwen",
+    "name_cn": "Qwen",
+    "region": "cn",
+    "kind": "industry",
+    "affiliation": "阿里巴巴通义实验室",
+    "homepage": "https://qwen.ai",
+    "description": "Qwen 开源模型家族，既有官方博客也有以 Qwen Team 署名的技术报告。",
+    "tags": [
+      "llm",
+      "open-weights",
+      "multimodal"
+    ],
+    "feeds": [
+      {
+        "url": "https://qwenlm.github.io/blog/index.xml",
+        "label": "Qwen Blog",
+        "type": "rss"
+      }
+    ],
+    "members": [
+      {
+        "id": "qwen-team",
+        "name": "Qwen Team",
+        "group_id": "alibaba-qwen",
+        "role": "机构作者"
+      }
+    ]
+  },
+  {
+    "id": "minimax",
+    "name": "MiniMax",
+    "name_cn": "MiniMax",
+    "region": "cn",
+    "kind": "industry",
+    "affiliation": "MiniMax 稀宇科技",
+    "homepage": "https://www.minimax.io",
+    "description": "MiniMax 系列模型，主打线性/混合注意力与长上下文效率。",
+    "tags": [
+      "llm",
+      "efficient-attention",
+      "multimodal"
+    ],
+    "feeds": [],
+    "members": [
+      {
+        "id": "minimax-org",
+        "name": "MiniMax",
+        "group_id": "minimax",
+        "role": "机构作者"
+      }
+    ]
+  },
+  {
+    "id": "stepfun",
+    "name": "阶跃星辰",
+    "name_cn": "阶跃星辰",
+    "region": "cn",
+    "kind": "industry",
+    "affiliation": "阶跃星辰",
+    "homepage": "https://www.stepfun.com",
+    "description": "Step 系列模型，偏模型-系统协同设计与多模态。",
+    "tags": [
+      "llm",
+      "multimodal",
+      "systems"
+    ],
+    "feeds": [],
+    "members": [
+      {
+        "id": "stepfun-org",
+        "name": "StepFun",
+        "group_id": "stepfun",
+        "role": "机构作者"
+      }
+    ]
+  },
+  {
+    "id": "tsinghua-ai",
+    "name": "清华 AIR",
+    "name_cn": "清华 AIR",
+    "region": "cn",
+    "kind": "academia",
+    "affiliation": "清华大学",
+    "homepage": "https://www.tsinghua.edu.cn",
+    "description": "多模态大模型（InternVL 线）与自动驾驶/具身智能方向产出密集。",
+    "tags": [
+      "multimodal",
+      "autonomous-driving",
+      "embodied"
+    ],
+    "feeds": [],
+    "members": [
+      {
+        "id": "jifeng-dai",
+        "name": "Jifeng Dai",
+        "group_id": "tsinghua-ai",
+        "role": "清华电子 / 上海 AI Lab"
+      },
+      {
+        "id": "hang-zhao",
+        "name": "Hang Zhao",
+        "group_id": "tsinghua-ai",
+        "role": "清华 AIR / IIIS"
+      }
+    ]
+  },
+  {
+    "id": "pku-ai",
+    "name": "北大",
+    "name_cn": "北大",
+    "region": "cn",
+    "kind": "academia",
+    "affiliation": "北京大学",
+    "homepage": "https://www.pku.edu.cn",
+    "description": "具身智能与三维视觉方向，GAPartNet / 通用抓取等工作出自这里。",
+    "tags": [
+      "embodied",
+      "3d-vision",
+      "manipulation"
+    ],
+    "feeds": [],
+    "members": [
+      {
+        "id": "he-wang",
+        "name": "He Wang",
+        "group_id": "pku-ai",
+        "role": "PI（具身智能）"
+      }
+    ]
+  },
+  {
+    "id": "shanghai-ai-lab",
+    "name": "上海 AI Lab",
+    "name_cn": "上海 AI Lab",
+    "region": "cn",
+    "kind": "academia",
+    "affiliation": "上海人工智能实验室",
+    "homepage": "https://www.shlab.org.cn",
+    "description": "InternVL / InternLM 等开源基础模型体系的主要产出方。",
+    "tags": [
+      "multimodal",
+      "open-weights",
+      "foundation-models"
+    ],
+    "feeds": [],
+    "members": [
+      {
+        "id": "wenhai-wang",
+        "name": "Wenhai Wang",
+        "group_id": "shanghai-ai-lab",
+        "role": "多模态基础模型"
+      }
+    ]
+  },
+  {
+    "id": "sjtu-ai",
+    "name": "上交",
+    "name_cn": "上交",
+    "region": "cn",
+    "kind": "academia",
+    "affiliation": "上海交通大学",
+    "homepage": "https://www.sjtu.edu.cn",
+    "description": "机器人抓取与具身操作方向（GraspNet / AnyGrasp 线）。",
+    "tags": [
+      "robotics",
+      "manipulation",
+      "embodied"
+    ],
+    "feeds": [],
+    "members": [
+      {
+        "id": "cewu-lu",
+        "name": "Cewu Lu",
+        "group_id": "sjtu-ai",
+        "role": "PI"
+      }
+    ]
+  },
+  {
+    "id": "msra",
+    "name": "MSRA",
+    "name_cn": "MSRA",
+    "region": "cn",
+    "kind": "academia",
+    "affiliation": "Microsoft Research Asia",
+    "homepage": "https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/",
+    "description": "亚太地区最早的工业研究院之一，基础模型与低比特/长序列方向产出稳定。",
+    "tags": [
+      "llm",
+      "efficiency",
+      "systems"
+    ],
+    "feeds": [
+      {
+        "url": "https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/feed/",
+        "label": "MSRA Blog",
+        "type": "rss"
+      }
+    ],
+    "members": [
+      {
+        "id": "furu-wei",
+        "name": "Furu Wei",
+        "group_id": "msra",
+        "role": "Distinguished Scientist"
+      }
+    ]
+  }
+]
