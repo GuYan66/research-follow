@@ -32,6 +32,7 @@ jobs:
         uses: actions/checkout@v4
         with:
           persist-credentials: true # 需回推 data/
+          token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Setup Python
         uses: actions/setup-python@v5
@@ -55,16 +56,26 @@ jobs:
         run: python fetcher/run_daily.py --days 7
 
       - name: Commit data
+        # 回写失败不应挡住后面的建站：工作区里已经有刚抓到的 data/
+        continue-on-error: true
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
+          set +e
           git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git remote set-url origin "https://x-access-token:${GITHUB_TOKEN}@github.com/${GITHUB_REPOSITORY}.git"
           git add data/
-          if git diff --cached --quiet; then
+          git status --short
+          git diff --cached --quiet
+          changed=$?
+          if [ "$changed" -eq 0 ]; then
             echo "无数据变更，跳过提交。"
-          else
-            git commit -m "data: daily fetch $(date -u +%Y-%m-%d)"
-            git push
+            exit 0
           fi
+          git commit -m "data: daily fetch $(date -u +%Y-%m-%d)"
+          git push origin HEAD:${{ github.ref_name }}
+          exit $?
 
       - name: Setup Node
         uses: actions/setup-node@v4
