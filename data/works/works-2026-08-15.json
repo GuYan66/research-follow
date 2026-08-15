@@ -51,7 +51,7 @@
       "pdf_url": "",
       "feed_url": "https://blog.google/technology/google-deepmind/rss/",
       "blog_label": "Google DeepMind Blog",
-      "summary_cn": "DeepMind 团队成员谈 Gemini Omni 最让他们兴奋的能力。",
+      "summary_cn": "",
       "fetch_date": "2026-08-15",
       "sources": [
         "blog"
@@ -82,7 +82,7 @@
       "pdf_url": "",
       "feed_url": "https://openai.com/news/rss.xml",
       "blog_label": "OpenAI News",
-      "summary_cn": "OpenAI 介绍初创公司如何用 GPT-5.6 和 Responses API，更省、更快地搭智能体。",
+      "summary_cn": "",
       "fetch_date": "2026-08-15",
       "sources": [
         "blog"
@@ -113,7 +113,7 @@
       "pdf_url": "",
       "feed_url": "https://openai.com/news/rss.xml",
       "blog_label": "OpenAI News",
-      "summary_cn": "OpenAI 预览 Ultrafast 档位：GPT-5.6 Sol 最高约 14 倍速、每秒约 750 token，由 Cerebras 提供算力。",
+      "summary_cn": "",
       "fetch_date": "2026-08-15",
       "sources": [
         "blog"
@@ -144,7 +144,7 @@
       "pdf_url": "",
       "feed_url": "https://openai.com/news/rss.xml",
       "blog_label": "OpenAI News",
-      "summary_cn": "OpenAI 任命 Dali Rajic 为首席营收官，负责全球收入与企业落地。",
+      "summary_cn": "",
       "fetch_date": "2026-08-15",
       "sources": [
         "blog"
@@ -194,7 +194,7 @@
       "pdf_url": "https://arxiv.org/pdf/2608.12253v1",
       "feed_url": "",
       "blog_label": "",
-      "summary_cn": "指出多智能体强化学习里用单个大模型模拟用户会「模拟器坍缩」、策略过拟合；提出推理时扩采样、训练时多模拟器共训两种补救。",
+      "summary_cn": "",
       "fetch_date": "2026-08-15",
       "sources": [
         "arxiv"
@@ -225,7 +225,7 @@
       "pdf_url": "",
       "feed_url": "https://www.microsoft.com/en-us/research/feed/",
       "blog_label": "Microsoft Research Blog",
-      "summary_cn": "微软提出 MindTopo 评测，检验视觉语言模型对路径、围栏、绳结等拓扑关系的空间推理。",
+      "summary_cn": "",
       "fetch_date": "2026-08-15",
       "sources": [
         "blog"
@@ -291,7 +291,7 @@
       "pdf_url": "https://arxiv.org/pdf/2608.11739v1",
       "feed_url": "",
       "blog_label": "",
-      "summary_cn": "提出机器人模型 G0.5：把推理和动作放进同一条自回归流，不再把视觉语言模型只当编码器。",
+      "summary_cn": "",
       "fetch_date": "2026-08-15",
       "sources": [
         "arxiv"
@@ -322,7 +322,7 @@
       "pdf_url": "",
       "feed_url": "https://openai.com/news/rss.xml",
       "blog_label": "OpenAI News",
-      "summary_cn": "OpenAI 调研企业如何从「辅助」走向「执行」，以及 ChatGPT、Codex 和智能体的落地情况。",
+      "summary_cn": "",
       "fetch_date": "2026-08-15",
       "sources": [
         "blog"
@@ -353,7 +353,7 @@
       "pdf_url": "",
       "feed_url": "https://openai.com/news/rss.xml",
       "blog_label": "OpenAI News",
-      "summary_cn": "RingCentral 用 ChatGPT Work 和 Codex，把研发到运维串成一套 AI 原生工作流。",
+      "summary_cn": "",
       "fetch_date": "2026-08-15",
       "sources": [
         "blog"
@@ -385,7 +385,7 @@
       "pdf_url": "",
       "feed_url": "https://blog.google/technology/google-deepmind/rss/",
       "blog_label": "Google DeepMind Blog",
-      "summary_cn": "DeepMind 医学研究系统 AMIE 首次展示实时临床视频问诊能力。",
+      "summary_cn": "",
       "fetch_date": "2026-08-15",
       "sources": [
         "blog"
@@ -416,7 +416,7 @@
       "pdf_url": "",
       "feed_url": "https://www.microsoft.com/en-us/research/feed/",
       "blog_label": "Microsoft Research Blog",
-      "summary_cn": "微软提出面向胸片的放射学视觉语言模型 CARE-X，把推理、校准预测和测量工具放在一起。",
+      "summary_cn": "",
       "fetch_date": "2026-08-15",
       "sources": [
         "blog"
@@ -447,7 +447,7 @@
       "pdf_url": "",
       "feed_url": "https://openai.com/news/rss.xml",
       "blog_label": "OpenAI News",
-      "summary_cn": "OpenAI 开始在 ChatGPT 里测试广告，强调标注、答案不受广告影响、隐私和用户可控。",
+      "summary_cn": "",
       "fetch_date": "2026-08-15",
       "sources": [
         "blog"
@@ -478,7 +478,7 @@
       "pdf_url": "",
       "feed_url": "https://openai.com/news/rss.xml",
       "blog_label": "OpenAI News",
-      "summary_cn": "OpenAI 网络安全能力 Daybreak 上线 Amazon Bedrock，供企业安全流程使用。",
+      "summary_cn": "",
       "fetch_date": "2026-08-15",
       "sources": [
         "blog"
@@ -509,7 +509,7 @@
       "pdf_url": "",
       "feed_url": "https://blog.ml.cmu.edu/feed/",
       "blog_label": "ML@CMU Blog",
-      "summary_cn": "卡内基梅隆博客解读 Forking-Sequences：一次前向就能对多个预测起点做集成，降低波动。",
+      "summary_cn": "",
       "fetch_date": "2026-08-15",
       "sources": [
         "blog"
@@ -540,7 +540,7 @@
       "pdf_url": "",
       "feed_url": "https://news.mit.edu/rss/topic/artificial-intelligence2",
       "blog_label": "MIT News · AI",
-      "summary_cn": "麻省理工介绍 GeoPT，让模型更好理解物理，从而更准、更省地模拟风、水等对物体的作用。",
+      "summary_cn": "",
       "fetch_date": "2026-08-15",
       "sources": [
         "blog"
@@ -571,7 +571,7 @@
       "pdf_url": "",
       "feed_url": "https://openai.com/news/rss.xml",
       "blog_label": "OpenAI News",
-      "summary_cn": "OpenAI 首席财务官分享建设 AI 原生财务职能的五条经验，从自动预测到算清回报。",
+      "summary_cn": "",
       "fetch_date": "2026-08-15",
       "sources": [
         "blog"
@@ -602,7 +602,7 @@
       "pdf_url": "",
       "feed_url": "https://openai.com/news/rss.xml",
       "blog_label": "OpenAI News",
-      "summary_cn": "OpenAI 致信得州州长，承诺负责任地建设当地 AI 基础设施。",
+      "summary_cn": "",
       "fetch_date": "2026-08-15",
       "sources": [
         "blog"
@@ -633,7 +633,7 @@
       "pdf_url": "",
       "feed_url": "https://openai.com/news/rss.xml",
       "blog_label": "OpenAI News",
-      "summary_cn": "金融科技公司 Model ML 用 GPT-5.6 Sol，把研究分析一直做到可追溯的幻灯片和表格。",
+      "summary_cn": "",
       "fetch_date": "2026-08-15",
       "sources": [
         "blog"
@@ -664,7 +664,7 @@
       "pdf_url": "",
       "feed_url": "https://openai.com/news/rss.xml",
       "blog_label": "OpenAI News",
-      "summary_cn": "获批的 Daybreak 合作伙伴，可向客户提供受控的前沿网络安全模型服务。",
+      "summary_cn": "",
       "fetch_date": "2026-08-15",
       "sources": [
         "blog"
@@ -695,7 +695,7 @@
       "pdf_url": "",
       "feed_url": "https://openai.com/news/rss.xml",
       "blog_label": "OpenAI News",
-      "summary_cn": "OpenAI 推出面向授权漏洞研究的网络安全专用模型 GPT-5.6-Cyber。",
+      "summary_cn": "",
       "fetch_date": "2026-08-15",
       "sources": [
         "blog"
@@ -738,7 +738,7 @@
       "pdf_url": "https://arxiv.org/pdf/2608.09138v2",
       "feed_url": "",
       "blog_label": "",
-      "summary_cn": "斯坦福等用轻量强化学习给模仿学习策略加速执行，最高约 2.4 倍，并尽量保住成功率。",
+      "summary_cn": "",
       "fetch_date": "2026-08-15",
       "sources": [
         "arxiv"
@@ -769,7 +769,7 @@
       "pdf_url": "",
       "feed_url": "https://openai.com/news/rss.xml",
       "blog_label": "OpenAI News",
-      "summary_cn": "ChatGPT 企业版即将推出高级席位；8 月 20 日前注册可获工作区积分。",
+      "summary_cn": "",
       "fetch_date": "2026-08-15",
       "sources": [
         "blog"
@@ -800,7 +800,7 @@
       "pdf_url": "",
       "feed_url": "https://openai.com/news/rss.xml",
       "blog_label": "OpenAI News",
-      "summary_cn": "维珍航空用 ChatGPT Work 加速调研、产品规划和客户旅程决策。",
+      "summary_cn": "",
       "fetch_date": "2026-08-15",
       "sources": [
         "blog"
@@ -831,7 +831,7 @@
       "pdf_url": "",
       "feed_url": "https://openai.com/news/rss.xml",
       "blog_label": "OpenAI News",
-      "summary_cn": "Zapier 市场团队用 ChatGPT Work 降低线索流失、做投放物料并自动出报表。",
+      "summary_cn": "",
       "fetch_date": "2026-08-15",
       "sources": [
         "blog"
