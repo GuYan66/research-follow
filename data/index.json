@@ -1484,7 +1484,63 @@
       "venue": "",
       "citation_count": 0,
       "path": "works/works-2026-08-15.json"
+    },
+    "blog-qa-eugene-fitzgerald-rethinking-how-inno-d9da239d": {
+      "work_id": "blog-qa-eugene-fitzgerald-rethinking-how-inno-d9da239d",
+      "kind": "blog",
+      "title": "Q&A: Rethinking how innovation happens",
+      "date": "2026-08-18",
+      "published": "2026-08-17T19:50:00+00:00",
+      "arxiv_id": "",
+      "group_ids": [
+        "mit-csail"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-08-18.json"
+    },
+    "blog-the-defenders-window-6164e44a": {
+      "work_id": "blog-the-defenders-window-6164e44a",
+      "kind": "blog",
+      "title": "The Defender’s Window",
+      "date": "2026-08-18",
+      "published": "2026-08-17T05:30:00+00:00",
+      "arxiv_id": "",
+      "group_ids": [
+        "openai"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-08-18.json"
+    },
+    "blog-openai-joins-ports-pike-project-7ab26785": {
+      "work_id": "blog-openai-joins-ports-pike-project-7ab26785",
+      "kind": "blog",
+      "title": "OpenAI joins PORTS-Pike project",
+      "date": "2026-08-18",
+      "published": "2026-08-17T05:00:00+00:00",
+      "arxiv_id": "",
+      "group_ids": [
+        "openai"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-08-18.json"
+    },
+    "blog-new-policy-ideas-for-the-intelligence-ag-bec439fa": {
+      "work_id": "blog-new-policy-ideas-for-the-intelligence-ag-bec439fa",
+      "kind": "blog",
+      "title": "New policy ideas for the Intelligence Age",
+      "date": "2026-08-18",
+      "published": "2026-08-17T03:15:00+00:00",
+      "arxiv_id": "",
+      "group_ids": [
+        "openai"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-08-18.json"
     }
   },
-  "last_updated": "2026-08-17T02:10:20.807302+00:00"
+  "last_updated": "2026-08-18T02:08:18.982643+00:00"
 }
