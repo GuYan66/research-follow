@@ -1540,7 +1540,147 @@
       "venue": "",
       "citation_count": 0,
       "path": "works/works-2026-08-18.json"
+    },
+    "blog-strengthening-democratic-oversight-in-na-9d791b70": {
+      "work_id": "blog-strengthening-democratic-oversight-in-na-9d791b70",
+      "kind": "blog",
+      "title": "Strengthening democratic oversight in national security",
+      "date": "2026-08-19",
+      "published": "2026-08-18T19:00:00+00:00",
+      "arxiv_id": "",
+      "group_ids": [
+        "openai"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-08-19.json"
+    },
+    "blog-when-ai-art-has-no-author-generated-imag-8f5b79f3": {
+      "work_id": "blog-when-ai-art-has-no-author-generated-imag-8f5b79f3",
+      "kind": "blog",
+      "title": "When AI art has no author: Study finds generated images often can’t be traced to training data",
+      "date": "2026-08-19",
+      "published": "2026-08-18T16:35:00+00:00",
+      "arxiv_id": "",
+      "group_ids": [
+        "mit-csail"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-08-19.json"
+    },
+    "blog-flood-prediction-ai-47c083e8": {
+      "work_id": "blog-flood-prediction-ai-47c083e8",
+      "kind": "blog",
+      "title": "Ask a Scientist: How can researchers use AI to predict a flood?",
+      "date": "2026-08-19",
+      "published": "2026-08-18T16:00:00+00:00",
+      "arxiv_id": "",
+      "group_ids": [
+        "google-research"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-08-19.json"
+    },
+    "blog-partnering-with-codeai-71e4a5a6": {
+      "work_id": "blog-partnering-with-codeai-71e4a5a6",
+      "kind": "blog",
+      "title": "Partnering with CodeAI to prepare the first AI generation",
+      "date": "2026-08-19",
+      "published": "2026-08-18T11:00:00+00:00",
+      "arxiv_id": "",
+      "group_ids": [
+        "openai"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-08-19.json"
+    },
+    "blog-pacing-model-development-cyber-capabilit-41e9df05": {
+      "work_id": "blog-pacing-model-development-cyber-capabilit-41e9df05",
+      "kind": "blog",
+      "title": "Pacing model development in an era of cyber-critical capabilities",
+      "date": "2026-08-19",
+      "published": "2026-08-18T11:00:00+00:00",
+      "arxiv_id": "",
+      "group_ids": [
+        "openai"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-08-19.json"
+    },
+    "blog-chatgpt-for-teens-b44aeb4e": {
+      "work_id": "blog-chatgpt-for-teens-b44aeb4e",
+      "kind": "blog",
+      "title": "Introducing ChatGPT for Teens: Built for learning, backed by protections",
+      "date": "2026-08-19",
+      "published": "2026-08-18T11:00:00+00:00",
+      "arxiv_id": "",
+      "group_ids": [
+        "openai"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-08-19.json"
+    },
+    "blog-blue-skies-0c4c1c22": {
+      "work_id": "blog-blue-skies-0c4c1c22",
+      "kind": "blog",
+      "title": "Operation Blue Skies: Reducing aviation climate impact with AI",
+      "date": "2026-08-19",
+      "published": "2026-08-18T09:00:00+00:00",
+      "arxiv_id": "",
+      "group_ids": [
+        "google-research"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-08-19.json"
+    },
+    "blog-asana-f453445e": {
+      "work_id": "blog-asana-f453445e",
+      "kind": "blog",
+      "title": "Asana cleared 5 years of engineering work in 2 weeks with Codex",
+      "date": "2026-08-19",
+      "published": "2026-08-18T07:00:00+00:00",
+      "arxiv_id": "",
+      "group_ids": [
+        "openai"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-08-19.json"
+    },
+    "blog-chatgpt-work-a0a5343f": {
+      "work_id": "blog-chatgpt-work-a0a5343f",
+      "kind": "blog",
+      "title": "How NVIDIA scales expertise with ChatGPT Work",
+      "date": "2026-08-19",
+      "published": "2026-08-18T00:00:00+00:00",
+      "arxiv_id": "",
+      "group_ids": [
+        "openai"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-08-19.json"
+    },
+    "blog-qa-eugene-fitzgerald-rethinking-how-inno-c673ac1c": {
+      "work_id": "blog-qa-eugene-fitzgerald-rethinking-how-inno-c673ac1c",
+      "kind": "blog",
+      "title": "Q&A: Rethinking how innovation happens",
+      "date": "2026-08-19",
+      "published": "2026-08-17T19:50:00+00:00",
+      "arxiv_id": "",
+      "group_ids": [
+        "mit-csail"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-08-19.json"
     }
   },
-  "last_updated": "2026-08-18T02:08:18.982643+00:00"
+  "last_updated": "2026-08-19T02:13:57.770913+00:00"
 }
