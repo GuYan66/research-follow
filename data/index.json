@@ -1680,7 +1680,49 @@
       "venue": "",
       "citation_count": 0,
       "path": "works/works-2026-08-19.json"
+    },
+    "blog-offering-zero-data-retention-for-frontie-60a31d87": {
+      "work_id": "blog-offering-zero-data-retention-for-frontie-60a31d87",
+      "kind": "blog",
+      "title": "Offering Zero Data Retention for frontier models",
+      "date": "2026-08-20",
+      "published": "2026-08-19T19:00:00+00:00",
+      "arxiv_id": "",
+      "group_ids": [
+        "openai"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-08-20.json"
+    },
+    "blog-replit-cba695b9": {
+      "work_id": "blog-replit-cba695b9",
+      "kind": "blog",
+      "title": "Replit expands access to software creation with GPT-5.6 Luna",
+      "date": "2026-08-20",
+      "published": "2026-08-19T07:00:00+00:00",
+      "arxiv_id": "",
+      "group_ids": [
+        "openai"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-08-20.json"
+    },
+    "blog-chatgpt-ads-expands-across-europe-6477769a": {
+      "work_id": "blog-chatgpt-ads-expands-across-europe-6477769a",
+      "kind": "blog",
+      "title": "ChatGPT Ads expands across Europe",
+      "date": "2026-08-20",
+      "published": "2026-08-18T22:00:00+00:00",
+      "arxiv_id": "",
+      "group_ids": [
+        "openai"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-08-20.json"
     }
   },
-  "last_updated": "2026-08-19T02:13:57.770913+00:00"
+  "last_updated": "2026-08-20T02:12:55.119455+00:00"
 }
