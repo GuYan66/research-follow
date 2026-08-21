@@ -1722,7 +1722,63 @@
       "venue": "",
       "citation_count": 0,
       "path": "works/works-2026-08-20.json"
+    },
+    "blog-paving-way-for-greener-ammonia-productio-9c1f5a73": {
+      "work_id": "blog-paving-way-for-greener-ammonia-productio-9c1f5a73",
+      "kind": "blog",
+      "title": "Paving the way for greener ammonia production",
+      "date": "2026-08-21",
+      "published": "2026-08-20T18:45:00+00:00",
+      "arxiv_id": "",
+      "group_ids": [
+        "mit-csail"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-08-21.json"
+    },
+    "blog-broadening-access-to-skala-creates-a-fas-94dce34b": {
+      "work_id": "blog-broadening-access-to-skala-creates-a-fas-94dce34b",
+      "kind": "blog",
+      "title": "Broadening access to Skala creates a faster path to predictive DFT",
+      "date": "2026-08-21",
+      "published": "2026-08-20T16:00:00+00:00",
+      "arxiv_id": "",
+      "group_ids": [
+        "microsoft-research"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-08-21.json"
+    },
+    "blog-introducing-ai-futures-4935602a": {
+      "work_id": "blog-introducing-ai-futures-4935602a",
+      "kind": "blog",
+      "title": "Introducing AI Futures",
+      "date": "2026-08-21",
+      "published": "2026-08-20T07:00:00+00:00",
+      "arxiv_id": "",
+      "group_ids": [
+        "openai"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-08-21.json"
+    },
+    "blog-stampli-78201d0c": {
+      "work_id": "blog-stampli-78201d0c",
+      "kind": "blog",
+      "title": "Stampli cuts launch hours by 68% using ChatGPT Work",
+      "date": "2026-08-21",
+      "published": "2026-08-20T00:00:00+00:00",
+      "arxiv_id": "",
+      "group_ids": [
+        "openai"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-08-21.json"
     }
   },
-  "last_updated": "2026-08-20T02:12:55.119455+00:00"
+  "last_updated": "2026-08-21T02:15:18.166372+00:00"
 }
