@@ -1778,7 +1778,35 @@
       "venue": "",
       "citation_count": 0,
       "path": "works/works-2026-08-21.json"
+    },
+    "blog-what-full-stack-development-means-fbe57889": {
+      "work_id": "blog-what-full-stack-development-means-fbe57889",
+      "kind": "blog",
+      "title": "What does “full-stack” AI actually mean?",
+      "date": "2026-08-22",
+      "published": "2026-08-21T16:00:00+00:00",
+      "arxiv_id": "",
+      "group_ids": [
+        "google-deepmind"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-08-22.json"
+    },
+    "doi-10-1038-s41467-026-76076-4": {
+      "work_id": "doi-10-1038-s41467-026-76076-4",
+      "kind": "paper",
+      "title": "Advancing human-centric AI for robust X-ray analysis through holistic self-supervised learning",
+      "date": "2026-08-22",
+      "published": "2026-08-20",
+      "arxiv_id": "",
+      "group_ids": [
+        "meta-fair"
+      ],
+      "venue": "Nature Communications",
+      "citation_count": 4,
+      "path": "works/works-2026-08-22.json"
     }
   },
-  "last_updated": "2026-08-21T02:15:18.166372+00:00"
+  "last_updated": "2026-08-22T02:13:35.244557+00:00"
 }
