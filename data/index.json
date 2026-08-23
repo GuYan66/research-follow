@@ -1806,7 +1806,21 @@
       "venue": "Nature Communications",
       "citation_count": 4,
       "path": "works/works-2026-08-22.json"
+    },
+    "2608.17896": {
+      "work_id": "2608.17896",
+      "kind": "paper",
+      "title": "Dynamic Compression in Recurrent Networks",
+      "date": "2026-08-23",
+      "published": "2026-08-18T15:29:18+00:00",
+      "arxiv_id": "2608.17896",
+      "group_ids": [
+        "mit-csail"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-08-23.json"
     }
   },
-  "last_updated": "2026-08-22T02:13:35.244557+00:00"
+  "last_updated": "2026-08-23T02:13:33.685932+00:00"
 }
