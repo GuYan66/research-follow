@@ -1820,7 +1820,49 @@
       "venue": "",
       "citation_count": 0,
       "path": "works/works-2026-08-23.json"
+    },
+    "2608.21299": {
+      "work_id": "2608.21299",
+      "kind": "paper",
+      "title": "Explicit exposure of Haar measure",
+      "date": "2026-08-24",
+      "published": "2026-08-21T17:01:02+00:00",
+      "arxiv_id": "2608.21299",
+      "group_ids": [
+        "tsinghua-ai"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-08-24.json"
+    },
+    "2608.17163": {
+      "work_id": "2608.17163",
+      "kind": "paper",
+      "title": "Q-Learning With World Models",
+      "date": "2026-08-24",
+      "published": "2026-08-17T22:00:42+00:00",
+      "arxiv_id": "2608.17163",
+      "group_ids": [
+        "stanford-ai"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-08-24.json"
+    },
+    "2608.16319": {
+      "work_id": "2608.16319",
+      "kind": "paper",
+      "title": "Advancing Open and Reproducible Relational Learning: RelArena-$α$, TabPFN-Rel and RPI",
+      "date": "2026-08-24",
+      "published": "2026-08-17T09:25:05+00:00",
+      "arxiv_id": "2608.16319",
+      "group_ids": [
+        "meta-fair"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-08-24.json"
     }
   },
-  "last_updated": "2026-08-23T02:13:33.685932+00:00"
+  "last_updated": "2026-08-24T02:10:27.644696+00:00"
 }
