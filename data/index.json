@@ -1890,7 +1890,77 @@
       "venue": "",
       "citation_count": 0,
       "path": "works/works-2026-08-25.json"
+    },
+    "2608.24503": {
+      "work_id": "2608.24503",
+      "kind": "paper",
+      "title": "Generic Zero-Entropy Optimization for Finitely Generated Nonlacunary Actions on the Circle",
+      "date": "2026-08-26",
+      "published": "2026-08-25T12:49:35+00:00",
+      "arxiv_id": "2608.24503",
+      "group_ids": [
+        "tsinghua-ai"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-08-26.json"
+    },
+    "blog-the-full-stack-behind-abundant-intellige-d3b29a58": {
+      "work_id": "blog-the-full-stack-behind-abundant-intellige-d3b29a58",
+      "kind": "blog",
+      "title": "The full stack behind abundant intelligence",
+      "date": "2026-08-26",
+      "published": "2026-08-25T07:05:00+00:00",
+      "arxiv_id": "",
+      "group_ids": [
+        "openai"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-08-26.json"
+    },
+    "blog-jalapeno-first-results-8e88e0f4": {
+      "work_id": "blog-jalapeno-first-results-8e88e0f4",
+      "kind": "blog",
+      "title": "Jalapeño’s first results show industry-leading speed and efficiency in AI inference",
+      "date": "2026-08-26",
+      "published": "2026-08-25T07:00:00+00:00",
+      "arxiv_id": "",
+      "group_ids": [
+        "openai"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-08-26.json"
+    },
+    "blog-disrupting-malicious-uses-of-ai-influenc-cd665965": {
+      "work_id": "blog-disrupting-malicious-uses-of-ai-influenc-cd665965",
+      "kind": "blog",
+      "title": "Disrupting a new covert influence campaign from Russia",
+      "date": "2026-08-26",
+      "published": "2026-08-25T00:00:00+00:00",
+      "arxiv_id": "",
+      "group_ids": [
+        "openai"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-08-26.json"
+    },
+    "blog-introducing-admin-plugin-6a8e34c1": {
+      "work_id": "blog-introducing-admin-plugin-6a8e34c1",
+      "kind": "blog",
+      "title": "Introducing the Admin plugin for ChatGPT Work and Codex",
+      "date": "2026-08-26",
+      "published": "2026-08-25T00:00:00+00:00",
+      "arxiv_id": "",
+      "group_ids": [
+        "openai"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-08-26.json"
     }
   },
-  "last_updated": "2026-08-25T02:07:23.353461+00:00"
+  "last_updated": "2026-08-26T02:18:07.716944+00:00"
 }
