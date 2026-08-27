@@ -1960,7 +1960,119 @@
       "venue": "",
       "citation_count": 0,
       "path": "works/works-2026-08-26.json"
+    },
+    "2608.26070": {
+      "work_id": "2608.26070",
+      "kind": "paper",
+      "title": "Prefix Sliding for efficient test-time scaling",
+      "date": "2026-08-27",
+      "published": "2026-08-26T17:37:15+00:00",
+      "arxiv_id": "2608.26070",
+      "group_ids": [
+        "stanford-ai"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-08-27.json"
+    },
+    "blog-bringing-chatgpt-for-teachers-to-more-us-3e9dabb1": {
+      "work_id": "blog-bringing-chatgpt-for-teachers-to-more-us-3e9dabb1",
+      "kind": "blog",
+      "title": "Bringing ChatGPT for Teachers to more U.S. school districts",
+      "date": "2026-08-27",
+      "published": "2026-08-26T10:00:00+00:00",
+      "arxiv_id": "",
+      "group_ids": [
+        "openai"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-08-27.json"
+    },
+    "blog-learning-never-stops-d5139554": {
+      "work_id": "blog-learning-never-stops-d5139554",
+      "kind": "blog",
+      "title": "Learning never stops: How AI makes learning continuous",
+      "date": "2026-08-27",
+      "published": "2026-08-26T10:00:00+00:00",
+      "arxiv_id": "",
+      "group_ids": [
+        "openai"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-08-27.json"
+    },
+    "blog-ai-helps-design-new-materials-that-work--901252ae": {
+      "work_id": "blog-ai-helps-design-new-materials-that-work--901252ae",
+      "kind": "blog",
+      "title": "AI helps design new materials that work in the real world",
+      "date": "2026-08-27",
+      "published": "2026-08-26T09:00:00+00:00",
+      "arxiv_id": "",
+      "group_ids": [
+        "mit-csail"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-08-27.json"
+    },
+    "blog-hugging-face-incident-and-the-road-ahead-f59b4bee": {
+      "work_id": "blog-hugging-face-incident-and-the-road-ahead-f59b4bee",
+      "kind": "blog",
+      "title": "The Hugging Face incident and the road ahead",
+      "date": "2026-08-27",
+      "published": "2026-08-26T00:00:00+00:00",
+      "arxiv_id": "",
+      "group_ids": [
+        "openai"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-08-27.json"
+    },
+    "blog-loveholidays-44cb7ad1": {
+      "work_id": "blog-loveholidays-44cb7ad1",
+      "kind": "blog",
+      "title": "How loveholidays is making everyone a builder with Codex",
+      "date": "2026-08-27",
+      "published": "2026-08-26T00:00:00+00:00",
+      "arxiv_id": "",
+      "group_ids": [
+        "openai"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-08-27.json"
+    },
+    "2608.23831": {
+      "work_id": "2608.23831",
+      "kind": "paper",
+      "title": "Learning to Act While Waiting: RL Finetuning of Generalist Robot Policies Under Inference Latency",
+      "date": "2026-08-27",
+      "published": "2026-08-24T21:19:50+00:00",
+      "arxiv_id": "2608.23831",
+      "group_ids": [
+        "berkeley-bair"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-08-27.json"
+    },
+    "2608.22764": {
+      "work_id": "2608.22764",
+      "kind": "paper",
+      "title": "LpWM: A Case for Sparse Representations in World Models",
+      "date": "2026-08-27",
+      "published": "2026-08-24T03:37:39+00:00",
+      "arxiv_id": "2608.22764",
+      "group_ids": [
+        "meta-fair"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-08-27.json"
     }
   },
-  "last_updated": "2026-08-26T02:18:07.716944+00:00"
+  "last_updated": "2026-08-27T09:58:21.154950+00:00"
 }
