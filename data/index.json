@@ -2072,7 +2072,77 @@
       "venue": "",
       "citation_count": 0,
       "path": "works/works-2026-08-27.json"
+    },
+    "blog-supporting-next-generation-ai-startups-t-a443a62d": {
+      "work_id": "blog-supporting-next-generation-ai-startups-t-a443a62d",
+      "kind": "blog",
+      "title": "Supporting Thailand’s next generation of AI startups",
+      "date": "2026-08-28",
+      "published": "2026-08-28T02:00:00+00:00",
+      "arxiv_id": "",
+      "group_ids": [
+        "openai"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-08-28.json"
+    },
+    "blog-looking-beyond-natural-sequences-0827-06f9d1af": {
+      "work_id": "blog-looking-beyond-natural-sequences-0827-06f9d1af",
+      "kind": "blog",
+      "title": "Looking beyond natural sequences",
+      "date": "2026-08-28",
+      "published": "2026-08-27T19:20:00+00:00",
+      "arxiv_id": "",
+      "group_ids": [
+        "mit-csail"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-08-28.json"
+    },
+    "2608.27395": {
+      "work_id": "2608.27395",
+      "kind": "paper",
+      "title": "LeVJEPA: Efficient & Scalable Video Pretraining without the Heuristics",
+      "date": "2026-08-28",
+      "published": "2026-08-27T17:26:24+00:00",
+      "arxiv_id": "2608.27395",
+      "group_ids": [
+        "meta-fair"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-08-28.json"
+    },
+    "blog-what-students-gain-from-chatgpt-critical-f61a45c9": {
+      "work_id": "blog-what-students-gain-from-chatgpt-critical-f61a45c9",
+      "kind": "blog",
+      "title": "Better answers, broader thinking: What students gain from ChatGPT and critical-thinking training",
+      "date": "2026-08-28",
+      "published": "2026-08-27T09:00:00+00:00",
+      "arxiv_id": "",
+      "group_ids": [
+        "openai"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-08-28.json"
+    },
+    "blog-expanding-our-presence-in-brazil-db9fd202": {
+      "work_id": "blog-expanding-our-presence-in-brazil-db9fd202",
+      "kind": "blog",
+      "title": "Expanding OpenAI’s presence in Brazil",
+      "date": "2026-08-28",
+      "published": "2026-08-27T03:00:00+00:00",
+      "arxiv_id": "",
+      "group_ids": [
+        "openai"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-08-28.json"
     }
   },
-  "last_updated": "2026-08-27T09:58:21.154950+00:00"
+  "last_updated": "2026-08-28T11:32:20.825640+00:00"
 }
