@@ -2156,7 +2156,21 @@
       "venue": "",
       "citation_count": 0,
       "path": "works/works-2026-08-29.json"
+    },
+    "2608.25618": {
+      "work_id": "2608.25618",
+      "kind": "paper",
+      "title": "AWM: Answerable Working Memory for Long-Document VQA Agents",
+      "date": "2026-08-30",
+      "published": "2026-08-26T10:35:25+00:00",
+      "arxiv_id": "2608.25618",
+      "group_ids": [
+        "zhipu-ai"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-08-30.json"
     }
   },
-  "last_updated": "2026-08-29T07:12:22.882885+00:00"
+  "last_updated": "2026-08-30T05:33:30.083495+00:00"
 }
