@@ -2170,7 +2170,21 @@
       "venue": "",
       "citation_count": 0,
       "path": "works/works-2026-08-30.json"
+    },
+    "blog-how-mit-research-project-became-global-p-9cb1dac7": {
+      "work_id": "blog-how-mit-research-project-became-global-p-9cb1dac7",
+      "kind": "blog",
+      "title": "How an MIT research project became a global programming language",
+      "date": "2026-08-31",
+      "published": "2026-08-31T04:00:00+00:00",
+      "arxiv_id": "",
+      "group_ids": [
+        "mit-csail"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-08-31.json"
     }
   },
-  "last_updated": "2026-08-30T05:33:30.083495+00:00"
+  "last_updated": "2026-08-31T05:45:21.322269+00:00"
 }
