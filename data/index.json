@@ -2184,7 +2184,77 @@
       "venue": "",
       "citation_count": 0,
       "path": "works/works-2026-08-31.json"
+    },
+    "blog-ila-kumar-innovates-with-communities-090-9e7aaf35": {
+      "work_id": "blog-ila-kumar-innovates-with-communities-090-9e7aaf35",
+      "kind": "blog",
+      "title": "Ila Kumar: Innovating with communities",
+      "date": "2026-09-01",
+      "published": "2026-09-01T04:00:00+00:00",
+      "arxiv_id": "",
+      "group_ids": [
+        "mit-csail"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-09-01.json"
+    },
+    "blog-mit-quantum-initiative-launches-postdoct-beefb646": {
+      "work_id": "blog-mit-quantum-initiative-launches-postdoct-beefb646",
+      "kind": "blog",
+      "title": "MIT Quantum Initiative launches postdoctoral fellowship program",
+      "date": "2026-09-01",
+      "published": "2026-08-31T19:30:00+00:00",
+      "arxiv_id": "",
+      "group_ids": [
+        "mit-csail"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-09-01.json"
+    },
+    "blog-gigapath-flash-and-gigatime-flash-toward-cd695f03": {
+      "work_id": "blog-gigapath-flash-and-gigatime-flash-toward-cd695f03",
+      "kind": "blog",
+      "title": "GigaPath-Flash and GigaTIME-Flash: Toward population-scale discovery with efficient pathology foundation models",
+      "date": "2026-09-01",
+      "published": "2026-08-31T16:00:00+00:00",
+      "arxiv_id": "",
+      "group_ids": [
+        "microsoft-research"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-09-01.json"
+    },
+    "blog-polimill-4b4d3fca": {
+      "work_id": "blog-polimill-4b4d3fca",
+      "kind": "blog",
+      "title": "Polimill builds Japan's next-generation public AI infrastructure",
+      "date": "2026-09-01",
+      "published": "2026-08-31T07:00:00+00:00",
+      "arxiv_id": "",
+      "group_ids": [
+        "openai"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-09-01.json"
+    },
+    "blog-expanding-access-to-ai-with-chatgpt-ads-2fd25e36": {
+      "work_id": "blog-expanding-access-to-ai-with-chatgpt-ads-2fd25e36",
+      "kind": "blog",
+      "title": "A milestone in expanding access to AI",
+      "date": "2026-09-01",
+      "published": "2026-08-31T04:00:00+00:00",
+      "arxiv_id": "",
+      "group_ids": [
+        "openai"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-09-01.json"
     }
   },
-  "last_updated": "2026-08-31T05:45:21.322269+00:00"
+  "last_updated": "2026-09-01T05:18:24.862859+00:00"
 }
