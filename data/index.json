@@ -2254,7 +2254,120 @@
       "venue": "",
       "citation_count": 0,
       "path": "works/works-2026-09-01.json"
+    },
+    "blog-walter-torous-named-executive-director-m-fa9bd3ab": {
+      "work_id": "blog-walter-torous-named-executive-director-m-fa9bd3ab",
+      "kind": "blog",
+      "title": "Walter Torous named executive director of MIT Center for Real Estate",
+      "date": "2026-09-02",
+      "published": "2026-09-01T21:25:00+00:00",
+      "arxiv_id": "",
+      "group_ids": [
+        "mit-csail"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-09-02.json"
+    },
+    "blog-google-ai-updates-august-2026-eb1831a5": {
+      "work_id": "blog-google-ai-updates-august-2026-eb1831a5",
+      "kind": "blog",
+      "title": "The latest AI news we announced in August 2026",
+      "date": "2026-09-02",
+      "published": "2026-09-01T20:45:00+00:00",
+      "arxiv_id": "",
+      "group_ids": [
+        "google-deepmind"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-09-02.json"
+    },
+    "blog-ai-native-company-workflows-fa9c7b29": {
+      "work_id": "blog-ai-native-company-workflows-fa9c7b29",
+      "kind": "blog",
+      "title": "How AI-native companies turn workflows into operating capability",
+      "date": "2026-09-02",
+      "published": "2026-09-01T17:00:00+00:00",
+      "arxiv_id": "",
+      "group_ids": [
+        "openai"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-09-02.json"
+    },
+    "blog-weathernext-extreme-weather-cyclone-pred-01dd9366": {
+      "work_id": "blog-weathernext-extreme-weather-cyclone-pred-01dd9366",
+      "kind": "blog",
+      "title": "Ask a Scientist: How do researchers use AI to predict a cyclone?",
+      "date": "2026-09-02",
+      "published": "2026-09-01T16:00:00+00:00",
+      "arxiv_id": "",
+      "group_ids": [
+        "google-deepmind",
+        "google-research"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-09-02.json"
+    },
+    "blog-path-to-astra-8c814b29": {
+      "work_id": "blog-path-to-astra-8c814b29",
+      "kind": "blog",
+      "title": "Path to Astra: critical capabilities and frontier safeguards",
+      "date": "2026-09-02",
+      "published": "2026-09-01T13:00:00+00:00",
+      "arxiv_id": "",
+      "group_ids": [
+        "openai"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-09-02.json"
+    },
+    "blog-chatgpt-connects-health-records-and-heal-deaca8cb": {
+      "work_id": "blog-chatgpt-connects-health-records-and-heal-deaca8cb",
+      "kind": "blog",
+      "title": "Healthcare organizations can now connect EHR and additional industry data to ChatGPT",
+      "date": "2026-09-02",
+      "published": "2026-09-01T12:00:00+00:00",
+      "arxiv_id": "",
+      "group_ids": [
+        "openai"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-09-02.json"
+    },
+    "blog-gilbert-tobin-eec24130": {
+      "work_id": "blog-gilbert-tobin-eec24130",
+      "kind": "blog",
+      "title": "How law firm Gilbert + Tobin governs and scales AI with OpenAI",
+      "date": "2026-09-02",
+      "published": "2026-09-01T01:00:00+00:00",
+      "arxiv_id": "",
+      "group_ids": [
+        "openai"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-09-02.json"
+    },
+    "blog-supporting-california-bill-advance-ai-yo-d59ec907": {
+      "work_id": "blog-supporting-california-bill-advance-ai-yo-d59ec907",
+      "kind": "blog",
+      "title": "OpenAI supports California’s bill to advance youth AI safety",
+      "date": "2026-09-02",
+      "published": "2026-08-31T07:00:00+00:00",
+      "arxiv_id": "",
+      "group_ids": [
+        "openai"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-09-02.json"
     }
   },
-  "last_updated": "2026-09-01T05:18:24.862859+00:00"
+  "last_updated": "2026-09-02T04:45:13.096794+00:00"
 }
