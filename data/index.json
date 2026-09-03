@@ -2367,7 +2367,77 @@
       "venue": "",
       "citation_count": 0,
       "path": "works/works-2026-09-02.json"
+    },
+    "blog-from-mit-to-ibm-expediting-ai-and-quantu-c22bf9d2": {
+      "work_id": "blog-from-mit-to-ibm-expediting-ai-and-quantu-c22bf9d2",
+      "kind": "blog",
+      "title": "From MIT to IBM, expediting AI and quantum deployment",
+      "date": "2026-09-03",
+      "published": "2026-09-02T20:25:00+00:00",
+      "arxiv_id": "",
+      "group_ids": [
+        "mit-csail"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-09-03.json"
+    },
+    "blog-system-helps-humans-predict-when-self-dr-d22fcef5": {
+      "work_id": "blog-system-helps-humans-predict-when-self-dr-d22fcef5",
+      "kind": "blog",
+      "title": "System helps humans predict when self-driving cars will make mistakes",
+      "date": "2026-09-03",
+      "published": "2026-09-02T15:00:00+00:00",
+      "arxiv_id": "",
+      "group_ids": [
+        "mit-csail"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-09-03.json"
+    },
+    "blog-atv-big-air-tour-6db0e1e8": {
+      "work_id": "blog-atv-big-air-tour-6db0e1e8",
+      "kind": "blog",
+      "title": "ATV Big Air Tour turned 3 days of work into 3 hours with ChatGPT",
+      "date": "2026-09-03",
+      "published": "2026-09-02T12:00:00+00:00",
+      "arxiv_id": "",
+      "group_ids": [
+        "openai"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-09-03.json"
+    },
+    "2609.02358": {
+      "work_id": "2609.02358",
+      "kind": "paper",
+      "title": "Humanoid Safe Stop via Learned Stoppability Value",
+      "date": "2026-09-03",
+      "published": "2026-09-02T09:29:39+00:00",
+      "arxiv_id": "2609.02358",
+      "group_ids": [
+        "berkeley-bair"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-09-03.json"
+    },
+    "2609.00196": {
+      "work_id": "2609.00196",
+      "kind": "paper",
+      "title": "WHALE: A Simple Recipe for Joint Harness-Weight Optimization",
+      "date": "2026-09-03",
+      "published": "2026-08-31T18:12:55+00:00",
+      "arxiv_id": "2609.00196",
+      "group_ids": [
+        "stanford-ai"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-09-03.json"
     }
   },
-  "last_updated": "2026-09-02T04:45:13.096794+00:00"
+  "last_updated": "2026-09-03T04:42:07.536372+00:00"
 }
