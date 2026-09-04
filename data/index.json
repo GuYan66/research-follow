@@ -2437,7 +2437,147 @@
       "venue": "",
       "citation_count": 0,
       "path": "works/works-2026-09-03.json"
+    },
+    "blog-male-fruit-fly-brain-map-e23c3730": {
+      "work_id": "blog-male-fruit-fly-brain-map-e23c3730",
+      "kind": "blog",
+      "title": "5 amazing visuals show how the male fruit fly’s brain map is advancing neuroscience",
+      "date": "2026-09-04",
+      "published": "2026-09-03T15:05:00+00:00",
+      "arxiv_id": "",
+      "group_ids": [
+        "google-research"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-09-04.json"
+    },
+    "blog-introducing-weathernext-3-12e69624": {
+      "work_id": "blog-introducing-weathernext-3-12e69624",
+      "kind": "blog",
+      "title": "Introducing WeatherNext 3, our most advanced and accurate global weather AI model",
+      "date": "2026-09-04",
+      "published": "2026-09-03T15:00:00+00:00",
+      "arxiv_id": "",
+      "group_ids": [
+        "google-deepmind"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-09-04.json"
+    },
+    "blog-daybreak-for-frontline-defenders-24c2defe": {
+      "work_id": "blog-daybreak-for-frontline-defenders-24c2defe",
+      "kind": "blog",
+      "title": "Daybreak for Frontline Defenders: $1B to protect essential services",
+      "date": "2026-09-04",
+      "published": "2026-09-03T13:15:00+00:00",
+      "arxiv_id": "",
+      "group_ids": [
+        "openai"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-09-04.json"
+    },
+    "blog-legora-financial-statement-review-with-a-5c236f7f": {
+      "work_id": "blog-legora-financial-statement-review-with-a-5c236f7f",
+      "kind": "blog",
+      "title": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
+      "date": "2026-09-04",
+      "published": "2026-09-03T12:00:00+00:00",
+      "arxiv_id": "",
+      "group_ids": [
+        "openai"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-09-04.json"
+    },
+    "blog-playco-game-prototyping-with-astra-69a0fb33": {
+      "work_id": "blog-playco-game-prototyping-with-astra-69a0fb33",
+      "kind": "blog",
+      "title": "Playco cut manual fixes 50% prototyping games with GPT-6 Astra",
+      "date": "2026-09-04",
+      "published": "2026-09-03T12:00:00+00:00",
+      "arxiv_id": "",
+      "group_ids": [
+        "openai"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-09-04.json"
+    },
+    "2609.03497": {
+      "work_id": "2609.03497",
+      "kind": "paper",
+      "title": "BRIDGE: An Open-Source Humanoid Platform via Morphology-Control Co-Design for Physical AI",
+      "date": "2026-09-04",
+      "published": "2026-09-03T08:01:19+00:00",
+      "arxiv_id": "2609.03497",
+      "group_ids": [
+        "cmu-ml"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-09-04.json"
+    },
+    "blog-safety-overview-gpt-6-astra-3fd36f5e": {
+      "work_id": "blog-safety-overview-gpt-6-astra-3fd36f5e",
+      "kind": "blog",
+      "title": "Safety overview: GPT-6 Astra",
+      "date": "2026-09-04",
+      "published": "2026-09-03T00:00:00+00:00",
+      "arxiv_id": "",
+      "group_ids": [
+        "openai"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-09-04.json"
+    },
+    "2609.02812": {
+      "work_id": "2609.02812",
+      "kind": "paper",
+      "title": "VibeVoice-ASR-Streaming Technical Report",
+      "date": "2026-09-04",
+      "published": "2026-09-02T16:52:55+00:00",
+      "arxiv_id": "2609.02812",
+      "group_ids": [
+        "msra"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-09-04.json"
+    },
+    "2609.02987": {
+      "work_id": "2609.02987",
+      "kind": "paper",
+      "title": "Tail-Likelihood Reinforcement Learning",
+      "date": "2026-09-04",
+      "published": "2026-09-02T14:54:45+00:00",
+      "arxiv_id": "2609.02987",
+      "group_ids": [
+        "cmu-ml"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-09-04.json"
+    },
+    "2608.30457": {
+      "work_id": "2608.30457",
+      "kind": "paper",
+      "title": "Learning Where Outcomes Change:Credit-Addressable Reasoning for Multimodal Geometry",
+      "date": "2026-09-04",
+      "published": "2026-08-31T08:44:36+00:00",
+      "arxiv_id": "2608.30457",
+      "group_ids": [
+        "msra"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-09-04.json"
     }
   },
-  "last_updated": "2026-09-03T04:42:07.536372+00:00"
+  "last_updated": "2026-09-04T04:42:06.604946+00:00"
 }
