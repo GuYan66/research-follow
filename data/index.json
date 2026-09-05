@@ -2577,7 +2577,21 @@
       "venue": "",
       "citation_count": 0,
       "path": "works/works-2026-09-04.json"
+    },
+    "blog-gpt-6-astra-c06874a7": {
+      "work_id": "blog-gpt-6-astra-c06874a7",
+      "kind": "blog",
+      "title": "GPT-6 Astra: A new generation of intelligence",
+      "date": "2026-09-05",
+      "published": "2026-09-03T11:00:00+00:00",
+      "arxiv_id": "",
+      "group_ids": [
+        "openai"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-09-05.json"
     }
   },
-  "last_updated": "2026-09-04T04:42:06.604946+00:00"
+  "last_updated": "2026-09-05T04:46:20.829632+00:00"
 }
