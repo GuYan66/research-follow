@@ -1,0 +1,1070 @@
+{
+  "date": "2026-09-06",
+  "groups": [
+    "openai",
+    "google-deepmind",
+    "google-research",
+    "anthropic",
+    "meta-fair",
+    "microsoft-research",
+    "berkeley-bair",
+    "stanford-ai",
+    "mit-csail",
+    "cmu-ml",
+    "deepseek",
+    "zhipu-ai",
+    "moonshot-ai",
+    "bytedance-seed",
+    "alibaba-qwen",
+    "minimax",
+    "stepfun",
+    "tsinghua-ai",
+    "pku-ai",
+    "shanghai-ai-lab",
+    "sjtu-ai",
+    "msra"
+  ],
+  "window_days": 7,
+  "works": [
+    {
+      "work_id": "blog-male-fruit-fly-brain-map-e23c3730",
+      "kind": "blog",
+      "title": "5 amazing visuals show how the male fruit fly’s brain map is advancing neuroscience",
+      "url": "https://blog.google/innovation-and-ai/technology/research/male-fruit-fly-brain-map/",
+      "published": "2026-09-03T15:05:00+00:00",
+      "updated": "2026-09-03T15:05:00+00:00",
+      "summary": "Brain map of the male fruit fly",
+      "source": "blog",
+      "group_ids": [
+        "google-research"
+      ],
+      "member_ids": [],
+      "member_names": [],
+      "authors": [],
+      "venue": "",
+      "citation_count": 0,
+      "influential_citation_count": 0,
+      "doi": "",
+      "arxiv_id": "",
+      "primary_category": "",
+      "categories": [],
+      "pdf_url": "",
+      "feed_url": "https://blog.google/technology/research/rss/",
+      "blog_label": "Google Research Blog",
+      "summary_cn": "",
+      "fetch_date": "2026-09-06",
+      "sources": [
+        "blog"
+      ]
+    },
+    {
+      "work_id": "blog-introducing-weathernext-3-12e69624",
+      "kind": "blog",
+      "title": "Introducing WeatherNext 3, our most advanced and accurate global weather AI model",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/introducing-weathernext-3/",
+      "published": "2026-09-03T15:00:00+00:00",
+      "updated": "2026-09-03T15:00:00+00:00",
+      "summary": "Text \"WeatherNext3\" over a blue and yellow saturated image of clouds",
+      "source": "blog",
+      "group_ids": [
+        "google-deepmind"
+      ],
+      "member_ids": [],
+      "member_names": [],
+      "authors": [],
+      "venue": "",
+      "citation_count": 0,
+      "influential_citation_count": 0,
+      "doi": "",
+      "arxiv_id": "",
+      "primary_category": "",
+      "categories": [],
+      "pdf_url": "",
+      "feed_url": "https://blog.google/technology/google-deepmind/rss/",
+      "blog_label": "Google DeepMind Blog",
+      "summary_cn": "",
+      "fetch_date": "2026-09-06",
+      "sources": [
+        "blog"
+      ]
+    },
+    {
+      "work_id": "blog-daybreak-for-frontline-defenders-24c2defe",
+      "kind": "blog",
+      "title": "Daybreak for Frontline Defenders: $1B to protect essential services",
+      "url": "https://openai.com/index/daybreak-for-frontline-defenders",
+      "published": "2026-09-03T13:15:00+00:00",
+      "updated": "2026-09-03T13:15:00+00:00",
+      "summary": "OpenAI introduces Daybreak for Frontline Defenders. A $1 billion commitment expands access to frontier cyber AI, training, and support for essential services.",
+      "source": "blog",
+      "group_ids": [
+        "openai"
+      ],
+      "member_ids": [],
+      "member_names": [],
+      "authors": [],
+      "venue": "",
+      "citation_count": 0,
+      "influential_citation_count": 0,
+      "doi": "",
+      "arxiv_id": "",
+      "primary_category": "",
+      "categories": [],
+      "pdf_url": "",
+      "feed_url": "https://openai.com/news/rss.xml",
+      "blog_label": "OpenAI News",
+      "summary_cn": "",
+      "fetch_date": "2026-09-06",
+      "sources": [
+        "blog"
+      ]
+    },
+    {
+      "work_id": "blog-playco-game-prototyping-with-astra-69a0fb33",
+      "kind": "blog",
+      "title": "Playco cut manual fixes 50% prototyping games with GPT-6 Astra",
+      "url": "https://openai.com/index/playco-game-prototyping-with-astra",
+      "published": "2026-09-03T12:00:00+00:00",
+      "updated": "2026-09-03T12:00:00+00:00",
+      "summary": "Using GPT-6 Astra, Playco built three themed game prototypes from one grey box foundation and reported 50% fewer manual fixes than with the previous model.",
+      "source": "blog",
+      "group_ids": [
+        "openai"
+      ],
+      "member_ids": [],
+      "member_names": [],
+      "authors": [],
+      "venue": "",
+      "citation_count": 0,
+      "influential_citation_count": 0,
+      "doi": "",
+      "arxiv_id": "",
+      "primary_category": "",
+      "categories": [],
+      "pdf_url": "",
+      "feed_url": "https://openai.com/news/rss.xml",
+      "blog_label": "OpenAI News",
+      "summary_cn": "",
+      "fetch_date": "2026-09-06",
+      "sources": [
+        "blog"
+      ]
+    },
+    {
+      "work_id": "blog-legora-financial-statement-review-with-a-5c236f7f",
+      "kind": "blog",
+      "title": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
+      "url": "https://openai.com/index/legora-financial-statement-review-with-astra",
+      "published": "2026-09-03T12:00:00+00:00",
+      "updated": "2026-09-03T12:00:00+00:00",
+      "summary": "Legora used GPT-6 Astra to review 41 documents in minutes, find all four planted errors, and improve performance by nearly 40% in this financial-review workflow.",
+      "source": "blog",
+      "group_ids": [
+        "openai"
+      ],
+      "member_ids": [],
+      "member_names": [],
+      "authors": [],
+      "venue": "",
+      "citation_count": 0,
+      "influential_citation_count": 0,
+      "doi": "",
+      "arxiv_id": "",
+      "primary_category": "",
+      "categories": [],
+      "pdf_url": "",
+      "feed_url": "https://openai.com/news/rss.xml",
+      "blog_label": "OpenAI News",
+      "summary_cn": "",
+      "fetch_date": "2026-09-06",
+      "sources": [
+        "blog"
+      ]
+    },
+    {
+      "work_id": "blog-gpt-6-astra-c06874a7",
+      "kind": "blog",
+      "title": "GPT-6 Astra: A new generation of intelligence",
+      "url": "https://openai.com/index/gpt-6-astra",
+      "published": "2026-09-03T11:00:00+00:00",
+      "updated": "2026-09-03T11:00:00+00:00",
+      "summary": "Introducing GPT-6 Astra, our most intelligent and aligned model yet, with state-of-the-art capabilities across computer use, coding, cybersecurity, and science.",
+      "source": "blog",
+      "group_ids": [
+        "openai"
+      ],
+      "member_ids": [],
+      "member_names": [],
+      "authors": [],
+      "venue": "",
+      "citation_count": 0,
+      "influential_citation_count": 0,
+      "doi": "",
+      "arxiv_id": "",
+      "primary_category": "",
+      "categories": [],
+      "pdf_url": "",
+      "feed_url": "https://openai.com/news/rss.xml",
+      "blog_label": "OpenAI News",
+      "summary_cn": "",
+      "fetch_date": "2026-09-06",
+      "sources": [
+        "blog"
+      ]
+    },
+    {
+      "work_id": "2609.03497",
+      "kind": "paper",
+      "title": "BRIDGE: An Open-Source Humanoid Platform via Morphology-Control Co-Design for Physical AI",
+      "url": "https://arxiv.org/abs/2609.03497",
+      "published": "2026-09-03T08:01:19+00:00",
+      "updated": "2026-09-03T08:01:19+00:00",
+      "summary": "Developing humanoid robots capable of leveraging human behavioral data is essential for general-purpose embodiment, yet conventional development remains bottlenecked by a decoupled paradigm that isolates hardware design from whole-body control. This approach leads to suboptimal systems that compromise human-like fluidity and agility. To bridge this gap, we introduce a data-driven morphology-control co-design framework that optimizes humanoid morphology for human-like movement. To quantify morphological fidelity, we also introduce a novel metric that jointly considers kinematic retargeting fidelity to human motion and dynamic tracking performance. Our framework achieves state-of-the-art (SOTA) performance across all metrics compared to baseline humanoids (Bumi, K1, and Toddlerbot). Finally, we realize this design in Bridge, an open-source, 88cm-tall humanoid platform released alongside its control policy. We demonstrate that Bridge captures human motion data with superior fidelity, exhibiting exceptional performance across foundational locomotion, robust balance, and highly dynamic maneuvers. Videos and open-source materials: https://sites.google.com/view/bridgerobot.",
+      "source": "arxiv",
+      "group_ids": [
+        "cmu-ml"
+      ],
+      "member_ids": [
+        "deepak-pathak"
+      ],
+      "member_names": [
+        "Deepak Pathak"
+      ],
+      "authors": [
+        "Jianren Wang",
+        "Letian Qian",
+        "Zikai Wang",
+        "Weiwei Wu",
+        "Junjie Zong",
+        "Abhinav Gupta",
+        "Deepak Pathak"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "influential_citation_count": 0,
+      "doi": "",
+      "arxiv_id": "2609.03497",
+      "primary_category": "cs.RO",
+      "categories": [
+        "cs.RO",
+        "cs.AI"
+      ],
+      "pdf_url": "https://arxiv.org/pdf/2609.03497v1",
+      "feed_url": "",
+      "blog_label": "",
+      "summary_cn": "",
+      "fetch_date": "2026-09-06",
+      "sources": [
+        "arxiv"
+      ]
+    },
+    {
+      "work_id": "blog-safety-overview-gpt-6-astra-3fd36f5e",
+      "kind": "blog",
+      "title": "Safety overview: GPT-6 Astra",
+      "url": "https://openai.com/index/safety-overview-gpt-6-astra",
+      "published": "2026-09-03T00:00:00+00:00",
+      "updated": "2026-09-03T00:00:00+00:00",
+      "summary": "GPT-6 Astra is our most capable broadly deployed model and our first to reach the Critical level of cybersecurity capability under our Preparedness Framework.",
+      "source": "blog",
+      "group_ids": [
+        "openai"
+      ],
+      "member_ids": [],
+      "member_names": [],
+      "authors": [],
+      "venue": "",
+      "citation_count": 0,
+      "influential_citation_count": 0,
+      "doi": "",
+      "arxiv_id": "",
+      "primary_category": "",
+      "categories": [],
+      "pdf_url": "",
+      "feed_url": "https://openai.com/news/rss.xml",
+      "blog_label": "OpenAI News",
+      "summary_cn": "",
+      "fetch_date": "2026-09-06",
+      "sources": [
+        "blog"
+      ]
+    },
+    {
+      "work_id": "blog-from-mit-to-ibm-expediting-ai-and-quantu-c22bf9d2",
+      "kind": "blog",
+      "title": "From MIT to IBM, expediting AI and quantum deployment",
+      "url": "https://news.mit.edu/2026/from-mit-to-ibm-expediting-ai-and-quantum-deployment-0902",
+      "published": "2026-09-02T20:25:00+00:00",
+      "updated": "2026-09-02T20:25:00+00:00",
+      "summary": "MIT affiliates engage with the MIT-IBM Computing Research Lab to bring rigorous theory to production systems.",
+      "source": "blog",
+      "group_ids": [
+        "mit-csail"
+      ],
+      "member_ids": [],
+      "member_names": [],
+      "authors": [],
+      "venue": "",
+      "citation_count": 0,
+      "influential_citation_count": 0,
+      "doi": "",
+      "arxiv_id": "",
+      "primary_category": "",
+      "categories": [],
+      "pdf_url": "",
+      "feed_url": "https://news.mit.edu/rss/topic/artificial-intelligence2",
+      "blog_label": "MIT News · AI",
+      "summary_cn": "",
+      "fetch_date": "2026-09-06",
+      "sources": [
+        "blog"
+      ]
+    },
+    {
+      "work_id": "2609.02812",
+      "kind": "paper",
+      "title": "VibeVoice-ASR-Streaming Technical Report",
+      "url": "https://arxiv.org/abs/2609.02812",
+      "published": "2026-09-02T16:52:55+00:00",
+      "updated": "2026-09-02T16:52:55+00:00",
+      "summary": "Traditional speaker-attributed ASR systems treated ASR and speaker diarization as two separate tasks. Recently, end-to-end models such as VibeVoice-ASR have unified the two tasks within a single model. However, existing unified models still mainly support offline recognition, making it difficult to meet the low-latency requirements of real-time voice assistants and agents. To tackle this issue, we present VibeVoice-ASR-Streaming, one of the first LLM-based end-to-end approaches to streaming speaker-attributed ASR. It interleaves fixed-size audio chunks, a small amount of lookahead audio and previous text. This allows the model to produce ''who said what'' as speech arrives, without a separate diarization stage. For transcription accuracy, our 7B model achieves the lowest average WER/CER across five evaluation sets. For speaker attribution, it achieves the best or tied-best on 12 of 13 evaluation settings. We release the 1.5B and 7B model weights together with inference code.",
+      "source": "arxiv",
+      "group_ids": [
+        "msra"
+      ],
+      "member_ids": [
+        "furu-wei"
+      ],
+      "member_names": [
+        "Furu Wei"
+      ],
+      "authors": [
+        "Yujie Tu",
+        "Zhiliang Peng",
+        "Jianwei Yu",
+        "Li Dong",
+        "Songchen Xu",
+        "Yaoyao Chang",
+        "Wenhui Wang",
+        "Zilong Wang",
+        "Zehua Wang",
+        "Yan Xia",
+        "Jiajun Zhang",
+        "Xie Chen",
+        "Furu Wei"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "influential_citation_count": 0,
+      "doi": "",
+      "arxiv_id": "2609.02812",
+      "primary_category": "eess.AS",
+      "categories": [
+        "eess.AS"
+      ],
+      "pdf_url": "https://arxiv.org/pdf/2609.02812v1",
+      "feed_url": "",
+      "blog_label": "",
+      "summary_cn": "",
+      "fetch_date": "2026-09-06",
+      "sources": [
+        "arxiv"
+      ]
+    },
+    {
+      "work_id": "blog-system-helps-humans-predict-when-self-dr-d22fcef5",
+      "kind": "blog",
+      "title": "System helps humans predict when self-driving cars will make mistakes",
+      "url": "https://news.mit.edu/2026/system-helps-humans-predict-when-self-driving-cars-will-make-mistakes-0902",
+      "published": "2026-09-02T15:00:00+00:00",
+      "updated": "2026-09-02T15:00:00+00:00",
+      "summary": "A new method, called CW-Net, translates the reasoning process of an autonomous vehicle’s AI system into understandable concepts that explain its behavior.",
+      "source": "blog",
+      "group_ids": [
+        "mit-csail"
+      ],
+      "member_ids": [],
+      "member_names": [],
+      "authors": [],
+      "venue": "",
+      "citation_count": 0,
+      "influential_citation_count": 0,
+      "doi": "",
+      "arxiv_id": "",
+      "primary_category": "",
+      "categories": [],
+      "pdf_url": "",
+      "feed_url": "https://news.mit.edu/rss/topic/artificial-intelligence2",
+      "blog_label": "MIT News · AI",
+      "summary_cn": "",
+      "fetch_date": "2026-09-06",
+      "sources": [
+        "blog"
+      ]
+    },
+    {
+      "work_id": "2609.02987",
+      "kind": "paper",
+      "title": "Tail-Likelihood Reinforcement Learning",
+      "url": "https://arxiv.org/abs/2609.02987",
+      "published": "2026-09-02T14:54:45+00:00",
+      "updated": "2026-09-02T14:54:45+00:00",
+      "summary": "Reinforcement learning typically optimizes average reward. For generative policies, the average can hide an important distinction: two policies can achieve the same mean reward while having very different chances of producing a rare but high-reward rollout. This matters as sampling increases during training and inference, since its benefit depends on retaining probability mass on high-reward outcomes. We propose to optimize this coverage directly. Rather than considering only expected reward, we consider all of its upper tails: for each reward threshold, how likely is the policy to exceed it? This turns a continuous reward into a family of binary success events. We introduce Tail-Likelihood Reinforcement Learning (TailRL), which maximizes the log-probability of exceeding a randomly chosen reward threshold. Its gradient gives more weight to rare, high-reward rollouts and can be interpreted as a mixture of Best-of-(k) gradients. TailRL requires only a simple modification to the advantage function, making it compatible with existing reinforcement learning pipelines. Across object localization, maze navigation, GUI grounding, and code optimization, TailRL leverages rare high-reward training samples to avoid suboptimal solutions and yields models that benefit more from additional samples at inference time.",
+      "source": "arxiv",
+      "group_ids": [
+        "cmu-ml"
+      ],
+      "member_ids": [
+        "ruslan-salakhutdinov"
+      ],
+      "member_names": [
+        "Ruslan Salakhutdinov"
+      ],
+      "authors": [
+        "Shrinivas Ramasubramanian",
+        "Daman Arora",
+        "Fahim Tajwar",
+        "Guanning Zeng",
+        "Qingyang Wu",
+        "Zhongzhu Zhou",
+        "Chenfeng Xu",
+        "Haiwen Feng",
+        "Yuda Song",
+        "Aarti Singh",
+        "Ruslan Salakhutdinov",
+        "J. Andrew Bagnell",
+        "Jeff Schneider",
+        "Andrea Zanette"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "influential_citation_count": 0,
+      "doi": "",
+      "arxiv_id": "2609.02987",
+      "primary_category": "cs.LG",
+      "categories": [
+        "cs.LG",
+        "stat.ML"
+      ],
+      "pdf_url": "https://arxiv.org/pdf/2609.02987v1",
+      "feed_url": "",
+      "blog_label": "",
+      "summary_cn": "",
+      "fetch_date": "2026-09-06",
+      "sources": [
+        "arxiv"
+      ]
+    },
+    {
+      "work_id": "blog-atv-big-air-tour-6db0e1e8",
+      "kind": "blog",
+      "title": "ATV Big Air Tour turned 3 days of work into 3 hours with ChatGPT",
+      "url": "https://openai.com/index/atv-big-air-tour",
+      "published": "2026-09-02T12:00:00+00:00",
+      "updated": "2026-09-02T12:00:00+00:00",
+      "summary": "ATV Big Air Tour uses ChatGPT Work to speed up marketing, merchandising, and more. It even turned merchandise photos into an inventory website in 15 minutes.",
+      "source": "blog",
+      "group_ids": [
+        "openai"
+      ],
+      "member_ids": [],
+      "member_names": [],
+      "authors": [],
+      "venue": "",
+      "citation_count": 0,
+      "influential_citation_count": 0,
+      "doi": "",
+      "arxiv_id": "",
+      "primary_category": "",
+      "categories": [],
+      "pdf_url": "",
+      "feed_url": "https://openai.com/news/rss.xml",
+      "blog_label": "OpenAI News",
+      "summary_cn": "",
+      "fetch_date": "2026-09-06",
+      "sources": [
+        "blog"
+      ]
+    },
+    {
+      "work_id": "2609.02358",
+      "kind": "paper",
+      "title": "Humanoid Safe Stop via Learned Stoppability Value",
+      "url": "https://arxiv.org/abs/2609.02358",
+      "published": "2026-09-02T09:29:39+00:00",
+      "updated": "2026-09-02T09:29:39+00:00",
+      "summary": "Humanoid robots responding to emergency stop commands typically execute a fixed maneuver, without reasoning about whether a safe stop is actually feasible from the current state. We cast emergency stopping as a reach-avoid problem and propose Safe-Stop, a task-agnostic framework that pairs a learned stop policy with learned stoppability estimators. The estimators are complementary: a stop-probability estimator supervised by the actual outcomes of the fixed stop policy, and a reach-avoidance estimator supervised by a Hamilton-Jacobi backup over physical state. The first captures emergent stopping behavior of the learned controller; the second provides a complementary recoverability signal. Because the stop policy and estimators do not depend on the behavior policy that preceded the stop command, they transfer across diverse upstream tasks without retraining. At deployment, the two estimates are combined: Safe-Stop commits to the stop only when both estimators indicate that stopping remains feasible, otherwise it hands off to a fall policy, instantiated as a damping fallback. This agreement check yields decisions that are robust without sacrificing reactivity.",
+      "source": "arxiv",
+      "group_ids": [
+        "berkeley-bair"
+      ],
+      "member_ids": [
+        "pieter-abbeel"
+      ],
+      "member_names": [
+        "Pieter Abbeel"
+      ],
+      "authors": [
+        "Junfeng Long",
+        "Pieter Abbeel",
+        "Koushil Sreenath",
+        "Roberto Horowitz",
+        "Guanya Shi",
+        "C. Karen Liu"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "influential_citation_count": 0,
+      "doi": "",
+      "arxiv_id": "2609.02358",
+      "primary_category": "cs.RO",
+      "categories": [
+        "cs.RO",
+        "cs.LG",
+        "eess.SY"
+      ],
+      "pdf_url": "https://arxiv.org/pdf/2609.02358v1",
+      "feed_url": "",
+      "blog_label": "",
+      "summary_cn": "",
+      "fetch_date": "2026-09-06",
+      "sources": [
+        "arxiv"
+      ]
+    },
+    {
+      "work_id": "blog-walter-torous-named-executive-director-m-fa9bd3ab",
+      "kind": "blog",
+      "title": "Walter Torous named executive director of MIT Center for Real Estate",
+      "url": "https://news.mit.edu/2026/walter-torous-named-executive-director-mit-center-real-estate-0901",
+      "published": "2026-09-01T21:25:00+00:00",
+      "updated": "2026-09-01T21:25:00+00:00",
+      "summary": "The senior lecturer, already director of the degree program, will now oversee all aspects of the center’s activities and operations.",
+      "source": "blog",
+      "group_ids": [
+        "mit-csail"
+      ],
+      "member_ids": [],
+      "member_names": [],
+      "authors": [],
+      "venue": "",
+      "citation_count": 0,
+      "influential_citation_count": 0,
+      "doi": "",
+      "arxiv_id": "",
+      "primary_category": "",
+      "categories": [],
+      "pdf_url": "",
+      "feed_url": "https://news.mit.edu/rss/topic/artificial-intelligence2",
+      "blog_label": "MIT News · AI",
+      "summary_cn": "",
+      "fetch_date": "2026-09-06",
+      "sources": [
+        "blog"
+      ]
+    },
+    {
+      "work_id": "blog-google-ai-updates-august-2026-eb1831a5",
+      "kind": "blog",
+      "title": "The latest AI news we announced in August 2026",
+      "url": "https://blog.google/innovation-and-ai/technology/google-ai-updates-august-2026/",
+      "published": "2026-09-01T20:45:00+00:00",
+      "updated": "2026-09-01T20:45:00+00:00",
+      "summary": "Transitioning cards: 1. Text \"Gemini 3.7 Flash\" next to the Gemini logo icon; 2. a photo of a pixel phone; 3. Google Gemini logo above the text \"Claim your student plan for 1 year at no cost\"",
+      "source": "blog",
+      "group_ids": [
+        "google-deepmind"
+      ],
+      "member_ids": [],
+      "member_names": [],
+      "authors": [],
+      "venue": "",
+      "citation_count": 0,
+      "influential_citation_count": 0,
+      "doi": "",
+      "arxiv_id": "",
+      "primary_category": "",
+      "categories": [],
+      "pdf_url": "",
+      "feed_url": "https://blog.google/technology/google-deepmind/rss/",
+      "blog_label": "Google DeepMind Blog",
+      "summary_cn": "",
+      "fetch_date": "2026-09-06",
+      "sources": [
+        "blog"
+      ]
+    },
+    {
+      "work_id": "blog-ai-native-company-workflows-fa9c7b29",
+      "kind": "blog",
+      "title": "How AI-native companies turn workflows into operating capability",
+      "url": "https://openai.com/index/ai-native-company-workflows",
+      "published": "2026-09-01T17:00:00+00:00",
+      "updated": "2026-09-01T17:00:00+00:00",
+      "summary": "Basis, Clay, and Exa Labs use AI agents to improve onboarding, account management, and developer integrations. See what enterprise leaders can apply.",
+      "source": "blog",
+      "group_ids": [
+        "openai"
+      ],
+      "member_ids": [],
+      "member_names": [],
+      "authors": [],
+      "venue": "",
+      "citation_count": 0,
+      "influential_citation_count": 0,
+      "doi": "",
+      "arxiv_id": "",
+      "primary_category": "",
+      "categories": [],
+      "pdf_url": "",
+      "feed_url": "https://openai.com/news/rss.xml",
+      "blog_label": "OpenAI News",
+      "summary_cn": "",
+      "fetch_date": "2026-09-06",
+      "sources": [
+        "blog"
+      ]
+    },
+    {
+      "work_id": "blog-weathernext-extreme-weather-cyclone-pred-01dd9366",
+      "kind": "blog",
+      "title": "Ask a Scientist: How do researchers use AI to predict a cyclone?",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/weathernext-extreme-weather-cyclone-predictions/",
+      "published": "2026-09-01T16:00:00+00:00",
+      "updated": "2026-09-01T16:00:00+00:00",
+      "summary": "On the left: A blue background with black text saying 'Google' and 'Ask a scientist about predicting cyclones.' On the right: Two Googlers in a virtual interview about cyclone prediction",
+      "source": "blog",
+      "group_ids": [
+        "google-deepmind",
+        "google-research"
+      ],
+      "member_ids": [],
+      "member_names": [],
+      "authors": [],
+      "venue": "",
+      "citation_count": 0,
+      "influential_citation_count": 0,
+      "doi": "",
+      "arxiv_id": "",
+      "primary_category": "",
+      "categories": [],
+      "pdf_url": "",
+      "feed_url": "https://blog.google/technology/google-deepmind/rss/",
+      "blog_label": "Google DeepMind Blog",
+      "summary_cn": "",
+      "fetch_date": "2026-09-06",
+      "sources": [
+        "blog"
+      ]
+    },
+    {
+      "work_id": "blog-path-to-astra-8c814b29",
+      "kind": "blog",
+      "title": "Path to Astra: critical capabilities and frontier safeguards",
+      "url": "https://openai.com/index/path-to-astra",
+      "published": "2026-09-01T13:00:00+00:00",
+      "updated": "2026-09-01T13:00:00+00:00",
+      "summary": "Astra is the first OpenAI model to meet the Critical cybersecurity capability threshold under the Preparedness Framework, with stronger safeguards for release.",
+      "source": "blog",
+      "group_ids": [
+        "openai"
+      ],
+      "member_ids": [],
+      "member_names": [],
+      "authors": [],
+      "venue": "",
+      "citation_count": 0,
+      "influential_citation_count": 0,
+      "doi": "",
+      "arxiv_id": "",
+      "primary_category": "",
+      "categories": [],
+      "pdf_url": "",
+      "feed_url": "https://openai.com/news/rss.xml",
+      "blog_label": "OpenAI News",
+      "summary_cn": "",
+      "fetch_date": "2026-09-06",
+      "sources": [
+        "blog"
+      ]
+    },
+    {
+      "work_id": "blog-chatgpt-connects-health-records-and-heal-deaca8cb",
+      "kind": "blog",
+      "title": "Healthcare organizations can now connect EHR and additional industry data to ChatGPT",
+      "url": "https://openai.com/index/chatgpt-connects-health-records-and-healthcare-sources",
+      "published": "2026-09-01T12:00:00+00:00",
+      "updated": "2026-09-01T12:00:00+00:00",
+      "summary": "ChatGPT can now connect to trusted healthcare data, helping clinicians securely access patient context, medical research, and more.",
+      "source": "blog",
+      "group_ids": [
+        "openai"
+      ],
+      "member_ids": [],
+      "member_names": [],
+      "authors": [],
+      "venue": "",
+      "citation_count": 0,
+      "influential_citation_count": 0,
+      "doi": "",
+      "arxiv_id": "",
+      "primary_category": "",
+      "categories": [],
+      "pdf_url": "",
+      "feed_url": "https://openai.com/news/rss.xml",
+      "blog_label": "OpenAI News",
+      "summary_cn": "",
+      "fetch_date": "2026-09-06",
+      "sources": [
+        "blog"
+      ]
+    },
+    {
+      "work_id": "blog-ila-kumar-innovates-with-communities-090-9e7aaf35",
+      "kind": "blog",
+      "title": "Ila Kumar: Innovating with communities",
+      "url": "https://news.mit.edu/2026/ila-kumar-innovates-with-communities-0901",
+      "published": "2026-09-01T04:00:00+00:00",
+      "updated": "2026-09-01T04:00:00+00:00",
+      "summary": "The PhD student works to give young people an active role in shaping digital technologies that can support their own well-being.",
+      "source": "blog",
+      "group_ids": [
+        "mit-csail"
+      ],
+      "member_ids": [],
+      "member_names": [],
+      "authors": [],
+      "venue": "",
+      "citation_count": 0,
+      "influential_citation_count": 0,
+      "doi": "",
+      "arxiv_id": "",
+      "primary_category": "",
+      "categories": [],
+      "pdf_url": "",
+      "feed_url": "https://news.mit.edu/rss/topic/artificial-intelligence2",
+      "blog_label": "MIT News · AI",
+      "summary_cn": "",
+      "fetch_date": "2026-09-06",
+      "sources": [
+        "blog"
+      ]
+    },
+    {
+      "work_id": "blog-gilbert-tobin-eec24130",
+      "kind": "blog",
+      "title": "How law firm Gilbert + Tobin governs and scales AI with OpenAI",
+      "url": "https://openai.com/index/gilbert-tobin",
+      "published": "2026-09-01T01:00:00+00:00",
+      "updated": "2026-09-01T01:00:00+00:00",
+      "summary": "See how Gilbert + Tobin combines CEO-led commitment, rigorous governance, and human accountability to scale ChatGPT Enterprise and Codex across the firm.",
+      "source": "blog",
+      "group_ids": [
+        "openai"
+      ],
+      "member_ids": [],
+      "member_names": [],
+      "authors": [],
+      "venue": "",
+      "citation_count": 0,
+      "influential_citation_count": 0,
+      "doi": "",
+      "arxiv_id": "",
+      "primary_category": "",
+      "categories": [],
+      "pdf_url": "",
+      "feed_url": "https://openai.com/news/rss.xml",
+      "blog_label": "OpenAI News",
+      "summary_cn": "",
+      "fetch_date": "2026-09-06",
+      "sources": [
+        "blog"
+      ]
+    },
+    {
+      "work_id": "blog-mit-quantum-initiative-launches-postdoct-beefb646",
+      "kind": "blog",
+      "title": "MIT Quantum Initiative launches postdoctoral fellowship program",
+      "url": "https://news.mit.edu/2026/mit-quantum-initiative-launches-postdoctoral-fellowship-0831",
+      "published": "2026-08-31T19:30:00+00:00",
+      "updated": "2026-08-31T19:30:00+00:00",
+      "summary": "The Institute welcomes its first cohort of QMIT Fellows this fall to advance interdisciplinary quantum research.",
+      "source": "blog",
+      "group_ids": [
+        "mit-csail"
+      ],
+      "member_ids": [],
+      "member_names": [],
+      "authors": [],
+      "venue": "",
+      "citation_count": 0,
+      "influential_citation_count": 0,
+      "doi": "",
+      "arxiv_id": "",
+      "primary_category": "",
+      "categories": [],
+      "pdf_url": "",
+      "feed_url": "https://news.mit.edu/rss/topic/artificial-intelligence2",
+      "blog_label": "MIT News · AI",
+      "summary_cn": "",
+      "fetch_date": "2026-09-06",
+      "sources": [
+        "blog"
+      ]
+    },
+    {
+      "work_id": "2609.00196",
+      "kind": "paper",
+      "title": "WHALE: A Simple Recipe for Joint Harness-Weight Optimization",
+      "url": "https://arxiv.org/abs/2609.00196",
+      "published": "2026-08-31T18:12:55+00:00",
+      "updated": "2026-08-31T18:12:55+00:00",
+      "summary": "Agent performance depends jointly on the model parameters and the executable harness code that manages context and control flow. Optimizing either component in isolation can leave the system bottlenecked by its frozen counterpart: weight updates can change which harness is effective, while harness updates can change which model capabilities are exposed. Existing joint-adaptation methods optimize weights and textual prompts but leave the broader harness fixed. We propose Weight-Harness Alternating LEarning (WHALE), a simple recipe that alternates two phases: updating the model under the current harness, then searching for a better harness under the updated model. We instantiate these two phases with online rejection-sampling fine-tuning and Meta-Harness, respectively. When to switch is a key design choice: to separate real improvements from noise without over-optimizing against a changing counterpart, WHALE uses either fixed phase durations or an adaptive patience rule over training signals. Using Qwen3.5-2B/4B agents across three domains (search question answering, mathematical reasoning, and chess puzzles), WHALE outperforms weight-only, harness-only, and Fast-Slow Training by 4.15-24.38 percentage points in best mean@8 accuracy. Either component can be the bottleneck: harness search matches peak weight-only accuracy with far fewer rollouts in SearchQA, but improves math accuracy only after a weight update. Small interleaved updates also outperform stagewise weight-then-harness optimization in accuracy and rollout cost. The code is available at https://github.com/krafton-ai/WHALE.",
+      "source": "arxiv",
+      "group_ids": [
+        "stanford-ai"
+      ],
+      "member_ids": [
+        "chelsea-finn"
+      ],
+      "member_names": [
+        "Chelsea Finn"
+      ],
+      "authors": [
+        "Haechan Kim",
+        "Yoonho Lee",
+        "Gisang Lee",
+        "Chelsea Finn",
+        "Kangwook Lee"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "influential_citation_count": 0,
+      "doi": "",
+      "arxiv_id": "2609.00196",
+      "primary_category": "cs.LG",
+      "categories": [
+        "cs.LG",
+        "cs.AI"
+      ],
+      "pdf_url": "https://arxiv.org/pdf/2609.00196v1",
+      "feed_url": "",
+      "blog_label": "",
+      "summary_cn": "",
+      "fetch_date": "2026-09-06",
+      "sources": [
+        "arxiv"
+      ]
+    },
+    {
+      "work_id": "blog-gigapath-flash-and-gigatime-flash-toward-cd695f03",
+      "kind": "blog",
+      "title": "GigaPath-Flash and GigaTIME-Flash: Toward population-scale discovery with efficient pathology foundation models",
+      "url": "https://www.microsoft.com/en-us/research/blog/gigapath-flash-and-gigatime-flash-toward-population-scale-discovery-with-efficient-pathology-foundation-models/",
+      "published": "2026-08-31T16:00:00+00:00",
+      "updated": "2026-08-31T16:00:00+00:00",
+      "summary": "What if pathology foundation models could do more with less? GigaPath-Flash and GigaTIME-Flash cut computational demands while maintaining strong performance, opening the door to larger studies and broader exploration. The post GigaPath-Flash and GigaTIME-Flash: Toward population-scale discovery with efficient pathology foundation models appeared first on Microsoft Research .",
+      "source": "blog",
+      "group_ids": [
+        "microsoft-research"
+      ],
+      "member_ids": [],
+      "member_names": [],
+      "authors": [],
+      "venue": "",
+      "citation_count": 0,
+      "influential_citation_count": 0,
+      "doi": "",
+      "arxiv_id": "",
+      "primary_category": "",
+      "categories": [],
+      "pdf_url": "",
+      "feed_url": "https://www.microsoft.com/en-us/research/feed/",
+      "blog_label": "Microsoft Research Blog",
+      "summary_cn": "",
+      "fetch_date": "2026-09-06",
+      "sources": [
+        "blog"
+      ]
+    },
+    {
+      "work_id": "2608.30457",
+      "kind": "paper",
+      "title": "Learning Where Outcomes Change:Credit-Addressable Reasoning for Multimodal Geometry",
+      "url": "https://arxiv.org/abs/2608.30457",
+      "published": "2026-08-31T08:44:36+00:00",
+      "updated": "2026-08-31T08:44:36+00:00",
+      "summary": "Multimodal geometry reasoning requires VLMs to extract precise visual relations and preserve them through multi-step deduction. Existing free-form traces obscure the decisions that determine the answer, and trajectory-level reinforcement learning distributes a single terminal signal across the entire response. We introduce credit-addressable reasoning, in which the semantic units exposed during inference also define where learning compares alternatives and assigns credit. We instantiate this principle with Code-CoT, which retains the diagram, represents visual relations as line-addressable executable code, and organizes reasoning into typed events, and CE-GRPO, which selects event boundaries using structural priors and type-normalized entropy, samples complete continuations from shared prefixes, and converts outcome differences into localized advantages. Across nine geometry benchmarks, CE-GRPO achieves an average accuracy of 76.04, outperforming Qwen3-VL-8B and trajectory-level GRPO by $8.09$ and 3.43 points, respectively. Its relative advantage increases with the number of intermediate events, demonstrating the value of representation--optimization co-design for long, dependency-heavy multimodal reasoning.",
+      "source": "arxiv",
+      "group_ids": [
+        "msra"
+      ],
+      "member_ids": [
+        "furu-wei"
+      ],
+      "member_names": [
+        "Furu Wei"
+      ],
+      "authors": [
+        "Jiani Guo",
+        "Junjie Wang",
+        "Jie Wu",
+        "Pengxiang Zhao",
+        "Dongdong Zhang",
+        "Shaohan Huang",
+        "Yujiu Yang",
+        "Furu Wei"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "influential_citation_count": 0,
+      "doi": "",
+      "arxiv_id": "2608.30457",
+      "primary_category": "cs.LG",
+      "categories": [
+        "cs.LG",
+        "cs.CL"
+      ],
+      "pdf_url": "https://arxiv.org/pdf/2608.30457v1",
+      "feed_url": "",
+      "blog_label": "",
+      "summary_cn": "",
+      "fetch_date": "2026-09-06",
+      "sources": [
+        "arxiv"
+      ]
+    },
+    {
+      "work_id": "blog-supporting-california-bill-advance-ai-yo-d59ec907",
+      "kind": "blog",
+      "title": "OpenAI supports California’s bill to advance youth AI safety",
+      "url": "https://openai.com/index/supporting-california-bill-advance-ai-youth-safety",
+      "published": "2026-08-31T07:00:00+00:00",
+      "updated": "2026-08-31T07:00:00+00:00",
+      "summary": "OpenAI supports California SB 1119, advancing strong, age-appropriate AI safeguards for teens while preserving opportunities to learn, create, and explore.",
+      "source": "blog",
+      "group_ids": [
+        "openai"
+      ],
+      "member_ids": [],
+      "member_names": [],
+      "authors": [],
+      "venue": "",
+      "citation_count": 0,
+      "influential_citation_count": 0,
+      "doi": "",
+      "arxiv_id": "",
+      "primary_category": "",
+      "categories": [],
+      "pdf_url": "",
+      "feed_url": "https://openai.com/news/rss.xml",
+      "blog_label": "OpenAI News",
+      "summary_cn": "",
+      "fetch_date": "2026-09-06",
+      "sources": [
+        "blog"
+      ]
+    },
+    {
+      "work_id": "blog-polimill-4b4d3fca",
+      "kind": "blog",
+      "title": "Polimill builds Japan's next-generation public AI infrastructure",
+      "url": "https://openai.com/index/polimill",
+      "published": "2026-08-31T07:00:00+00:00",
+      "updated": "2026-08-31T07:00:00+00:00",
+      "summary": "Polimill uses OpenAI GPT models and Codex to help municipalities search and use administrative knowledge while accelerating development.",
+      "source": "blog",
+      "group_ids": [
+        "openai"
+      ],
+      "member_ids": [],
+      "member_names": [],
+      "authors": [],
+      "venue": "",
+      "citation_count": 0,
+      "influential_citation_count": 0,
+      "doi": "",
+      "arxiv_id": "",
+      "primary_category": "",
+      "categories": [],
+      "pdf_url": "",
+      "feed_url": "https://openai.com/news/rss.xml",
+      "blog_label": "OpenAI News",
+      "summary_cn": "",
+      "fetch_date": "2026-09-06",
+      "sources": [
+        "blog"
+      ]
+    },
+    {
+      "work_id": "blog-expanding-access-to-ai-with-chatgpt-ads-2fd25e36",
+      "kind": "blog",
+      "title": "A milestone in expanding access to AI",
+      "url": "https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads",
+      "published": "2026-08-31T04:00:00+00:00",
+      "updated": "2026-08-31T04:00:00+00:00",
+      "summary": "ChatGPT Ads reaches $1 billion in annualized revenue run rate and expands globally, supporting broader access to AI through free and affordable options.",
+      "source": "blog",
+      "group_ids": [
+        "openai"
+      ],
+      "member_ids": [],
+      "member_names": [],
+      "authors": [],
+      "venue": "",
+      "citation_count": 0,
+      "influential_citation_count": 0,
+      "doi": "",
+      "arxiv_id": "",
+      "primary_category": "",
+      "categories": [],
+      "pdf_url": "",
+      "feed_url": "https://openai.com/news/rss.xml",
+      "blog_label": "OpenAI News",
+      "summary_cn": "",
+      "fetch_date": "2026-09-06",
+      "sources": [
+        "blog"
+      ]
+    },
+    {
+      "work_id": "blog-how-mit-research-project-became-global-p-9cb1dac7",
+      "kind": "blog",
+      "title": "How an MIT research project became a global programming language",
+      "url": "https://news.mit.edu/2026/how-mit-research-project-became-global-programming-language-0831",
+      "published": "2026-08-31T04:00:00+00:00",
+      "updated": "2026-08-31T04:00:00+00:00",
+      "summary": "With millions of users across the world, Julia has been used to conduct cutting-edge research and to design new drugs, jet engines, heat pumps, and more.",
+      "source": "blog",
+      "group_ids": [
+        "mit-csail"
+      ],
+      "member_ids": [],
+      "member_names": [],
+      "authors": [],
+      "venue": "",
+      "citation_count": 0,
+      "influential_citation_count": 0,
+      "doi": "",
+      "arxiv_id": "",
+      "primary_category": "",
+      "categories": [],
+      "pdf_url": "",
+      "feed_url": "https://news.mit.edu/rss/topic/artificial-intelligence2",
+      "blog_label": "MIT News · AI",
+      "summary_cn": "",
+      "fetch_date": "2026-09-06",
+      "sources": [
+        "blog"
+      ]
+    }
+  ],
+  "source_stats": {
+    "arxiv": 6,
+    "blog": 25
+  },
+  "kind_stats": {
+    "blog": 24,
+    "paper": 6
+  }
+}
