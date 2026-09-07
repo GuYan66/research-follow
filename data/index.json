@@ -2591,7 +2591,49 @@
       "venue": "",
       "citation_count": 0,
       "path": "works/works-2026-09-05.json"
+    },
+    "blog-ai-planet-accelerator-apac-c031684b": {
+      "work_id": "blog-ai-planet-accelerator-apac-c031684b",
+      "kind": "blog",
+      "title": "Backing 16 green AI projects in Asia-Pacific",
+      "date": "2026-09-07",
+      "published": "2026-09-07T01:00:00+00:00",
+      "arxiv_id": "",
+      "group_ids": [
+        "google-deepmind"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-09-07.json"
+    },
+    "blog-an-alien-mind-fa9ace51": {
+      "work_id": "blog-an-alien-mind-fa9ace51",
+      "kind": "blog",
+      "title": "An Alien Mind",
+      "date": "2026-09-07",
+      "published": "2026-09-06T09:00:00+00:00",
+      "arxiv_id": "",
+      "group_ids": [
+        "openai"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-09-07.json"
+    },
+    "blog-research-acceleration-view-inside-openai-08a51be3": {
+      "work_id": "blog-research-acceleration-view-inside-openai-08a51be3",
+      "kind": "blog",
+      "title": "Research acceleration: The view inside OpenAI",
+      "date": "2026-09-07",
+      "published": "2026-09-06T08:00:00+00:00",
+      "arxiv_id": "",
+      "group_ids": [
+        "openai"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-09-07.json"
     }
   },
-  "last_updated": "2026-09-06T04:47:39.173798+00:00"
+  "last_updated": "2026-09-07T04:51:06.396744+00:00"
 }
