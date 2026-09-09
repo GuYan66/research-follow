@@ -2661,7 +2661,175 @@
       "venue": "",
       "citation_count": 0,
       "path": "works/works-2026-09-08.json"
+    },
+    "blog-codex-quantum-computing-experiments-6bca5f49": {
+      "work_id": "blog-codex-quantum-computing-experiments-6bca5f49",
+      "kind": "blog",
+      "title": "How GPT-5.6 Sol helps run quantum computing experiments",
+      "date": "2026-09-09",
+      "published": "2026-09-08T17:00:00+00:00",
+      "arxiv_id": "",
+      "group_ids": [
+        "openai"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-09-09.json"
+    },
+    "blog-alphagenome-atlas-3da988f9": {
+      "work_id": "blog-alphagenome-atlas-3da988f9",
+      "kind": "blog",
+      "title": "AlphaGenome Atlas: a high-resolution map of human DNA",
+      "date": "2026-09-09",
+      "published": "2026-09-08T14:00:00+00:00",
+      "arxiv_id": "",
+      "group_ids": [
+        "google-deepmind"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-09-09.json"
+    },
+    "blog-the-work-now-within-reach-c179e185": {
+      "work_id": "blog-the-work-now-within-reach-c179e185",
+      "kind": "blog",
+      "title": "The Work Now Within Reach",
+      "date": "2026-09-09",
+      "published": "2026-09-08T13:00:00+00:00",
+      "arxiv_id": "",
+      "group_ids": [
+        "openai"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-09-09.json"
+    },
+    "blog-introducing-chatgpt-images-2-5-0c53682d": {
+      "work_id": "blog-introducing-chatgpt-images-2-5-0c53682d",
+      "kind": "blog",
+      "title": "Introducing ChatGPT Images 2.5",
+      "date": "2026-09-09",
+      "published": "2026-09-08T11:30:00+00:00",
+      "arxiv_id": "",
+      "group_ids": [
+        "openai"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-09-09.json"
+    },
+    "blog-navier-stokes-solution-22710615": {
+      "work_id": "blog-navier-stokes-solution-22710615",
+      "kind": "blog",
+      "title": "On the Navier–Stokes Millennium Prize Problem",
+      "date": "2026-09-09",
+      "published": "2026-09-08T10:00:00+00:00",
+      "arxiv_id": "",
+      "group_ids": [
+        "openai"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-09-09.json"
+    },
+    "blog-teen-development-research-grants-028f0118": {
+      "work_id": "blog-teen-development-research-grants-028f0118",
+      "kind": "blog",
+      "title": "Funding grants for new research into AI and teen development",
+      "date": "2026-09-09",
+      "published": "2026-09-08T09:00:00+00:00",
+      "arxiv_id": "",
+      "group_ids": [
+        "openai"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-09-09.json"
+    },
+    "blog-supporting-journalism-from-classrooms-to-9a2d106c": {
+      "work_id": "blog-supporting-journalism-from-classrooms-to-9a2d106c",
+      "kind": "blog",
+      "title": "OpenAI expands initiatives to support journalism from classrooms to newsrooms",
+      "date": "2026-09-09",
+      "published": "2026-09-08T00:00:00+00:00",
+      "arxiv_id": "",
+      "group_ids": [
+        "openai"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-09-09.json"
+    },
+    "blog-1password-98c4a155": {
+      "work_id": "blog-1password-98c4a155",
+      "kind": "blog",
+      "title": "1Password increases engineering productivity 21% with Codex",
+      "date": "2026-09-09",
+      "published": "2026-09-08T00:00:00+00:00",
+      "arxiv_id": "",
+      "group_ids": [
+        "openai"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-09-09.json"
+    },
+    "2609.07398": {
+      "work_id": "2609.07398",
+      "kind": "paper",
+      "title": "OpenWAM: An Open, Modular Exploration Towards Systematic World-Action Model Pretraining",
+      "date": "2026-09-09",
+      "published": "2026-09-07T12:12:32+00:00",
+      "arxiv_id": "2609.07398",
+      "group_ids": [
+        "tsinghua-ai"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-09-09.json"
+    },
+    "2609.07303": {
+      "work_id": "2609.07303",
+      "kind": "paper",
+      "title": "Long-Horizon Language Model Reinforcement Learning via Progressive Point Matching",
+      "date": "2026-09-09",
+      "published": "2026-09-07T10:21:41+00:00",
+      "arxiv_id": "2609.07303",
+      "group_ids": [
+        "berkeley-bair"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-09-09.json"
+    },
+    "2609.07134": {
+      "work_id": "2609.07134",
+      "kind": "paper",
+      "title": "Retrieval-Augmented Multi-Prompt Ensemble for Minor-Grain Breeding Information Extraction",
+      "date": "2026-09-09",
+      "published": "2026-09-07T07:30:49+00:00",
+      "arxiv_id": "2609.07134",
+      "group_ids": [
+        "tsinghua-ai"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-09-09.json"
+    },
+    "2609.05899": {
+      "work_id": "2609.05899",
+      "kind": "paper",
+      "title": "AlignDiff: Exploiting Model-Intrinsic Information for Better Preference Data Selection",
+      "date": "2026-09-09",
+      "published": "2026-09-05T05:51:23+00:00",
+      "arxiv_id": "2609.05899",
+      "group_ids": [
+        "msra"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-09-09.json"
     }
   },
-  "last_updated": "2026-09-08T05:20:12.936402+00:00"
+  "last_updated": "2026-09-09T04:51:05.071428+00:00"
 }
