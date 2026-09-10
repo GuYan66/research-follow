@@ -2829,7 +2829,91 @@
       "venue": "",
       "citation_count": 0,
       "path": "works/works-2026-09-09.json"
+    },
+    "blog-mit-schwarzman-college-computing-launche-59386ff8": {
+      "work_id": "blog-mit-schwarzman-college-computing-launche-59386ff8",
+      "kind": "blog",
+      "title": "MIT Schwarzman College of Computing launches pilot to help educators teach AI across disciplines",
+      "date": "2026-09-10",
+      "published": "2026-09-09T20:40:00+00:00",
+      "arxiv_id": "",
+      "group_ids": [
+        "mit-csail"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-09-10.json"
+    },
+    "blog-mapping-global-methane-emissions-from-sp-eb134dde": {
+      "work_id": "blog-mapping-global-methane-emissions-from-sp-eb134dde",
+      "kind": "blog",
+      "title": "A new deep learning model maps global methane emissions from space.",
+      "date": "2026-09-10",
+      "published": "2026-09-09T18:15:00+00:00",
+      "arxiv_id": "",
+      "group_ids": [
+        "google-research"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-09-10.json"
+    },
+    "blog-paul-christiano-joins-openai-foundation--3662ecab": {
+      "work_id": "blog-paul-christiano-joins-openai-foundation--3662ecab",
+      "kind": "blog",
+      "title": "Paul Christiano joins OpenAI Foundation Board",
+      "date": "2026-09-10",
+      "published": "2026-09-09T17:00:00+00:00",
+      "arxiv_id": "",
+      "group_ids": [
+        "openai"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-09-10.json"
+    },
+    "blog-love-rendered-film-1ee177b1": {
+      "work_id": "blog-love-rendered-film-1ee177b1",
+      "kind": "blog",
+      "title": "Recreating a 70-year love story frame by frame",
+      "date": "2026-09-10",
+      "published": "2026-09-09T16:00:00+00:00",
+      "arxiv_id": "",
+      "group_ids": [
+        "google-deepmind"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-09-10.json"
+    },
+    "blog-ai-policy-window-95cddb4b": {
+      "work_id": "blog-ai-policy-window-95cddb4b",
+      "kind": "blog",
+      "title": "The AI policy window is open. We need to act.",
+      "date": "2026-09-10",
+      "published": "2026-09-09T13:00:00+00:00",
+      "arxiv_id": "",
+      "group_ids": [
+        "openai"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-09-10.json"
+    },
+    "blog-gpt-6-astra-next-generation-work-33bad615": {
+      "work_id": "blog-gpt-6-astra-next-generation-work-33bad615",
+      "kind": "blog",
+      "title": "GPT-6 Astra: The next generation in intelligence for work",
+      "date": "2026-09-10",
+      "published": "2026-09-09T11:00:00+00:00",
+      "arxiv_id": "",
+      "group_ids": [
+        "openai"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-09-10.json"
     }
   },
-  "last_updated": "2026-09-09T04:51:05.071428+00:00"
+  "last_updated": "2026-09-10T04:51:02.495661+00:00"
 }
