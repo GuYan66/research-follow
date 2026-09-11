@@ -2913,7 +2913,105 @@
       "venue": "",
       "citation_count": 0,
       "path": "works/works-2026-09-10.json"
+    },
+    "2609.11917": {
+      "work_id": "2609.11917",
+      "kind": "paper",
+      "title": "Data Scarcity and Model Sparsity: Mixtures-of-Experts Overfit More to Repeated Data",
+      "date": "2026-09-11",
+      "published": "2026-09-10T17:57:33+00:00",
+      "arxiv_id": "2609.11917",
+      "group_ids": [
+        "stanford-ai"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-09-11.json"
+    },
+    "blog-using-codex-chatgpt-to-search-for-new-an-70ebe956": {
+      "work_id": "blog-using-codex-chatgpt-to-search-for-new-an-70ebe956",
+      "kind": "blog",
+      "title": "How a researcher uses Codex and ChatGPT to search for new antimicrobial molecules",
+      "date": "2026-09-11",
+      "published": "2026-09-10T16:00:00+00:00",
+      "arxiv_id": "",
+      "group_ids": [
+        "openai"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-09-11.json"
+    },
+    "blog-put-data-to-work-9a05ed04": {
+      "work_id": "blog-put-data-to-work-9a05ed04",
+      "kind": "blog",
+      "title": "Now everyone can put data to work",
+      "date": "2026-09-11",
+      "published": "2026-09-10T15:00:00+00:00",
+      "arxiv_id": "",
+      "group_ids": [
+        "openai"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-09-11.json"
+    },
+    "blog-introducing-chatgpt-financial-services-674e02a1": {
+      "work_id": "blog-introducing-chatgpt-financial-services-674e02a1",
+      "kind": "blog",
+      "title": "Introducing ChatGPT for Financial Services",
+      "date": "2026-09-11",
+      "published": "2026-09-10T07:00:00+00:00",
+      "arxiv_id": "",
+      "group_ids": [
+        "openai"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-09-11.json"
+    },
+    "blog-expanding-ai-access-us-government-f3ba937e": {
+      "work_id": "blog-expanding-ai-access-us-government-f3ba937e",
+      "kind": "blog",
+      "title": "Expanding AI access and cyber defense for federal, state, local, and tribal governments",
+      "date": "2026-09-11",
+      "published": "2026-09-10T07:00:00+00:00",
+      "arxiv_id": "",
+      "group_ids": [
+        "openai"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-09-11.json"
+    },
+    "blog-introducing-the-agents-api-253d67a0": {
+      "work_id": "blog-introducing-the-agents-api-253d67a0",
+      "kind": "blog",
+      "title": "Introducing the Agents API",
+      "date": "2026-09-11",
+      "published": "2026-09-10T00:00:00+00:00",
+      "arxiv_id": "",
+      "group_ids": [
+        "openai"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-09-11.json"
+    },
+    "blog-introducing-gpt-live-1-in-the-api-ca3f12c4": {
+      "work_id": "blog-introducing-gpt-live-1-in-the-api-ca3f12c4",
+      "kind": "blog",
+      "title": "Build more natural voice experiences with GPT‑Live‑1 in the API",
+      "date": "2026-09-11",
+      "published": "2026-09-10T00:00:00+00:00",
+      "arxiv_id": "",
+      "group_ids": [
+        "openai"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-09-11.json"
     }
   },
-  "last_updated": "2026-09-10T04:51:02.495661+00:00"
+  "last_updated": "2026-09-11T04:49:14.865013+00:00"
 }
