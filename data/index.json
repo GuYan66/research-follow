@@ -3011,7 +3011,63 @@
       "venue": "",
       "citation_count": 0,
       "path": "works/works-2026-09-11.json"
+    },
+    "blog-perplexity-improving-accuracy-with-astra-6b695a8f": {
+      "work_id": "blog-perplexity-improving-accuracy-with-astra-6b695a8f",
+      "kind": "blog",
+      "title": "Perplexity trusts GPT-6 Astra with end-to-end systems",
+      "date": "2026-09-12",
+      "published": "2026-09-14T00:00:00+00:00",
+      "arxiv_id": "",
+      "group_ids": [
+        "openai"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-09-12.json"
+    },
+    "blog-cognition-devin-testing-with-astra-e078c706": {
+      "work_id": "blog-cognition-devin-testing-with-astra-e078c706",
+      "kind": "blog",
+      "title": "Cognition helps Devin test its own work with GPT‑6 Astra",
+      "date": "2026-09-12",
+      "published": "2026-09-11T16:00:00+00:00",
+      "arxiv_id": "",
+      "group_ids": [
+        "openai"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-09-12.json"
+    },
+    "blog-lifesaving-lincoln-laboratory-technology-f828f30c": {
+      "work_id": "blog-lifesaving-lincoln-laboratory-technology-f828f30c",
+      "kind": "blog",
+      "title": "Lifesaving Lincoln Laboratory device wins 2026 Excellence in Technology Transfer Award",
+      "date": "2026-09-12",
+      "published": "2026-09-11T13:45:00+00:00",
+      "arxiv_id": "",
+      "group_ids": [
+        "mit-csail"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-09-12.json"
+    },
+    "blog-scaling-storage-one-billion-users-part-o-3b49975f": {
+      "work_id": "blog-scaling-storage-one-billion-users-part-o-3b49975f",
+      "kind": "blog",
+      "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users",
+      "date": "2026-09-12",
+      "published": "2026-09-11T10:00:00+00:00",
+      "arxiv_id": "",
+      "group_ids": [
+        "openai"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-09-12.json"
     }
   },
-  "last_updated": "2026-09-11T04:49:14.865013+00:00"
+  "last_updated": "2026-09-12T04:44:29.744964+00:00"
 }
