@@ -3067,7 +3067,49 @@
       "venue": "",
       "citation_count": 0,
       "path": "works/works-2026-09-12.json"
+    },
+    "blog-new-method-enables-ai-safety-critical-si-4cc0397c": {
+      "work_id": "blog-new-method-enables-ai-safety-critical-si-4cc0397c",
+      "kind": "blog",
+      "title": "New method enables AI for safety-critical situations",
+      "date": "2026-09-14",
+      "published": "2026-09-14T04:00:00+00:00",
+      "arxiv_id": "",
+      "group_ids": [
+        "mit-csail"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-09-14.json"
+    },
+    "blog-mit-spinout-turns-plastic-waste-into-res-89ceea85": {
+      "work_id": "blog-mit-spinout-turns-plastic-waste-into-res-89ceea85",
+      "kind": "blog",
+      "title": "MIT spinout turns plastic waste into resilient building materials",
+      "date": "2026-09-14",
+      "published": "2026-09-14T04:00:00+00:00",
+      "arxiv_id": "",
+      "group_ids": [
+        "mit-csail"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-09-14.json"
+    },
+    "doi-10-1145-3832810-3832915": {
+      "work_id": "doi-10-1145-3832810-3832915",
+      "kind": "paper",
+      "title": "RapidGEMM: An Efficient Tile-agnostic GEMM for Mixture-of-Experts Training",
+      "date": "2026-09-14",
+      "published": "2026-09-13",
+      "arxiv_id": "",
+      "group_ids": [
+        "msra"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-09-14.json"
     }
   },
-  "last_updated": "2026-09-13T05:23:52.837288+00:00"
+  "last_updated": "2026-09-14T05:30:35.451835+00:00"
 }
