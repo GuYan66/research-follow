@@ -3109,7 +3109,35 @@
       "venue": "",
       "citation_count": 0,
       "path": "works/works-2026-09-14.json"
+    },
+    "blog-fyxer-d7a44e55": {
+      "work_id": "blog-fyxer-d7a44e55",
+      "kind": "blog",
+      "title": "How Fyxer built an AI executive assistant people trust",
+      "date": "2026-09-15",
+      "published": "2026-09-14T12:00:00+00:00",
+      "arxiv_id": "",
+      "group_ids": [
+        "openai"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-09-15.json"
+    },
+    "doi-10-1007-978-981-92-3566-7-44": {
+      "work_id": "doi-10-1007-978-981-92-3566-7-44",
+      "kind": "paper",
+      "title": "Time Headway Prediction in Highway Merging Zones Based on Bi-LSTM-Attention",
+      "date": "2026-09-15",
+      "published": "2026-09-13",
+      "arxiv_id": "",
+      "group_ids": [
+        "shanghai-ai-lab"
+      ],
+      "venue": "Lecture notes in electrical engineering",
+      "citation_count": 0,
+      "path": "works/works-2026-09-15.json"
     }
   },
-  "last_updated": "2026-09-14T05:30:35.451835+00:00"
+  "last_updated": "2026-09-15T05:29:24.589416+00:00"
 }
