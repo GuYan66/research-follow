@@ -3137,7 +3137,63 @@
       "venue": "Lecture notes in electrical engineering",
       "citation_count": 0,
       "path": "works/works-2026-09-15.json"
+    },
+    "blog-studying-society-accurately-naoki-egami--9b004ee5": {
+      "work_id": "blog-studying-society-accurately-naoki-egami--9b004ee5",
+      "kind": "blog",
+      "title": "Measure by measure, studying society accurately",
+      "date": "2026-09-16",
+      "published": "2026-09-16T04:00:00+00:00",
+      "arxiv_id": "",
+      "group_ids": [
+        "mit-csail"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-09-16.json"
+    },
+    "blog-ai-applications-science-people-cf8d6b5d": {
+      "work_id": "blog-ai-applications-science-people-cf8d6b5d",
+      "kind": "blog",
+      "title": "Building AI to accelerate science and improve lives",
+      "date": "2026-09-16",
+      "published": "2026-09-15T16:00:00+00:00",
+      "arxiv_id": "",
+      "group_ids": [
+        "google-research"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-09-16.json"
+    },
+    "blog-ai-for-every-language-f840adc9": {
+      "work_id": "blog-ai-for-every-language-f840adc9",
+      "kind": "blog",
+      "title": "AI for everyone in every language",
+      "date": "2026-09-16",
+      "published": "2026-09-15T16:00:00+00:00",
+      "arxiv_id": "",
+      "group_ids": [
+        "google-research"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-09-16.json"
+    },
+    "blog-wildfire-tracking-ai-ee9f3387": {
+      "work_id": "blog-wildfire-tracking-ai-ee9f3387",
+      "kind": "blog",
+      "title": "Ask a Scientist: How can researchers use AI to spot a wildfire?",
+      "date": "2026-09-16",
+      "published": "2026-09-15T16:00:00+00:00",
+      "arxiv_id": "",
+      "group_ids": [
+        "google-research"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-09-16.json"
     }
   },
-  "last_updated": "2026-09-15T05:29:24.589416+00:00"
+  "last_updated": "2026-09-16T04:57:47.213001+00:00"
 }
