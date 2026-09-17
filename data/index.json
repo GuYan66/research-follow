@@ -3193,7 +3193,119 @@
       "venue": "",
       "citation_count": 0,
       "path": "works/works-2026-09-16.json"
+    },
+    "blog-model-misalignment-reporting-framework-2a48cbef": {
+      "work_id": "blog-model-misalignment-reporting-framework-2a48cbef",
+      "kind": "blog",
+      "title": "Our framework for reporting model misalignment",
+      "date": "2026-09-17",
+      "published": "2026-09-16T17:00:00+00:00",
+      "arxiv_id": "",
+      "group_ids": [
+        "openai"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-09-17.json"
+    },
+    "blog-helping-older-adults-use-ai-in-everyday--3be900a9": {
+      "work_id": "blog-helping-older-adults-use-ai-in-everyday--3be900a9",
+      "kind": "blog",
+      "title": "Helping older adults use AI in everyday life",
+      "date": "2026-09-17",
+      "published": "2026-09-16T16:00:00+00:00",
+      "arxiv_id": "",
+      "group_ids": [
+        "openai"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-09-17.json"
+    },
+    "blog-new-ai-technique-could-make-minimally-in-7bd62fea": {
+      "work_id": "blog-new-ai-technique-could-make-minimally-in-7bd62fea",
+      "kind": "blog",
+      "title": "New AI technique could make minimally invasive surgeries safer and more precise",
+      "date": "2026-09-17",
+      "published": "2026-09-16T15:00:00+00:00",
+      "arxiv_id": "",
+      "group_ids": [
+        "mit-csail"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-09-17.json"
+    },
+    "blog-reimagining-advertising-with-ai-2886a9f8": {
+      "work_id": "blog-reimagining-advertising-with-ai-2886a9f8",
+      "kind": "blog",
+      "title": "Reimagining advertising with AI",
+      "date": "2026-09-17",
+      "published": "2026-09-16T13:00:00+00:00",
+      "arxiv_id": "",
+      "group_ids": [
+        "openai"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-09-17.json"
+    },
+    "blog-how-to-connect-ai-usage-to-business-valu-9f8dbfd0": {
+      "work_id": "blog-how-to-connect-ai-usage-to-business-valu-9f8dbfd0",
+      "kind": "blog",
+      "title": "How to connect AI usage to business value",
+      "date": "2026-09-17",
+      "published": "2026-09-16T12:00:00+00:00",
+      "arxiv_id": "",
+      "group_ids": [
+        "openai"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-09-17.json"
+    },
+    "blog-unlocking-new-ways-of-working-3096ca5e": {
+      "work_id": "blog-unlocking-new-ways-of-working-3096ca5e",
+      "kind": "blog",
+      "title": "How workers are unlocking new ways of working",
+      "date": "2026-09-17",
+      "published": "2026-09-16T09:00:00+00:00",
+      "arxiv_id": "",
+      "group_ids": [
+        "openai"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-09-17.json"
+    },
+    "2609.18207": {
+      "work_id": "2609.18207",
+      "kind": "paper",
+      "title": "Reinforcement Learning for Real-Time Vision-Language-Action Policies",
+      "date": "2026-09-17",
+      "published": "2026-09-16T06:38:36+00:00",
+      "arxiv_id": "2609.18207",
+      "group_ids": [
+        "stanford-ai"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-09-17.json"
+    },
+    "2609.17895": {
+      "work_id": "2609.17895",
+      "kind": "paper",
+      "title": "TabPFN-3.5: Technical Report",
+      "date": "2026-09-17",
+      "published": "2026-09-15T22:38:29+00:00",
+      "arxiv_id": "2609.17895",
+      "group_ids": [
+        "meta-fair"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-09-17.json"
     }
   },
-  "last_updated": "2026-09-16T04:57:47.213001+00:00"
+  "last_updated": "2026-09-17T05:01:28.704212+00:00"
 }

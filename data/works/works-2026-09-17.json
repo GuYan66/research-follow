@@ -1,0 +1,952 @@
+{
+  "date": "2026-09-17",
+  "groups": [
+    "openai",
+    "google-deepmind",
+    "google-research",
+    "anthropic",
+    "meta-fair",
+    "microsoft-research",
+    "berkeley-bair",
+    "stanford-ai",
+    "mit-csail",
+    "cmu-ml",
+    "deepseek",
+    "zhipu-ai",
+    "moonshot-ai",
+    "bytedance-seed",
+    "alibaba-qwen",
+    "minimax",
+    "stepfun",
+    "tsinghua-ai",
+    "pku-ai",
+    "shanghai-ai-lab",
+    "sjtu-ai",
+    "msra"
+  ],
+  "window_days": 7,
+  "works": [
+    {
+      "work_id": "blog-model-misalignment-reporting-framework-2a48cbef",
+      "kind": "blog",
+      "title": "Our framework for reporting model misalignment",
+      "url": "https://openai.com/index/model-misalignment-reporting-framework",
+      "published": "2026-09-16T17:00:00+00:00",
+      "updated": "2026-09-16T17:00:00+00:00",
+      "summary": "OpenAI shares a framework for tracking, investigating, and disclosing model misalignment, alongside six reports of unexpected or concerning model behavior.",
+      "source": "blog",
+      "group_ids": [
+        "openai"
+      ],
+      "member_ids": [],
+      "member_names": [],
+      "authors": [],
+      "venue": "",
+      "citation_count": 0,
+      "influential_citation_count": 0,
+      "doi": "",
+      "arxiv_id": "",
+      "primary_category": "",
+      "categories": [],
+      "pdf_url": "",
+      "feed_url": "https://openai.com/news/rss.xml",
+      "blog_label": "OpenAI News",
+      "summary_cn": "",
+      "fetch_date": "2026-09-17",
+      "sources": [
+        "blog"
+      ]
+    },
+    {
+      "work_id": "blog-helping-older-adults-use-ai-in-everyday--3be900a9",
+      "kind": "blog",
+      "title": "Helping older adults use AI in everyday life",
+      "url": "https://openai.com/index/helping-older-adults-use-ai-in-everyday-life",
+      "published": "2026-09-16T16:00:00+00:00",
+      "updated": "2026-09-16T16:00:00+00:00",
+      "summary": "OpenAI and AARP are bringing free, hands-on ChatGPT workshops to 1,000 older adults across 10 U.S. cities to build practical AI skills safely.",
+      "source": "blog",
+      "group_ids": [
+        "openai"
+      ],
+      "member_ids": [],
+      "member_names": [],
+      "authors": [],
+      "venue": "",
+      "citation_count": 0,
+      "influential_citation_count": 0,
+      "doi": "",
+      "arxiv_id": "",
+      "primary_category": "",
+      "categories": [],
+      "pdf_url": "",
+      "feed_url": "https://openai.com/news/rss.xml",
+      "blog_label": "OpenAI News",
+      "summary_cn": "",
+      "fetch_date": "2026-09-17",
+      "sources": [
+        "blog"
+      ]
+    },
+    {
+      "work_id": "blog-new-ai-technique-could-make-minimally-in-7bd62fea",
+      "kind": "blog",
+      "title": "New AI technique could make minimally invasive surgeries safer and more precise",
+      "url": "https://news.mit.edu/2026/new-ai-technique-could-make-minimally-invasive-surgeries-safer-more-precise-0916",
+      "published": "2026-09-16T15:00:00+00:00",
+      "updated": "2026-09-16T15:00:00+00:00",
+      "summary": "This patient-specific method, called xvr, helps doctors use X-rays for surgical navigation in fields such as orthopedics and neurosurgery.",
+      "source": "blog",
+      "group_ids": [
+        "mit-csail"
+      ],
+      "member_ids": [],
+      "member_names": [],
+      "authors": [],
+      "venue": "",
+      "citation_count": 0,
+      "influential_citation_count": 0,
+      "doi": "",
+      "arxiv_id": "",
+      "primary_category": "",
+      "categories": [],
+      "pdf_url": "",
+      "feed_url": "https://news.mit.edu/rss/topic/artificial-intelligence2",
+      "blog_label": "MIT News · AI",
+      "summary_cn": "",
+      "fetch_date": "2026-09-17",
+      "sources": [
+        "blog"
+      ]
+    },
+    {
+      "work_id": "blog-reimagining-advertising-with-ai-2886a9f8",
+      "kind": "blog",
+      "title": "Reimagining advertising with AI",
+      "url": "https://openai.com/index/reimagining-advertising-with-ai",
+      "published": "2026-09-16T13:00:00+00:00",
+      "updated": "2026-09-16T13:00:00+00:00",
+      "summary": "Explore new AI-powered advertising experiences from OpenAI, including Sponsored Agents, tools for marketers, and integrations with HubSpot and Shopify.",
+      "source": "blog",
+      "group_ids": [
+        "openai"
+      ],
+      "member_ids": [],
+      "member_names": [],
+      "authors": [],
+      "venue": "",
+      "citation_count": 0,
+      "influential_citation_count": 0,
+      "doi": "",
+      "arxiv_id": "",
+      "primary_category": "",
+      "categories": [],
+      "pdf_url": "",
+      "feed_url": "https://openai.com/news/rss.xml",
+      "blog_label": "OpenAI News",
+      "summary_cn": "",
+      "fetch_date": "2026-09-17",
+      "sources": [
+        "blog"
+      ]
+    },
+    {
+      "work_id": "blog-how-to-connect-ai-usage-to-business-valu-9f8dbfd0",
+      "kind": "blog",
+      "title": "How to connect AI usage to business value",
+      "url": "https://openai.com/index/how-to-connect-ai-usage-to-business-value",
+      "published": "2026-09-16T12:00:00+00:00",
+      "updated": "2026-09-16T12:00:00+00:00",
+      "summary": "Learn how ChatGPT Work and Codex analytics help teams understand AI usage and spend, identify training needs, and connect adoption to business outcomes.",
+      "source": "blog",
+      "group_ids": [
+        "openai"
+      ],
+      "member_ids": [],
+      "member_names": [],
+      "authors": [],
+      "venue": "",
+      "citation_count": 0,
+      "influential_citation_count": 0,
+      "doi": "",
+      "arxiv_id": "",
+      "primary_category": "",
+      "categories": [],
+      "pdf_url": "",
+      "feed_url": "https://openai.com/news/rss.xml",
+      "blog_label": "OpenAI News",
+      "summary_cn": "",
+      "fetch_date": "2026-09-17",
+      "sources": [
+        "blog"
+      ]
+    },
+    {
+      "work_id": "blog-unlocking-new-ways-of-working-3096ca5e",
+      "kind": "blog",
+      "title": "How workers are unlocking new ways of working",
+      "url": "https://openai.com/index/unlocking-new-ways-of-working",
+      "published": "2026-09-16T09:00:00+00:00",
+      "updated": "2026-09-16T09:00:00+00:00",
+      "summary": "New OpenAI Economic Research shows how workers use AI beyond traditional roles and which new activities become recurring parts of their work.",
+      "source": "blog",
+      "group_ids": [
+        "openai"
+      ],
+      "member_ids": [],
+      "member_names": [],
+      "authors": [],
+      "venue": "",
+      "citation_count": 0,
+      "influential_citation_count": 0,
+      "doi": "",
+      "arxiv_id": "",
+      "primary_category": "",
+      "categories": [],
+      "pdf_url": "",
+      "feed_url": "https://openai.com/news/rss.xml",
+      "blog_label": "OpenAI News",
+      "summary_cn": "",
+      "fetch_date": "2026-09-17",
+      "sources": [
+        "blog"
+      ]
+    },
+    {
+      "work_id": "2609.18207",
+      "kind": "paper",
+      "title": "Reinforcement Learning for Real-Time Vision-Language-Action Policies",
+      "url": "https://arxiv.org/abs/2609.18207",
+      "published": "2026-09-16T06:38:36+00:00",
+      "updated": "2026-09-16T06:38:36+00:00",
+      "summary": "Reinforcement learning fine-tuning on top of large, pretrained Vision-Language-Action (VLA) models offers promise for highly reliable robot deployment. However, because of their scale, modern VLA models suffer from high inference latency, so the observation used to select an action is often stale by execution time, creating a distribution shift that can substantially degrade reliability and performance. Prior work has explored asynchronous policy execution to reduce the effect of latency, but these methods are mostly built on imitation learning and offer no mechanism for moving beyond the training distribution toward higher reliability. We close this gap by enabling RL fine-tuning that meets the real-time control requirements of dynamic real-world manipulation. Our approach builds on EXPO-FT, a framework for sample-efficient, reliable VLA fine-tuning with reinforcement learning, and decouples slow, expressive action generation from fast, reactive action edits: a large pretrained VLA proposes action chunks using its strong behavior prior, while a lightweight edit policy performs fast, reactive decision-making by editing actions in response to changes in state, conditioned on the latest observation. We instantiate this as Real-Time EXPO-FT, an RL framework for finetuning real-time VLA policies. On the Kinetix benchmark, Real-Time EXPO-FT enables a delayed policy to achieve the best performance among delayed and non-delayed methods in 10 out of 10 environments. On four dynamic real-world tasks, robot object passing, ball balancing, table soccer kicking, and dynamic object picking, with online robot data capped at 10 minutes, Real-Time EXPO-FT improves average policy performance from 42% to 97%, all without human intervention, demonstrating rapid, sample-efficient adaptation to challenging real-world dynamics. Website: https://pd-perry.github.io/real-time-expo-ft",
+      "source": "arxiv",
+      "group_ids": [
+        "stanford-ai"
+      ],
+      "member_ids": [
+        "chelsea-finn"
+      ],
+      "member_names": [
+        "Chelsea Finn"
+      ],
+      "authors": [
+        "Perry Dong",
+        "Kuo-Han Hung",
+        "Dorsa Sadigh",
+        "Chelsea Finn"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "influential_citation_count": 0,
+      "doi": "",
+      "arxiv_id": "2609.18207",
+      "primary_category": "cs.RO",
+      "categories": [
+        "cs.RO",
+        "cs.LG"
+      ],
+      "pdf_url": "https://arxiv.org/pdf/2609.18207v1",
+      "feed_url": "",
+      "blog_label": "",
+      "summary_cn": "",
+      "fetch_date": "2026-09-17",
+      "sources": [
+        "arxiv"
+      ]
+    },
+    {
+      "work_id": "blog-studying-society-accurately-naoki-egami--9b004ee5",
+      "kind": "blog",
+      "title": "Measure by measure, studying society accurately",
+      "url": "https://news.mit.edu/2026/studying-society-accurately-naoki-egami-0916",
+      "published": "2026-09-16T04:00:00+00:00",
+      "updated": "2026-09-16T04:00:00+00:00",
+      "summary": "Naoki Egami has become a standout in political methodology, helping refine tools that give scholars durable results.",
+      "source": "blog",
+      "group_ids": [
+        "mit-csail"
+      ],
+      "member_ids": [],
+      "member_names": [],
+      "authors": [],
+      "venue": "",
+      "citation_count": 0,
+      "influential_citation_count": 0,
+      "doi": "",
+      "arxiv_id": "",
+      "primary_category": "",
+      "categories": [],
+      "pdf_url": "",
+      "feed_url": "https://news.mit.edu/rss/topic/artificial-intelligence2",
+      "blog_label": "MIT News · AI",
+      "summary_cn": "",
+      "fetch_date": "2026-09-17",
+      "sources": [
+        "blog"
+      ]
+    },
+    {
+      "work_id": "2609.17895",
+      "kind": "paper",
+      "title": "TabPFN-3.5: Technical Report",
+      "url": "https://arxiv.org/abs/2609.17895",
+      "published": "2026-09-15T22:38:29+00:00",
+      "updated": "2026-09-15T22:38:29+00:00",
+      "summary": "We introduce TabPFN-3.5, our new flagship Tabular Foundation Model. It significantly outperforms its predecessor, TabPFN-3, and all existing baselines across a broad range of tabular problems. TabPFN-3.5 sets a new state of the art on standard tabular prediction in TabArena, and extends it to the data practitioners encounter in practice: non-i.i.d. data with temporal or grouped splits, tables with strings, text and images, high-cardinality categorical features, and wide tables with many features. These gains carry over to our task-specific harnesses: state of the art on relational data and stronger time-series forecasting. For faster inference, our variant TabPFN-3.5-Fast runs up to 3x faster than TabPFN-3 while keeping most of the accuracy gains. In addition, we upgrade TabPFN-3.5-Plus, expanding our multimodal capabilities with advanced text and date handling alongside proprietary inference optimizations. Finally, we release a new version of our Thinking mode, TabPFN-3.5-Thinking, which scales inference-time computation to push the state of the art further. It benefits from our stronger base model and from inference-time improvements that make it up to 12x faster than TabPFN-3-Thinking.",
+      "source": "arxiv",
+      "group_ids": [
+        "meta-fair"
+      ],
+      "member_ids": [
+        "yann-lecun"
+      ],
+      "member_names": [
+        "Yann LeCun"
+      ],
+      "authors": [
+        "Benjamin Jäger",
+        "Nick Erickson",
+        "Léo Grinsztajn",
+        "Felix Birkel",
+        "Klemens Flöge",
+        "Oscar Key",
+        "Kürşat Kaya",
+        "Jonas Kübler",
+        "Adèle Frankel",
+        "Tobias Schröder",
+        "Anurag Garg",
+        "Jan Hendrik Metzen",
+        "David Salinas",
+        "Simon Bing",
+        "Kristina Collins",
+        "Tuana Çelik",
+        "Vahid Balazadeh",
+        "Lydia Sidhoum",
+        "Tomás Pereda",
+        "Brendan Roof",
+        "Andrej Tschalzev",
+        "Siyuan Guo",
+        "Philipp Singer",
+        "Lennart Purucker",
+        "Jake Robertson",
+        "Marie Salmon",
+        "Philipp Jund",
+        "Jerry Chen",
+        "Diana Kriuchkova",
+        "Arthur Cahu",
+        "Eliott Kalfon",
+        "Adrian Hayler",
+        "Georg Grab",
+        "Vitor Monteiro",
+        "Lilly Wehrhahn",
+        "Dominik Safaric",
+        "Clara Cornu",
+        "Alan Arazi",
+        "Rylee Grace",
+        "Simone Alessi",
+        "Mihir Manium",
+        "Bernhard Schölkopf",
+        "Yann LeCun",
+        "Madelon Hulsebos",
+        "Sauraj Gambhir",
+        "Noah Hollmann",
+        "Frank Hutter"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "influential_citation_count": 0,
+      "doi": "",
+      "arxiv_id": "2609.17895",
+      "primary_category": "cs.LG",
+      "categories": [
+        "cs.LG",
+        "stat.ML"
+      ],
+      "pdf_url": "https://arxiv.org/pdf/2609.17895v1",
+      "feed_url": "",
+      "blog_label": "",
+      "summary_cn": "",
+      "fetch_date": "2026-09-17",
+      "sources": [
+        "arxiv"
+      ]
+    },
+    {
+      "work_id": "blog-ai-applications-science-people-cf8d6b5d",
+      "kind": "blog",
+      "title": "Building AI to accelerate science and improve lives",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/ai-applications-science-people/",
+      "published": "2026-09-15T16:00:00+00:00",
+      "updated": "2026-09-15T16:00:00+00:00",
+      "summary": "B-roll showing diverse environments and people, including a teacher and students in a classroom and a patient with a doctor",
+      "source": "blog",
+      "group_ids": [
+        "google-research"
+      ],
+      "member_ids": [],
+      "member_names": [],
+      "authors": [],
+      "venue": "",
+      "citation_count": 0,
+      "influential_citation_count": 0,
+      "doi": "",
+      "arxiv_id": "",
+      "primary_category": "",
+      "categories": [],
+      "pdf_url": "",
+      "feed_url": "https://blog.google/technology/research/rss/",
+      "blog_label": "Google Research Blog",
+      "summary_cn": "",
+      "fetch_date": "2026-09-17",
+      "sources": [
+        "blog"
+      ]
+    },
+    {
+      "work_id": "blog-ai-for-every-language-f840adc9",
+      "kind": "blog",
+      "title": "AI for everyone in every language",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/ai-for-every-language/",
+      "published": "2026-09-15T16:00:00+00:00",
+      "updated": "2026-09-15T16:00:00+00:00",
+      "summary": "Animation of several words in different languages slowly zooming past",
+      "source": "blog",
+      "group_ids": [
+        "google-research"
+      ],
+      "member_ids": [],
+      "member_names": [],
+      "authors": [],
+      "venue": "",
+      "citation_count": 0,
+      "influential_citation_count": 0,
+      "doi": "",
+      "arxiv_id": "",
+      "primary_category": "",
+      "categories": [],
+      "pdf_url": "",
+      "feed_url": "https://blog.google/technology/research/rss/",
+      "blog_label": "Google Research Blog",
+      "summary_cn": "",
+      "fetch_date": "2026-09-17",
+      "sources": [
+        "blog"
+      ]
+    },
+    {
+      "work_id": "blog-wildfire-tracking-ai-ee9f3387",
+      "kind": "blog",
+      "title": "Ask a Scientist: How can researchers use AI to spot a wildfire?",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/wildfire-tracking-ai/",
+      "published": "2026-09-15T16:00:00+00:00",
+      "updated": "2026-09-15T16:00:00+00:00",
+      "summary": "Ask a scientist about wildfire detection",
+      "source": "blog",
+      "group_ids": [
+        "google-research"
+      ],
+      "member_ids": [],
+      "member_names": [],
+      "authors": [],
+      "venue": "",
+      "citation_count": 0,
+      "influential_citation_count": 0,
+      "doi": "",
+      "arxiv_id": "",
+      "primary_category": "",
+      "categories": [],
+      "pdf_url": "",
+      "feed_url": "https://blog.google/technology/research/rss/",
+      "blog_label": "Google Research Blog",
+      "summary_cn": "",
+      "fetch_date": "2026-09-17",
+      "sources": [
+        "blog"
+      ]
+    },
+    {
+      "work_id": "blog-fyxer-d7a44e55",
+      "kind": "blog",
+      "title": "How Fyxer built an AI executive assistant people trust",
+      "url": "https://openai.com/index/fyxer",
+      "published": "2026-09-14T12:00:00+00:00",
+      "updated": "2026-09-14T12:00:00+00:00",
+      "summary": "Fyxer uses OpenAI models, fine-tuning, memory, and real user feedback to organize inboxes and draft emails in each user’s voice.",
+      "source": "blog",
+      "group_ids": [
+        "openai"
+      ],
+      "member_ids": [],
+      "member_names": [],
+      "authors": [],
+      "venue": "",
+      "citation_count": 0,
+      "influential_citation_count": 0,
+      "doi": "",
+      "arxiv_id": "",
+      "primary_category": "",
+      "categories": [],
+      "pdf_url": "",
+      "feed_url": "https://openai.com/news/rss.xml",
+      "blog_label": "OpenAI News",
+      "summary_cn": "",
+      "fetch_date": "2026-09-17",
+      "sources": [
+        "blog"
+      ]
+    },
+    {
+      "work_id": "blog-new-method-enables-ai-safety-critical-si-4cc0397c",
+      "kind": "blog",
+      "title": "New method enables AI for safety-critical situations",
+      "url": "https://news.mit.edu/2026/new-method-enables-ai-safety-critical-situations-0914",
+      "published": "2026-09-14T04:00:00+00:00",
+      "updated": "2026-09-14T04:00:00+00:00",
+      "summary": "The “HardFlow” algorithm could help generative AI models produce high-quality outputs that obey strict requirements when “pretty close” doesn’t cut it.",
+      "source": "blog",
+      "group_ids": [
+        "mit-csail"
+      ],
+      "member_ids": [],
+      "member_names": [],
+      "authors": [],
+      "venue": "",
+      "citation_count": 0,
+      "influential_citation_count": 0,
+      "doi": "",
+      "arxiv_id": "",
+      "primary_category": "",
+      "categories": [],
+      "pdf_url": "",
+      "feed_url": "https://news.mit.edu/rss/topic/artificial-intelligence2",
+      "blog_label": "MIT News · AI",
+      "summary_cn": "",
+      "fetch_date": "2026-09-17",
+      "sources": [
+        "blog"
+      ]
+    },
+    {
+      "work_id": "blog-mit-spinout-turns-plastic-waste-into-res-89ceea85",
+      "kind": "blog",
+      "title": "MIT spinout turns plastic waste into resilient building materials",
+      "url": "https://news.mit.edu/2026/mit-spinout-turns-plastic-waste-into-resilient-building-materials-0914",
+      "published": "2026-09-14T04:00:00+00:00",
+      "updated": "2026-09-14T04:00:00+00:00",
+      "summary": "Atlas Building Composites is commercializing MIT research to turn plastic waste into parts for buildings and other infrastructure.",
+      "source": "blog",
+      "group_ids": [
+        "mit-csail"
+      ],
+      "member_ids": [],
+      "member_names": [],
+      "authors": [],
+      "venue": "",
+      "citation_count": 0,
+      "influential_citation_count": 0,
+      "doi": "",
+      "arxiv_id": "",
+      "primary_category": "",
+      "categories": [],
+      "pdf_url": "",
+      "feed_url": "https://news.mit.edu/rss/topic/artificial-intelligence2",
+      "blog_label": "MIT News · AI",
+      "summary_cn": "",
+      "fetch_date": "2026-09-17",
+      "sources": [
+        "blog"
+      ]
+    },
+    {
+      "work_id": "blog-perplexity-improving-accuracy-with-astra-6b695a8f",
+      "kind": "blog",
+      "title": "Perplexity trusts GPT-6 Astra with end-to-end systems",
+      "url": "https://openai.com/index/perplexity-improving-accuracy-with-astra",
+      "published": "2026-09-14T00:00:00+00:00",
+      "updated": "2026-09-14T00:00:00+00:00",
+      "summary": "Perplexity uses Astra to write communications, change software, and monitor production systems, and checks in much less frequently than with earlier models.",
+      "source": "blog",
+      "group_ids": [
+        "openai"
+      ],
+      "member_ids": [],
+      "member_names": [],
+      "authors": [],
+      "venue": "",
+      "citation_count": 0,
+      "influential_citation_count": 0,
+      "doi": "",
+      "arxiv_id": "",
+      "primary_category": "",
+      "categories": [],
+      "pdf_url": "",
+      "feed_url": "https://openai.com/news/rss.xml",
+      "blog_label": "OpenAI News",
+      "summary_cn": "",
+      "fetch_date": "2026-09-17",
+      "sources": [
+        "blog"
+      ]
+    },
+    {
+      "work_id": "doi-10-1007-978-981-92-3566-7-44",
+      "kind": "paper",
+      "title": "Time Headway Prediction in Highway Merging Zones Based on Bi-LSTM-Attention",
+      "url": "https://doi.org/10.1007/978-981-92-3566-7_44",
+      "published": "2026-09-13",
+      "updated": "2026-09-15T07:32:03.291174",
+      "summary": "",
+      "source": "openalex",
+      "group_ids": [
+        "shanghai-ai-lab"
+      ],
+      "member_ids": [
+        "wenhai-wang"
+      ],
+      "member_names": [
+        "Wenhai Wang"
+      ],
+      "authors": [
+        "R.X. Zhang",
+        "Wenbo Luo",
+        "Jiajun Du",
+        "Yvfeng Miu",
+        "Wenhai Wang",
+        "Yingying Ma",
+        "Yue Ming"
+      ],
+      "venue": "Lecture notes in electrical engineering",
+      "citation_count": 0,
+      "influential_citation_count": 0,
+      "doi": "10.1007/978-981-92-3566-7_44",
+      "arxiv_id": "",
+      "primary_category": "",
+      "categories": [],
+      "pdf_url": "",
+      "feed_url": "",
+      "blog_label": "",
+      "summary_cn": "",
+      "fetch_date": "2026-09-17",
+      "sources": [
+        "openalex"
+      ]
+    },
+    {
+      "work_id": "doi-10-1145-3832810-3832915",
+      "kind": "paper",
+      "title": "RapidGEMM: An Efficient Tile-agnostic GEMM for Mixture-of-Experts Training",
+      "url": "https://doi.org/10.1145/3832810.3832915",
+      "published": "2026-09-13",
+      "updated": "2026-09-14T07:18:48.979198",
+      "summary": "Grouped GEMM (General Matrix Multiplication) is the core primitive in performing each expert’s matrix multiplications on tokens routed to them in MoE (Mixture-of-Experts) training. However, existing implementations either drop tokens or zero-pad each expert’s token slice to meet GEMM tiling and alignment requirements. While dropping tokens avoids some padding overhead, it degrades model accuracy, whereas zero-padding wastes compute and memory on zero-filled slots and adds unpadding overhead. To address this problem, we design RapidGEMM, a new grouped GEMM kernel, for efficient MoE model training. Specifically, RapidGEMM adopts two no-drop no-padding strategies: (i) overflow-safe loads and predicated stores in the forward pass and (ii) overflow-bound loads and bulk stores in the backward. This design eliminates per-expert padding while producing the same result as the approach with padding and effectively overlaps asynchronous tensor-level transfers with MMA (Matrix Multiply-Accumulate) to avoid warp stalls. On B200 GPUs, the BF16 RapidGEMM kernel achieves up to 1.20 × speedup in the forward pass and 1.27 × in the backward pass, and speeds up both passes of a MoE layer by 1.12 × on average over the state-of-the-art grouped GEMM kernels. Code available at https://doi.org/https://github.com/RapidsAtHKUST/RapidGEMM.",
+      "source": "openalex",
+      "group_ids": [
+        "msra"
+      ],
+      "member_ids": [
+        "furu-wei"
+      ],
+      "member_names": [
+        "Furu Wei"
+      ],
+      "authors": [
+        "Le Xu",
+        "Yutao Sun",
+        "Yingbo Hao",
+        "Li Dong",
+        "Yilei Yang",
+        "Weijiang Xu",
+        "Youshan Miao",
+        "Hangbo Bao",
+        "Furu Wei",
+        "Qiong Luo"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "influential_citation_count": 0,
+      "doi": "10.1145/3832810.3832915",
+      "arxiv_id": "",
+      "primary_category": "",
+      "categories": [],
+      "pdf_url": "",
+      "feed_url": "",
+      "blog_label": "",
+      "summary_cn": "",
+      "fetch_date": "2026-09-17",
+      "sources": [
+        "openalex"
+      ]
+    },
+    {
+      "work_id": "blog-cognition-devin-testing-with-astra-e078c706",
+      "kind": "blog",
+      "title": "Cognition helps Devin test its own work with GPT‑6 Astra",
+      "url": "https://openai.com/index/cognition-devin-testing-with-astra",
+      "published": "2026-09-11T16:00:00+00:00",
+      "updated": "2026-09-11T16:00:00+00:00",
+      "summary": "GPT‑6 Astra improves Devin’s ability to test software and show that it works, with the goal of helping engineers review less code and ship more.",
+      "source": "blog",
+      "group_ids": [
+        "openai"
+      ],
+      "member_ids": [],
+      "member_names": [],
+      "authors": [],
+      "venue": "",
+      "citation_count": 0,
+      "influential_citation_count": 0,
+      "doi": "",
+      "arxiv_id": "",
+      "primary_category": "",
+      "categories": [],
+      "pdf_url": "",
+      "feed_url": "https://openai.com/news/rss.xml",
+      "blog_label": "OpenAI News",
+      "summary_cn": "",
+      "fetch_date": "2026-09-17",
+      "sources": [
+        "blog"
+      ]
+    },
+    {
+      "work_id": "blog-lifesaving-lincoln-laboratory-technology-f828f30c",
+      "kind": "blog",
+      "title": "Lifesaving Lincoln Laboratory device wins 2026 Excellence in Technology Transfer Award",
+      "url": "https://news.mit.edu/2026/lifesaving-lincoln-laboratory-technology-wins-tech-transfer-award-0911",
+      "published": "2026-09-11T13:45:00+00:00",
+      "updated": "2026-09-11T13:45:00+00:00",
+      "summary": "The handheld catheterization device AI-GUIDE, created by Lincoln Laboratory and Massachusetts General Hospital, promises improved health outcomes for injured service members and civilians.",
+      "source": "blog",
+      "group_ids": [
+        "mit-csail"
+      ],
+      "member_ids": [],
+      "member_names": [],
+      "authors": [],
+      "venue": "",
+      "citation_count": 0,
+      "influential_citation_count": 0,
+      "doi": "",
+      "arxiv_id": "",
+      "primary_category": "",
+      "categories": [],
+      "pdf_url": "",
+      "feed_url": "https://news.mit.edu/rss/topic/artificial-intelligence2",
+      "blog_label": "MIT News · AI",
+      "summary_cn": "",
+      "fetch_date": "2026-09-17",
+      "sources": [
+        "blog"
+      ]
+    },
+    {
+      "work_id": "blog-scaling-storage-one-billion-users-part-o-3b49975f",
+      "kind": "blog",
+      "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users",
+      "url": "https://openai.com/index/scaling-storage-one-billion-users-part-one",
+      "published": "2026-09-11T10:00:00+00:00",
+      "updated": "2026-09-11T10:00:00+00:00",
+      "summary": "Learn how OpenAI evolved Habitat from a Python library into a globally distributed storage platform serving 1 billion ChatGPT users and 22M requests per second.",
+      "source": "blog",
+      "group_ids": [
+        "openai"
+      ],
+      "member_ids": [],
+      "member_names": [],
+      "authors": [],
+      "venue": "",
+      "citation_count": 0,
+      "influential_citation_count": 0,
+      "doi": "",
+      "arxiv_id": "",
+      "primary_category": "",
+      "categories": [],
+      "pdf_url": "",
+      "feed_url": "https://openai.com/news/rss.xml",
+      "blog_label": "OpenAI News",
+      "summary_cn": "",
+      "fetch_date": "2026-09-17",
+      "sources": [
+        "blog"
+      ]
+    },
+    {
+      "work_id": "2609.11917",
+      "kind": "paper",
+      "title": "Data Scarcity and Model Sparsity: Mixtures-of-Experts Overfit More to Repeated Data",
+      "url": "https://arxiv.org/abs/2609.11917",
+      "published": "2026-09-10T17:57:33+00:00",
+      "updated": "2026-09-10T17:57:33+00:00",
+      "summary": "As the supply of human-written text is exhausted, it has become standard practice to repeat language model training data. Prior work has studied data repetition for densely activated Transformers, but the effects of data repetition remains largely unexplored for recently dominant sparse architectures such as Mixture-of-Experts (MoE), despite their increased compute efficiency. We vary data repetition rates across single- and multi-domain data mixes, and across MoE settings, including expert count and granularity. We consistently find, for models ranging from 80M to 1B active (8.5B total) parameters, that MoEs degrade more rapidly under data repetition. This effect increases with sparsity, dictated by total rather than active parameters. While 80M dense models can repeat data over 8x with minimal degradation, MoEs instead begin to suffer at 4x, and deteriorate rapidly, ceding their performance benefits in all-unique data settings to underperform dense models after 32x. We experiment with existing regularization methods as a potential remedy. We find that some methods, such as dropout, can mitigate overfitting. In particular, with strong masking-based regularization, MoEs are able to outperform dense models even when data is repeated more than 64 times. However, no method fully matches the performance of all-unique training data. Finally, we analyze internal mechanisms correlated with MoE overfitting in high repetition regimes, and find that MoE routing universally stabilizes early in training, and that expert specialization correlates with overfitting to repeated data. In sum, our work addresses the adverse interactions between sparsity and data repetition: we present evidence for the core mechanisms of overfitting and its potential remediation, and suggest promising avenues for future methods to reduce over-specialization in model parameters by disrupting memorization patterns.",
+      "source": "arxiv",
+      "group_ids": [
+        "stanford-ai"
+      ],
+      "member_ids": [
+        "percy-liang"
+      ],
+      "member_names": [
+        "Percy Liang"
+      ],
+      "authors": [
+        "Atindra Jha",
+        "Margaret Li",
+        "Jure Leskovec",
+        "Percy Liang",
+        "Luke Zettlemoyer"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "influential_citation_count": 0,
+      "doi": "",
+      "arxiv_id": "2609.11917",
+      "primary_category": "cs.LG",
+      "categories": [
+        "cs.LG",
+        "cs.CL"
+      ],
+      "pdf_url": "https://arxiv.org/pdf/2609.11917v1",
+      "feed_url": "",
+      "blog_label": "",
+      "summary_cn": "",
+      "fetch_date": "2026-09-17",
+      "sources": [
+        "arxiv"
+      ]
+    },
+    {
+      "work_id": "blog-using-codex-chatgpt-to-search-for-new-an-70ebe956",
+      "kind": "blog",
+      "title": "How a researcher uses Codex and ChatGPT to search for new antimicrobial molecules",
+      "url": "https://openai.com/index/using-codex-chatgpt-to-search-for-new-antimicrobials",
+      "published": "2026-09-10T16:00:00+00:00",
+      "updated": "2026-09-10T16:00:00+00:00",
+      "summary": "César de la Fuente’s lab uses Codex and ChatGPT to search living and extinct genomes for antimicrobial candidates to fight drug-resistant infections.",
+      "source": "blog",
+      "group_ids": [
+        "openai"
+      ],
+      "member_ids": [],
+      "member_names": [],
+      "authors": [],
+      "venue": "",
+      "citation_count": 0,
+      "influential_citation_count": 0,
+      "doi": "",
+      "arxiv_id": "",
+      "primary_category": "",
+      "categories": [],
+      "pdf_url": "",
+      "feed_url": "https://openai.com/news/rss.xml",
+      "blog_label": "OpenAI News",
+      "summary_cn": "",
+      "fetch_date": "2026-09-17",
+      "sources": [
+        "blog"
+      ]
+    },
+    {
+      "work_id": "blog-put-data-to-work-9a05ed04",
+      "kind": "blog",
+      "title": "Now everyone can put data to work",
+      "url": "https://openai.com/index/put-data-to-work",
+      "published": "2026-09-10T15:00:00+00:00",
+      "updated": "2026-09-10T15:00:00+00:00",
+      "summary": "Meet the Data agent in ChatGPT Work. Connect company data, uncover insights, and build interactive dashboards with AI using natural language.",
+      "source": "blog",
+      "group_ids": [
+        "openai"
+      ],
+      "member_ids": [],
+      "member_names": [],
+      "authors": [],
+      "venue": "",
+      "citation_count": 0,
+      "influential_citation_count": 0,
+      "doi": "",
+      "arxiv_id": "",
+      "primary_category": "",
+      "categories": [],
+      "pdf_url": "",
+      "feed_url": "https://openai.com/news/rss.xml",
+      "blog_label": "OpenAI News",
+      "summary_cn": "",
+      "fetch_date": "2026-09-17",
+      "sources": [
+        "blog"
+      ]
+    },
+    {
+      "work_id": "blog-introducing-chatgpt-financial-services-674e02a1",
+      "kind": "blog",
+      "title": "Introducing ChatGPT for Financial Services",
+      "url": "https://openai.com/index/introducing-chatgpt-financial-services",
+      "published": "2026-09-10T07:00:00+00:00",
+      "updated": "2026-09-10T07:00:00+00:00",
+      "summary": "Introducing ChatGPT for Financial Services, combining built-in financial data and GPT-6 Astra for research, modeling, and client-ready materials.",
+      "source": "blog",
+      "group_ids": [
+        "openai"
+      ],
+      "member_ids": [],
+      "member_names": [],
+      "authors": [],
+      "venue": "",
+      "citation_count": 0,
+      "influential_citation_count": 0,
+      "doi": "",
+      "arxiv_id": "",
+      "primary_category": "",
+      "categories": [],
+      "pdf_url": "",
+      "feed_url": "https://openai.com/news/rss.xml",
+      "blog_label": "OpenAI News",
+      "summary_cn": "",
+      "fetch_date": "2026-09-17",
+      "sources": [
+        "blog"
+      ]
+    },
+    {
+      "work_id": "blog-expanding-ai-access-us-government-f3ba937e",
+      "kind": "blog",
+      "title": "Expanding AI access and cyber defense for federal, state, local, and tribal governments",
+      "url": "https://openai.com/index/expanding-ai-access-us-government",
+      "published": "2026-09-10T07:00:00+00:00",
+      "updated": "2026-09-10T07:00:00+00:00",
+      "summary": "OpenAI and GSA will offer eligible federal, state, local, and tribal governments $0 license fees, 50% off usage, and expanded cyber defense support.",
+      "source": "blog",
+      "group_ids": [
+        "openai"
+      ],
+      "member_ids": [],
+      "member_names": [],
+      "authors": [],
+      "venue": "",
+      "citation_count": 0,
+      "influential_citation_count": 0,
+      "doi": "",
+      "arxiv_id": "",
+      "primary_category": "",
+      "categories": [],
+      "pdf_url": "",
+      "feed_url": "https://openai.com/news/rss.xml",
+      "blog_label": "OpenAI News",
+      "summary_cn": "",
+      "fetch_date": "2026-09-17",
+      "sources": [
+        "blog"
+      ]
+    }
+  ],
+  "source_stats": {
+    "arxiv": 3,
+    "openalex": 2,
+    "blog": 21
+  },
+  "kind_stats": {
+    "blog": 21,
+    "paper": 5
+  }
+}
