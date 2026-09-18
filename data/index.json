@@ -3305,7 +3305,133 @@
       "venue": "",
       "citation_count": 0,
       "path": "works/works-2026-09-17.json"
+    },
+    "2609.20820": {
+      "work_id": "2609.20820",
+      "kind": "paper",
+      "title": "Workspace Models: Lightweight Robotic Memory via Saliency-Driven Supervision",
+      "date": "2026-09-18",
+      "published": "2026-09-17T17:59:53+00:00",
+      "arxiv_id": "2609.20820",
+      "group_ids": [
+        "mit-csail"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-09-18.json"
+    },
+    "2609.20598": {
+      "work_id": "2609.20598",
+      "kind": "paper",
+      "title": "COIN-GP: Cooperative Online Learning in Networked Distributed Systems with Partial Measurements via Gaussian Process Regression",
+      "date": "2026-09-18",
+      "published": "2026-09-17T15:47:46+00:00",
+      "arxiv_id": "2609.20598",
+      "group_ids": [
+        "tsinghua-ai"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-09-18.json"
+    },
+    "blog-cooley-gopublic-45d0c120": {
+      "work_id": "blog-cooley-gopublic-45d0c120",
+      "kind": "blog",
+      "title": "How Cooley is accelerating IPO work with ChatGPT",
+      "date": "2026-09-18",
+      "published": "2026-09-17T12:00:00+00:00",
+      "arxiv_id": "",
+      "group_ids": [
+        "openai"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-09-18.json"
+    },
+    "2609.19969": {
+      "work_id": "2609.19969",
+      "kind": "paper",
+      "title": "DeepSeek-V4.1-Flash: Pushing the Limits of KV Cache Compression",
+      "date": "2026-09-18",
+      "published": "2026-09-17T09:43:10+00:00",
+      "arxiv_id": "2609.19969",
+      "group_ids": [
+        "deepseek"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-09-18.json"
+    },
+    "blog-astra-for-law-5c4ad25f": {
+      "work_id": "blog-astra-for-law-5c4ad25f",
+      "kind": "blog",
+      "title": "Introducing Astra for Law",
+      "date": "2026-09-18",
+      "published": "2026-09-17T00:00:00+00:00",
+      "arxiv_id": "",
+      "group_ids": [
+        "openai"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-09-18.json"
+    },
+    "2609.19463": {
+      "work_id": "2609.19463",
+      "kind": "paper",
+      "title": "ParticleSplat: Self-supervised Object-centric Latent Particle Splatting",
+      "date": "2026-09-18",
+      "published": "2026-09-16T22:05:05+00:00",
+      "arxiv_id": "2609.19463",
+      "group_ids": [
+        "cmu-ml"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-09-18.json"
+    },
+    "2609.16815": {
+      "work_id": "2609.16815",
+      "kind": "paper",
+      "title": "Rethinking Visual Embodiment Dependence in Visuomotor Policies",
+      "date": "2026-09-18",
+      "published": "2026-09-15T08:20:56+00:00",
+      "arxiv_id": "2609.16815",
+      "group_ids": [
+        "sjtu-ai"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-09-18.json"
+    },
+    "2609.15851": {
+      "work_id": "2609.15851",
+      "kind": "paper",
+      "title": "Learning to Coach for Experiential Learning",
+      "date": "2026-09-18",
+      "published": "2026-09-14T16:47:02+00:00",
+      "arxiv_id": "2609.15851",
+      "group_ids": [
+        "msra"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-09-18.json"
+    },
+    "doi-10-2174-0123520965523035260828065344": {
+      "work_id": "doi-10-2174-0123520965523035260828065344",
+      "kind": "paper",
+      "title": "A Voltage Quality Assessment-based Coordination Strategy for the Configuration and Operation of Step Voltage Regulators in Distribution Feeders",
+      "date": "2026-09-18",
+      "published": "2026-09-11",
+      "arxiv_id": "",
+      "group_ids": [
+        "pku-ai"
+      ],
+      "venue": "Recent Advances in Electrical & Electronic Engineering (Formerly Recent Patents on Electrical & Electronic Engineering)",
+      "citation_count": 0,
+      "path": "works/works-2026-09-18.json"
     }
   },
-  "last_updated": "2026-09-17T05:01:28.704212+00:00"
+  "last_updated": "2026-09-18T04:50:34.953456+00:00"
 }
