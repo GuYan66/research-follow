@@ -3431,7 +3431,35 @@
       "venue": "Recent Advances in Electrical & Electronic Engineering (Formerly Recent Patents on Electrical & Electronic Engineering)",
       "citation_count": 0,
       "path": "works/works-2026-09-18.json"
+    },
+    "blog-new-chapter-mit-reads-0918-ab283ba2": {
+      "work_id": "blog-new-chapter-mit-reads-0918-ab283ba2",
+      "kind": "blog",
+      "title": "A new chapter for MIT Reads",
+      "date": "2026-09-19",
+      "published": "2026-09-18T16:30:00+00:00",
+      "arxiv_id": "",
+      "group_ids": [
+        "mit-csail"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-09-19.json"
+    },
+    "blog-hex-gpt-6-astra-222ace23": {
+      "work_id": "blog-hex-gpt-6-astra-222ace23",
+      "kind": "blog",
+      "title": "Hex turns complex analysis into visual reports with GPT‑6 Astra",
+      "date": "2026-09-19",
+      "published": "2026-09-16T12:00:00+00:00",
+      "arxiv_id": "",
+      "group_ids": [
+        "openai"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-09-19.json"
     }
   },
-  "last_updated": "2026-09-18T04:50:34.953456+00:00"
+  "last_updated": "2026-09-19T04:44:32.740675+00:00"
 }
