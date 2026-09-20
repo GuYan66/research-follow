@@ -3459,7 +3459,21 @@
       "venue": "",
       "citation_count": 0,
       "path": "works/works-2026-09-19.json"
+    },
+    "blog-australian-youth-safety-blueprint-2d4a996f": {
+      "work_id": "blog-australian-youth-safety-blueprint-2d4a996f",
+      "kind": "blog",
+      "title": "Introducing the Australian Youth Safety Blueprint",
+      "date": "2026-09-20",
+      "published": "2026-09-18T12:00:00+00:00",
+      "arxiv_id": "",
+      "group_ids": [
+        "openai"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-09-20.json"
     }
   },
-  "last_updated": "2026-09-19T04:44:32.740675+00:00"
+  "last_updated": "2026-09-20T04:59:00.332765+00:00"
 }
