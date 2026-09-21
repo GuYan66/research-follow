@@ -1,0 +1,708 @@
+{
+  "date": "2026-09-21",
+  "groups": [
+    "openai",
+    "google-deepmind",
+    "google-research",
+    "anthropic",
+    "meta-fair",
+    "microsoft-research",
+    "berkeley-bair",
+    "stanford-ai",
+    "mit-csail",
+    "cmu-ml",
+    "deepseek",
+    "zhipu-ai",
+    "moonshot-ai",
+    "bytedance-seed",
+    "alibaba-qwen",
+    "minimax",
+    "stepfun",
+    "tsinghua-ai",
+    "pku-ai",
+    "shanghai-ai-lab",
+    "sjtu-ai",
+    "msra"
+  ],
+  "window_days": 7,
+  "works": [
+    {
+      "work_id": "blog-new-chapter-mit-reads-0918-ab283ba2",
+      "kind": "blog",
+      "title": "A new chapter for MIT Reads",
+      "url": "https://news.mit.edu/2026/new-chapter-mit-reads-0918",
+      "published": "2026-09-18T16:30:00+00:00",
+      "updated": "2026-09-18T16:30:00+00:00",
+      "summary": "A new focus on fiction and memoir aims to help the MIT community celebrate the power of storytelling and strengthen social connection.",
+      "source": "blog",
+      "group_ids": [
+        "mit-csail"
+      ],
+      "member_ids": [],
+      "member_names": [],
+      "authors": [],
+      "venue": "",
+      "citation_count": 0,
+      "influential_citation_count": 0,
+      "doi": "",
+      "arxiv_id": "",
+      "primary_category": "",
+      "categories": [],
+      "pdf_url": "",
+      "feed_url": "https://news.mit.edu/rss/topic/artificial-intelligence2",
+      "blog_label": "MIT News · AI",
+      "summary_cn": "",
+      "fetch_date": "2026-09-21",
+      "sources": [
+        "blog"
+      ]
+    },
+    {
+      "work_id": "blog-australian-youth-safety-blueprint-2d4a996f",
+      "kind": "blog",
+      "title": "Introducing the Australian Youth Safety Blueprint",
+      "url": "https://openai.com/index/australian-youth-safety-blueprint",
+      "published": "2026-09-18T12:00:00+00:00",
+      "updated": "2026-09-18T12:00:00+00:00",
+      "summary": "OpenAI introduces the Australian Youth Safety Blueprint, a six-pillar roadmap for safer AI experiences that protect and empower young people.",
+      "source": "blog",
+      "group_ids": [
+        "openai"
+      ],
+      "member_ids": [],
+      "member_names": [],
+      "authors": [],
+      "venue": "",
+      "citation_count": 0,
+      "influential_citation_count": 0,
+      "doi": "",
+      "arxiv_id": "",
+      "primary_category": "",
+      "categories": [],
+      "pdf_url": "",
+      "feed_url": "https://openai.com/news/rss.xml",
+      "blog_label": "OpenAI News",
+      "summary_cn": "",
+      "fetch_date": "2026-09-21",
+      "sources": [
+        "blog"
+      ]
+    },
+    {
+      "work_id": "2609.20820",
+      "kind": "paper",
+      "title": "Workspace Models: Lightweight Robotic Memory via Saliency-Driven Supervision",
+      "url": "https://arxiv.org/abs/2609.20820",
+      "published": "2026-09-17T17:59:53+00:00",
+      "updated": "2026-09-17T17:59:53+00:00",
+      "summary": "Complex robotic manipulation tasks frequently require a long-term memory of past events and actions. As conditioning on full histories renders policies prone to spurious correlations and degrades performance, many approaches to policy memory involve compressing historical information through expensive VLM queries in-the-loop to process only task-salient information. In this paper, we propose an alternative approach in which computationally intensive VLM queries are made during train-time to learn a lightweight latent memory that can be efficiently queried at deployment time. Our representation, which we call the \\textbf{workspace token}, is trained by (1) using a VLM to identify current and historical information necessary for completing a task, then (2) distilling these into the workspace token using a set-reconstruction decoder loss. In both simulation and hardware, we show that the workspace token can be used as a drop-in replacement for observations during deployment, enabling policies to solve memory-intensive tasks without the need for VLM reasoning in-the-loop. Interestingly, we found that workspace tokens are not only more lightweight but also lead to better policy performance.",
+      "source": "arxiv",
+      "group_ids": [
+        "mit-csail"
+      ],
+      "member_ids": [
+        "pulkit-agrawal"
+      ],
+      "member_names": [
+        "Pulkit Agrawal"
+      ],
+      "authors": [
+        "Nitish Dashora",
+        "Douglas Chen",
+        "Idan Shenfeld",
+        "John Marangola",
+        "Pulkit Agrawal",
+        "Max Simchowitz"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "influential_citation_count": 0,
+      "doi": "",
+      "arxiv_id": "2609.20820",
+      "primary_category": "cs.RO",
+      "categories": [
+        "cs.RO",
+        "cs.AI"
+      ],
+      "pdf_url": "https://arxiv.org/pdf/2609.20820v1",
+      "feed_url": "",
+      "blog_label": "",
+      "summary_cn": "",
+      "fetch_date": "2026-09-21",
+      "sources": [
+        "arxiv"
+      ]
+    },
+    {
+      "work_id": "blog-cooley-gopublic-45d0c120",
+      "kind": "blog",
+      "title": "How Cooley is accelerating IPO work with ChatGPT",
+      "url": "https://openai.com/index/cooley-gopublic",
+      "published": "2026-09-17T12:00:00+00:00",
+      "updated": "2026-09-17T12:00:00+00:00",
+      "summary": "Cooley built GO Public with ChatGPT Work to bring intelligence to the IPO process, helping lawyers surface issues earlier and focus judgment where it matters most.",
+      "source": "blog",
+      "group_ids": [
+        "openai"
+      ],
+      "member_ids": [],
+      "member_names": [],
+      "authors": [],
+      "venue": "",
+      "citation_count": 0,
+      "influential_citation_count": 0,
+      "doi": "",
+      "arxiv_id": "",
+      "primary_category": "",
+      "categories": [],
+      "pdf_url": "",
+      "feed_url": "https://openai.com/news/rss.xml",
+      "blog_label": "OpenAI News",
+      "summary_cn": "",
+      "fetch_date": "2026-09-21",
+      "sources": [
+        "blog"
+      ]
+    },
+    {
+      "work_id": "blog-astra-for-law-5c4ad25f",
+      "kind": "blog",
+      "title": "Introducing Astra for Law",
+      "url": "https://openai.com/index/astra-for-law",
+      "published": "2026-09-17T00:00:00+00:00",
+      "updated": "2026-09-17T00:00:00+00:00",
+      "summary": "OpenAI for Law brings frontier intelligence for law, custom firm workflows, connected legal data sources, and legal-grade controls for confidential client work.",
+      "source": "blog",
+      "group_ids": [
+        "openai"
+      ],
+      "member_ids": [],
+      "member_names": [],
+      "authors": [],
+      "venue": "",
+      "citation_count": 0,
+      "influential_citation_count": 0,
+      "doi": "",
+      "arxiv_id": "",
+      "primary_category": "",
+      "categories": [],
+      "pdf_url": "",
+      "feed_url": "https://openai.com/news/rss.xml",
+      "blog_label": "OpenAI News",
+      "summary_cn": "",
+      "fetch_date": "2026-09-21",
+      "sources": [
+        "blog"
+      ]
+    },
+    {
+      "work_id": "blog-model-misalignment-reporting-framework-2a48cbef",
+      "kind": "blog",
+      "title": "Our framework for reporting model misalignment",
+      "url": "https://openai.com/index/model-misalignment-reporting-framework",
+      "published": "2026-09-16T17:00:00+00:00",
+      "updated": "2026-09-16T17:00:00+00:00",
+      "summary": "OpenAI shares a framework for tracking, investigating, and disclosing model misalignment, alongside six reports of unexpected or concerning model behavior.",
+      "source": "blog",
+      "group_ids": [
+        "openai"
+      ],
+      "member_ids": [],
+      "member_names": [],
+      "authors": [],
+      "venue": "",
+      "citation_count": 0,
+      "influential_citation_count": 0,
+      "doi": "",
+      "arxiv_id": "",
+      "primary_category": "",
+      "categories": [],
+      "pdf_url": "",
+      "feed_url": "https://openai.com/news/rss.xml",
+      "blog_label": "OpenAI News",
+      "summary_cn": "",
+      "fetch_date": "2026-09-21",
+      "sources": [
+        "blog"
+      ]
+    },
+    {
+      "work_id": "blog-helping-older-adults-use-ai-in-everyday--3be900a9",
+      "kind": "blog",
+      "title": "Helping older adults use AI in everyday life",
+      "url": "https://openai.com/index/helping-older-adults-use-ai-in-everyday-life",
+      "published": "2026-09-16T16:00:00+00:00",
+      "updated": "2026-09-16T16:00:00+00:00",
+      "summary": "OpenAI and AARP are bringing free, hands-on ChatGPT workshops to 1,000 older adults across 10 U.S. cities to build practical AI skills safely.",
+      "source": "blog",
+      "group_ids": [
+        "openai"
+      ],
+      "member_ids": [],
+      "member_names": [],
+      "authors": [],
+      "venue": "",
+      "citation_count": 0,
+      "influential_citation_count": 0,
+      "doi": "",
+      "arxiv_id": "",
+      "primary_category": "",
+      "categories": [],
+      "pdf_url": "",
+      "feed_url": "https://openai.com/news/rss.xml",
+      "blog_label": "OpenAI News",
+      "summary_cn": "",
+      "fetch_date": "2026-09-21",
+      "sources": [
+        "blog"
+      ]
+    },
+    {
+      "work_id": "blog-new-ai-technique-could-make-minimally-in-7bd62fea",
+      "kind": "blog",
+      "title": "New AI technique could make minimally invasive surgeries safer and more precise",
+      "url": "https://news.mit.edu/2026/new-ai-technique-could-make-minimally-invasive-surgeries-safer-more-precise-0916",
+      "published": "2026-09-16T15:00:00+00:00",
+      "updated": "2026-09-16T15:00:00+00:00",
+      "summary": "This patient-specific method, called xvr, helps doctors use X-rays for surgical navigation in fields such as orthopedics and neurosurgery.",
+      "source": "blog",
+      "group_ids": [
+        "mit-csail"
+      ],
+      "member_ids": [],
+      "member_names": [],
+      "authors": [],
+      "venue": "",
+      "citation_count": 0,
+      "influential_citation_count": 0,
+      "doi": "",
+      "arxiv_id": "",
+      "primary_category": "",
+      "categories": [],
+      "pdf_url": "",
+      "feed_url": "https://news.mit.edu/rss/topic/artificial-intelligence2",
+      "blog_label": "MIT News · AI",
+      "summary_cn": "",
+      "fetch_date": "2026-09-21",
+      "sources": [
+        "blog"
+      ]
+    },
+    {
+      "work_id": "blog-reimagining-advertising-with-ai-2886a9f8",
+      "kind": "blog",
+      "title": "Reimagining advertising with AI",
+      "url": "https://openai.com/index/reimagining-advertising-with-ai",
+      "published": "2026-09-16T13:00:00+00:00",
+      "updated": "2026-09-16T13:00:00+00:00",
+      "summary": "Explore new AI-powered advertising experiences from OpenAI, including Sponsored Agents, tools for marketers, and integrations with HubSpot and Shopify.",
+      "source": "blog",
+      "group_ids": [
+        "openai"
+      ],
+      "member_ids": [],
+      "member_names": [],
+      "authors": [],
+      "venue": "",
+      "citation_count": 0,
+      "influential_citation_count": 0,
+      "doi": "",
+      "arxiv_id": "",
+      "primary_category": "",
+      "categories": [],
+      "pdf_url": "",
+      "feed_url": "https://openai.com/news/rss.xml",
+      "blog_label": "OpenAI News",
+      "summary_cn": "",
+      "fetch_date": "2026-09-21",
+      "sources": [
+        "blog"
+      ]
+    },
+    {
+      "work_id": "blog-hex-gpt-6-astra-222ace23",
+      "kind": "blog",
+      "title": "Hex turns complex analysis into visual reports with GPT‑6 Astra",
+      "url": "https://openai.com/index/hex-gpt-6-astra",
+      "published": "2026-09-16T12:00:00+00:00",
+      "updated": "2026-09-16T12:00:00+00:00",
+      "summary": "GPT-6 Astra helps Hex’s data agents turn answers into interactive visualizations that employees are proud to share.",
+      "source": "blog",
+      "group_ids": [
+        "openai"
+      ],
+      "member_ids": [],
+      "member_names": [],
+      "authors": [],
+      "venue": "",
+      "citation_count": 0,
+      "influential_citation_count": 0,
+      "doi": "",
+      "arxiv_id": "",
+      "primary_category": "",
+      "categories": [],
+      "pdf_url": "",
+      "feed_url": "https://openai.com/news/rss.xml",
+      "blog_label": "OpenAI News",
+      "summary_cn": "",
+      "fetch_date": "2026-09-21",
+      "sources": [
+        "blog"
+      ]
+    },
+    {
+      "work_id": "blog-how-to-connect-ai-usage-to-business-valu-9f8dbfd0",
+      "kind": "blog",
+      "title": "How to connect AI usage to business value",
+      "url": "https://openai.com/index/how-to-connect-ai-usage-to-business-value",
+      "published": "2026-09-16T12:00:00+00:00",
+      "updated": "2026-09-16T12:00:00+00:00",
+      "summary": "Learn how ChatGPT Work and Codex analytics help teams understand AI usage and spend, identify training needs, and connect adoption to business outcomes.",
+      "source": "blog",
+      "group_ids": [
+        "openai"
+      ],
+      "member_ids": [],
+      "member_names": [],
+      "authors": [],
+      "venue": "",
+      "citation_count": 0,
+      "influential_citation_count": 0,
+      "doi": "",
+      "arxiv_id": "",
+      "primary_category": "",
+      "categories": [],
+      "pdf_url": "",
+      "feed_url": "https://openai.com/news/rss.xml",
+      "blog_label": "OpenAI News",
+      "summary_cn": "",
+      "fetch_date": "2026-09-21",
+      "sources": [
+        "blog"
+      ]
+    },
+    {
+      "work_id": "blog-unlocking-new-ways-of-working-3096ca5e",
+      "kind": "blog",
+      "title": "How workers are unlocking new ways of working",
+      "url": "https://openai.com/index/unlocking-new-ways-of-working",
+      "published": "2026-09-16T09:00:00+00:00",
+      "updated": "2026-09-16T09:00:00+00:00",
+      "summary": "New OpenAI Economic Research shows how workers use AI beyond traditional roles and which new activities become recurring parts of their work.",
+      "source": "blog",
+      "group_ids": [
+        "openai"
+      ],
+      "member_ids": [],
+      "member_names": [],
+      "authors": [],
+      "venue": "",
+      "citation_count": 0,
+      "influential_citation_count": 0,
+      "doi": "",
+      "arxiv_id": "",
+      "primary_category": "",
+      "categories": [],
+      "pdf_url": "",
+      "feed_url": "https://openai.com/news/rss.xml",
+      "blog_label": "OpenAI News",
+      "summary_cn": "",
+      "fetch_date": "2026-09-21",
+      "sources": [
+        "blog"
+      ]
+    },
+    {
+      "work_id": "2609.18207",
+      "kind": "paper",
+      "title": "Reinforcement Learning for Real-Time Vision-Language-Action Policies",
+      "url": "https://arxiv.org/abs/2609.18207",
+      "published": "2026-09-16T06:38:36+00:00",
+      "updated": "2026-09-16T06:38:36+00:00",
+      "summary": "Reinforcement learning fine-tuning on top of large, pretrained Vision-Language-Action (VLA) models offers promise for highly reliable robot deployment. However, because of their scale, modern VLA models suffer from high inference latency, so the observation used to select an action is often stale by execution time, creating a distribution shift that can substantially degrade reliability and performance. Prior work has explored asynchronous policy execution to reduce the effect of latency, but these methods are mostly built on imitation learning and offer no mechanism for moving beyond the training distribution toward higher reliability. We close this gap by enabling RL fine-tuning that meets the real-time control requirements of dynamic real-world manipulation. Our approach builds on EXPO-FT, a framework for sample-efficient, reliable VLA fine-tuning with reinforcement learning, and decouples slow, expressive action generation from fast, reactive action edits: a large pretrained VLA proposes action chunks using its strong behavior prior, while a lightweight edit policy performs fast, reactive decision-making by editing actions in response to changes in state, conditioned on the latest observation. We instantiate this as Real-Time EXPO-FT, an RL framework for finetuning real-time VLA policies. On the Kinetix benchmark, Real-Time EXPO-FT enables a delayed policy to achieve the best performance among delayed and non-delayed methods in 10 out of 10 environments. On four dynamic real-world tasks, robot object passing, ball balancing, table soccer kicking, and dynamic object picking, with online robot data capped at 10 minutes, Real-Time EXPO-FT improves average policy performance from 42% to 97%, all without human intervention, demonstrating rapid, sample-efficient adaptation to challenging real-world dynamics. Website: https://pd-perry.github.io/real-time-expo-ft",
+      "source": "arxiv",
+      "group_ids": [
+        "stanford-ai"
+      ],
+      "member_ids": [
+        "chelsea-finn"
+      ],
+      "member_names": [
+        "Chelsea Finn"
+      ],
+      "authors": [
+        "Perry Dong",
+        "Kuo-Han Hung",
+        "Dorsa Sadigh",
+        "Chelsea Finn"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "influential_citation_count": 0,
+      "doi": "",
+      "arxiv_id": "2609.18207",
+      "primary_category": "cs.RO",
+      "categories": [
+        "cs.RO",
+        "cs.LG"
+      ],
+      "pdf_url": "https://arxiv.org/pdf/2609.18207v1",
+      "feed_url": "",
+      "blog_label": "",
+      "summary_cn": "",
+      "fetch_date": "2026-09-21",
+      "sources": [
+        "arxiv"
+      ]
+    },
+    {
+      "work_id": "blog-studying-society-accurately-naoki-egami--9b004ee5",
+      "kind": "blog",
+      "title": "Measure by measure, studying society accurately",
+      "url": "https://news.mit.edu/2026/studying-society-accurately-naoki-egami-0916",
+      "published": "2026-09-16T04:00:00+00:00",
+      "updated": "2026-09-16T04:00:00+00:00",
+      "summary": "Naoki Egami has become a standout in political methodology, helping refine tools that give scholars durable results.",
+      "source": "blog",
+      "group_ids": [
+        "mit-csail"
+      ],
+      "member_ids": [],
+      "member_names": [],
+      "authors": [],
+      "venue": "",
+      "citation_count": 0,
+      "influential_citation_count": 0,
+      "doi": "",
+      "arxiv_id": "",
+      "primary_category": "",
+      "categories": [],
+      "pdf_url": "",
+      "feed_url": "https://news.mit.edu/rss/topic/artificial-intelligence2",
+      "blog_label": "MIT News · AI",
+      "summary_cn": "",
+      "fetch_date": "2026-09-21",
+      "sources": [
+        "blog"
+      ]
+    },
+    {
+      "work_id": "2609.17895",
+      "kind": "paper",
+      "title": "TabPFN-3.5: Technical Report",
+      "url": "https://arxiv.org/abs/2609.17895",
+      "published": "2026-09-15T22:38:29+00:00",
+      "updated": "2026-09-15T22:38:29+00:00",
+      "summary": "We introduce TabPFN-3.5, our new flagship Tabular Foundation Model. It significantly outperforms its predecessor, TabPFN-3, and all existing baselines across a broad range of tabular problems. TabPFN-3.5 sets a new state of the art on standard tabular prediction in TabArena, and extends it to the data practitioners encounter in practice: non-i.i.d. data with temporal or grouped splits, tables with strings, text and images, high-cardinality categorical features, and wide tables with many features. These gains carry over to our task-specific harnesses: state of the art on relational data and stronger time-series forecasting. For faster inference, our variant TabPFN-3.5-Fast runs up to 3x faster than TabPFN-3 while keeping most of the accuracy gains. In addition, we upgrade TabPFN-3.5-Plus, expanding our multimodal capabilities with advanced text and date handling alongside proprietary inference optimizations. Finally, we release a new version of our Thinking mode, TabPFN-3.5-Thinking, which scales inference-time computation to push the state of the art further. It benefits from our stronger base model and from inference-time improvements that make it up to 12x faster than TabPFN-3-Thinking.",
+      "source": "arxiv",
+      "group_ids": [
+        "meta-fair"
+      ],
+      "member_ids": [
+        "yann-lecun"
+      ],
+      "member_names": [
+        "Yann LeCun"
+      ],
+      "authors": [
+        "Benjamin Jäger",
+        "Nick Erickson",
+        "Léo Grinsztajn",
+        "Felix Birkel",
+        "Klemens Flöge",
+        "Oscar Key",
+        "Kürşat Kaya",
+        "Jonas Kübler",
+        "Adèle Frankel",
+        "Tobias Schröder",
+        "Anurag Garg",
+        "Jan Hendrik Metzen",
+        "David Salinas",
+        "Simon Bing",
+        "Kristina Collins",
+        "Tuana Çelik",
+        "Vahid Balazadeh",
+        "Lydia Sidhoum",
+        "Tomás Pereda",
+        "Brendan Roof",
+        "Andrej Tschalzev",
+        "Siyuan Guo",
+        "Philipp Singer",
+        "Lennart Purucker",
+        "Jake Robertson",
+        "Marie Salmon",
+        "Philipp Jund",
+        "Jerry Chen",
+        "Diana Kriuchkova",
+        "Arthur Cahu",
+        "Eliott Kalfon",
+        "Adrian Hayler",
+        "Georg Grab",
+        "Vitor Monteiro",
+        "Lilly Wehrhahn",
+        "Dominik Safaric",
+        "Clara Cornu",
+        "Alan Arazi",
+        "Rylee Grace",
+        "Simone Alessi",
+        "Mihir Manium",
+        "Bernhard Schölkopf",
+        "Yann LeCun",
+        "Madelon Hulsebos",
+        "Sauraj Gambhir",
+        "Noah Hollmann",
+        "Frank Hutter"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "influential_citation_count": 0,
+      "doi": "",
+      "arxiv_id": "2609.17895",
+      "primary_category": "cs.LG",
+      "categories": [
+        "cs.LG",
+        "stat.ML"
+      ],
+      "pdf_url": "https://arxiv.org/pdf/2609.17895v1",
+      "feed_url": "",
+      "blog_label": "",
+      "summary_cn": "",
+      "fetch_date": "2026-09-21",
+      "sources": [
+        "arxiv"
+      ]
+    },
+    {
+      "work_id": "blog-ai-applications-science-people-cf8d6b5d",
+      "kind": "blog",
+      "title": "Building AI to accelerate science and improve lives",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/ai-applications-science-people/",
+      "published": "2026-09-15T16:00:00+00:00",
+      "updated": "2026-09-15T16:00:00+00:00",
+      "summary": "B-roll showing diverse environments and people, including a teacher and students in a classroom and a patient with a doctor",
+      "source": "blog",
+      "group_ids": [
+        "google-research"
+      ],
+      "member_ids": [],
+      "member_names": [],
+      "authors": [],
+      "venue": "",
+      "citation_count": 0,
+      "influential_citation_count": 0,
+      "doi": "",
+      "arxiv_id": "",
+      "primary_category": "",
+      "categories": [],
+      "pdf_url": "",
+      "feed_url": "https://blog.google/technology/research/rss/",
+      "blog_label": "Google Research Blog",
+      "summary_cn": "",
+      "fetch_date": "2026-09-21",
+      "sources": [
+        "blog"
+      ]
+    },
+    {
+      "work_id": "blog-ai-for-every-language-f840adc9",
+      "kind": "blog",
+      "title": "AI for everyone in every language",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/ai-for-every-language/",
+      "published": "2026-09-15T16:00:00+00:00",
+      "updated": "2026-09-15T16:00:00+00:00",
+      "summary": "Animation of several words in different languages slowly zooming past",
+      "source": "blog",
+      "group_ids": [
+        "google-research"
+      ],
+      "member_ids": [],
+      "member_names": [],
+      "authors": [],
+      "venue": "",
+      "citation_count": 0,
+      "influential_citation_count": 0,
+      "doi": "",
+      "arxiv_id": "",
+      "primary_category": "",
+      "categories": [],
+      "pdf_url": "",
+      "feed_url": "https://blog.google/technology/research/rss/",
+      "blog_label": "Google Research Blog",
+      "summary_cn": "",
+      "fetch_date": "2026-09-21",
+      "sources": [
+        "blog"
+      ]
+    },
+    {
+      "work_id": "blog-wildfire-tracking-ai-ee9f3387",
+      "kind": "blog",
+      "title": "Ask a Scientist: How can researchers use AI to spot a wildfire?",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/wildfire-tracking-ai/",
+      "published": "2026-09-15T16:00:00+00:00",
+      "updated": "2026-09-15T16:00:00+00:00",
+      "summary": "Ask a scientist about wildfire detection",
+      "source": "blog",
+      "group_ids": [
+        "google-research"
+      ],
+      "member_ids": [],
+      "member_names": [],
+      "authors": [],
+      "venue": "",
+      "citation_count": 0,
+      "influential_citation_count": 0,
+      "doi": "",
+      "arxiv_id": "",
+      "primary_category": "",
+      "categories": [],
+      "pdf_url": "",
+      "feed_url": "https://blog.google/technology/research/rss/",
+      "blog_label": "Google Research Blog",
+      "summary_cn": "",
+      "fetch_date": "2026-09-21",
+      "sources": [
+        "blog"
+      ]
+    },
+    {
+      "work_id": "blog-fyxer-d7a44e55",
+      "kind": "blog",
+      "title": "How Fyxer built an AI executive assistant people trust",
+      "url": "https://openai.com/index/fyxer",
+      "published": "2026-09-14T12:00:00+00:00",
+      "updated": "2026-09-14T12:00:00+00:00",
+      "summary": "Fyxer uses OpenAI models, fine-tuning, memory, and real user feedback to organize inboxes and draft emails in each user’s voice.",
+      "source": "blog",
+      "group_ids": [
+        "openai"
+      ],
+      "member_ids": [],
+      "member_names": [],
+      "authors": [],
+      "venue": "",
+      "citation_count": 0,
+      "influential_citation_count": 0,
+      "doi": "",
+      "arxiv_id": "",
+      "primary_category": "",
+      "categories": [],
+      "pdf_url": "",
+      "feed_url": "https://openai.com/news/rss.xml",
+      "blog_label": "OpenAI News",
+      "summary_cn": "",
+      "fetch_date": "2026-09-21",
+      "sources": [
+        "blog"
+      ]
+    }
+  ],
+  "source_stats": {
+    "arxiv": 3,
+    "blog": 16
+  },
+  "kind_stats": {
+    "blog": 16,
+    "paper": 3
+  }
+}
