@@ -3473,7 +3473,105 @@
       "venue": "",
       "citation_count": 0,
       "path": "works/works-2026-09-20.json"
+    },
+    "blog-improving-synthesis-prediction-of-small--604fddcc": {
+      "work_id": "blog-improving-synthesis-prediction-of-small--604fddcc",
+      "kind": "blog",
+      "title": "Improving synthesis prediction of small molecules at scale with RetroChimera",
+      "date": "2026-09-22",
+      "published": "2026-09-21T15:30:19+00:00",
+      "arxiv_id": "",
+      "group_ids": [
+        "microsoft-research"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-09-22.json"
+    },
+    "blog-advisory-group-on-mathematics-and-ai-51113829": {
+      "work_id": "blog-advisory-group-on-mathematics-and-ai-51113829",
+      "kind": "blog",
+      "title": "Advisory Group on Mathematics and Artificial Intelligence",
+      "date": "2026-09-22",
+      "published": "2026-09-21T12:00:00+00:00",
+      "arxiv_id": "",
+      "group_ids": [
+        "openai"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-09-22.json"
+    },
+    "blog-higgsfield-from-prompt-to-production-wit-18fdd157": {
+      "work_id": "blog-higgsfield-from-prompt-to-production-wit-18fdd157",
+      "kind": "blog",
+      "title": "Higgsfield AI ships new video features in a day with GPT-6 Astra",
+      "date": "2026-09-22",
+      "published": "2026-09-21T12:00:00+00:00",
+      "arxiv_id": "",
+      "group_ids": [
+        "openai"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-09-22.json"
+    },
+    "blog-building-standards-next-phase-ai-0cb42342": {
+      "work_id": "blog-building-standards-next-phase-ai-0cb42342",
+      "kind": "blog",
+      "title": "Building standards for the next phase of AI",
+      "date": "2026-09-22",
+      "published": "2026-09-21T10:00:00+00:00",
+      "arxiv_id": "",
+      "group_ids": [
+        "openai"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-09-22.json"
+    },
+    "blog-expanding-openai-academy-with-new-learni-78f77855": {
+      "work_id": "blog-expanding-openai-academy-with-new-learni-78f77855",
+      "kind": "blog",
+      "title": "Expanding OpenAI Academy with new learning paths",
+      "date": "2026-09-22",
+      "published": "2026-09-21T07:00:00+00:00",
+      "arxiv_id": "",
+      "group_ids": [
+        "openai"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-09-22.json"
+    },
+    "2609.23980": {
+      "work_id": "2609.23980",
+      "kind": "paper",
+      "title": "MobileCybench: Evaluating Agent Vulnerability Discovery via Executable Probes",
+      "date": "2026-09-22",
+      "published": "2026-09-21T01:21:06+00:00",
+      "arxiv_id": "2609.23980",
+      "group_ids": [
+        "stanford-ai"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-09-22.json"
+    },
+    "blog-v7-aa1f0194": {
+      "work_id": "blog-v7-aa1f0194",
+      "kind": "blog",
+      "title": "How V7 gives AI agents institutional memory",
+      "date": "2026-09-22",
+      "published": "2026-09-21T00:00:00+00:00",
+      "arxiv_id": "",
+      "group_ids": [
+        "openai"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-09-22.json"
     }
   },
-  "last_updated": "2026-09-21T05:02:49.354421+00:00"
+  "last_updated": "2026-09-22T05:03:28.036536+00:00"
 }
