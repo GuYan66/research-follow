@@ -3571,7 +3571,147 @@
       "venue": "",
       "citation_count": 0,
       "path": "works/works-2026-09-22.json"
+    },
+    "blog-better-prompt-caching-for-gpt-6-6b1ed85c": {
+      "work_id": "blog-better-prompt-caching-for-gpt-6-6b1ed85c",
+      "kind": "blog",
+      "title": "Better prompt caching for GPT-6",
+      "date": "2026-09-23",
+      "published": "2026-09-22T21:00:00+00:00",
+      "arxiv_id": "",
+      "group_ids": [
+        "openai"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-09-23.json"
+    },
+    "blog-poitras-center-to-fuel-early-careers-50--79c7c84c": {
+      "work_id": "blog-poitras-center-to-fuel-early-careers-50--79c7c84c",
+      "kind": "blog",
+      "title": "Poitras Center to fuel early careers of 50 young scientists dedicated to psychiatric disorders research",
+      "date": "2026-09-23",
+      "published": "2026-09-22T19:00:00+00:00",
+      "arxiv_id": "",
+      "group_ids": [
+        "mit-csail"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-09-23.json"
+    },
+    "blog-introducing-gpt-6-sol-and-luna-ebe6c518": {
+      "work_id": "blog-introducing-gpt-6-sol-and-luna-ebe6c518",
+      "kind": "blog",
+      "title": "Introducing GPT-6 Sol and Luna",
+      "date": "2026-09-23",
+      "published": "2026-09-22T18:00:00+00:00",
+      "arxiv_id": "",
+      "group_ids": [
+        "openai"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-09-23.json"
+    },
+    "2609.26781": {
+      "work_id": "2609.26781",
+      "kind": "paper",
+      "title": "Agensh: Scaling Organizational Intelligence to 1,024 Agents",
+      "date": "2026-09-23",
+      "published": "2026-09-22T17:56:25+00:00",
+      "arxiv_id": "2609.26781",
+      "group_ids": [
+        "msra"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-09-23.json"
+    },
+    "blog-parallel-cuts-time-and-cost-with-astra-129a3a1f": {
+      "work_id": "blog-parallel-cuts-time-and-cost-with-astra-129a3a1f",
+      "kind": "blog",
+      "title": "Parallel cut research time and cost in half with GPT‑6 Astra",
+      "date": "2026-09-23",
+      "published": "2026-09-22T12:00:00+00:00",
+      "arxiv_id": "",
+      "group_ids": [
+        "openai"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-09-23.json"
+    },
+    "2609.25611": {
+      "work_id": "2609.25611",
+      "kind": "paper",
+      "title": "Qwen3.8-Omni: Towards Native Omni-Modal Agents",
+      "date": "2026-09-23",
+      "published": "2026-09-22T03:07:59+00:00",
+      "arxiv_id": "2609.25611",
+      "group_ids": [
+        "alibaba-qwen"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-09-23.json"
+    },
+    "blog-priorities-principles-third-party-assess-626f816c": {
+      "work_id": "blog-priorities-principles-third-party-assess-626f816c",
+      "kind": "blog",
+      "title": "Priorities and principles for effective third party assessments",
+      "date": "2026-09-23",
+      "published": "2026-09-22T00:00:00+00:00",
+      "arxiv_id": "",
+      "group_ids": [
+        "openai"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-09-23.json"
+    },
+    "2609.24840": {
+      "work_id": "2609.24840",
+      "kind": "paper",
+      "title": "PredActor: Predictive Action Diffusion for Steerable Onboard Humanoid Control",
+      "date": "2026-09-23",
+      "published": "2026-09-21T16:20:25+00:00",
+      "arxiv_id": "2609.24840",
+      "group_ids": [
+        "sjtu-ai"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-09-23.json"
+    },
+    "2609.22795": {
+      "work_id": "2609.22795",
+      "kind": "paper",
+      "title": "Task-Oriented Co-Design and Optimization of Geared Actuators for Robotic Applications",
+      "date": "2026-09-23",
+      "published": "2026-09-19T05:54:37+00:00",
+      "arxiv_id": "2609.22795",
+      "group_ids": [
+        "tsinghua-ai"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-09-23.json"
+    },
+    "2609.21983": {
+      "work_id": "2609.21983",
+      "kind": "paper",
+      "title": "SkelWAM: A Skeleton-Guided World-Action Model for Zero-Shot Cross-Embodiment Manipulation",
+      "date": "2026-09-23",
+      "published": "2026-09-18T16:44:42+00:00",
+      "arxiv_id": "2609.21983",
+      "group_ids": [
+        "tsinghua-ai"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-09-23.json"
     }
   },
-  "last_updated": "2026-09-22T05:03:28.036536+00:00"
+  "last_updated": "2026-09-23T04:50:16.505016+00:00"
 }
