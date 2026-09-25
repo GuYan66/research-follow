@@ -3949,7 +3949,49 @@
       "venue": "",
       "citation_count": 0,
       "path": "works/works-2026-09-24.json"
+    },
+    "blog-estimating-suicide-risk-from-text-0924-a4a82426": {
+      "work_id": "blog-estimating-suicide-risk-from-text-0924-a4a82426",
+      "kind": "blog",
+      "title": "Estimating suicide risk from text",
+      "date": "2026-09-25",
+      "published": "2026-09-24T21:00:00+00:00",
+      "arxiv_id": "",
+      "group_ids": [
+        "mit-csail"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-09-25.json"
+    },
+    "2609.30226": {
+      "work_id": "2609.30226",
+      "kind": "paper",
+      "title": "PoEM: Predicting RL Outcomes from Existing Policies",
+      "date": "2026-09-25",
+      "published": "2026-09-24T17:50:25+00:00",
+      "arxiv_id": "2609.30226",
+      "group_ids": [
+        "mit-csail"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-09-25.json"
+    },
+    "blog-google-project-suncatcher-facts-3ba963e7": {
+      "work_id": "blog-google-project-suncatcher-facts-3ba963e7",
+      "kind": "blog",
+      "title": "Behind Project Suncatcher, our moonshot to put AI in space",
+      "date": "2026-09-25",
+      "published": "2026-09-24T13:00:00+00:00",
+      "arxiv_id": "",
+      "group_ids": [
+        "google-research"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-09-25.json"
     }
   },
-  "last_updated": "2026-09-24T04:58:38.088097+00:00"
+  "last_updated": "2026-09-25T05:03:46.059340+00:00"
 }
