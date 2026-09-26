@@ -3991,7 +3991,35 @@
       "venue": "",
       "citation_count": 0,
       "path": "works/works-2026-09-25.json"
+    },
+    "blog-mit-students-gain-humanist-lens-technica-31ab31fd": {
+      "work_id": "blog-mit-students-gain-humanist-lens-technica-31ab31fd",
+      "kind": "blog",
+      "title": "MIT students gain a humanist lens on technical innovation in Tulsa, Oklahoma",
+      "date": "2026-09-26",
+      "published": "2026-09-25T20:15:00+00:00",
+      "arxiv_id": "",
+      "group_ids": [
+        "mit-csail"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-09-26.json"
+    },
+    "blog-proaction-5a8c9eef": {
+      "work_id": "blog-proaction-5a8c9eef",
+      "kind": "blog",
+      "title": "Proaction boosts sales 60% and saves 75+ hours with Codex",
+      "date": "2026-09-26",
+      "published": "2026-09-25T19:00:00+00:00",
+      "arxiv_id": "",
+      "group_ids": [
+        "openai"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-09-26.json"
     }
   },
-  "last_updated": "2026-09-25T05:03:46.059340+00:00"
+  "last_updated": "2026-09-26T05:05:57.346017+00:00"
 }
