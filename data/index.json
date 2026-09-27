@@ -4019,7 +4019,21 @@
       "venue": "",
       "citation_count": 0,
       "path": "works/works-2026-09-26.json"
+    },
+    "doi-10-1007-s11263-026-03004-w": {
+      "work_id": "doi-10-1007-s11263-026-03004-w",
+      "kind": "paper",
+      "title": "Parameter-Efficient Fine-Tuning for Foundation Models",
+      "date": "2026-09-27",
+      "published": "2026-09-25",
+      "arxiv_id": "",
+      "group_ids": [
+        "zhipu-ai"
+      ],
+      "venue": "International Journal of Computer Vision",
+      "citation_count": 5,
+      "path": "works/works-2026-09-27.json"
     }
   },
-  "last_updated": "2026-09-26T05:05:57.346017+00:00"
+  "last_updated": "2026-09-27T05:26:19.372016+00:00"
 }
