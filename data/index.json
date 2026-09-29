@@ -4033,7 +4033,147 @@
       "venue": "International Journal of Computer Vision",
       "citation_count": 5,
       "path": "works/works-2026-09-27.json"
+    },
+    "blog-algorithmic-monoculture-effects-depend-o-078fae55": {
+      "work_id": "blog-algorithmic-monoculture-effects-depend-o-078fae55",
+      "kind": "blog",
+      "title": "The effects of an “algorithmic monoculture” depend on the details",
+      "date": "2026-09-29",
+      "published": "2026-09-29T04:00:00+00:00",
+      "arxiv_id": "",
+      "group_ids": [
+        "mit-csail"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-09-29.json"
+    },
+    "blog-when-we-talk-to-machines-sherry-turkle-b-edd44626": {
+      "work_id": "blog-when-we-talk-to-machines-sherry-turkle-b-edd44626",
+      "kind": "blog",
+      "title": "Who we become when we talk to machines",
+      "date": "2026-09-29",
+      "published": "2026-09-29T04:00:00+00:00",
+      "arxiv_id": "",
+      "group_ids": [
+        "mit-csail"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-09-29.json"
+    },
+    "blog-one-year-in-how-microsoft-research-asia--4e84bfc6": {
+      "work_id": "blog-one-year-in-how-microsoft-research-asia--4e84bfc6",
+      "kind": "blog",
+      "title": "One year in: How Microsoft Research Asia – Singapore is advancing research, partnership and talent for real-world impact",
+      "date": "2026-09-29",
+      "published": "2026-09-28T21:00:00+00:00",
+      "arxiv_id": "",
+      "group_ids": [
+        "microsoft-research"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-09-29.json"
+    },
+    "blog-how-we-will-do-better-for-australia-70ce0fcb": {
+      "work_id": "blog-how-we-will-do-better-for-australia-70ce0fcb",
+      "kind": "blog",
+      "title": "How we will do better for Australia",
+      "date": "2026-09-29",
+      "published": "2026-09-28T19:00:00+00:00",
+      "arxiv_id": "",
+      "group_ids": [
+        "openai"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-09-29.json"
+    },
+    "2609.35738": {
+      "work_id": "2609.35738",
+      "kind": "paper",
+      "title": "Harness Learning Enables Generalizable Test-Time Adaptation",
+      "date": "2026-09-29",
+      "published": "2026-09-28T17:52:54+00:00",
+      "arxiv_id": "2609.35738",
+      "group_ids": [
+        "cmu-ml"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-09-29.json"
+    },
+    "blog-new-formulation-helps-rna-vaccines-withs-c9191a1a": {
+      "work_id": "blog-new-formulation-helps-rna-vaccines-withs-c9191a1a",
+      "kind": "blog",
+      "title": "New formulation helps RNA vaccines withstand high temperatures",
+      "date": "2026-09-29",
+      "published": "2026-09-28T09:00:00+00:00",
+      "arxiv_id": "",
+      "group_ids": [
+        "mit-csail"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-09-29.json"
+    },
+    "blog-lenfest-ai-collaborative-expansion-f2b1a73c": {
+      "work_id": "blog-lenfest-ai-collaborative-expansion-f2b1a73c",
+      "kind": "blog",
+      "title": "The Lenfest Institute grows landmark program with expanded OpenAI support",
+      "date": "2026-09-29",
+      "published": "2026-09-28T07:00:00+00:00",
+      "arxiv_id": "",
+      "group_ids": [
+        "openai"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-09-29.json"
+    },
+    "2609.34085": {
+      "work_id": "2609.34085",
+      "kind": "paper",
+      "title": "AD-E2E-JEPA: A Joint-Embedding Predictive Architecture For End-to-End Autonomous Driving",
+      "date": "2026-09-29",
+      "published": "2026-09-28T01:22:22+00:00",
+      "arxiv_id": "2609.34085",
+      "group_ids": [
+        "meta-fair"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-09-29.json"
+    },
+    "blog-codex-originals-d9f79080": {
+      "work_id": "blog-codex-originals-d9f79080",
+      "kind": "blog",
+      "title": "Are you a Codex Original?",
+      "date": "2026-09-29",
+      "published": "2026-09-28T00:00:00+00:00",
+      "arxiv_id": "",
+      "group_ids": [
+        "openai"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-09-29.json"
+    },
+    "blog-basis-tax-workbook-with-astra-d5b206f3": {
+      "work_id": "blog-basis-tax-workbook-with-astra-d5b206f3",
+      "kind": "blog",
+      "title": "Basis completes a tax workbook 2x faster with GPT-6 Astra",
+      "date": "2026-09-29",
+      "published": "2026-09-28T00:00:00+00:00",
+      "arxiv_id": "",
+      "group_ids": [
+        "openai"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-09-29.json"
     }
   },
-  "last_updated": "2026-09-28T05:30:59.854555+00:00"
+  "last_updated": "2026-09-29T05:50:13.601544+00:00"
 }
