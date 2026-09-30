@@ -4173,7 +4173,147 @@
       "venue": "",
       "citation_count": 0,
       "path": "works/works-2026-09-29.json"
+    },
+    "2609.38172": {
+      "work_id": "2609.38172",
+      "kind": "paper",
+      "title": "Counterfactual Video Generation Enables Scalable Humanoid Loco-Manipulation",
+      "date": "2026-09-30",
+      "published": "2026-09-29T17:59:45+00:00",
+      "arxiv_id": "2609.38172",
+      "group_ids": [
+        "berkeley-bair"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-09-30.json"
+    },
+    "2609.38147": {
+      "work_id": "2609.38147",
+      "kind": "paper",
+      "title": "Thinking Before Thinking: Scaling Agentic Inference Through Meta-Reasoning",
+      "date": "2026-09-30",
+      "published": "2026-09-29T17:57:25+00:00",
+      "arxiv_id": "2609.38147",
+      "group_ids": [
+        "cmu-ml"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-09-30.json"
+    },
+    "blog-introducing-quine-an-ai-research-system--f70fac0a": {
+      "work_id": "blog-introducing-quine-an-ai-research-system--f70fac0a",
+      "kind": "blog",
+      "title": "Introducing Quine: An AI research system designed for the complexity of biology",
+      "date": "2026-09-30",
+      "published": "2026-09-29T14:00:02+00:00",
+      "arxiv_id": "",
+      "group_ids": [
+        "microsoft-research"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-09-30.json"
+    },
+    "blog-introducing-gpt-6-1-sol-9814af4d": {
+      "work_id": "blog-introducing-gpt-6-1-sol-9814af4d",
+      "kind": "blog",
+      "title": "Introducing GPT-6.1 Sol",
+      "date": "2026-09-30",
+      "published": "2026-09-29T10:00:00+00:00",
+      "arxiv_id": "",
+      "group_ids": [
+        "openai"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-09-30.json"
+    },
+    "blog-devday-2026-recap-b644059f": {
+      "work_id": "blog-devday-2026-recap-b644059f",
+      "kind": "blog",
+      "title": "DevDay 2026 Recap",
+      "date": "2026-09-30",
+      "published": "2026-09-29T10:00:00+00:00",
+      "arxiv_id": "",
+      "group_ids": [
+        "openai"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-09-30.json"
+    },
+    "2609.36527": {
+      "work_id": "2609.36527",
+      "kind": "paper",
+      "title": "SCOPE: Observation-Conditioned Full-Target Prediction for Sparse PDE Inference",
+      "date": "2026-09-30",
+      "published": "2026-09-29T02:19:19+00:00",
+      "arxiv_id": "2609.36527",
+      "group_ids": [
+        "meta-fair"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-09-30.json"
+    },
+    "2609.36521": {
+      "work_id": "2609.36521",
+      "kind": "paper",
+      "title": "PDE-OBS: Controlled Evaluation Across Observation Patterns",
+      "date": "2026-09-30",
+      "published": "2026-09-29T02:13:36+00:00",
+      "arxiv_id": "2609.36521",
+      "group_ids": [
+        "meta-fair"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-09-30.json"
+    },
+    "blog-introducing-dots-e584b3b1": {
+      "work_id": "blog-introducing-dots-e584b3b1",
+      "kind": "blog",
+      "title": "Introducing dots",
+      "date": "2026-09-30",
+      "published": "2026-09-29T00:00:00+00:00",
+      "arxiv_id": "",
+      "group_ids": [
+        "openai"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-09-30.json"
+    },
+    "blog-towards-safety-cases-for-frontier-ai-tra-85b1d59b": {
+      "work_id": "blog-towards-safety-cases-for-frontier-ai-tra-85b1d59b",
+      "kind": "blog",
+      "title": "Towards safety cases for frontier AI training",
+      "date": "2026-09-30",
+      "published": "2026-09-28T19:00:00+00:00",
+      "arxiv_id": "",
+      "group_ids": [
+        "openai"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-09-30.json"
+    },
+    "doi-10-1177-02783649261488980": {
+      "work_id": "doi-10-1177-02783649261488980",
+      "kind": "paper",
+      "title": "World model for robot learning: A comprehensive survey",
+      "date": "2026-09-30",
+      "published": "2026-09-28",
+      "arxiv_id": "",
+      "group_ids": [
+        "berkeley-bair"
+      ],
+      "venue": "The International Journal of Robotics Research",
+      "citation_count": 0,
+      "path": "works/works-2026-09-30.json"
     }
   },
-  "last_updated": "2026-09-29T05:50:13.601544+00:00"
+  "last_updated": "2026-09-30T05:39:09.872913+00:00"
 }
