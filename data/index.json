@@ -4313,7 +4313,147 @@
       "venue": "The International Journal of Robotics Research",
       "citation_count": 0,
       "path": "works/works-2026-09-30.json"
+    },
+    "blog-google-science-ai-flu-forecasts-8de38ea3": {
+      "work_id": "blog-google-science-ai-flu-forecasts-8de38ea3",
+      "kind": "blog",
+      "title": "Google's AI ranks #1 for predicting flu hospitalizations.",
+      "date": "2026-10-01",
+      "published": "2026-09-30T21:30:00+00:00",
+      "arxiv_id": "",
+      "group_ids": [
+        "google-research"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-10-01.json"
+    },
+    "2609.40284": {
+      "work_id": "2609.40284",
+      "kind": "paper",
+      "title": "cua-speedrun: Standardized Benchmarking of the Speed of Computer-Use Agents",
+      "date": "2026-10-01",
+      "published": "2026-09-30T17:48:06+00:00",
+      "arxiv_id": "2609.40284",
+      "group_ids": [
+        "cmu-ml"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-10-01.json"
+    },
+    "2609.40134": {
+      "work_id": "2609.40134",
+      "kind": "paper",
+      "title": "Tactile Curiosity Drives Robot Interaction",
+      "date": "2026-10-01",
+      "published": "2026-09-30T16:49:40+00:00",
+      "arxiv_id": "2609.40134",
+      "group_ids": [
+        "berkeley-bair"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-10-01.json"
+    },
+    "2609.40127": {
+      "work_id": "2609.40127",
+      "kind": "paper",
+      "title": "Learning Functional Subspaces for Neural Network Compression",
+      "date": "2026-10-01",
+      "published": "2026-09-30T16:47:35+00:00",
+      "arxiv_id": "2609.40127",
+      "group_ids": [
+        "meta-fair"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-10-01.json"
+    },
+    "blog-forecasting-space-weather-risks-on-power-338c1e8d": {
+      "work_id": "blog-forecasting-space-weather-risks-on-power-338c1e8d",
+      "kind": "blog",
+      "title": "Forecasting space weather risks on power grids",
+      "date": "2026-10-01",
+      "published": "2026-09-30T16:00:00+00:00",
+      "arxiv_id": "",
+      "group_ids": [
+        "microsoft-research"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-10-01.json"
+    },
+    "blog-mit-transit-lab-to-develop-ai-platform-p-4c9a6af8": {
+      "work_id": "blog-mit-transit-lab-to-develop-ai-platform-p-4c9a6af8",
+      "kind": "blog",
+      "title": "MIT Transit Lab to develop an AI platform for public transit agencies",
+      "date": "2026-10-01",
+      "published": "2026-09-30T15:15:00+00:00",
+      "arxiv_id": "",
+      "group_ids": [
+        "mit-csail"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-10-01.json"
+    },
+    "blog-synthid-bio-16cf12ee": {
+      "work_id": "blog-synthid-bio-16cf12ee",
+      "kind": "blog",
+      "title": "We’re introducing SynthID Bio, bringing our watermarking technology to synthetic biology.",
+      "date": "2026-10-01",
+      "published": "2026-09-30T15:00:00+00:00",
+      "arxiv_id": "",
+      "group_ids": [
+        "google-deepmind"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-10-01.json"
+    },
+    "blog-game-playing-ai-stratego-new-champ-0930-77a04bf5": {
+      "work_id": "blog-game-playing-ai-stratego-new-champ-0930-77a04bf5",
+      "kind": "blog",
+      "title": "This game-playing AI is the new champ at Stratego",
+      "date": "2026-10-01",
+      "published": "2026-09-30T15:00:00+00:00",
+      "arxiv_id": "",
+      "group_ids": [
+        "mit-csail"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-10-01.json"
+    },
+    "blog-disrupting-a-coordinated-model-distillat-29237daf": {
+      "work_id": "blog-disrupting-a-coordinated-model-distillat-29237daf",
+      "kind": "blog",
+      "title": "Disrupting a coordinated model-distillation campaign",
+      "date": "2026-10-01",
+      "published": "2026-09-30T10:30:00+00:00",
+      "arxiv_id": "",
+      "group_ids": [
+        "openai"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-10-01.json"
+    },
+    "blog-helping-small-businesses-put-ai-to-work-d44d5caa": {
+      "work_id": "blog-helping-small-businesses-put-ai-to-work-d44d5caa",
+      "kind": "blog",
+      "title": "Helping small businesses put AI to work",
+      "date": "2026-10-01",
+      "published": "2026-09-30T10:00:00+00:00",
+      "arxiv_id": "",
+      "group_ids": [
+        "openai"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-10-01.json"
     }
   },
-  "last_updated": "2026-09-30T05:39:09.872913+00:00"
+  "last_updated": "2026-10-01T06:02:15.010827+00:00"
 }
