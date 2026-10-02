@@ -4453,7 +4453,119 @@
       "venue": "",
       "citation_count": 0,
       "path": "works/works-2026-10-01.json"
+    },
+    "blog-3-questions-new-resource-empower-young-e-83ce9579": {
+      "work_id": "blog-3-questions-new-resource-empower-young-e-83ce9579",
+      "kind": "blog",
+      "title": "3 Questions: A new resource to empower young entrepreneurs",
+      "date": "2026-10-02",
+      "published": "2026-10-02T04:00:00+00:00",
+      "arxiv_id": "",
+      "group_ids": [
+        "mit-csail"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-10-02.json"
+    },
+    "blog-project-suncatcher-prototype-1068fb90": {
+      "work_id": "blog-project-suncatcher-prototype-1068fb90",
+      "kind": "blog",
+      "title": "Our Project Suncatcher prototype satellite is in orbit.",
+      "date": "2026-10-02",
+      "published": "2026-10-01T23:30:00+00:00",
+      "arxiv_id": "",
+      "group_ids": [
+        "google-research"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-10-02.json"
+    },
+    "blog-instructmesh-tool-lets-users-repair-ai-3-80269c2b": {
+      "work_id": "blog-instructmesh-tool-lets-users-repair-ai-3-80269c2b",
+      "kind": "blog",
+      "title": "New tool lets users repair AI-generated 3D models, then fabricate them just the way they want",
+      "date": "2026-10-02",
+      "published": "2026-10-01T22:00:00+00:00",
+      "arxiv_id": "",
+      "group_ids": [
+        "mit-csail"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-10-02.json"
+    },
+    "2610.02204": {
+      "work_id": "2610.02204",
+      "kind": "paper",
+      "title": "Reconstruct, Practice, Go Real: Guided Self-Improvement for Embodied Agents",
+      "date": "2026-10-02",
+      "published": "2026-10-01T17:59:50+00:00",
+      "arxiv_id": "2610.02204",
+      "group_ids": [
+        "berkeley-bair"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-10-02.json"
+    },
+    "2610.02202": {
+      "work_id": "2610.02202",
+      "kind": "paper",
+      "title": "ScholarCatalyst: A Benchmark for Retrieving Papers That Inspire New Research",
+      "date": "2026-10-02",
+      "published": "2026-10-01T17:59:47+00:00",
+      "arxiv_id": "2610.02202",
+      "group_ids": [
+        "stanford-ai"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-10-02.json"
+    },
+    "blog-the-eternal-complement-645f8982": {
+      "work_id": "blog-the-eternal-complement-645f8982",
+      "kind": "blog",
+      "title": "The eternal complement",
+      "date": "2026-10-02",
+      "published": "2026-10-01T17:00:00+00:00",
+      "arxiv_id": "",
+      "group_ids": [
+        "openai"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-10-02.json"
+    },
+    "blog-albertsons-reimagining-retail-c57165fe": {
+      "work_id": "blog-albertsons-reimagining-retail-c57165fe",
+      "kind": "blog",
+      "title": "How Albertsons Companies is reimagining retail from the inside out",
+      "date": "2026-10-02",
+      "published": "2026-10-01T16:00:00+00:00",
+      "arxiv_id": "",
+      "group_ids": [
+        "openai"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-10-02.json"
+    },
+    "blog-the-den-family-social-288269e7": {
+      "work_id": "blog-the-den-family-social-288269e7",
+      "kind": "blog",
+      "title": "The Den frees up 10-15 hours a week to grow with ChatGPT Work",
+      "date": "2026-10-02",
+      "published": "2026-10-01T00:00:00+00:00",
+      "arxiv_id": "",
+      "group_ids": [
+        "openai"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-10-02.json"
     }
   },
-  "last_updated": "2026-10-01T06:02:15.010827+00:00"
+  "last_updated": "2026-10-02T05:46:12.010562+00:00"
 }
