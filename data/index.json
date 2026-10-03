@@ -4565,7 +4565,78 @@
       "venue": "",
       "citation_count": 0,
       "path": "works/works-2026-10-02.json"
+    },
+    "blog-computational-tools-for-societys-most-co-abbf5d07": {
+      "work_id": "blog-computational-tools-for-societys-most-co-abbf5d07",
+      "kind": "blog",
+      "title": "Computational tools for society’s most complex challenges",
+      "date": "2026-10-03",
+      "published": "2026-10-02T19:30:00+00:00",
+      "arxiv_id": "",
+      "group_ids": [
+        "mit-csail"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-10-03.json"
+    },
+    "blog-documenting-tech-worker-movement-0918-de349964": {
+      "work_id": "blog-documenting-tech-worker-movement-0918-de349964",
+      "kind": "blog",
+      "title": "Documenting the tech worker movement",
+      "date": "2026-10-03",
+      "published": "2026-10-02T17:00:00+00:00",
+      "arxiv_id": "",
+      "group_ids": [
+        "mit-csail"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-10-03.json"
+    },
+    "blog-practical-guide-building-gpt-6-2576d610": {
+      "work_id": "blog-practical-guide-building-gpt-6-2576d610",
+      "kind": "blog",
+      "title": "A model guide for the GPT-6 family",
+      "date": "2026-10-03",
+      "published": "2026-10-02T16:15:00+00:00",
+      "arxiv_id": "",
+      "group_ids": [
+        "openai"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-10-03.json"
+    },
+    "blog-google-ai-updates-september-2026-d47652e0": {
+      "work_id": "blog-google-ai-updates-september-2026-d47652e0",
+      "kind": "blog",
+      "title": "The latest AI news we announced in September 2026",
+      "date": "2026-10-03",
+      "published": "2026-10-02T15:00:00+00:00",
+      "arxiv_id": "",
+      "group_ids": [
+        "google-deepmind",
+        "google-research"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-10-03.json"
+    },
+    "blog-chatham-financial-caa32c3f": {
+      "work_id": "blog-chatham-financial-caa32c3f",
+      "kind": "blog",
+      "title": "Chatham scales its capital markets expertise with OpenAI",
+      "date": "2026-10-03",
+      "published": "2026-10-02T00:00:00+00:00",
+      "arxiv_id": "",
+      "group_ids": [
+        "openai"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-10-03.json"
     }
   },
-  "last_updated": "2026-10-02T05:46:12.010562+00:00"
+  "last_updated": "2026-10-03T05:25:12.425070+00:00"
 }
