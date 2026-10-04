@@ -1,0 +1,1594 @@
+{
+  "date": "2026-10-04",
+  "groups": [
+    "openai",
+    "google-deepmind",
+    "google-research",
+    "anthropic",
+    "meta-fair",
+    "microsoft-research",
+    "berkeley-bair",
+    "stanford-ai",
+    "mit-csail",
+    "cmu-ml",
+    "deepseek",
+    "zhipu-ai",
+    "moonshot-ai",
+    "bytedance-seed",
+    "alibaba-qwen",
+    "minimax",
+    "stepfun",
+    "tsinghua-ai",
+    "pku-ai",
+    "shanghai-ai-lab",
+    "sjtu-ai",
+    "msra"
+  ],
+  "window_days": 7,
+  "works": [
+    {
+      "work_id": "blog-computational-tools-for-societys-most-co-abbf5d07",
+      "kind": "blog",
+      "title": "Computational tools for society’s most complex challenges",
+      "url": "https://news.mit.edu/2026/computational-tools-for-societys-most-complex-challenges-cathy-wu-1002",
+      "published": "2026-10-02T19:30:00+00:00",
+      "updated": "2026-10-02T19:30:00+00:00",
+      "summary": "Associate Professor Cathy Wu uses reinforcement learning to help map out improvements to transportation and other multifaceted systems.",
+      "source": "blog",
+      "group_ids": [
+        "mit-csail"
+      ],
+      "member_ids": [],
+      "member_names": [],
+      "authors": [],
+      "venue": "",
+      "citation_count": 0,
+      "influential_citation_count": 0,
+      "doi": "",
+      "arxiv_id": "",
+      "primary_category": "",
+      "categories": [],
+      "pdf_url": "",
+      "feed_url": "https://news.mit.edu/rss/topic/artificial-intelligence2",
+      "blog_label": "MIT News · AI",
+      "summary_cn": "",
+      "fetch_date": "2026-10-04",
+      "sources": [
+        "blog"
+      ]
+    },
+    {
+      "work_id": "blog-documenting-tech-worker-movement-0918-de349964",
+      "kind": "blog",
+      "title": "Documenting the tech worker movement",
+      "url": "https://news.mit.edu/2026/documenting-tech-worker-movement-0918",
+      "published": "2026-10-02T17:00:00+00:00",
+      "updated": "2026-10-02T17:00:00+00:00",
+      "summary": "Writing as a participant and researcher, PhD student JS Tan SM ’22 has co-authored a new book about the rise of tech worker protests and the employer backlash that followed.",
+      "source": "blog",
+      "group_ids": [
+        "mit-csail"
+      ],
+      "member_ids": [],
+      "member_names": [],
+      "authors": [],
+      "venue": "",
+      "citation_count": 0,
+      "influential_citation_count": 0,
+      "doi": "",
+      "arxiv_id": "",
+      "primary_category": "",
+      "categories": [],
+      "pdf_url": "",
+      "feed_url": "https://news.mit.edu/rss/topic/artificial-intelligence2",
+      "blog_label": "MIT News · AI",
+      "summary_cn": "",
+      "fetch_date": "2026-10-04",
+      "sources": [
+        "blog"
+      ]
+    },
+    {
+      "work_id": "blog-practical-guide-building-gpt-6-2576d610",
+      "kind": "blog",
+      "title": "A model guide for the GPT-6 family",
+      "url": "https://openai.com/index/practical-guide-building-gpt-6",
+      "published": "2026-10-02T16:15:00+00:00",
+      "updated": "2026-10-02T16:15:00+00:00",
+      "summary": "Learn how startups can choose GPT-6 models, tune reasoning effort, improve prompts and skills, coordinate tools, and prepare workflows for production.",
+      "source": "blog",
+      "group_ids": [
+        "openai"
+      ],
+      "member_ids": [],
+      "member_names": [],
+      "authors": [],
+      "venue": "",
+      "citation_count": 0,
+      "influential_citation_count": 0,
+      "doi": "",
+      "arxiv_id": "",
+      "primary_category": "",
+      "categories": [],
+      "pdf_url": "",
+      "feed_url": "https://openai.com/news/rss.xml",
+      "blog_label": "OpenAI News",
+      "summary_cn": "",
+      "fetch_date": "2026-10-04",
+      "sources": [
+        "blog"
+      ]
+    },
+    {
+      "work_id": "blog-google-ai-updates-september-2026-d47652e0",
+      "kind": "blog",
+      "title": "The latest AI news we announced in September 2026",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-september-2026/",
+      "published": "2026-10-02T15:00:00+00:00",
+      "updated": "2026-10-02T15:00:00+00:00",
+      "summary": "A video showing the September AI updates",
+      "source": "blog",
+      "group_ids": [
+        "google-deepmind",
+        "google-research"
+      ],
+      "member_ids": [],
+      "member_names": [],
+      "authors": [],
+      "venue": "",
+      "citation_count": 0,
+      "influential_citation_count": 0,
+      "doi": "",
+      "arxiv_id": "",
+      "primary_category": "",
+      "categories": [],
+      "pdf_url": "",
+      "feed_url": "https://blog.google/technology/google-deepmind/rss/",
+      "blog_label": "Google DeepMind Blog",
+      "summary_cn": "",
+      "fetch_date": "2026-10-04",
+      "sources": [
+        "blog"
+      ]
+    },
+    {
+      "work_id": "blog-3-questions-new-resource-empower-young-e-83ce9579",
+      "kind": "blog",
+      "title": "3 Questions: A new resource to empower young entrepreneurs",
+      "url": "https://news.mit.edu/2026/3-questions-new-resource-empower-young-entrepreneurs-1002",
+      "published": "2026-10-02T04:00:00+00:00",
+      "updated": "2026-10-02T04:00:00+00:00",
+      "summary": "Martin Trust Center Managing Director Bill Aulet introduces Dear Dreamer, a free platform for middle and high school students who want to learn about entrepreneurship.",
+      "source": "blog",
+      "group_ids": [
+        "mit-csail"
+      ],
+      "member_ids": [],
+      "member_names": [],
+      "authors": [],
+      "venue": "",
+      "citation_count": 0,
+      "influential_citation_count": 0,
+      "doi": "",
+      "arxiv_id": "",
+      "primary_category": "",
+      "categories": [],
+      "pdf_url": "",
+      "feed_url": "https://news.mit.edu/rss/topic/artificial-intelligence2",
+      "blog_label": "MIT News · AI",
+      "summary_cn": "",
+      "fetch_date": "2026-10-04",
+      "sources": [
+        "blog"
+      ]
+    },
+    {
+      "work_id": "blog-chatham-financial-caa32c3f",
+      "kind": "blog",
+      "title": "Chatham scales its capital markets expertise with OpenAI",
+      "url": "https://openai.com/index/chatham-financial",
+      "published": "2026-10-02T00:00:00+00:00",
+      "updated": "2026-10-02T00:00:00+00:00",
+      "summary": "Chatham Financial uses Codex and GPT-5.6 to build technology and redesign workflows, cutting trade validation from 30 minutes to under 4.",
+      "source": "blog",
+      "group_ids": [
+        "openai"
+      ],
+      "member_ids": [],
+      "member_names": [],
+      "authors": [],
+      "venue": "",
+      "citation_count": 0,
+      "influential_citation_count": 0,
+      "doi": "",
+      "arxiv_id": "",
+      "primary_category": "",
+      "categories": [],
+      "pdf_url": "",
+      "feed_url": "https://openai.com/news/rss.xml",
+      "blog_label": "OpenAI News",
+      "summary_cn": "",
+      "fetch_date": "2026-10-04",
+      "sources": [
+        "blog"
+      ]
+    },
+    {
+      "work_id": "blog-project-suncatcher-prototype-1068fb90",
+      "kind": "blog",
+      "title": "Our Project Suncatcher prototype satellite is in orbit.",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/project-suncatcher-prototype/",
+      "published": "2026-10-01T23:30:00+00:00",
+      "updated": "2026-10-01T23:30:00+00:00",
+      "summary": "Video showing a rocket launch",
+      "source": "blog",
+      "group_ids": [
+        "google-research"
+      ],
+      "member_ids": [],
+      "member_names": [],
+      "authors": [],
+      "venue": "",
+      "citation_count": 0,
+      "influential_citation_count": 0,
+      "doi": "",
+      "arxiv_id": "",
+      "primary_category": "",
+      "categories": [],
+      "pdf_url": "",
+      "feed_url": "https://blog.google/technology/research/rss/",
+      "blog_label": "Google Research Blog",
+      "summary_cn": "",
+      "fetch_date": "2026-10-04",
+      "sources": [
+        "blog"
+      ]
+    },
+    {
+      "work_id": "blog-instructmesh-tool-lets-users-repair-ai-3-80269c2b",
+      "kind": "blog",
+      "title": "New tool lets users repair AI-generated 3D models, then fabricate them just the way they want",
+      "url": "https://news.mit.edu/2026/instructmesh-tool-lets-users-repair-ai-3d-models-then-fabricate-them-1001",
+      "published": "2026-10-01T22:00:00+00:00",
+      "updated": "2026-10-01T22:00:00+00:00",
+      "summary": "“InstructMesh” can generate designs for everyday objects that are easy to edit and fabricate for both experts and newcomers to 3D modeling.",
+      "source": "blog",
+      "group_ids": [
+        "mit-csail"
+      ],
+      "member_ids": [],
+      "member_names": [],
+      "authors": [],
+      "venue": "",
+      "citation_count": 0,
+      "influential_citation_count": 0,
+      "doi": "",
+      "arxiv_id": "",
+      "primary_category": "",
+      "categories": [],
+      "pdf_url": "",
+      "feed_url": "https://news.mit.edu/rss/topic/artificial-intelligence2",
+      "blog_label": "MIT News · AI",
+      "summary_cn": "",
+      "fetch_date": "2026-10-04",
+      "sources": [
+        "blog"
+      ]
+    },
+    {
+      "work_id": "2610.02204",
+      "kind": "paper",
+      "title": "Reconstruct, Practice, Go Real: Guided Self-Improvement for Embodied Agents",
+      "url": "https://arxiv.org/abs/2610.02204",
+      "published": "2026-10-01T17:59:50+00:00",
+      "updated": "2026-10-01T17:59:50+00:00",
+      "summary": "Building reliable robot capabilities across diverse tasks requires substantial human effort to develop and maintain skills, design rewards, and integrate perception with control. We present Reconstruct, Practice, Go Real (RPG), a framework for autonomous improvement of robot execution systems without updating model weights. RPG identifies manipulation capabilities in an offline dataset and constructs related practice tasks in simulation. During practice, RPG uses execution feedback, privileged simulator state, and available dataset videos to diagnose failures. It develops new reusable symbolic skills, refines existing skills, and revises the system prompt based on these diagnoses. Cross-task evaluation tests individual candidate changes and merged revisions before they are retained for reuse. At test time, a multimodal LLM uses the resulting system prompt and skill library to coordinate perception and robot control. On held-out initializations of 22 manipulation tasks, RPG improves task success from 28.6% after the first practice round to 95.0% after 15 rounds, outperforming all evaluated baselines, including ASPIRE (75.5%) and CaP-Agent0 powered by GPT-6 Astra Pro (60.0%). After a common calibration and hardware-adaptation procedure, the frozen system succeeds in all 30 physical trials, with ten trials on each of three tasks. Project Website: https://rpg-robot.github.io/",
+      "source": "arxiv",
+      "group_ids": [
+        "berkeley-bair"
+      ],
+      "member_ids": [
+        "pieter-abbeel"
+      ],
+      "member_names": [
+        "Pieter Abbeel"
+      ],
+      "authors": [
+        "Yen-Jen Wang",
+        "Haozhe Jiang",
+        "Shuying Deng",
+        "Haoru Xue",
+        "Weirui Ye",
+        "Rocky Duan",
+        "Nika Haghtalab",
+        "S. Shankar Sastry",
+        "Pieter Abbeel",
+        "Haozhi Qi"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "influential_citation_count": 0,
+      "doi": "",
+      "arxiv_id": "2610.02204",
+      "primary_category": "cs.RO",
+      "categories": [
+        "cs.RO",
+        "cs.AI",
+        "eess.SY"
+      ],
+      "pdf_url": "https://arxiv.org/pdf/2610.02204v1",
+      "feed_url": "",
+      "blog_label": "",
+      "summary_cn": "",
+      "fetch_date": "2026-10-04",
+      "sources": [
+        "arxiv"
+      ]
+    },
+    {
+      "work_id": "2610.02202",
+      "kind": "paper",
+      "title": "ScholarCatalyst: A Benchmark for Retrieving Papers That Inspire New Research",
+      "url": "https://arxiv.org/abs/2610.02202",
+      "published": "2026-10-01T17:59:47+00:00",
+      "updated": "2026-10-01T17:59:47+00:00",
+      "summary": "What makes great scientists great? Even as AI systems start to make progress on open problems, scientists remain far ahead of them at sensing which prior idea, buried in an ever-growing archive of research, a new problem needs. To study this skill, we draw on researchers who know firsthand which earlier work advanced their completed projects, with papers serving as pointers to the ideas within. Using our automated pipeline that makes author annotation scalable, we build ScholarCatalyst by having 184 lead authors of 207 recent computer science papers label which candidates did or could have advanced their project, each with a detailed rationale. We introduce a retrieval task with author-provided judgments: given an initial research question, retrieve these papers from only the literature available when the project began. Agentic search does no better than embedding retrieval (0.42 vs. 0.48 Recall@20) despite calling that same retriever as a tool. Even an agent built on Claude Fable 5.1, which may have seen the completed papers during training, reaches only 0.51 R@20. These results highlight the need for new training recipes that equip models with expert intuition for searching broad corpora. We envision ScholarCatalyst as a step toward scientific agents that can take a half-formed idea and point to the prior research it needs.",
+      "source": "arxiv",
+      "group_ids": [
+        "stanford-ai"
+      ],
+      "member_ids": [
+        "chelsea-finn"
+      ],
+      "member_names": [
+        "Chelsea Finn"
+      ],
+      "authors": [
+        "Sohyeon Kim",
+        "Yoonho Lee",
+        "Bo Liu",
+        "Dayoon Ko",
+        "Rulin Shao",
+        "Seungone Kim",
+        "Graham Neubig",
+        "Pang Wei Koh",
+        "Aakanksha Chowdhery",
+        "Akari Asai",
+        "Omar Khattab",
+        "Yejin Choi",
+        "Gunhee Kim",
+        "Chelsea Finn"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "influential_citation_count": 0,
+      "doi": "",
+      "arxiv_id": "2610.02202",
+      "primary_category": "cs.AI",
+      "categories": [
+        "cs.AI",
+        "cs.CL",
+        "cs.IR"
+      ],
+      "pdf_url": "https://arxiv.org/pdf/2610.02202v1",
+      "feed_url": "",
+      "blog_label": "",
+      "summary_cn": "",
+      "fetch_date": "2026-10-04",
+      "sources": [
+        "arxiv"
+      ]
+    },
+    {
+      "work_id": "blog-the-eternal-complement-645f8982",
+      "kind": "blog",
+      "title": "The eternal complement",
+      "url": "https://openai.com/index/the-eternal-complement",
+      "published": "2026-10-01T17:00:00+00:00",
+      "updated": "2026-10-01T17:00:00+00:00",
+      "summary": "Advanced AI may matter most for the routine work behind breakthrough ideas. Explore why execution could shape the next economy and the pace of progress.",
+      "source": "blog",
+      "group_ids": [
+        "openai"
+      ],
+      "member_ids": [],
+      "member_names": [],
+      "authors": [],
+      "venue": "",
+      "citation_count": 0,
+      "influential_citation_count": 0,
+      "doi": "",
+      "arxiv_id": "",
+      "primary_category": "",
+      "categories": [],
+      "pdf_url": "",
+      "feed_url": "https://openai.com/news/rss.xml",
+      "blog_label": "OpenAI News",
+      "summary_cn": "",
+      "fetch_date": "2026-10-04",
+      "sources": [
+        "blog"
+      ]
+    },
+    {
+      "work_id": "blog-albertsons-reimagining-retail-c57165fe",
+      "kind": "blog",
+      "title": "How Albertsons Companies is reimagining retail from the inside out",
+      "url": "https://openai.com/index/albertsons-reimagining-retail",
+      "published": "2026-10-01T16:00:00+00:00",
+      "updated": "2026-10-01T16:00:00+00:00",
+      "summary": "Albertsons Cos. is using ChatGPT Enterprise and the OpenAI API to help teams work faster and make grocery shopping easier for millions of customers.",
+      "source": "blog",
+      "group_ids": [
+        "openai"
+      ],
+      "member_ids": [],
+      "member_names": [],
+      "authors": [],
+      "venue": "",
+      "citation_count": 0,
+      "influential_citation_count": 0,
+      "doi": "",
+      "arxiv_id": "",
+      "primary_category": "",
+      "categories": [],
+      "pdf_url": "",
+      "feed_url": "https://openai.com/news/rss.xml",
+      "blog_label": "OpenAI News",
+      "summary_cn": "",
+      "fetch_date": "2026-10-04",
+      "sources": [
+        "blog"
+      ]
+    },
+    {
+      "work_id": "blog-the-den-family-social-288269e7",
+      "kind": "blog",
+      "title": "The Den frees up 10-15 hours a week to grow with ChatGPT Work",
+      "url": "https://openai.com/index/the-den-family-social",
+      "published": "2026-10-01T00:00:00+00:00",
+      "updated": "2026-10-01T00:00:00+00:00",
+      "summary": "As it opens a new location, the social club prepares grant applications in 2 hours instead of 3 days and liquor-license materials in 3 hours instead of 4 days.",
+      "source": "blog",
+      "group_ids": [
+        "openai"
+      ],
+      "member_ids": [],
+      "member_names": [],
+      "authors": [],
+      "venue": "",
+      "citation_count": 0,
+      "influential_citation_count": 0,
+      "doi": "",
+      "arxiv_id": "",
+      "primary_category": "",
+      "categories": [],
+      "pdf_url": "",
+      "feed_url": "https://openai.com/news/rss.xml",
+      "blog_label": "OpenAI News",
+      "summary_cn": "",
+      "fetch_date": "2026-10-04",
+      "sources": [
+        "blog"
+      ]
+    },
+    {
+      "work_id": "blog-google-science-ai-flu-forecasts-8de38ea3",
+      "kind": "blog",
+      "title": "Google's AI ranks #1 for predicting flu hospitalizations.",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/google-science-ai-flu-forecasts/",
+      "published": "2026-09-30T21:30:00+00:00",
+      "updated": "2026-09-30T21:30:00+00:00",
+      "summary": "Google’s science AI model was the best at forecasting flu-related hospital admissions, the Centers for Disease Control announced.",
+      "source": "blog",
+      "group_ids": [
+        "google-research"
+      ],
+      "member_ids": [],
+      "member_names": [],
+      "authors": [],
+      "venue": "",
+      "citation_count": 0,
+      "influential_citation_count": 0,
+      "doi": "",
+      "arxiv_id": "",
+      "primary_category": "",
+      "categories": [],
+      "pdf_url": "",
+      "feed_url": "https://blog.google/technology/research/rss/",
+      "blog_label": "Google Research Blog",
+      "summary_cn": "",
+      "fetch_date": "2026-10-04",
+      "sources": [
+        "blog"
+      ]
+    },
+    {
+      "work_id": "blog-forecasting-space-weather-risks-on-power-338c1e8d",
+      "kind": "blog",
+      "title": "Forecasting space weather risks on power grids",
+      "url": "https://www.microsoft.com/en-us/research/blog/forecasting-space-weather-risks-on-power-grids/",
+      "published": "2026-09-30T16:00:00+00:00",
+      "updated": "2026-09-30T16:00:00+00:00",
+      "summary": "Extreme space-weather events can damage power systems on Earth and degrade GPS accuracy and satellite operations. A new machine learning system can predict where damage is likely to occur 30-60 minutes before a storm arrives. The post Forecasting space weather risks on power grids appeared first on Microsoft Research .",
+      "source": "blog",
+      "group_ids": [
+        "microsoft-research"
+      ],
+      "member_ids": [],
+      "member_names": [],
+      "authors": [],
+      "venue": "",
+      "citation_count": 0,
+      "influential_citation_count": 0,
+      "doi": "",
+      "arxiv_id": "",
+      "primary_category": "",
+      "categories": [],
+      "pdf_url": "",
+      "feed_url": "https://www.microsoft.com/en-us/research/feed/",
+      "blog_label": "Microsoft Research Blog",
+      "summary_cn": "",
+      "fetch_date": "2026-10-04",
+      "sources": [
+        "blog"
+      ]
+    },
+    {
+      "work_id": "blog-mit-transit-lab-to-develop-ai-platform-p-4c9a6af8",
+      "kind": "blog",
+      "title": "MIT Transit Lab to develop an AI platform for public transit agencies",
+      "url": "https://news.mit.edu/2026/mit-transit-lab-to-develop-ai-platform-public-transit-agencies-0930",
+      "published": "2026-09-30T15:15:00+00:00",
+      "updated": "2026-09-30T15:15:00+00:00",
+      "summary": "With $2.1 million funding from Google.org, the open-source Public Transit Intelligence Hub will unify public transit monitoring, operations, and passenger communication.",
+      "source": "blog",
+      "group_ids": [
+        "mit-csail"
+      ],
+      "member_ids": [],
+      "member_names": [],
+      "authors": [],
+      "venue": "",
+      "citation_count": 0,
+      "influential_citation_count": 0,
+      "doi": "",
+      "arxiv_id": "",
+      "primary_category": "",
+      "categories": [],
+      "pdf_url": "",
+      "feed_url": "https://news.mit.edu/rss/topic/artificial-intelligence2",
+      "blog_label": "MIT News · AI",
+      "summary_cn": "",
+      "fetch_date": "2026-10-04",
+      "sources": [
+        "blog"
+      ]
+    },
+    {
+      "work_id": "blog-synthid-bio-16cf12ee",
+      "kind": "blog",
+      "title": "We’re introducing SynthID Bio, bringing our watermarking technology to synthetic biology.",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/synthid-bio/",
+      "published": "2026-09-30T15:00:00+00:00",
+      "updated": "2026-09-30T15:00:00+00:00",
+      "summary": "Google DeepMind introduces SynthID Bio to watermark AI-designed proteins while maintaining biological function. Read the full research report here.",
+      "source": "blog",
+      "group_ids": [
+        "google-deepmind"
+      ],
+      "member_ids": [],
+      "member_names": [],
+      "authors": [],
+      "venue": "",
+      "citation_count": 0,
+      "influential_citation_count": 0,
+      "doi": "",
+      "arxiv_id": "",
+      "primary_category": "",
+      "categories": [],
+      "pdf_url": "",
+      "feed_url": "https://blog.google/technology/google-deepmind/rss/",
+      "blog_label": "Google DeepMind Blog",
+      "summary_cn": "",
+      "fetch_date": "2026-10-04",
+      "sources": [
+        "blog"
+      ]
+    },
+    {
+      "work_id": "blog-game-playing-ai-stratego-new-champ-0930-77a04bf5",
+      "kind": "blog",
+      "title": "This game-playing AI is the new champ at Stratego",
+      "url": "https://news.mit.edu/2026/game-playing-ai-stratego-new-champ-0930",
+      "published": "2026-09-30T15:00:00+00:00",
+      "updated": "2026-09-30T15:00:00+00:00",
+      "summary": "Able to defeat top-ranked human players and more efficient than other models, the new system could help decision-makers in military maneuvers or business negotiations.",
+      "source": "blog",
+      "group_ids": [
+        "mit-csail"
+      ],
+      "member_ids": [],
+      "member_names": [],
+      "authors": [],
+      "venue": "",
+      "citation_count": 0,
+      "influential_citation_count": 0,
+      "doi": "",
+      "arxiv_id": "",
+      "primary_category": "",
+      "categories": [],
+      "pdf_url": "",
+      "feed_url": "https://news.mit.edu/rss/topic/artificial-intelligence2",
+      "blog_label": "MIT News · AI",
+      "summary_cn": "",
+      "fetch_date": "2026-10-04",
+      "sources": [
+        "blog"
+      ]
+    },
+    {
+      "work_id": "blog-disrupting-a-coordinated-model-distillat-29237daf",
+      "kind": "blog",
+      "title": "Disrupting a coordinated model-distillation campaign",
+      "url": "https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign",
+      "published": "2026-09-30T10:30:00+00:00",
+      "updated": "2026-09-30T10:30:00+00:00",
+      "summary": "Learn how OpenAI disrupted a campaign to extract protected model reasoning and is strengthening defenses against adversarial distillation.",
+      "source": "blog",
+      "group_ids": [
+        "openai"
+      ],
+      "member_ids": [],
+      "member_names": [],
+      "authors": [],
+      "venue": "",
+      "citation_count": 0,
+      "influential_citation_count": 0,
+      "doi": "",
+      "arxiv_id": "",
+      "primary_category": "",
+      "categories": [],
+      "pdf_url": "",
+      "feed_url": "https://openai.com/news/rss.xml",
+      "blog_label": "OpenAI News",
+      "summary_cn": "",
+      "fetch_date": "2026-10-04",
+      "sources": [
+        "blog"
+      ]
+    },
+    {
+      "work_id": "blog-helping-small-businesses-put-ai-to-work-d44d5caa",
+      "kind": "blog",
+      "title": "Helping small businesses put AI to work",
+      "url": "https://openai.com/index/helping-small-businesses-put-ai-to-work",
+      "published": "2026-09-30T10:00:00+00:00",
+      "updated": "2026-09-30T10:00:00+00:00",
+      "summary": "OpenAI is partnering with America’s SBDC to expand hands-on AI training and local support for small businesses, alongside a new report on how small teams are using AI.",
+      "source": "blog",
+      "group_ids": [
+        "openai"
+      ],
+      "member_ids": [],
+      "member_names": [],
+      "authors": [],
+      "venue": "",
+      "citation_count": 0,
+      "influential_citation_count": 0,
+      "doi": "",
+      "arxiv_id": "",
+      "primary_category": "",
+      "categories": [],
+      "pdf_url": "",
+      "feed_url": "https://openai.com/news/rss.xml",
+      "blog_label": "OpenAI News",
+      "summary_cn": "",
+      "fetch_date": "2026-10-04",
+      "sources": [
+        "blog"
+      ]
+    },
+    {
+      "work_id": "2609.40127",
+      "kind": "paper",
+      "title": "Learning Functional Subspaces for Neural Network Compression",
+      "url": "https://arxiv.org/abs/2609.40127",
+      "published": "2026-09-30",
+      "updated": "2026-10-03T13:16:28.481748",
+      "summary": "Modern transformers pair impressive capabilities with substantial memory and compute demands. Low-rank weight factorization reduces both while keeping the matrices dense, and thus efficient on standard hardware. Existing methods, however, choose the subspace to remove from each weight matrix with local closed-form criteria: activation energy, layer-wise reconstruction error, or a quadratic approximation of the loss. These criteria ignore how errors propagate through the network, so at high compression the errors compound with depth and performance collapses. We introduce Learnable Subspace Projections (LSP), which instead learns the subspaces to discard end-to-end. Each linear layer, or tied group of layers that read the same activations, is assigned an orthogonal projector. All projectors are optimized jointly against a global objective--the KL divergence to the dense model's output distribution or the model's original training loss--while the pretrained weights remain frozen. Projectors are initialized from a whitened SVD truncation, and ranks are allocated by the output KL each projector induces per parameter saved. After training, the projectors merge into standard low-rank factors, with each tied group sharing one factor. In attention, this also lets the model cache one narrow latent in place of full keys and values. Across LLMs (OPT-125M/1.3B, Qwen3-4B, Llama-2-7B) and ViT-B/16, LSP outperforms baselines, and its advantage widens as compression increases. At -70% compression, LSP brings Llama-2-7B to 10.9 WikiText-2 perplexity and 42.2% mean zero-shot accuracy, versus 13.3 and 36.0% for the strongest baseline. The factorized model decodes up to 1.6x faster than the dense model at small batch sizes, and aching the shared latent shrinks the combined memory of weights and KV cache by 13.5x at a 128k-token context, versus at most 6.5x for untied baseline factorizations.",
+      "source": "openalex",
+      "group_ids": [
+        "meta-fair"
+      ],
+      "member_ids": [
+        "yann-lecun"
+      ],
+      "member_names": [
+        "Yann LeCun"
+      ],
+      "authors": [
+        "Massimo Bini",
+        "Anders Christensen",
+        "Stephan Alaniz",
+        "Judah Goldfeder",
+        "Ole Winther",
+        "Yann LeCun",
+        "Ravid Shwartz-Ziv",
+        "Zeynep Akata"
+      ],
+      "venue": "arXiv",
+      "citation_count": 0,
+      "influential_citation_count": 0,
+      "doi": "10.48550/arxiv.2609.40127",
+      "arxiv_id": "2609.40127",
+      "primary_category": "cs.LG",
+      "categories": [
+        "cs.LG",
+        "cs.CL"
+      ],
+      "pdf_url": "https://arxiv.org/pdf/2609.40127",
+      "feed_url": "",
+      "blog_label": "",
+      "summary_cn": "",
+      "fetch_date": "2026-10-04",
+      "sources": [
+        "openalex",
+        "arxiv"
+      ]
+    },
+    {
+      "work_id": "2609.40134",
+      "kind": "paper",
+      "title": "Tactile Curiosity Drives Robot Interaction",
+      "url": "https://arxiv.org/abs/2609.40134",
+      "published": "2026-09-30",
+      "updated": "2026-10-03T13:16:28.481748",
+      "summary": "Mastering robot manipulation skills via reinforcement learning (RL) remains largely sample-inefficient. The most common RL algorithms rely on random action sampling to discover new strategies, resulting in agents that allocate most of their training budget to motions in free space, away from the contacts from which manipulation skills emerge. Existing intrinsic motivation methods based on model disagreement or epistemic uncertainty improve on isotropic noise, but they can also reward uncertainty in functionally irrelevant transitions, such as erratic motions in free space. In this work, we argue that tactile feedback provides a natural signal for exploration, and introduce TacEx, a framework that incorporates touch into epistemic uncertainty-driven exploration by decomposing model uncertainty across sensory modalities and directing curiosity toward the tactile channel. By anchoring curiosity to the sense of touch, TacEx drives the robot to discover complex contact dynamics, learning to manipulate and grasp objects without task rewards or expert demonstrations during exploration. The interaction-dense dataset collected through this tactile-driven curiosity supports offline learning of downstream pick-and-place policies without additional environment interaction. We further use tactile-driven exploration to post-train vision-language-action (VLA) models. Although the VLAs are initially pre-trained without tactile feedback, post-training with TacEx substantially improves downstream performance while remaining highly sample-efficient.",
+      "source": "openalex",
+      "group_ids": [
+        "berkeley-bair"
+      ],
+      "member_ids": [
+        "pieter-abbeel"
+      ],
+      "member_names": [
+        "Pieter Abbeel"
+      ],
+      "authors": [
+        "Klemens Iten",
+        "Alexander Proshkin",
+        "Bhavya Sukhija",
+        "Stelian Coros",
+        "Andreas Krause",
+        "Pieter Abbeel",
+        "Carmelo Sferrazza"
+      ],
+      "venue": "arXiv",
+      "citation_count": 0,
+      "influential_citation_count": 0,
+      "doi": "10.48550/arxiv.2609.40134",
+      "arxiv_id": "2609.40134",
+      "primary_category": "cs.RO",
+      "categories": [
+        "cs.RO",
+        "cs.AI"
+      ],
+      "pdf_url": "https://arxiv.org/pdf/2609.40134",
+      "feed_url": "",
+      "blog_label": "",
+      "summary_cn": "",
+      "fetch_date": "2026-10-04",
+      "sources": [
+        "openalex",
+        "arxiv"
+      ]
+    },
+    {
+      "work_id": "2609.40284",
+      "kind": "paper",
+      "title": "cua-speedrun: Standardized Benchmarking of the Speed of Computer-Use Agents",
+      "url": "https://arxiv.org/abs/2609.40284",
+      "published": "2026-09-30",
+      "updated": "2026-10-03T13:16:28.481748",
+      "summary": "Computer use agents (CUAs), which use graphical user interfaces (GUIs) to complete tasks on a computer, have recently surpassed human performance on many standard benchmarks, including difficult long-horizon tasks. Their capabilities are undoubtedly impressive, however, a key barrier to the widespread adoption and deployment of CUAs remains their speed and cost. Progress towards faster yet capable CUAs requires reliable evaluation of their speed, but many CUA benchmarks currently face a reproducibility crisis. Benchmarks are based on complex infrastructure with varying machine and container configurations that confound the evaluation of the execution speed of CUAs. Towards addressing this gap, we propose cua-speedrun, which introduces standardized infrastructure and task sets, with a focus on evaluating the speed and efficiency of CUAs. cua-speedrun uses a uniform virtual machine setup and execution pipeline, along with a common agent interface that enables single-agent implementations to operate seamlessly across different benchmarks. Across four different CUA benchmarks, we evaluate how reasoning effort, agent harnesses, and environment latency affect performance, speed, and cost. We find no single model family is optimal for all three; none of the open-weight models are on the frontier, and also, unintuitively, for some models increasing the reasoning effort can speed up task completion, while faster environment input-output can slow down overall task completion time. We also demonstrate that we can effectively reduce the evaluation task set of most CUA benchmarks without degrading overall statistical power, allowing for more efficient benchmarking and comparison. We believe cua-speedrun will enable structured progress towards fast, efficient CUAs, unlocking new real-world use cases and applications. All code, infrastructure, and analysis are available at https://cuaspeedrun.com.",
+      "source": "openalex",
+      "group_ids": [
+        "cmu-ml"
+      ],
+      "member_ids": [
+        "ruslan-salakhutdinov"
+      ],
+      "member_names": [
+        "Ruslan Salakhutdinov"
+      ],
+      "authors": [
+        "Pranjal Aggarwal",
+        "Lawrence Jang",
+        "Sean Welleck",
+        "Daniel Fried",
+        "Ruslan Salakhutdinov",
+        "Jing Yu Koh"
+      ],
+      "venue": "arXiv",
+      "citation_count": 0,
+      "influential_citation_count": 0,
+      "doi": "10.48550/arxiv.2609.40284",
+      "arxiv_id": "2609.40284",
+      "primary_category": "cs.LG",
+      "categories": [
+        "cs.LG",
+        "cs.AI",
+        "cs.CL"
+      ],
+      "pdf_url": "https://arxiv.org/pdf/2609.40284",
+      "feed_url": "",
+      "blog_label": "",
+      "summary_cn": "",
+      "fetch_date": "2026-10-04",
+      "sources": [
+        "openalex",
+        "arxiv"
+      ]
+    },
+    {
+      "work_id": "2609.38172",
+      "kind": "paper",
+      "title": "Counterfactual Video Generation Enables Scalable Humanoid Loco-Manipulation",
+      "url": "https://arxiv.org/abs/2609.38172",
+      "published": "2026-09-29T17:59:45+00:00",
+      "updated": "2026-09-29T17:59:45+00:00",
+      "summary": "Teaching humanoids loco-manipulation skills, such as carrying diverse objects, via visual imitation is a promising path toward generalist robots. However, collecting diverse, high-quality interaction videos, such as clips that clearly show a person's full body and unoccluded interactions with objects, poses a practical barrier to scaling this approach. We propose PRISM, a real-to-sim-to-real framework that overcomes this limitation by amplifying a handful of real videos into a large, diverse training set. PRISM first generates hundreds of diverse \"counterfactual\" human-object interaction videos via video-to-video (V2V) generation from a few exemplar real videos. Our contact-anchored real-to-sim pipeline then reconstructs both human and object motions, retargeting this imperfect video data into physically plausible trajectories. The intra-class variability across these counterfactual videos lets us train a single policy that generalizes to unseen objects within each category. We demonstrate the full pipeline by deploying this policy on a real robot without any real-world fine-tuning. Using only onboard depth observations, our humanoid picks up, carries, and drops objects, including boxes, barrels, bins, and balls, across novel instances, sizes, and initial configurations.",
+      "source": "arxiv",
+      "group_ids": [
+        "berkeley-bair"
+      ],
+      "member_ids": [
+        "pieter-abbeel"
+      ],
+      "member_names": [
+        "Pieter Abbeel"
+      ],
+      "authors": [
+        "Zihan Wang",
+        "Zhen Wu",
+        "Pieter Abbeel",
+        "Rocky Duan",
+        "Jitendra Malik",
+        "Carmelo Sferrazza",
+        "C. Karen Liu",
+        "Guanya Shi",
+        "Angjoo Kanazawa"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "influential_citation_count": 0,
+      "doi": "",
+      "arxiv_id": "2609.38172",
+      "primary_category": "cs.RO",
+      "categories": [
+        "cs.RO",
+        "cs.CV",
+        "cs.GR"
+      ],
+      "pdf_url": "https://arxiv.org/pdf/2609.38172v1",
+      "feed_url": "",
+      "blog_label": "",
+      "summary_cn": "",
+      "fetch_date": "2026-10-04",
+      "sources": [
+        "arxiv"
+      ]
+    },
+    {
+      "work_id": "2609.38147",
+      "kind": "paper",
+      "title": "Thinking Before Thinking: Scaling Agentic Inference Through Meta-Reasoning",
+      "url": "https://arxiv.org/abs/2609.38147",
+      "published": "2026-09-29T17:57:25+00:00",
+      "updated": "2026-09-29T17:57:25+00:00",
+      "summary": "As agents take on longer and more complex problems, controlling the execution becomes a task in its own right. Each step in the run brings new control choices, like which partial work to build on, whether to start fresh, or when to stop. We introduce agentic meta-reasoning, an inference-time harness that makes these choices an explicit and structured reasoning process. Workers carry out the task-level computation, while a controller consolidates what the run has established, explores next options, assesses what each option is worth under the remaining budget, and dispatches the chosen work with context drawn from persistent memory. Between decisions the controller carries only a compact account of the run rather than replaying its full history. Our baselines span production coding agents and research harnesses, together with a Direct Control Agent using the same workers and compute budget allowance. On ProgramBench, which tests long-horizon agentic capability through program reconstruction, meta-reasoning achieves 71.5% with GPT-5.5 against 58.0% for Codex; with Opus 4.8 it achieves 67.2% against 65.5% for Claude Code. On the other benchmarks, spanning abstract reasoning, multi-domain long-horizon reasoning, and proof generation, it gains between 3.6 and 4.2 points over direct control, averaged across three frontier models. It keeps improving over the tested budget ranges where direct control plateaus, though its overhead can hurt at small budgets. Artifact-graph analysis reveals more reuse of earlier work, higher coverage of correct solutions in most settings, and nonuniform gains in final selection. These results indicate that spending computation on structured control becomes more important as agents scale to longer runs.",
+      "source": "arxiv",
+      "group_ids": [
+        "cmu-ml"
+      ],
+      "member_ids": [
+        "ruslan-salakhutdinov"
+      ],
+      "member_names": [
+        "Ruslan Salakhutdinov"
+      ],
+      "authors": [
+        "Paras Dahal",
+        "Anton Bakhtin",
+        "Taco Cohen",
+        "Zhengxing Chen",
+        "Carole-Jean Wu",
+        "Rob Fergus",
+        "Scott Yih",
+        "Gabriel Synnaeve",
+        "Ruslan Salakhutdinov",
+        "Sanjeev Arora",
+        "Jason Weston",
+        "Anirudh Goyal"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "influential_citation_count": 0,
+      "doi": "",
+      "arxiv_id": "2609.38147",
+      "primary_category": "cs.AI",
+      "categories": [
+        "cs.AI"
+      ],
+      "pdf_url": "https://arxiv.org/pdf/2609.38147v1",
+      "feed_url": "",
+      "blog_label": "",
+      "summary_cn": "",
+      "fetch_date": "2026-10-04",
+      "sources": [
+        "arxiv"
+      ]
+    },
+    {
+      "work_id": "blog-introducing-quine-an-ai-research-system--f70fac0a",
+      "kind": "blog",
+      "title": "Introducing Quine: An AI research system designed for the complexity of biology",
+      "url": "https://www.microsoft.com/en-us/research/blog/introducing-quine-an-ai-research-system-designed-for-the-complexity-of-biology/",
+      "published": "2026-09-29T14:00:02+00:00",
+      "updated": "2026-09-29T14:00:02+00:00",
+      "summary": "Biology doesn't operate in silos, and neither should the AI representation of it. Quine is an early-stage research effort to create a multimodal world model of biology. By connecting insights across biological scales and modalities, Quine helps scientists computationally search a space far larger than intuition allows and prioritize hypotheses before they reach the lab. Experimental results provide important feedback, helping researchers sharpen future research directions. The post Introducing Quine: An AI research system designed for the complexity of biology appeared first on Microsoft Resea",
+      "source": "blog",
+      "group_ids": [
+        "microsoft-research"
+      ],
+      "member_ids": [],
+      "member_names": [],
+      "authors": [],
+      "venue": "",
+      "citation_count": 0,
+      "influential_citation_count": 0,
+      "doi": "",
+      "arxiv_id": "",
+      "primary_category": "",
+      "categories": [],
+      "pdf_url": "",
+      "feed_url": "https://www.microsoft.com/en-us/research/feed/",
+      "blog_label": "Microsoft Research Blog",
+      "summary_cn": "",
+      "fetch_date": "2026-10-04",
+      "sources": [
+        "blog"
+      ]
+    },
+    {
+      "work_id": "blog-devday-2026-recap-b644059f",
+      "kind": "blog",
+      "title": "DevDay 2026 Recap",
+      "url": "https://openai.com/index/devday-2026-recap",
+      "published": "2026-09-29T10:00:00+00:00",
+      "updated": "2026-09-29T10:00:00+00:00",
+      "summary": "Explore more than 20 announcements from OpenAI DevDay 2026, including GPT-6 Astra, ChatGPT, Codex, APIs, security, and new tools for builders.",
+      "source": "blog",
+      "group_ids": [
+        "openai"
+      ],
+      "member_ids": [],
+      "member_names": [],
+      "authors": [],
+      "venue": "",
+      "citation_count": 0,
+      "influential_citation_count": 0,
+      "doi": "",
+      "arxiv_id": "",
+      "primary_category": "",
+      "categories": [],
+      "pdf_url": "",
+      "feed_url": "https://openai.com/news/rss.xml",
+      "blog_label": "OpenAI News",
+      "summary_cn": "",
+      "fetch_date": "2026-10-04",
+      "sources": [
+        "blog"
+      ]
+    },
+    {
+      "work_id": "blog-introducing-gpt-6-1-sol-9814af4d",
+      "kind": "blog",
+      "title": "Introducing GPT-6.1 Sol",
+      "url": "https://openai.com/index/introducing-gpt-6-1-sol",
+      "published": "2026-09-29T10:00:00+00:00",
+      "updated": "2026-09-29T10:00:00+00:00",
+      "summary": "Meet GPT-6.1 Sol: near-Astra intelligence for coding, computer use, and professional work at one-fifth of Astra’s standard API input and output token prices.",
+      "source": "blog",
+      "group_ids": [
+        "openai"
+      ],
+      "member_ids": [],
+      "member_names": [],
+      "authors": [],
+      "venue": "",
+      "citation_count": 0,
+      "influential_citation_count": 0,
+      "doi": "",
+      "arxiv_id": "",
+      "primary_category": "",
+      "categories": [],
+      "pdf_url": "",
+      "feed_url": "https://openai.com/news/rss.xml",
+      "blog_label": "OpenAI News",
+      "summary_cn": "",
+      "fetch_date": "2026-10-04",
+      "sources": [
+        "blog"
+      ]
+    },
+    {
+      "work_id": "blog-algorithmic-monoculture-effects-depend-o-078fae55",
+      "kind": "blog",
+      "title": "The effects of an “algorithmic monoculture” depend on the details",
+      "url": "https://news.mit.edu/2026/algorithmic-monoculture-effects-depend-on-details-0929",
+      "published": "2026-09-29T04:00:00+00:00",
+      "updated": "2026-09-29T04:00:00+00:00",
+      "summary": "In a study focusing on hiring decisions, MIT researchers found the use of a single algorithm by many firms could benefit job seekers in certain situations.",
+      "source": "blog",
+      "group_ids": [
+        "mit-csail"
+      ],
+      "member_ids": [],
+      "member_names": [],
+      "authors": [],
+      "venue": "",
+      "citation_count": 0,
+      "influential_citation_count": 0,
+      "doi": "",
+      "arxiv_id": "",
+      "primary_category": "",
+      "categories": [],
+      "pdf_url": "",
+      "feed_url": "https://news.mit.edu/rss/topic/artificial-intelligence2",
+      "blog_label": "MIT News · AI",
+      "summary_cn": "",
+      "fetch_date": "2026-10-04",
+      "sources": [
+        "blog"
+      ]
+    },
+    {
+      "work_id": "blog-when-we-talk-to-machines-sherry-turkle-b-edd44626",
+      "kind": "blog",
+      "title": "Who we become when we talk to machines",
+      "url": "https://news.mit.edu/2026/when-we-talk-to-machines-sherry-turkle-book-0929",
+      "published": "2026-09-29T04:00:00+00:00",
+      "updated": "2026-09-29T04:00:00+00:00",
+      "summary": "Professor Sherry Turkle’s new book, “Artificial Intimacy,” offers a withering critique of chatbots and the antisocial dynamics she believes they encourage.",
+      "source": "blog",
+      "group_ids": [
+        "mit-csail"
+      ],
+      "member_ids": [],
+      "member_names": [],
+      "authors": [],
+      "venue": "",
+      "citation_count": 0,
+      "influential_citation_count": 0,
+      "doi": "",
+      "arxiv_id": "",
+      "primary_category": "",
+      "categories": [],
+      "pdf_url": "",
+      "feed_url": "https://news.mit.edu/rss/topic/artificial-intelligence2",
+      "blog_label": "MIT News · AI",
+      "summary_cn": "",
+      "fetch_date": "2026-10-04",
+      "sources": [
+        "blog"
+      ]
+    },
+    {
+      "work_id": "2609.36527",
+      "kind": "paper",
+      "title": "SCOPE: Observation-Conditioned Full-Target Prediction for Sparse PDE Inference",
+      "url": "https://arxiv.org/abs/2609.36527",
+      "published": "2026-09-29T02:19:19+00:00",
+      "updated": "2026-09-30T16:45:35+00:00",
+      "summary": "Recovering complete physical fields from sparse observations is challenging because the measurements may not uniquely determine the underlying state. Diffusion-based PDE solvers address this problem through iterative sampling whereas neural operators provide deterministic one-pass predictions. We propose SCOPE (Sparse-Context Observability-aware Predictive Embeddings) to recover complete PDE fields from sparse observations by coupling full-field latent prediction with physical reconstruction. A shared decoder reconstructs fields from both predicted and complete-view representations so that representation learning is guided by both physical recovery and latent matching. We derive a quadratic risk decomposition at fixed teacher-decoder pairs showing why optimal latent prediction need not yield optimal field reconstruction. We also establish sufficient conditions for decoder improvements on complete inputs to transfer to recovery from partial observations. Experiments across five PDE settings show that SCOPE outperforms mask-aware neural operators on all ten forward and inverse tasks and achieves lower errors than those reported for diffusion-based solvers including DiffusionPDE and FunDPS. Decoder-only adaptation further improves recovery without retraining the backbone while retaining deterministic single-pass inference.",
+      "source": "arxiv",
+      "group_ids": [
+        "meta-fair"
+      ],
+      "member_ids": [
+        "yann-lecun"
+      ],
+      "member_names": [
+        "Yann LeCun"
+      ],
+      "authors": [
+        "Ruichen Xu",
+        "Siyao Wang",
+        "Fang Wan",
+        "Jiacheng Qiu",
+        "Wenhan Gao",
+        "Jiaxing Zhang",
+        "Linsey Pang",
+        "Ravid Shwartz-Ziv",
+        "Prakhar Mehrotra",
+        "Yann LeCun",
+        "Yuefan Deng"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "influential_citation_count": 0,
+      "doi": "",
+      "arxiv_id": "2609.36527",
+      "primary_category": "cs.LG",
+      "categories": [
+        "cs.LG",
+        "physics.comp-ph"
+      ],
+      "pdf_url": "https://arxiv.org/pdf/2609.36527v2",
+      "feed_url": "",
+      "blog_label": "",
+      "summary_cn": "",
+      "fetch_date": "2026-10-04",
+      "sources": [
+        "arxiv"
+      ]
+    },
+    {
+      "work_id": "2609.36521",
+      "kind": "paper",
+      "title": "PDE-OBS: Controlled Evaluation Across Observation Patterns",
+      "url": "https://arxiv.org/abs/2609.36521",
+      "published": "2026-09-29T02:13:36+00:00",
+      "updated": "2026-09-30T16:42:33+00:00",
+      "summary": "Physical-field reconstruction and forecasting depend on both measurement density and spatial layout, yet evaluation under a single observation pattern does not characterize performance when that pattern changes. We introduce PDE-OBS, an integrated benchmarking platform spanning numerical data generation, model training, and inference and evaluation under varying observation conditions. It combines 560,000 fields and trajectories from seven partial differential equation families with configurable observation operators and seven adapted baseline methods for stationary reconstruction and short-horizon forecasting. Separating observation construction from physical records allows users to specify parameterized patterns and deterministic mixtures for training and testing while preserving prediction targets and data splits. The evaluation protocol uses references trained for each test pattern to compare models on identical test observations and targets, alongside equal-count groups for spatial-layout comparisons. On a 14,000-record subset, we evaluate 441 trained models under nine test patterns, yielding 3,969 evaluations. Mean cross-pattern error exceeds mean matched-pattern error in all 49 PDE-method pairs, and this finding persists in a configuration-matched subset of 117 models. Denser test observations do not consistently reduce error for a fixed model. Mixed-pattern training on five completed pairs reduces large single-pattern transfer errors, although destination-trained references usually remain more accurate. Together, the benchmark and findings support systematic evaluation of observation-pattern sensitivity and provide a reusable workflow for developing methods under changing measurement conditions. Code: https://github.com/ru1ch3n/PDE-OBS.",
+      "source": "arxiv",
+      "group_ids": [
+        "meta-fair"
+      ],
+      "member_ids": [
+        "yann-lecun"
+      ],
+      "member_names": [
+        "Yann LeCun"
+      ],
+      "authors": [
+        "Ruichen Xu",
+        "Siyao Wang",
+        "Fang Wan",
+        "Jiacheng Qiu",
+        "Wenhan Gao",
+        "Jiaxing Zhang",
+        "Linsey Pang",
+        "Ravid Shwartz-Ziv",
+        "Yann LeCun",
+        "Yuefan Deng"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "influential_citation_count": 0,
+      "doi": "",
+      "arxiv_id": "2609.36521",
+      "primary_category": "cs.LG",
+      "categories": [
+        "cs.LG",
+        "physics.comp-ph"
+      ],
+      "pdf_url": "https://arxiv.org/pdf/2609.36521v2",
+      "feed_url": "",
+      "blog_label": "",
+      "summary_cn": "",
+      "fetch_date": "2026-10-04",
+      "sources": [
+        "arxiv"
+      ]
+    },
+    {
+      "work_id": "blog-introducing-dots-e584b3b1",
+      "kind": "blog",
+      "title": "Introducing dots",
+      "url": "https://openai.com/index/introducing-dots",
+      "published": "2026-09-29T00:00:00+00:00",
+      "updated": "2026-09-29T00:00:00+00:00",
+      "summary": "Dots by OpenAI are proactive assistants that can keep working across complex projects and everyday tasks. Learn how dots help you stay in control while work moves forward.",
+      "source": "blog",
+      "group_ids": [
+        "openai"
+      ],
+      "member_ids": [],
+      "member_names": [],
+      "authors": [],
+      "venue": "",
+      "citation_count": 0,
+      "influential_citation_count": 0,
+      "doi": "",
+      "arxiv_id": "",
+      "primary_category": "",
+      "categories": [],
+      "pdf_url": "",
+      "feed_url": "https://openai.com/news/rss.xml",
+      "blog_label": "OpenAI News",
+      "summary_cn": "",
+      "fetch_date": "2026-10-04",
+      "sources": [
+        "blog"
+      ]
+    },
+    {
+      "work_id": "blog-one-year-in-how-microsoft-research-asia--4e84bfc6",
+      "kind": "blog",
+      "title": "One year in: How Microsoft Research Asia – Singapore is advancing research, partnership and talent for real-world impact",
+      "url": "https://www.microsoft.com/en-us/research/blog/one-year-in-how-microsoft-research-asia-singapore-is-advancing-research-partnership-and-talent-for-real-world-impact/",
+      "published": "2026-09-28T21:00:00+00:00",
+      "updated": "2026-09-28T21:00:00+00:00",
+      "summary": "Since launching a year ago, the Microsoft Research Asia — Singapore lab has established a strong foundation, deepened collaboration across government, academia, and industry, and explored how frontier AI research can create real-world value. The post One year in: How Microsoft Research Asia – Singapore is advancing research, partnership and talent for real-world impact appeared first on Microsoft Research .",
+      "source": "blog",
+      "group_ids": [
+        "microsoft-research"
+      ],
+      "member_ids": [],
+      "member_names": [],
+      "authors": [],
+      "venue": "",
+      "citation_count": 0,
+      "influential_citation_count": 0,
+      "doi": "",
+      "arxiv_id": "",
+      "primary_category": "",
+      "categories": [],
+      "pdf_url": "",
+      "feed_url": "https://www.microsoft.com/en-us/research/feed/",
+      "blog_label": "Microsoft Research Blog",
+      "summary_cn": "",
+      "fetch_date": "2026-10-04",
+      "sources": [
+        "blog"
+      ]
+    },
+    {
+      "work_id": "blog-how-we-will-do-better-for-australia-70ce0fcb",
+      "kind": "blog",
+      "title": "How we will do better for Australia",
+      "url": "https://openai.com/index/how-we-will-do-better-for-australia",
+      "published": "2026-09-28T19:00:00+00:00",
+      "updated": "2026-09-28T19:00:00+00:00",
+      "summary": "OpenAI apologises for incidents involving Australian government websites and outlines stronger safeguards and support to strengthen Australia’s cyber defences.",
+      "source": "blog",
+      "group_ids": [
+        "openai"
+      ],
+      "member_ids": [],
+      "member_names": [],
+      "authors": [],
+      "venue": "",
+      "citation_count": 0,
+      "influential_citation_count": 0,
+      "doi": "",
+      "arxiv_id": "",
+      "primary_category": "",
+      "categories": [],
+      "pdf_url": "",
+      "feed_url": "https://openai.com/news/rss.xml",
+      "blog_label": "OpenAI News",
+      "summary_cn": "",
+      "fetch_date": "2026-10-04",
+      "sources": [
+        "blog"
+      ]
+    },
+    {
+      "work_id": "blog-towards-safety-cases-for-frontier-ai-tra-85b1d59b",
+      "kind": "blog",
+      "title": "Towards safety cases for frontier AI training",
+      "url": "https://openai.com/index/towards-safety-cases-for-frontier-ai-training",
+      "published": "2026-09-28T19:00:00+00:00",
+      "updated": "2026-09-28T19:00:00+00:00",
+      "summary": "Our early guidelines for safety cases in frontier AI training cover technical safeguards, operational practices, and investigating misalignment incidents",
+      "source": "blog",
+      "group_ids": [
+        "openai"
+      ],
+      "member_ids": [],
+      "member_names": [],
+      "authors": [],
+      "venue": "",
+      "citation_count": 0,
+      "influential_citation_count": 0,
+      "doi": "",
+      "arxiv_id": "",
+      "primary_category": "",
+      "categories": [],
+      "pdf_url": "",
+      "feed_url": "https://openai.com/news/rss.xml",
+      "blog_label": "OpenAI News",
+      "summary_cn": "",
+      "fetch_date": "2026-10-04",
+      "sources": [
+        "blog"
+      ]
+    },
+    {
+      "work_id": "blog-new-formulation-helps-rna-vaccines-withs-c9191a1a",
+      "kind": "blog",
+      "title": "New formulation helps RNA vaccines withstand high temperatures",
+      "url": "https://news.mit.edu/2026/new-formulation-helps-rna-vaccines-withstand-high-temperatures-0928",
+      "published": "2026-09-28T09:00:00+00:00",
+      "updated": "2026-09-28T09:00:00+00:00",
+      "summary": "MIT engineers have found a way to stabilize the lipid nanoparticles used to deliver RNA vaccines, which could allow the vaccines to be more widely distributed.",
+      "source": "blog",
+      "group_ids": [
+        "mit-csail"
+      ],
+      "member_ids": [],
+      "member_names": [],
+      "authors": [],
+      "venue": "",
+      "citation_count": 0,
+      "influential_citation_count": 0,
+      "doi": "",
+      "arxiv_id": "",
+      "primary_category": "",
+      "categories": [],
+      "pdf_url": "",
+      "feed_url": "https://news.mit.edu/rss/topic/artificial-intelligence2",
+      "blog_label": "MIT News · AI",
+      "summary_cn": "",
+      "fetch_date": "2026-10-04",
+      "sources": [
+        "blog"
+      ]
+    },
+    {
+      "work_id": "blog-lenfest-ai-collaborative-expansion-f2b1a73c",
+      "kind": "blog",
+      "title": "The Lenfest Institute grows landmark program with expanded OpenAI support",
+      "url": "https://openai.com/index/lenfest-ai-collaborative-expansion",
+      "published": "2026-09-28T07:00:00+00:00",
+      "updated": "2026-09-28T07:00:00+00:00",
+      "summary": "OpenAI is expanding the Lenfest AI Collaborative and Fellowship Program with $5 million in funding and up to $5 million in software credits and engineering support.",
+      "source": "blog",
+      "group_ids": [
+        "openai"
+      ],
+      "member_ids": [],
+      "member_names": [],
+      "authors": [],
+      "venue": "",
+      "citation_count": 0,
+      "influential_citation_count": 0,
+      "doi": "",
+      "arxiv_id": "",
+      "primary_category": "",
+      "categories": [],
+      "pdf_url": "",
+      "feed_url": "https://openai.com/news/rss.xml",
+      "blog_label": "OpenAI News",
+      "summary_cn": "",
+      "fetch_date": "2026-10-04",
+      "sources": [
+        "blog"
+      ]
+    },
+    {
+      "work_id": "blog-basis-tax-workbook-with-astra-d5b206f3",
+      "kind": "blog",
+      "title": "Basis completes a tax workbook 2x faster with GPT-6 Astra",
+      "url": "https://openai.com/index/basis-tax-workbook-with-astra",
+      "published": "2026-09-28T00:00:00+00:00",
+      "updated": "2026-09-28T00:00:00+00:00",
+      "summary": "GPT-6 Astra completed a 50-tab tax workbook twice as fast as GPT-5.6 Sol, and its stronger understanding of user intent gives Basis more confidence in real-world use.",
+      "source": "blog",
+      "group_ids": [
+        "openai"
+      ],
+      "member_ids": [],
+      "member_names": [],
+      "authors": [],
+      "venue": "",
+      "citation_count": 0,
+      "influential_citation_count": 0,
+      "doi": "",
+      "arxiv_id": "",
+      "primary_category": "",
+      "categories": [],
+      "pdf_url": "",
+      "feed_url": "https://openai.com/news/rss.xml",
+      "blog_label": "OpenAI News",
+      "summary_cn": "",
+      "fetch_date": "2026-10-04",
+      "sources": [
+        "blog"
+      ]
+    },
+    {
+      "work_id": "blog-codex-originals-d9f79080",
+      "kind": "blog",
+      "title": "Are you a Codex Original?",
+      "url": "https://openai.com/form/codex-originals",
+      "published": "2026-09-28T00:00:00+00:00",
+      "updated": "2026-09-28T00:00:00+00:00",
+      "summary": "We’re collecting real stories of builders, tinkerers, researchers, and creators who are using Codex to do incredible things. If you want to be a part of the next chapter of the Codex Originals program, tell us more about your story and project below.",
+      "source": "blog",
+      "group_ids": [
+        "openai"
+      ],
+      "member_ids": [],
+      "member_names": [],
+      "authors": [],
+      "venue": "",
+      "citation_count": 0,
+      "influential_citation_count": 0,
+      "doi": "",
+      "arxiv_id": "",
+      "primary_category": "",
+      "categories": [],
+      "pdf_url": "",
+      "feed_url": "https://openai.com/news/rss.xml",
+      "blog_label": "OpenAI News",
+      "summary_cn": "",
+      "fetch_date": "2026-10-04",
+      "sources": [
+        "blog"
+      ]
+    },
+    {
+      "work_id": "2609.34085",
+      "kind": "paper",
+      "title": "AD-E2E-JEPA: A Joint-Embedding Predictive Architecture For End-to-End Autonomous Driving",
+      "url": "https://arxiv.org/abs/2609.34085",
+      "published": "2026-09-28",
+      "updated": "2026-10-01T08:54:57.152042",
+      "summary": "Autonomous driving requires \\textit{world models} that can understand the physical world, reason and plan, and operate safely. In this paper, we first systematically evaluate existing action-conditioned joint-embedding predictive architecture (JEPA) world models, including LeWM, DINO-WM, and JEPA-WM for end-to-end autonomous driving (E2EAD). To isolate world-model quality from policy learning, we employ a goal-conditioned zero-shot planning setting that evaluates these models using ground-truth future observations as goals, without training any driving policy. We find that existing JEPA-based world models are either accurate for driving but computationally expensive, or computationally efficient but insufficient for planning. To address this trade-off, we propose \\textbf{AD-E2E-JEPA}, which introduces a SIGReg-regularized learnable projector applied to projected patch embeddings. The projector reduces the number of planning patches by $16\\times$ and the embedding dimension by $4\\times$, achieving a $100\\times$ inference speedup while retaining planning performance, with a 0.8-second runtime for an 8-frame rollout over 256 candidate trajectories. \\textit{Without} training any driving policy, the world model itself reaches the goals located 20 meters away on average within the displacement of respectively 4.0/2.8 meters, using world-model rollouts over trajectory vocabularies of respectively 256/8,192 candidates. On the NAVSIMv2 benchmark, it achieves 67.3/72.9 EPDMS with multiplicative safety metrics and 84.1/86.5 EPDMS$^{\\dagger}$ without them in goal-conditioned zero-shot planning. Experiments further show that the self-supervised pretrained projector improves downstream imitation learning performance from 80.2 to 85.4 EPDMS. The source code is available at https://github.com/HaoranZhuExplorer/AD-E2E-JEPA",
+      "source": "openalex",
+      "group_ids": [
+        "meta-fair"
+      ],
+      "member_ids": [
+        "yann-lecun"
+      ],
+      "member_names": [
+        "Yann LeCun"
+      ],
+      "authors": [
+        "Haoran Zhu",
+        "Wancong Zhang",
+        "Yann LeCun",
+        "Anna Choromanska"
+      ],
+      "venue": "arXiv",
+      "citation_count": 0,
+      "influential_citation_count": 0,
+      "doi": "10.48550/arxiv.2609.34085",
+      "arxiv_id": "2609.34085",
+      "primary_category": "cs.RO",
+      "categories": [
+        "cs.RO",
+        "cs.AI",
+        "cs.CV",
+        "cs.LG"
+      ],
+      "pdf_url": "https://arxiv.org/pdf/2609.34085",
+      "feed_url": "",
+      "blog_label": "",
+      "summary_cn": "",
+      "fetch_date": "2026-10-04",
+      "sources": [
+        "openalex",
+        "arxiv"
+      ]
+    },
+    {
+      "work_id": "doi-10-1177-02783649261488980",
+      "kind": "paper",
+      "title": "World model for robot learning: A comprehensive survey",
+      "url": "https://doi.org/10.1177/02783649261488980",
+      "published": "2026-09-28",
+      "updated": "2026-10-01T08:54:57.152042",
+      "summary": "World models, which are predictive representations of how environments evolve under actions, have become a central component of robot learning. They support policy learning, planning, simulation, evaluation, data generation, and have advanced rapidly with the rise of foundation models and large-scale video generation. However, the literature remains fragmented across architectures, functional roles, and embodied application domains. To address this gap, we present a comprehensive review of world models from a robot-learning perspective. We examine how world models are coupled with robot policies, how they serve as learned simulators for reinforcement learning and evaluation, and how robotic video world models have progressed from imagination-based generation to controllable, structured, and foundation-scale formulations. We further summarize representative datasets, benchmarks, and evaluation protocols. Overall, this survey systematically reviews the rapidly growing literature on world models for robot learning, clarifies key paradigms and applications, and highlights major challenges and future directions for predictive modeling in embodied agents. To facilitate continued access to newly emerging works, benchmarks, and resources, we will maintain and regularly update the accompanying GitHub repository on https://github.com/NTUMARS/Awesome-World-Model-for-Robotics-Policy alongside this survey.",
+      "source": "openalex",
+      "group_ids": [
+        "berkeley-bair"
+      ],
+      "member_ids": [
+        "pieter-abbeel"
+      ],
+      "member_names": [
+        "Pieter Abbeel"
+      ],
+      "authors": [
+        "Bohan Hou",
+        "Gen K. Li",
+        "Jindou Jia",
+        "Tuo An",
+        "Xinying Guo",
+        "Sicong Leng",
+        "Haoran Geng",
+        "Yanjie Ze",
+        "Tatsuya Harada",
+        "Philip H. S. Torr",
+        "Oier Mees",
+        "Marc Pollefeys",
+        "Zhuang Liu",
+        "Jiajun Wu",
+        "Pieter Abbeel",
+        "Jitendra Malik",
+        "Yilun Du",
+        "Jianfei Yang"
+      ],
+      "venue": "The International Journal of Robotics Research",
+      "citation_count": 0,
+      "influential_citation_count": 0,
+      "doi": "10.1177/02783649261488980",
+      "arxiv_id": "",
+      "primary_category": "",
+      "categories": [],
+      "pdf_url": "https://journals.sagepub.com/doi/pdf/10.1177/02783649261488980?download=true",
+      "feed_url": "",
+      "blog_label": "",
+      "summary_cn": "",
+      "fetch_date": "2026-10-04",
+      "sources": [
+        "openalex"
+      ]
+    },
+    {
+      "work_id": "2609.35738",
+      "kind": "paper",
+      "title": "Harness Learning Enables Generalizable Test-Time Adaptation",
+      "url": "https://arxiv.org/abs/2609.35738",
+      "published": "2026-09-28",
+      "updated": "2026-10-01T08:54:57.152042",
+      "summary": "A language-model agent is jointly defined by its model and its harness, the executable program that organizes model calls, tool use, and information flow. Because different tasks call for different ways of organizing these operations, the harness needs to be adapted using feedback from the task at hand. We introduce harness learning, which trains a proposer model to revise a solver's harness using execution feedback. We formulate this process as meta-learning over executable programs, with harness revisions playing the role of weight updates in gradient-based adaptation. We train the proposer with reinforcement learning, using the task performance of revised harnesses as the reward. At test time, the proposer uses feedback from successive executions on a new task to refine the harness, without performing any parameter-space update. Experiments on reasoning and multi-hop question answering show that harness learning improves revision quality and that the ability to adapt at test time transfers to unseen tasks. Policies trained on individual revisions can continue improving harnesses over multiple rounds, while the benefits of training on revision sequences vary across settings. These findings suggest a path towards continually learning agents that turn accumulated experience into generalizable improvements.",
+      "source": "openalex",
+      "group_ids": [
+        "cmu-ml"
+      ],
+      "member_ids": [
+        "ruslan-salakhutdinov"
+      ],
+      "member_names": [
+        "Ruslan Salakhutdinov"
+      ],
+      "authors": [
+        "Alvin Zhang",
+        "Xuecheng Liu",
+        "Zixuan Wang",
+        "Fahim Tajwar",
+        "Daman Arora",
+        "Ruslan Salakhutdinov",
+        "Daniel Khashabi",
+        "Yuda Song",
+        "Andrea Zanette"
+      ],
+      "venue": "arXiv",
+      "citation_count": 0,
+      "influential_citation_count": 0,
+      "doi": "10.48550/arxiv.2609.35738",
+      "arxiv_id": "2609.35738",
+      "primary_category": "cs.CL",
+      "categories": [
+        "cs.CL",
+        "cs.LG"
+      ],
+      "pdf_url": "https://arxiv.org/pdf/2609.35738",
+      "feed_url": "",
+      "blog_label": "",
+      "summary_cn": "",
+      "fetch_date": "2026-10-04",
+      "sources": [
+        "openalex",
+        "arxiv"
+      ]
+    }
+  ],
+  "source_stats": {
+    "openalex": 6,
+    "arxiv": 11,
+    "blog": 32
+  },
+  "kind_stats": {
+    "blog": 31,
+    "paper": 12
+  }
+}
