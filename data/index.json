@@ -4636,7 +4636,147 @@
       "venue": "",
       "citation_count": 0,
       "path": "works/works-2026-10-03.json"
+    },
+    "2610.06805": {
+      "work_id": "2610.06805",
+      "kind": "paper",
+      "title": "H-JEPA: End-to-End Learning of Hierarchical World Models for Visual Planning",
+      "date": "2026-10-06",
+      "published": "2026-10-05T17:53:34+00:00",
+      "arxiv_id": "2610.06805",
+      "group_ids": [
+        "meta-fair"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-10-06.json"
+    },
+    "blog-eu-text-provenance-7b748449": {
+      "work_id": "blog-eu-text-provenance-7b748449",
+      "kind": "blog",
+      "title": "Our approach to EU text provenance rules",
+      "date": "2026-10-06",
+      "published": "2026-10-05T15:00:00+00:00",
+      "arxiv_id": "",
+      "group_ids": [
+        "openai"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-10-06.json"
+    },
+    "blog-new-chatgpt-ads-format-and-measurement-ed071ba5": {
+      "work_id": "blog-new-chatgpt-ads-format-and-measurement-ed071ba5",
+      "kind": "blog",
+      "title": "Building advertising for the way people use AI",
+      "date": "2026-10-06",
+      "published": "2026-10-05T10:00:00+00:00",
+      "arxiv_id": "",
+      "group_ids": [
+        "openai"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-10-06.json"
+    },
+    "2610.05882": {
+      "work_id": "2610.05882",
+      "kind": "paper",
+      "title": "Mulligan: Performance-Guided Data Collection for Efficient On-Robot Learning",
+      "date": "2026-10-06",
+      "published": "2026-10-05T06:56:13+00:00",
+      "arxiv_id": "2610.05882",
+      "group_ids": [
+        "stanford-ai"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-10-06.json"
+    },
+    "2610.05336": {
+      "work_id": "2610.05336",
+      "kind": "paper",
+      "title": "SheetSage2: Coherent Lead-Sheet Transcription with Synthetic Supervision",
+      "date": "2026-10-06",
+      "published": "2026-10-04T15:57:27+00:00",
+      "arxiv_id": "2610.05336",
+      "group_ids": [
+        "meta-fair"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-10-06.json"
+    },
+    "2610.04976": {
+      "work_id": "2610.04976",
+      "kind": "paper",
+      "title": "Priced Guidance: Can Language Models Generate Future Research Ideas?",
+      "date": "2026-10-06",
+      "published": "2026-10-04T05:45:08+00:00",
+      "arxiv_id": "2610.04976",
+      "group_ids": [
+        "stanford-ai"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-10-06.json"
+    },
+    "2610.04862": {
+      "work_id": "2610.04862",
+      "kind": "paper",
+      "title": "GitSwarm: Decentralized Compounding Inference",
+      "date": "2026-10-06",
+      "published": "2026-10-04T02:03:24+00:00",
+      "arxiv_id": "2610.04862",
+      "group_ids": [
+        "cmu-ml"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-10-06.json"
+    },
+    "blog-diver-decision-critical-verifier-learnin-722fc0e6": {
+      "work_id": "blog-diver-decision-critical-verifier-learnin-722fc0e6",
+      "kind": "blog",
+      "title": "DiVeR: Decision-Critical Verifier Learning for VLA Test-Time Scaling",
+      "date": "2026-10-06",
+      "published": "2026-10-03T07:30:08+00:00",
+      "arxiv_id": "",
+      "group_ids": [
+        "msra"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-10-06.json"
+    },
+    "2610.04301": {
+      "work_id": "2610.04301",
+      "kind": "paper",
+      "title": "EnvDreamer: Large-Scale Multimodal-to-Environment Generation for Embodied AI",
+      "date": "2026-10-06",
+      "published": "2026-10-03T05:28:33+00:00",
+      "arxiv_id": "2610.04301",
+      "group_ids": [
+        "mit-csail"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-10-06.json"
+    },
+    "2610.03861": {
+      "work_id": "2610.03861",
+      "kind": "paper",
+      "title": "GOTT: Object-centric Dexterous Manipulation with a Reusable Cross-Embodiment Primitive",
+      "date": "2026-10-06",
+      "published": "2026-10-02T17:58:42+00:00",
+      "arxiv_id": "2610.03861",
+      "group_ids": [
+        "berkeley-bair"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-10-06.json"
     }
   },
-  "last_updated": "2026-10-05T05:48:44.622865+00:00"
+  "last_updated": "2026-10-06T06:28:06.207174+00:00"
 }
