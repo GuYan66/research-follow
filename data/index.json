@@ -4776,7 +4776,203 @@
       "venue": "",
       "citation_count": 0,
       "path": "works/works-2026-10-06.json"
+    },
+    "blog-supercomputing-researchers-document-evol-6df27950": {
+      "work_id": "blog-supercomputing-researchers-document-evol-6df27950",
+      "kind": "blog",
+      "title": "Supercomputing researchers document evolution of AI hardware",
+      "date": "2026-10-07",
+      "published": "2026-10-06T20:55:00+00:00",
+      "arxiv_id": "",
+      "group_ids": [
+        "mit-csail"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-10-07.json"
+    },
+    "blog-blind-sweep-ultrasounds-ai-25a82727": {
+      "work_id": "blog-blind-sweep-ultrasounds-ai-25a82727",
+      "kind": "blog",
+      "title": "Ask a Scientist: How are researchers using AI to help pregnant women access ultrasounds?",
+      "date": "2026-10-07",
+      "published": "2026-10-06T18:00:00+00:00",
+      "arxiv_id": "",
+      "group_ids": [
+        "google-research"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-10-07.json"
+    },
+    "2610.08789": {
+      "work_id": "2610.08789",
+      "kind": "paper",
+      "title": "QF3: Fast Flow RL with Filtered Q-Gradients",
+      "date": "2026-10-07",
+      "published": "2026-10-06T17:59:34+00:00",
+      "arxiv_id": "2610.08789",
+      "group_ids": [
+        "berkeley-bair"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-10-07.json"
+    },
+    "blog-chris-bourg-named-vice-provost-and-barba-86e6c526": {
+      "work_id": "blog-chris-bourg-named-vice-provost-and-barba-86e6c526",
+      "kind": "blog",
+      "title": "Chris Bourg named vice provost and Barbara K. Ostrom (1978) Director of the MIT Libraries",
+      "date": "2026-10-07",
+      "published": "2026-10-06T17:00:00+00:00",
+      "arxiv_id": "",
+      "group_ids": [
+        "mit-csail"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-10-07.json"
+    },
+    "blog-what-ai-gets-wrong-and-what-failure-teac-cb8f0d8e": {
+      "work_id": "blog-what-ai-gets-wrong-and-what-failure-teac-cb8f0d8e",
+      "kind": "blog",
+      "title": "What AI gets wrong and what failure teaches us",
+      "date": "2026-10-07",
+      "published": "2026-10-06T16:19:06+00:00",
+      "arxiv_id": "",
+      "group_ids": [
+        "microsoft-research"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-10-07.json"
+    },
+    "blog-atlassian-partnership-6ef56f96": {
+      "work_id": "blog-atlassian-partnership-6ef56f96",
+      "kind": "blog",
+      "title": "Atlassian and OpenAI expand partnership to turn enterprise knowledge into action",
+      "date": "2026-10-07",
+      "published": "2026-10-06T16:00:00+00:00",
+      "arxiv_id": "",
+      "group_ids": [
+        "openai"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-10-07.json"
+    },
+    "blog-embeddinggemma-2-81eb78ed": {
+      "work_id": "blog-embeddinggemma-2-81eb78ed",
+      "kind": "blog",
+      "title": "EmbeddingGemma 2: an open, lightweight multimodal embedding model",
+      "date": "2026-10-07",
+      "published": "2026-10-06T16:00:00+00:00",
+      "arxiv_id": "",
+      "group_ids": [
+        "google-deepmind"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-10-07.json"
+    },
+    "blog-mit-america-initiative-strengthens-stem--46c84813": {
+      "work_id": "blog-mit-america-initiative-strengthens-stem--46c84813",
+      "kind": "blog",
+      "title": "MIT announces the MIT for America initiative, to strengthen STEM education across the country",
+      "date": "2026-10-07",
+      "published": "2026-10-06T15:00:00+00:00",
+      "arxiv_id": "",
+      "group_ids": [
+        "mit-csail"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-10-07.json"
+    },
+    "blog-jump-trading-c152c8a3": {
+      "work_id": "blog-jump-trading-c152c8a3",
+      "kind": "blog",
+      "title": "How Jump Trading is scaling quant research with ChatGPT",
+      "date": "2026-10-07",
+      "published": "2026-10-06T12:00:00+00:00",
+      "arxiv_id": "",
+      "group_ids": [
+        "openai"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-10-07.json"
+    },
+    "blog-sharing-ai-progress-in-mathematics-909dcd83": {
+      "work_id": "blog-sharing-ai-progress-in-mathematics-909dcd83",
+      "kind": "blog",
+      "title": "Sharing AI progress in mathematics",
+      "date": "2026-10-07",
+      "published": "2026-10-06T12:00:00+00:00",
+      "arxiv_id": "",
+      "group_ids": [
+        "openai"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-10-07.json"
+    },
+    "blog-advancing-computer-use-with-ironclad-59cd7849": {
+      "work_id": "blog-advancing-computer-use-with-ironclad-59cd7849",
+      "kind": "blog",
+      "title": "Advancing computer use with Ironclad",
+      "date": "2026-10-07",
+      "published": "2026-10-06T10:00:00+00:00",
+      "arxiv_id": "",
+      "group_ids": [
+        "openai"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-10-07.json"
+    },
+    "2610.07796": {
+      "work_id": "2610.07796",
+      "kind": "paper",
+      "title": "The Geometry of Empowerment",
+      "date": "2026-10-07",
+      "published": "2026-10-06T05:45:19+00:00",
+      "arxiv_id": "2610.07796",
+      "group_ids": [
+        "berkeley-bair"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-10-07.json"
+    },
+    "2610.07540": {
+      "work_id": "2610.07540",
+      "kind": "paper",
+      "title": "Preserving Unstable Modes Through Inverse Dynamics in JEPA World Models",
+      "date": "2026-10-07",
+      "published": "2026-10-06T00:08:43+00:00",
+      "arxiv_id": "2610.07540",
+      "group_ids": [
+        "meta-fair"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-10-07.json"
+    },
+    "2610.07056": {
+      "work_id": "2610.07056",
+      "kind": "paper",
+      "title": "Behavioral Cloning Mystery",
+      "date": "2026-10-07",
+      "published": "2026-10-05T04:33:28+00:00",
+      "arxiv_id": "2610.07056",
+      "group_ids": [
+        "berkeley-bair"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-10-07.json"
     }
   },
-  "last_updated": "2026-10-06T06:28:06.207174+00:00"
+  "last_updated": "2026-10-07T06:07:26.399976+00:00"
 }
