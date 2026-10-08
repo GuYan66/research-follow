@@ -4972,7 +4972,119 @@
       "venue": "",
       "citation_count": 0,
       "path": "works/works-2026-10-07.json"
+    },
+    "blog-mitigating-environmental-threat-of-data--3ef1f952": {
+      "work_id": "blog-mitigating-environmental-threat-of-data--3ef1f952",
+      "kind": "blog",
+      "title": "Using AI to mitigate the growing environmental threat of data centers",
+      "date": "2026-10-08",
+      "published": "2026-10-08T04:00:00+00:00",
+      "arxiv_id": "",
+      "group_ids": [
+        "mit-csail"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-10-08.json"
+    },
+    "blog-discovering-value-humanistic-inquiry-100-511f3b3b": {
+      "work_id": "blog-discovering-value-humanistic-inquiry-100-511f3b3b",
+      "kind": "blog",
+      "title": "Discovering the value of humanistic inquiry",
+      "date": "2026-10-08",
+      "published": "2026-10-07T20:10:00+00:00",
+      "arxiv_id": "",
+      "group_ids": [
+        "mit-csail"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-10-08.json"
+    },
+    "blog-agent-lightning-v1-0-a-3500-line-lightwe-c983ea47": {
+      "work_id": "blog-agent-lightning-v1-0-a-3500-line-lightwe-c983ea47",
+      "kind": "blog",
+      "title": "Agent Lightning v1.0: A 3,500-Line Lightweight Agentic RL Framework for Training Agents with Real Harnesses",
+      "date": "2026-10-08",
+      "published": "2026-10-07T16:00:00+00:00",
+      "arxiv_id": "",
+      "group_ids": [
+        "microsoft-research"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-10-08.json"
+    },
+    "blog-synth-id-ai-content-b111025e": {
+      "work_id": "blog-synth-id-ai-content-b111025e",
+      "kind": "blog",
+      "title": "We're making it easier to identify AI-generated content globally.",
+      "date": "2026-10-08",
+      "published": "2026-10-07T14:00:00+00:00",
+      "arxiv_id": "",
+      "group_ids": [
+        "google-deepmind"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-10-08.json"
+    },
+    "blog-teens-learn-and-plan-0ead11c1": {
+      "work_id": "blog-teens-learn-and-plan-0ead11c1",
+      "kind": "blog",
+      "title": "Helping teens learn, plan, and shape the future of AI",
+      "date": "2026-10-08",
+      "published": "2026-10-07T12:00:00+00:00",
+      "arxiv_id": "",
+      "group_ids": [
+        "openai"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-10-08.json"
+    },
+    "blog-radisson-41c9ef03": {
+      "work_id": "blog-radisson-41c9ef03",
+      "kind": "blog",
+      "title": "Radisson Hotel Group brings hotel discovery into ChatGPT",
+      "date": "2026-10-08",
+      "published": "2026-10-07T07:00:00+00:00",
+      "arxiv_id": "",
+      "group_ids": [
+        "openai"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-10-08.json"
+    },
+    "blog-gpt-6-for-everyone-557417b3": {
+      "work_id": "blog-gpt-6-for-everyone-557417b3",
+      "kind": "blog",
+      "title": "GPT-6 and Intelligent UI for everyone",
+      "date": "2026-10-08",
+      "published": "2026-10-07T00:00:00+00:00",
+      "arxiv_id": "",
+      "group_ids": [
+        "openai"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-10-08.json"
+    },
+    "2610.09117": {
+      "work_id": "2610.09117",
+      "kind": "paper",
+      "title": "Workhorse: Learning Robust Whole-Body Humanoid Loco-Manipulation from Human Data",
+      "date": "2026-10-08",
+      "published": "2026-10-06T21:06:56+00:00",
+      "arxiv_id": "2610.09117",
+      "group_ids": [
+        "berkeley-bair"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-10-08.json"
     }
   },
-  "last_updated": "2026-10-07T06:07:26.399976+00:00"
+  "last_updated": "2026-10-08T06:12:28.153033+00:00"
 }
