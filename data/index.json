@@ -5084,7 +5084,77 @@
       "venue": "",
       "citation_count": 0,
       "path": "works/works-2026-10-08.json"
+    },
+    "blog-3-questions-what-best-path-forward-ai-ac-2d5ca979": {
+      "work_id": "blog-3-questions-what-best-path-forward-ai-ac-2d5ca979",
+      "kind": "blog",
+      "title": "3 Questions: What is the best path forward for AI in academia?",
+      "date": "2026-10-09",
+      "published": "2026-10-08T21:25:00+00:00",
+      "arxiv_id": "",
+      "group_ids": [
+        "mit-csail"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-10-09.json"
+    },
+    "blog-oracle-ea25b02b": {
+      "work_id": "blog-oracle-ea25b02b",
+      "kind": "blog",
+      "title": "How Oracle turns days of work into minutes with ChatGPT and Codex",
+      "date": "2026-10-09",
+      "published": "2026-10-08T16:00:00+00:00",
+      "arxiv_id": "",
+      "group_ids": [
+        "openai"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-10-09.json"
+    },
+    "blog-pollo-ai-0fe740b3": {
+      "work_id": "blog-pollo-ai-0fe740b3",
+      "kind": "blog",
+      "title": "Pollo AI turns creative ideas into campaigns with OpenAI",
+      "date": "2026-10-09",
+      "published": "2026-10-08T12:00:00+00:00",
+      "arxiv_id": "",
+      "group_ids": [
+        "openai"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-10-09.json"
+    },
+    "blog-legalon-halves-codex-costs-4f08d798": {
+      "work_id": "blog-legalon-halves-codex-costs-4f08d798",
+      "kind": "blog",
+      "title": "LegalOn halves Codex costs while maintaining development speed",
+      "date": "2026-10-09",
+      "published": "2026-10-08T12:00:00+00:00",
+      "arxiv_id": "",
+      "group_ids": [
+        "openai"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-10-09.json"
+    },
+    "blog-disrupting-ai-enabled-false-front-operat-028d2a32": {
+      "work_id": "blog-disrupting-ai-enabled-false-front-operat-028d2a32",
+      "kind": "blog",
+      "title": "Disrupting AI-enabled “false front” operations",
+      "date": "2026-10-09",
+      "published": "2026-10-08T00:00:00+00:00",
+      "arxiv_id": "",
+      "group_ids": [
+        "openai"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-10-09.json"
     }
   },
-  "last_updated": "2026-10-08T06:12:28.153033+00:00"
+  "last_updated": "2026-10-09T06:16:04.286124+00:00"
 }
