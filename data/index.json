@@ -5154,7 +5154,35 @@
       "venue": "",
       "citation_count": 0,
       "path": "works/works-2026-10-09.json"
+    },
+    "blog-sophos-8fbc54f7": {
+      "work_id": "blog-sophos-8fbc54f7",
+      "kind": "blog",
+      "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
+      "date": "2026-10-10",
+      "published": "2026-10-09T07:00:00+00:00",
+      "arxiv_id": "",
+      "group_ids": [
+        "openai"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-10-10.json"
+    },
+    "blog-asana-browser-agent-38bcfa95": {
+      "work_id": "blog-asana-browser-agent-38bcfa95",
+      "kind": "blog",
+      "title": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
+      "date": "2026-10-10",
+      "published": "2026-10-09T07:00:00+00:00",
+      "arxiv_id": "",
+      "group_ids": [
+        "openai"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-10-10.json"
     }
   },
-  "last_updated": "2026-10-09T06:16:04.286124+00:00"
+  "last_updated": "2026-10-10T05:59:28.321194+00:00"
 }
