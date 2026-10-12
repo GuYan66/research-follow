@@ -5182,7 +5182,21 @@
       "venue": "",
       "citation_count": 0,
       "path": "works/works-2026-10-10.json"
+    },
+    "2610.13002": {
+      "work_id": "2610.13002",
+      "kind": "paper",
+      "title": "Scaling Empowered Agents",
+      "date": "2026-10-12",
+      "published": "2026-10-09T05:04:30+00:00",
+      "arxiv_id": "2610.13002",
+      "group_ids": [
+        "berkeley-bair"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-10-12.json"
     }
   },
-  "last_updated": "2026-10-11T05:54:31.127414+00:00"
+  "last_updated": "2026-10-12T06:05:32.421653+00:00"
 }
