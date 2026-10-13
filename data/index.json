@@ -5196,7 +5196,50 @@
       "venue": "",
       "citation_count": 0,
       "path": "works/works-2026-10-12.json"
+    },
+    "blog-qa-building-accountability-behind-our-wo-7b315cd3": {
+      "work_id": "blog-qa-building-accountability-behind-our-wo-7b315cd3",
+      "kind": "blog",
+      "title": "Q&A: Building accountability behind our words — and AI’s — in civic conversations",
+      "date": "2026-10-13",
+      "published": "2026-10-13T04:00:00+00:00",
+      "arxiv_id": "",
+      "group_ids": [
+        "mit-csail"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-10-13.json"
+    },
+    "blog-ai-health-research-f1235b16": {
+      "work_id": "blog-ai-health-research-f1235b16",
+      "kind": "blog",
+      "title": "Applying technology to understand and treat disease",
+      "date": "2026-10-13",
+      "published": "2026-10-12T17:30:00+00:00",
+      "arxiv_id": "",
+      "group_ids": [
+        "google-deepmind",
+        "google-research"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-10-13.json"
+    },
+    "blog-simulating-student-learning-for-better-a-ab554ee5": {
+      "work_id": "blog-simulating-student-learning-for-better-a-ab554ee5",
+      "kind": "blog",
+      "title": "Simulating student learning for better AI tutoring",
+      "date": "2026-10-13",
+      "published": "2026-10-12T16:00:00+00:00",
+      "arxiv_id": "",
+      "group_ids": [
+        "microsoft-research"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-10-13.json"
     }
   },
-  "last_updated": "2026-10-12T06:05:32.421653+00:00"
+  "last_updated": "2026-10-13T06:52:44.869909+00:00"
 }
