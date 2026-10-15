@@ -5309,7 +5309,203 @@
       "venue": "",
       "citation_count": 0,
       "path": "works/works-2026-10-14.json"
+    },
+    "blog-collision-between-ai-your-brain-and-soci-ec0d70ad": {
+      "work_id": "blog-collision-between-ai-your-brain-and-soci-ec0d70ad",
+      "kind": "blog",
+      "title": "Q&A: The “collision” between AI, your brain, and society",
+      "date": "2026-10-15",
+      "published": "2026-10-15T04:00:00+00:00",
+      "arxiv_id": "",
+      "group_ids": [
+        "mit-csail"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-10-15.json"
+    },
+    "blog-research-capabilities-intelligence-2026-778f2227": {
+      "work_id": "blog-research-capabilities-intelligence-2026-778f2227",
+      "kind": "blog",
+      "title": "Research@ 2026: Novel capabilities and intelligence",
+      "date": "2026-10-15",
+      "published": "2026-10-14T16:15:00+00:00",
+      "arxiv_id": "",
+      "group_ids": [
+        "google-research"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-10-15.json"
+    },
+    "2610.20401": {
+      "work_id": "2610.20401",
+      "kind": "paper",
+      "title": "Training Language Models to Fail Gracefully",
+      "date": "2026-10-15",
+      "published": "2026-10-14T16:03:12+00:00",
+      "arxiv_id": "2610.20401",
+      "group_ids": [
+        "cmu-ml"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-10-15.json"
+    },
+    "blog-researchers-improve-weather-forecasts-lo-37d2ac47": {
+      "work_id": "blog-researchers-improve-weather-forecasts-lo-37d2ac47",
+      "kind": "blog",
+      "title": "Researchers improve weather forecasts looking two to six weeks out",
+      "date": "2026-10-15",
+      "published": "2026-10-14T15:00:00+00:00",
+      "arxiv_id": "",
+      "group_ids": [
+        "mit-csail"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-10-15.json"
+    },
+    "blog-amp-beyond-coding-3df8ce63": {
+      "work_id": "blog-amp-beyond-coding-3df8ce63",
+      "kind": "blog",
+      "title": "Amp puts AI agents to work beyond code with OpenAI models",
+      "date": "2026-10-15",
+      "published": "2026-10-14T12:00:00+00:00",
+      "arxiv_id": "",
+      "group_ids": [
+        "openai"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-10-15.json"
+    },
+    "blog-sentinelone-339f5cf4": {
+      "work_id": "blog-sentinelone-339f5cf4",
+      "kind": "blog",
+      "title": "SentinelOne cuts malware analysis from weeks to hours",
+      "date": "2026-10-15",
+      "published": "2026-10-14T12:00:00+00:00",
+      "arxiv_id": "",
+      "group_ids": [
+        "openai"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-10-15.json"
+    },
+    "2610.19783": {
+      "work_id": "2610.19783",
+      "kind": "paper",
+      "title": "Reinforcement Learning via Advantage Guidance",
+      "date": "2026-10-15",
+      "published": "2026-10-14T08:31:55+00:00",
+      "arxiv_id": "2610.19783",
+      "group_ids": [
+        "berkeley-bair"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-10-15.json"
+    },
+    "blog-were-powering-european-scientific-discov-90f47568": {
+      "work_id": "blog-were-powering-european-scientific-discov-90f47568",
+      "kind": "blog",
+      "title": "We’re powering European scientific discovery with advanced AI compute and frontier models.",
+      "date": "2026-10-15",
+      "published": "2026-10-14T08:00:00+00:00",
+      "arxiv_id": "",
+      "group_ids": [
+        "google-deepmind"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-10-15.json"
+    },
+    "blog-third-moment-research-00b33b24": {
+      "work_id": "blog-third-moment-research-00b33b24",
+      "kind": "blog",
+      "title": "How Third Moment Research runs 10,000 agents for 36+ hours",
+      "date": "2026-10-15",
+      "published": "2026-10-14T07:00:00+00:00",
+      "arxiv_id": "",
+      "group_ids": [
+        "openai"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-10-15.json"
+    },
+    "blog-block-ai-powered-security-73e5e3f5": {
+      "work_id": "blog-block-ai-powered-security-73e5e3f5",
+      "kind": "blog",
+      "title": "How Block is building AI-powered security with OpenAI technology",
+      "date": "2026-10-15",
+      "published": "2026-10-14T07:00:00+00:00",
+      "arxiv_id": "",
+      "group_ids": [
+        "openai"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-10-15.json"
+    },
+    "blog-the-eus-next-chapter-in-ai-is-agentic-95079983": {
+      "work_id": "blog-the-eus-next-chapter-in-ai-is-agentic-95079983",
+      "kind": "blog",
+      "title": "The EU’s next chapter in AI is agentic",
+      "date": "2026-10-15",
+      "published": "2026-10-14T00:00:00+00:00",
+      "arxiv_id": "",
+      "group_ids": [
+        "openai"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-10-15.json"
+    },
+    "2610.18991": {
+      "work_id": "2610.18991",
+      "kind": "paper",
+      "title": "Contact-UAN: Unsupervised Actuator Networks as a Residual World Model for Humanoid Control",
+      "date": "2026-10-15",
+      "published": "2026-10-13T18:00:52+00:00",
+      "arxiv_id": "2610.18991",
+      "group_ids": [
+        "mit-csail"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-10-15.json"
+    },
+    "2610.18838": {
+      "work_id": "2610.18838",
+      "kind": "paper",
+      "title": "Scaling Online Optimal Transport Minibatches for Flow Matching",
+      "date": "2026-10-15",
+      "published": "2026-10-13T17:56:26+00:00",
+      "arxiv_id": "2610.18838",
+      "group_ids": [
+        "berkeley-bair"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-10-15.json"
+    },
+    "2610.12424": {
+      "work_id": "2610.12424",
+      "kind": "paper",
+      "title": "RoboRSI: Stable, efficient, and reusable robot self-evolution in complex real-world environments",
+      "date": "2026-10-15",
+      "published": "2026-10-08",
+      "arxiv_id": "2610.12424",
+      "group_ids": [
+        "sjtu-ai"
+      ],
+      "venue": "arXiv",
+      "citation_count": 0,
+      "path": "works/works-2026-10-15.json"
     }
   },
-  "last_updated": "2026-10-14T05:01:07.155020+00:00"
+  "last_updated": "2026-10-15T04:47:44.767761+00:00"
 }
