@@ -5505,7 +5505,161 @@
       "venue": "arXiv",
       "citation_count": 0,
       "path": "works/works-2026-10-15.json"
+    },
+    "blog-state-of-supply-chain-sustainability-rep-ce42c5d2": {
+      "work_id": "blog-state-of-supply-chain-sustainability-rep-ce42c5d2",
+      "kind": "blog",
+      "title": "State of Supply Chain Sustainability Report finds corporate commitment at record high, but governance lags behind",
+      "date": "2026-10-16",
+      "published": "2026-10-15T21:00:00+00:00",
+      "arxiv_id": "",
+      "group_ids": [
+        "mit-csail"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-10-16.json"
+    },
+    "blog-ai-model-decodes-language-cells-use-comm-820326ac": {
+      "work_id": "blog-ai-model-decodes-language-cells-use-comm-820326ac",
+      "kind": "blog",
+      "title": "AI model decodes the language cells use to communicate",
+      "date": "2026-10-16",
+      "published": "2026-10-15T20:50:00+00:00",
+      "arxiv_id": "",
+      "group_ids": [
+        "mit-csail"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-10-16.json"
+    },
+    "blog-introducing-the-rosalind-academic-plan-fa9c6f97": {
+      "work_id": "blog-introducing-the-rosalind-academic-plan-fa9c6f97",
+      "kind": "blog",
+      "title": "Bringing GPT-Rosalind to academic research labs",
+      "date": "2026-10-16",
+      "published": "2026-10-15T19:00:00+00:00",
+      "arxiv_id": "",
+      "group_ids": [
+        "openai"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-10-16.json"
+    },
+    "blog-magic-state-cultivation-quantum-computin-3f05965f": {
+      "work_id": "blog-magic-state-cultivation-quantum-computin-3f05965f",
+      "kind": "blog",
+      "title": "Bringing the magic: Google breaks open a bottleneck in quantum computing",
+      "date": "2026-10-16",
+      "published": "2026-10-15T18:00:00+00:00",
+      "arxiv_id": "",
+      "group_ids": [
+        "google-research"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-10-16.json"
+    },
+    "2610.22273": {
+      "work_id": "2610.22273",
+      "kind": "paper",
+      "title": "Librarian Agents: Training LLMs to Curate Long-Context Workspaces that Anticipate Future Queries",
+      "date": "2026-10-16",
+      "published": "2026-10-15T17:35:17+00:00",
+      "arxiv_id": "2610.22273",
+      "group_ids": [
+        "stanford-ai"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-10-16.json"
+    },
+    "blog-crisis-resilience-white-paper-3de27ae6": {
+      "work_id": "blog-crisis-resilience-white-paper-3de27ae6",
+      "kind": "blog",
+      "title": "How we're helping the world prepare for natural disasters",
+      "date": "2026-10-16",
+      "published": "2026-10-15T16:00:00+00:00",
+      "arxiv_id": "",
+      "group_ids": [
+        "google-research"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-10-16.json"
+    },
+    "blog-proof-based-general-purpose-computing-wi-880cddc0": {
+      "work_id": "blog-proof-based-general-purpose-computing-wi-880cddc0",
+      "kind": "blog",
+      "title": "Proof-based general-purpose computing with Magnetar",
+      "date": "2026-10-16",
+      "published": "2026-10-15T16:00:00+00:00",
+      "arxiv_id": "",
+      "group_ids": [
+        "microsoft-research"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-10-16.json"
+    },
+    "2610.22119": {
+      "work_id": "2610.22119",
+      "kind": "paper",
+      "title": "Compliant GMT: Making General Motion Tracking Compliant via Residual Reference Adaptation",
+      "date": "2026-10-16",
+      "published": "2026-10-15T15:59:04+00:00",
+      "arxiv_id": "2610.22119",
+      "group_ids": [
+        "mit-csail"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-10-16.json"
+    },
+    "blog-teaching-students-to-think-and-learn-thr-5678b941": {
+      "work_id": "blog-teaching-students-to-think-and-learn-thr-5678b941",
+      "kind": "blog",
+      "title": "Teaching students to think and learn through questions",
+      "date": "2026-10-16",
+      "published": "2026-10-15T13:00:00+00:00",
+      "arxiv_id": "",
+      "group_ids": [
+        "openai"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-10-16.json"
+    },
+    "blog-synthid-time-best-inventions-e2b2aa1a": {
+      "work_id": "blog-synthid-time-best-inventions-e2b2aa1a",
+      "kind": "blog",
+      "title": "TIME has named Google SynthID one of the Best Inventions of 2026.",
+      "date": "2026-10-16",
+      "published": "2026-10-15T13:00:00+00:00",
+      "arxiv_id": "",
+      "group_ids": [
+        "google-deepmind"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-10-16.json"
+    },
+    "blog-sullivan-cromwell-e2a7475f": {
+      "work_id": "blog-sullivan-cromwell-e2a7475f",
+      "kind": "blog",
+      "title": "Sullivan & Cromwell brings legal expertise into agreement review",
+      "date": "2026-10-16",
+      "published": "2026-10-15T00:00:00+00:00",
+      "arxiv_id": "",
+      "group_ids": [
+        "openai"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-10-16.json"
     }
   },
-  "last_updated": "2026-10-15T04:47:44.767761+00:00"
+  "last_updated": "2026-10-16T04:38:57.680894+00:00"
 }
