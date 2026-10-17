@@ -5659,7 +5659,49 @@
       "venue": "",
       "citation_count": 0,
       "path": "works/works-2026-10-16.json"
+    },
+    "blog-itau-generative-ai-51607231": {
+      "work_id": "blog-itau-generative-ai-51607231",
+      "kind": "blog",
+      "title": "How Itaú is building generative AI for its entire customer base",
+      "date": "2026-10-17",
+      "published": "2026-10-16T19:00:00+00:00",
+      "arxiv_id": "",
+      "group_ids": [
+        "openai"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-10-17.json"
+    },
+    "blog-fostering-community-amid-kendall-square--0d920f33": {
+      "work_id": "blog-fostering-community-amid-kendall-square--0d920f33",
+      "kind": "blog",
+      "title": "Fostering community amid Kendall Square’s innovation",
+      "date": "2026-10-17",
+      "published": "2026-10-16T16:00:00+00:00",
+      "arxiv_id": "",
+      "group_ids": [
+        "mit-csail"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-10-17.json"
+    },
+    "blog-stack-overflow-chatgpt-plugin-c510a34c": {
+      "work_id": "blog-stack-overflow-chatgpt-plugin-c510a34c",
+      "kind": "blog",
+      "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
+      "date": "2026-10-17",
+      "published": "2026-10-16T00:00:00+00:00",
+      "arxiv_id": "",
+      "group_ids": [
+        "openai"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-10-17.json"
     }
   },
-  "last_updated": "2026-10-16T04:38:57.680894+00:00"
+  "last_updated": "2026-10-17T05:04:17.178650+00:00"
 }
