@@ -5701,7 +5701,35 @@
       "venue": "",
       "citation_count": 0,
       "path": "works/works-2026-10-17.json"
+    },
+    "blog-giving-ai-crystal-clear-view-of-material-faf3d27c": {
+      "work_id": "blog-giving-ai-crystal-clear-view-of-material-faf3d27c",
+      "kind": "blog",
+      "title": "Giving AI a “crystal clear” view of the materials world",
+      "date": "2026-10-18",
+      "published": "2026-10-18T04:00:00+00:00",
+      "arxiv_id": "",
+      "group_ids": [
+        "mit-csail"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-10-18.json"
+    },
+    "blog-benefit-street-partners-6f649019": {
+      "work_id": "blog-benefit-street-partners-6f649019",
+      "kind": "blog",
+      "title": "Benefit Street Partners answers questions faster with Codex",
+      "date": "2026-10-18",
+      "published": "2026-10-16T00:00:00+00:00",
+      "arxiv_id": "",
+      "group_ids": [
+        "openai"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-10-18.json"
     }
   },
-  "last_updated": "2026-10-17T05:04:17.178650+00:00"
+  "last_updated": "2026-10-18T04:41:36.385899+00:00"
 }
