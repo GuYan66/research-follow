@@ -5729,7 +5729,64 @@
       "venue": "",
       "citation_count": 0,
       "path": "works/works-2026-10-18.json"
+    },
+    "2610.23849": {
+      "work_id": "2610.23849",
+      "kind": "paper",
+      "title": "Blind Precise Assembly: Proprioceptive Sim-to-Real Peg-in-Hole for Diverse Parts",
+      "date": "2026-10-19",
+      "published": "2026-10-16T17:58:48+00:00",
+      "arxiv_id": "2610.23849",
+      "group_ids": [
+        "mit-csail"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-10-19.json"
+    },
+    "2610.23841": {
+      "work_id": "2610.23841",
+      "kind": "paper",
+      "title": "StopWatch: Goal Grounding for Object-goal Navigation",
+      "date": "2026-10-19",
+      "published": "2026-10-16T17:57:05+00:00",
+      "arxiv_id": "2610.23841",
+      "group_ids": [
+        "berkeley-bair"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-10-19.json"
+    },
+    "2610.22497": {
+      "work_id": "2610.22497",
+      "kind": "paper",
+      "title": "Generative Value Classifier",
+      "date": "2026-10-19",
+      "published": "2026-10-15T18:00:30+00:00",
+      "arxiv_id": "2610.22497",
+      "group_ids": [
+        "stanford-ai"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-10-19.json"
+    },
+    "2610.22496": {
+      "work_id": "2610.22496",
+      "kind": "paper",
+      "title": "Scaling Online Exploration for Robot Agents",
+      "date": "2026-10-19",
+      "published": "2026-10-15T18:00:28+00:00",
+      "arxiv_id": "2610.22496",
+      "group_ids": [
+        "berkeley-bair",
+        "mit-csail"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-10-19.json"
     }
   },
-  "last_updated": "2026-10-18T04:41:36.385899+00:00"
+  "last_updated": "2026-10-19T04:48:26.961705+00:00"
 }
