@@ -5786,7 +5786,77 @@
       "venue": "",
       "citation_count": 0,
       "path": "works/works-2026-10-19.json"
+    },
+    "blog-teaching-ai-about-symmetry-could-make-pr-5a9205b8": {
+      "work_id": "blog-teaching-ai-about-symmetry-could-make-pr-5a9205b8",
+      "kind": "blog",
+      "title": "Why teaching AI about symmetry could make prenatal diagnosis more reliable",
+      "date": "2026-10-20",
+      "published": "2026-10-19T18:20:00+00:00",
+      "arxiv_id": "",
+      "group_ids": [
+        "mit-csail"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-10-20.json"
+    },
+    "blog-low-resource-programming-languages-63efcf02": {
+      "work_id": "blog-low-resource-programming-languages-63efcf02",
+      "kind": "blog",
+      "title": "Advancing coding in low‑resource programming languages",
+      "date": "2026-10-20",
+      "published": "2026-10-19T12:00:00+00:00",
+      "arxiv_id": "",
+      "group_ids": [
+        "openai"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-10-20.json"
+    },
+    "2610.25988": {
+      "work_id": "2610.25988",
+      "kind": "paper",
+      "title": "Self-Supervised Inertial Odometry",
+      "date": "2026-10-20",
+      "published": "2026-10-19T08:14:43+00:00",
+      "arxiv_id": "2610.25988",
+      "group_ids": [
+        "berkeley-bair"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-10-20.json"
+    },
+    "2610.25711": {
+      "work_id": "2610.25711",
+      "kind": "paper",
+      "title": "SWAP: Test-Time Steerable Humanoid Whole-Body Collision Avoidance",
+      "date": "2026-10-20",
+      "published": "2026-10-19T03:00:50+00:00",
+      "arxiv_id": "2610.25711",
+      "group_ids": [
+        "berkeley-bair"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-10-20.json"
+    },
+    "2610.24461": {
+      "work_id": "2610.24461",
+      "kind": "paper",
+      "title": "Measuring Empowerment from Offline Data for Intrinsically Motivated Exploration",
+      "date": "2026-10-20",
+      "published": "2026-10-17T05:02:09+00:00",
+      "arxiv_id": "2610.24461",
+      "group_ids": [
+        "berkeley-bair"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-10-20.json"
     }
   },
-  "last_updated": "2026-10-19T04:48:26.961705+00:00"
+  "last_updated": "2026-10-20T04:57:44.025838+00:00"
 }
