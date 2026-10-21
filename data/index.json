@@ -5856,7 +5856,105 @@
       "venue": "",
       "citation_count": 0,
       "path": "works/works-2026-10-20.json"
+    },
+    "2610.28480": {
+      "work_id": "2610.28480",
+      "kind": "paper",
+      "title": "SuperMimic: Scaling Humanoid Whole-Body Control with One Differentiable World Model",
+      "date": "2026-10-21",
+      "published": "2026-10-20T16:29:30+00:00",
+      "arxiv_id": "2610.28480",
+      "group_ids": [
+        "berkeley-bair"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-10-21.json"
+    },
+    "blog-amie-clinical-study-debcdf04": {
+      "work_id": "blog-amie-clinical-study-debcdf04",
+      "kind": "blog",
+      "title": "Ask a Scientist: How can AI help doctors spend more time on collaborative care?",
+      "date": "2026-10-21",
+      "published": "2026-10-20T16:00:00+00:00",
+      "arxiv_id": "",
+      "group_ids": [
+        "google-research"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-10-21.json"
+    },
+    "blog-called-to-serve-tech-research-and-positi-1b566909": {
+      "work_id": "blog-called-to-serve-tech-research-and-positi-1b566909",
+      "kind": "blog",
+      "title": "Called to serve: Tech, research, and positive impact",
+      "date": "2026-10-21",
+      "published": "2026-10-20T16:00:00+00:00",
+      "arxiv_id": "",
+      "group_ids": [
+        "microsoft-research"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-10-21.json"
+    },
+    "blog-ted-taylor-restaurant-61275524": {
+      "work_id": "blog-ted-taylor-restaurant-61275524",
+      "kind": "blog",
+      "title": "Franchisee reconciles cash in 94% less time with ChatGPT Work",
+      "date": "2026-10-21",
+      "published": "2026-10-20T10:00:00+00:00",
+      "arxiv_id": "",
+      "group_ids": [
+        "openai"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-10-21.json"
+    },
+    "blog-terminal-x-dab10ef5": {
+      "work_id": "blog-terminal-x-dab10ef5",
+      "kind": "blog",
+      "title": "Terminal X matches senior investor judgment 88.6% with GPT-6.1",
+      "date": "2026-10-21",
+      "published": "2026-10-20T07:00:00+00:00",
+      "arxiv_id": "",
+      "group_ids": [
+        "openai"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-10-21.json"
+    },
+    "blog-openai-to-acquire-orchestra-bio-64f2199a": {
+      "work_id": "blog-openai-to-acquire-orchestra-bio-64f2199a",
+      "kind": "blog",
+      "title": "OpenAI acquires Orchestra Bio",
+      "date": "2026-10-21",
+      "published": "2026-10-20T00:00:00+00:00",
+      "arxiv_id": "",
+      "group_ids": [
+        "openai"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-10-21.json"
+    },
+    "doi-10-3390-microorganisms14102388": {
+      "work_id": "doi-10-3390-microorganisms14102388",
+      "kind": "paper",
+      "title": "Cervical Microbiota Dysbiosis as a Driver of Cervical Incompetence",
+      "date": "2026-10-21",
+      "published": "2026-10-19",
+      "arxiv_id": "",
+      "group_ids": [
+        "zhipu-ai"
+      ],
+      "venue": "Microorganisms",
+      "citation_count": 0,
+      "path": "works/works-2026-10-21.json"
     }
   },
-  "last_updated": "2026-10-20T04:57:44.025838+00:00"
+  "last_updated": "2026-10-21T04:56:48.472390+00:00"
 }
