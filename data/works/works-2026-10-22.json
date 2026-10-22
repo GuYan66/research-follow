@@ -1,0 +1,1668 @@
+{
+  "date": "2026-10-22",
+  "groups": [
+    "openai",
+    "google-deepmind",
+    "google-research",
+    "anthropic",
+    "meta-fair",
+    "microsoft-research",
+    "berkeley-bair",
+    "stanford-ai",
+    "mit-csail",
+    "cmu-ml",
+    "deepseek",
+    "zhipu-ai",
+    "moonshot-ai",
+    "bytedance-seed",
+    "alibaba-qwen",
+    "minimax",
+    "stepfun",
+    "tsinghua-ai",
+    "pku-ai",
+    "shanghai-ai-lab",
+    "sjtu-ai",
+    "msra"
+  ],
+  "window_days": 7,
+  "works": [
+    {
+      "work_id": "blog-broad-access-through-consistent-standard-137c20d7",
+      "kind": "blog",
+      "title": "Broad access through consistent standards",
+      "url": "https://openai.com/index/broad-access-through-consistent-standards",
+      "published": "2026-10-21T21:00:00+00:00",
+      "updated": "2026-10-21T21:00:00+00:00",
+      "summary": "How OpenAI works with distribution partners to uphold consistent safeguards, support responsible access, and clarify expectations in our Usage Policies.",
+      "source": "blog",
+      "group_ids": [
+        "openai"
+      ],
+      "member_ids": [],
+      "member_names": [],
+      "authors": [],
+      "venue": "",
+      "citation_count": 0,
+      "influential_citation_count": 0,
+      "doi": "",
+      "arxiv_id": "",
+      "primary_category": "",
+      "categories": [],
+      "pdf_url": "",
+      "feed_url": "https://openai.com/news/rss.xml",
+      "blog_label": "OpenAI News",
+      "summary_cn": "",
+      "fetch_date": "2026-10-22",
+      "sources": [
+        "blog"
+      ]
+    },
+    {
+      "work_id": "blog-att-legal-d0a04b4e",
+      "kind": "blog",
+      "title": "How AT&T is rethinking in-house legal work with OpenAI",
+      "url": "https://openai.com/index/att-legal",
+      "published": "2026-10-21T17:00:00+00:00",
+      "updated": "2026-10-21T17:00:00+00:00",
+      "summary": "AT&T is working with OpenAI to make legal knowledge easier to access. Learn how its LegalEdge team is rethinking intake and scaling legal judgment.",
+      "source": "blog",
+      "group_ids": [
+        "openai"
+      ],
+      "member_ids": [],
+      "member_names": [],
+      "authors": [],
+      "venue": "",
+      "citation_count": 0,
+      "influential_citation_count": 0,
+      "doi": "",
+      "arxiv_id": "",
+      "primary_category": "",
+      "categories": [],
+      "pdf_url": "",
+      "feed_url": "https://openai.com/news/rss.xml",
+      "blog_label": "OpenAI News",
+      "summary_cn": "",
+      "fetch_date": "2026-10-22",
+      "sources": [
+        "blog"
+      ]
+    },
+    {
+      "work_id": "blog-solving-a-31-year-old-grand-challenge-in-0aeb6ba6",
+      "kind": "blog",
+      "title": "Solving a 31-year-old grand challenge in mathematics – the KLS conjecture",
+      "url": "https://www.microsoft.com/en-us/research/blog/solving-a-31-year-old-grand-challenge-in-mathematics-the-kls-conjecture/",
+      "published": "2026-10-21T16:00:00+00:00",
+      "updated": "2026-10-21T16:00:00+00:00",
+      "summary": "For decades, a fundamental question about the difficulty of computing in high-dimensional spaces has resisted proof. New research resolves this question, removing a major theoretical obstacle to understanding the efficiency of randomized algorithms used across science and computing. The Kannan–Lovász–Simonovits (KLS) conjecture was proposed in 1995. It asks whether, for a broad class of high-dimensional […] The post Solving a 31-year-old grand challenge in mathematics – the KLS conjecture appeared first on Microsoft Research .",
+      "source": "blog",
+      "group_ids": [
+        "microsoft-research"
+      ],
+      "member_ids": [],
+      "member_names": [],
+      "authors": [],
+      "venue": "",
+      "citation_count": 0,
+      "influential_citation_count": 0,
+      "doi": "",
+      "arxiv_id": "",
+      "primary_category": "",
+      "categories": [],
+      "pdf_url": "",
+      "feed_url": "https://www.microsoft.com/en-us/research/feed/",
+      "blog_label": "Microsoft Research Blog",
+      "summary_cn": "",
+      "fetch_date": "2026-10-22",
+      "sources": [
+        "blog"
+      ]
+    },
+    {
+      "work_id": "blog-chatgpt-ads-expands-26-new-countries-203f0f4c",
+      "kind": "blog",
+      "title": "ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform",
+      "url": "https://openai.com/index/chatgpt-ads-expands-26-new-countries",
+      "published": "2026-10-21T13:00:00+00:00",
+      "updated": "2026-10-21T13:00:00+00:00",
+      "summary": "From local businesses to global brands, more advertisers can now reach people as they explore, compare and decide what to buy in ChatGPT.",
+      "source": "blog",
+      "group_ids": [
+        "openai"
+      ],
+      "member_ids": [],
+      "member_names": [],
+      "authors": [],
+      "venue": "",
+      "citation_count": 0,
+      "influential_citation_count": 0,
+      "doi": "",
+      "arxiv_id": "",
+      "primary_category": "",
+      "categories": [],
+      "pdf_url": "",
+      "feed_url": "https://openai.com/news/rss.xml",
+      "blog_label": "OpenAI News",
+      "summary_cn": "",
+      "fetch_date": "2026-10-22",
+      "sources": [
+        "blog"
+      ]
+    },
+    {
+      "work_id": "blog-openai-models-google-cloud-d85cf461",
+      "kind": "blog",
+      "title": "OpenAI models are coming to Google Cloud",
+      "url": "https://openai.com/index/openai-models-google-cloud",
+      "published": "2026-10-21T12:00:00+00:00",
+      "updated": "2026-10-21T12:00:00+00:00",
+      "summary": "OpenAI and Google Cloud are bringing frontier models and Codex workflows to Gemini’s Model Garden, available through Google Cloud Marketplace.",
+      "source": "blog",
+      "group_ids": [
+        "openai"
+      ],
+      "member_ids": [],
+      "member_names": [],
+      "authors": [],
+      "venue": "",
+      "citation_count": 0,
+      "influential_citation_count": 0,
+      "doi": "",
+      "arxiv_id": "",
+      "primary_category": "",
+      "categories": [],
+      "pdf_url": "",
+      "feed_url": "https://openai.com/news/rss.xml",
+      "blog_label": "OpenAI News",
+      "summary_cn": "",
+      "fetch_date": "2026-10-22",
+      "sources": [
+        "blog"
+      ]
+    },
+    {
+      "work_id": "blog-coordinated-disclosure-of-critical-vulne-97b4f09a",
+      "kind": "blog",
+      "title": "Patch the Planet: global response coordination as agents uncover critical vulnerabilities",
+      "url": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities",
+      "published": "2026-10-21T07:00:00+00:00",
+      "updated": "2026-10-21T07:00:00+00:00",
+      "summary": "Patch the Planet connects security researchers, maintainers, and incident responders to help address critical vulnerabilities across open source.",
+      "source": "blog",
+      "group_ids": [
+        "openai"
+      ],
+      "member_ids": [],
+      "member_names": [],
+      "authors": [],
+      "venue": "",
+      "citation_count": 0,
+      "influential_citation_count": 0,
+      "doi": "",
+      "arxiv_id": "",
+      "primary_category": "",
+      "categories": [],
+      "pdf_url": "",
+      "feed_url": "https://openai.com/news/rss.xml",
+      "blog_label": "OpenAI News",
+      "summary_cn": "",
+      "fetch_date": "2026-10-22",
+      "sources": [
+        "blog"
+      ]
+    },
+    {
+      "work_id": "blog-building-chatgpt-ad-stack-8199d028",
+      "kind": "blog",
+      "title": "How we built ChatGPT’s novel ad stack for user trust and relevance",
+      "url": "https://openai.com/index/building-chatgpt-ad-stack",
+      "published": "2026-10-21T07:00:00+00:00",
+      "updated": "2026-10-21T07:00:00+00:00",
+      "summary": "Learn how OpenAI built ChatGPT’s LLM-powered ad stack to understand conversational intent, keep ads separate from answers, and deliver relevant ads at scale.",
+      "source": "blog",
+      "group_ids": [
+        "openai"
+      ],
+      "member_ids": [],
+      "member_names": [],
+      "authors": [],
+      "venue": "",
+      "citation_count": 0,
+      "influential_citation_count": 0,
+      "doi": "",
+      "arxiv_id": "",
+      "primary_category": "",
+      "categories": [],
+      "pdf_url": "",
+      "feed_url": "https://openai.com/news/rss.xml",
+      "blog_label": "OpenAI News",
+      "summary_cn": "",
+      "fetch_date": "2026-10-22",
+      "sources": [
+        "blog"
+      ]
+    },
+    {
+      "work_id": "blog-scaling-ai-research-for-complex-biologic-5334e086",
+      "kind": "blog",
+      "title": "Using thousands of AI agents to uncover new leads in biological data",
+      "url": "https://openai.com/index/scaling-ai-research-for-complex-biological-data",
+      "published": "2026-10-21T04:50:00+00:00",
+      "updated": "2026-10-21T04:50:00+00:00",
+      "summary": "See how OpenAI, PerturbAI, and Scripps Research used distributed AI agents to uncover promising research leads in data from millions of brain cells.",
+      "source": "blog",
+      "group_ids": [
+        "openai"
+      ],
+      "member_ids": [],
+      "member_names": [],
+      "authors": [],
+      "venue": "",
+      "citation_count": 0,
+      "influential_citation_count": 0,
+      "doi": "",
+      "arxiv_id": "",
+      "primary_category": "",
+      "categories": [],
+      "pdf_url": "",
+      "feed_url": "https://openai.com/news/rss.xml",
+      "blog_label": "OpenAI News",
+      "summary_cn": "",
+      "fetch_date": "2026-10-22",
+      "sources": [
+        "blog"
+      ]
+    },
+    {
+      "work_id": "2610.29172",
+      "kind": "paper",
+      "title": "Conditional Flow Models Convert Epistemic Uncertainty into Apparent Aleatoric Variance",
+      "url": "https://arxiv.org/abs/2610.29172",
+      "published": "2026-10-21T04:02:35+00:00",
+      "updated": "2026-10-21T04:02:35+00:00",
+      "summary": "Conditional Flow Models (CFMs) are increasingly being used in place of deterministic predictors across machine learning, including for tasks that were classically formulated as regression. Given their success in such tasks, we ask the question: what useful information do the conditional distributions produced by CFMs carry beyond what a point predictor would provide?   We identify a systematic phenomenon: in many natural regimes, CFM samples routinely have larger variance than the true conditional distribution, even in nearly deterministic regression problems. This effect is most pronounced where the model has not resolved the dependence on the conditioning variable, and thus the additional variance can be viewed as converting epistemic uncertainty in fitting the ground truth conditional distribution into apparent aleatoric variance in the generated samples. Through controlled synthetic and real-data experiments, and comparisons with explicit smoothing estimators, we show that the induced variance tracks model underfitting of complex or hard-to-fit targets, and decreases with additional training or data. We provide a theoretical account of the phenomenon in a simplified setting and demonstrate a consequent practical use-case of conditional flow-matching: designing high-coverage predictive sets that cover the ground-truth regression target.",
+      "source": "arxiv",
+      "group_ids": [
+        "mit-csail"
+      ],
+      "member_ids": [
+        "pulkit-agrawal"
+      ],
+      "member_names": [
+        "Pulkit Agrawal"
+      ],
+      "authors": [
+        "Navodita Sharma",
+        "Abhishek Shetty",
+        "Max Simchowitz",
+        "Pulkit Agrawal"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "influential_citation_count": 0,
+      "doi": "",
+      "arxiv_id": "2610.29172",
+      "primary_category": "cs.LG",
+      "categories": [
+        "cs.LG",
+        "cs.AI"
+      ],
+      "pdf_url": "https://arxiv.org/pdf/2610.29172v1",
+      "feed_url": "",
+      "blog_label": "",
+      "summary_cn": "",
+      "fetch_date": "2026-10-22",
+      "sources": [
+        "arxiv"
+      ]
+    },
+    {
+      "work_id": "blog-cloudflare-cyber-4c9b7878",
+      "kind": "blog",
+      "title": "Cloudflare links vulnerability discovery to defense with OpenAI",
+      "url": "https://openai.com/index/cloudflare-cyber",
+      "published": "2026-10-21T00:00:00+00:00",
+      "updated": "2026-10-21T00:00:00+00:00",
+      "summary": "Cloudflare uses OpenAI Daybreak to investigate vulnerabilities and propose fixes for review. Its developers use Codex to build faster and improve code quality.",
+      "source": "blog",
+      "group_ids": [
+        "openai"
+      ],
+      "member_ids": [],
+      "member_names": [],
+      "authors": [],
+      "venue": "",
+      "citation_count": 0,
+      "influential_citation_count": 0,
+      "doi": "",
+      "arxiv_id": "",
+      "primary_category": "",
+      "categories": [],
+      "pdf_url": "",
+      "feed_url": "https://openai.com/news/rss.xml",
+      "blog_label": "OpenAI News",
+      "summary_cn": "",
+      "fetch_date": "2026-10-22",
+      "sources": [
+        "blog"
+      ]
+    },
+    {
+      "work_id": "blog-empowering-cyber-defenders-5c9e9cb5",
+      "kind": "blog",
+      "title": "Democratic governance of frontier AI, part II: Empowering cyber defenders",
+      "url": "https://openai.com/index/empowering-cyber-defenders",
+      "published": "2026-10-21T00:00:00+00:00",
+      "updated": "2026-10-21T00:00:00+00:00",
+      "summary": "OpenAI outlines a blueprint for empowering cyber defenders with frontier AI, stronger safeguards, modernized cybersecurity, and more resilient public institutions.",
+      "source": "blog",
+      "group_ids": [
+        "openai"
+      ],
+      "member_ids": [],
+      "member_names": [],
+      "authors": [],
+      "venue": "",
+      "citation_count": 0,
+      "influential_citation_count": 0,
+      "doi": "",
+      "arxiv_id": "",
+      "primary_category": "",
+      "categories": [],
+      "pdf_url": "",
+      "feed_url": "https://openai.com/news/rss.xml",
+      "blog_label": "OpenAI News",
+      "summary_cn": "",
+      "fetch_date": "2026-10-22",
+      "sources": [
+        "blog"
+      ]
+    },
+    {
+      "work_id": "2610.28948",
+      "kind": "paper",
+      "title": "COWBOY: A Scalable Sim-to-Real Framework for Learning Contextual Whole-Body Manipulation",
+      "url": "https://arxiv.org/abs/2610.28948",
+      "published": "2026-10-20T21:59:10+00:00",
+      "updated": "2026-10-20T21:59:10+00:00",
+      "summary": "Mobile manipulators must adapt not only to objects, but also to the spatial context in which they appear: where to position the base, how to manipulate, and where to look while navigating surrounding scene geometry. To address this, we present COWBOY, a scalable sim-to-real framework for learning such contextual whole-body manipulation. On whole-body dexterous grasping, COWBOY transfers zero-shot to hundreds of objects and diverse in-the-wild scenes, spanning cluttered tabletops, shelves, drawers, and other unstructured settings. Rather than learning scene adaptation directly with RL in simulation, a vectorized environment-aware whole-body controller (WBC) handles reaching in thousands of scenes by coordinating base-arm motion, collision avoidance, and active vision. Then, local RL experts are trained in local scenes for object interaction and can be reused across thousands of full-scene layouts. We distill these composed WBC-RL teachers into a single vision policy that controls the mobile base, arm, dexterous hand, and actuated camera from point-cloud observations. The resulting policy exhibits contextual whole-body behavior, automatically adapting base placement, camera viewpoint, arm trajectory, and grasp strategy to observed scene and object geometry. Videos are available at https://cowboy-manip.com",
+      "source": "arxiv",
+      "group_ids": [
+        "cmu-ml"
+      ],
+      "member_ids": [
+        "ruslan-salakhutdinov"
+      ],
+      "member_names": [
+        "Ruslan Salakhutdinov"
+      ],
+      "authors": [
+        "Jiahui Yang",
+        "Jason Jingzhou Liu",
+        "Ray Muxin Liu",
+        "Andrew E. Wang",
+        "Kenneth Shaw",
+        "Deepak Pathak",
+        "Ruslan Salakhutdinov"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "influential_citation_count": 0,
+      "doi": "",
+      "arxiv_id": "2610.28948",
+      "primary_category": "cs.RO",
+      "categories": [
+        "cs.RO"
+      ],
+      "pdf_url": "https://arxiv.org/pdf/2610.28948v1",
+      "feed_url": "",
+      "blog_label": "",
+      "summary_cn": "",
+      "fetch_date": "2026-10-22",
+      "sources": [
+        "arxiv"
+      ]
+    },
+    {
+      "work_id": "2610.28814",
+      "kind": "paper",
+      "title": "T-WLA: Bridging Slow Vision and Fast Touch",
+      "url": "https://arxiv.org/abs/2610.28814",
+      "published": "2026-10-20T18:36:13+00:00",
+      "updated": "2026-10-20T18:36:13+00:00",
+      "summary": "In contact-rich manipulation, contact conditions can change before a visual policy updates its action plan. Recomputing the plan through the visual policy adds latency, while tactile feedback alone does not specify how the ongoing motion should be revised for the task. We introduce T-WLA, a world-language-action architecture that uses shared visual memory to guide both action generation and tactile correction. At each visual update, the visual branch integrates the current image, task instruction, and retrieved history into a visual memory that conditions base-action generation. The same memory is cached for a lightweight tactile editor, which combines it with the active action chunk and incoming touch to predict residual corrections to unexecuted actions without rerunning the visual branch. Future-image and future-pressure prediction provide training-only supervision, encouraging the visual memory and tactile features to capture interaction dynamics relevant to action generation and correction. We evaluate T-WLA on tactile-conditioned hand-motion prediction using EgoTouch and Tachin, and on four real-world dexterous manipulation tasks. T-WLA reduces finger-joint MPJPE by 30% relative to the strongest reported baseline and achieves an average success rate of approximately 50.0% across real-robot manipulation tasks. Videos and code are available at https://anonymous-submission-20.github.io/T-WLA.github.io/.",
+      "source": "arxiv",
+      "group_ids": [
+        "mit-csail"
+      ],
+      "member_ids": [
+        "antonio-torralba"
+      ],
+      "member_names": [
+        "Antonio Torralba"
+      ],
+      "authors": [
+        "Kaichen Zhou",
+        "Yuzhen Chen",
+        "Hannah Yao",
+        "Chonghe Jiang",
+        "Rao Fu",
+        "Xihang Yu",
+        "Wei Dai",
+        "Bashar Kabbarah",
+        "Haoyu Chen",
+        "Ishita Goluguri",
+        "Zhiyang Dou",
+        "Haonan Chen",
+        "Fangneng Zhan",
+        "Mengyu Wang",
+        "Wojciech Matusik",
+        "Antonio Torralba",
+        "Paul Pu Liang"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "influential_citation_count": 0,
+      "doi": "",
+      "arxiv_id": "2610.28814",
+      "primary_category": "cs.RO",
+      "categories": [
+        "cs.RO"
+      ],
+      "pdf_url": "https://arxiv.org/pdf/2610.28814v1",
+      "feed_url": "",
+      "blog_label": "",
+      "summary_cn": "",
+      "fetch_date": "2026-10-22",
+      "sources": [
+        "arxiv"
+      ]
+    },
+    {
+      "work_id": "2610.28480",
+      "kind": "paper",
+      "title": "SuperMimic: Scaling Humanoid Whole-Body Control with One Differentiable World Model",
+      "url": "https://arxiv.org/abs/2610.28480",
+      "published": "2026-10-20T16:29:30+00:00",
+      "updated": "2026-10-20T16:29:30+00:00",
+      "summary": "Tracking large human-motion datasets has become the dominant route to general, expressive humanoid whole-body control, but scaling across many motions is expensive. Current pipelines use model-free reinforcement learning, either merging per-motion specialists through lossy distillation, or brute-forcing a single policy with cluster-scale compute. SuperMimic amortizes learning across all motions with one differentiable world model of their shared dynamics, fit from logged transitions of a standard rigid-body simulator. The world model and the tracking policy train together in one loop, and backpropagation-through-time over short imagined rollouts gives the policy analytic gradients. Fast imagined rollouts and analytic gradients make policy learning efficient. In 3 hours on a single GPU, SuperMimic surpasses the return of a state-of-the-art motion tracker baseline trained for 7 days on 128 GPUs. It reduces GPU-hours by more than $1000\\times$ and fails on only 25 of 129,514 benchmark motions, versus 179 failures for the baseline. After 9.8 hours on two GPUs, SuperMimic achieves zero failures. From 1 to 264 hours of motion, the world model's prediction error stays stable, and GPU-hours to a target return grow slowly. Our policy transfers to a physical Unitree G1 across diverse and acrobatic motions. SuperMimic removes compute as the bottleneck to scaling humanoid whole-body control, making it practical to measure motion-tracking scaling laws.",
+      "source": "arxiv",
+      "group_ids": [
+        "berkeley-bair"
+      ],
+      "member_ids": [
+        "pieter-abbeel"
+      ],
+      "member_names": [
+        "Pieter Abbeel"
+      ],
+      "authors": [
+        "Qiayuan Liao",
+        "Yiyang Shao",
+        "Junfeng Long",
+        "Kevin Zakka",
+        "Roberto Horowitz",
+        "Pieter Abbeel",
+        "Koushil Sreenath"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "influential_citation_count": 0,
+      "doi": "",
+      "arxiv_id": "2610.28480",
+      "primary_category": "cs.RO",
+      "categories": [
+        "cs.RO"
+      ],
+      "pdf_url": "https://arxiv.org/pdf/2610.28480v1",
+      "feed_url": "",
+      "blog_label": "",
+      "summary_cn": "",
+      "fetch_date": "2026-10-22",
+      "sources": [
+        "arxiv"
+      ]
+    },
+    {
+      "work_id": "blog-amie-clinical-study-debcdf04",
+      "kind": "blog",
+      "title": "Ask a Scientist: How can AI help doctors spend more time on collaborative care?",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/amie-clinical-study/",
+      "published": "2026-10-20T16:00:00+00:00",
+      "updated": "2026-10-20T16:00:00+00:00",
+      "summary": "Two Googlers in a virtual interview with text to the left of them that says 'Ask a scientist about patient care research'",
+      "source": "blog",
+      "group_ids": [
+        "google-research"
+      ],
+      "member_ids": [],
+      "member_names": [],
+      "authors": [],
+      "venue": "",
+      "citation_count": 0,
+      "influential_citation_count": 0,
+      "doi": "",
+      "arxiv_id": "",
+      "primary_category": "",
+      "categories": [],
+      "pdf_url": "",
+      "feed_url": "https://blog.google/technology/research/rss/",
+      "blog_label": "Google Research Blog",
+      "summary_cn": "",
+      "fetch_date": "2026-10-22",
+      "sources": [
+        "blog"
+      ]
+    },
+    {
+      "work_id": "blog-called-to-serve-tech-research-and-positi-1b566909",
+      "kind": "blog",
+      "title": "Called to serve: Tech, research, and positive impact",
+      "url": "https://www.microsoft.com/en-us/research/podcast/called-to-serve-tech-research-and-positive-impact-with-chris-white/",
+      "published": "2026-10-20T16:00:00+00:00",
+      "updated": "2026-10-20T16:00:00+00:00",
+      "summary": "Lab Director Chris White has worked on research challenges with real-world implications—from new approaches to wartime data analysis to tools for combating human trafficking. He talks to program manager Weishung Liu about the influences that led to the work and more. The post Called to serve: Tech, research, and positive impact appeared first on Microsoft Research .",
+      "source": "blog",
+      "group_ids": [
+        "microsoft-research"
+      ],
+      "member_ids": [],
+      "member_names": [],
+      "authors": [],
+      "venue": "",
+      "citation_count": 0,
+      "influential_citation_count": 0,
+      "doi": "",
+      "arxiv_id": "",
+      "primary_category": "",
+      "categories": [],
+      "pdf_url": "",
+      "feed_url": "https://www.microsoft.com/en-us/research/feed/",
+      "blog_label": "Microsoft Research Blog",
+      "summary_cn": "",
+      "fetch_date": "2026-10-22",
+      "sources": [
+        "blog"
+      ]
+    },
+    {
+      "work_id": "blog-ted-taylor-restaurant-61275524",
+      "kind": "blog",
+      "title": "Franchisee reconciles cash in 94% less time with ChatGPT Work",
+      "url": "https://openai.com/index/ted-taylor-restaurant",
+      "published": "2026-10-20T10:00:00+00:00",
+      "updated": "2026-10-20T10:00:00+00:00",
+      "summary": "An independent Schlotzsky’s and Cinnabon franchisee cut menu repricing time by 95% and built a workflow that could free up $100K in cash flow.",
+      "source": "blog",
+      "group_ids": [
+        "openai"
+      ],
+      "member_ids": [],
+      "member_names": [],
+      "authors": [],
+      "venue": "",
+      "citation_count": 0,
+      "influential_citation_count": 0,
+      "doi": "",
+      "arxiv_id": "",
+      "primary_category": "",
+      "categories": [],
+      "pdf_url": "",
+      "feed_url": "https://openai.com/news/rss.xml",
+      "blog_label": "OpenAI News",
+      "summary_cn": "",
+      "fetch_date": "2026-10-22",
+      "sources": [
+        "blog"
+      ]
+    },
+    {
+      "work_id": "blog-terminal-x-dab10ef5",
+      "kind": "blog",
+      "title": "Terminal X matches senior investor judgment 88.6% with GPT-6.1",
+      "url": "https://openai.com/index/terminal-x",
+      "published": "2026-10-20T07:00:00+00:00",
+      "updated": "2026-10-20T07:00:00+00:00",
+      "summary": "Terminal X’s Eval Agent grades outputs against a 54-criterion rubric, catching 25% more deviances from a fund’s mandate with GPT-6.1 Sol.",
+      "source": "blog",
+      "group_ids": [
+        "openai"
+      ],
+      "member_ids": [],
+      "member_names": [],
+      "authors": [],
+      "venue": "",
+      "citation_count": 0,
+      "influential_citation_count": 0,
+      "doi": "",
+      "arxiv_id": "",
+      "primary_category": "",
+      "categories": [],
+      "pdf_url": "",
+      "feed_url": "https://openai.com/news/rss.xml",
+      "blog_label": "OpenAI News",
+      "summary_cn": "",
+      "fetch_date": "2026-10-22",
+      "sources": [
+        "blog"
+      ]
+    },
+    {
+      "work_id": "blog-openai-to-acquire-orchestra-bio-64f2199a",
+      "kind": "blog",
+      "title": "OpenAI acquires Orchestra Bio",
+      "url": "https://openai.com/index/openai-to-acquire-orchestra-bio",
+      "published": "2026-10-20T00:00:00+00:00",
+      "updated": "2026-10-20T00:00:00+00:00",
+      "summary": "OpenAI is acquiring Orchestra Bio to bring AI-powered operations to life sciences R&D, helping biopharma teams accelerate drug development and advance new treatments.",
+      "source": "blog",
+      "group_ids": [
+        "openai"
+      ],
+      "member_ids": [],
+      "member_names": [],
+      "authors": [],
+      "venue": "",
+      "citation_count": 0,
+      "influential_citation_count": 0,
+      "doi": "",
+      "arxiv_id": "",
+      "primary_category": "",
+      "categories": [],
+      "pdf_url": "",
+      "feed_url": "https://openai.com/news/rss.xml",
+      "blog_label": "OpenAI News",
+      "summary_cn": "",
+      "fetch_date": "2026-10-22",
+      "sources": [
+        "blog"
+      ]
+    },
+    {
+      "work_id": "blog-teaching-ai-about-symmetry-could-make-pr-5a9205b8",
+      "kind": "blog",
+      "title": "Why teaching AI about symmetry could make prenatal diagnosis more reliable",
+      "url": "https://news.mit.edu/2026/teaching-ai-about-symmetry-could-make-prenatal-diagnosis-more-reliable-1019",
+      "published": "2026-10-19T18:20:00+00:00",
+      "updated": "2026-10-19T18:20:00+00:00",
+      "summary": "A model developed by researchers at MIT and Boston Children's Hospital adjusts scans on the fly to track fetal movement, potentially sparing families repeat hospital visits.",
+      "source": "blog",
+      "group_ids": [
+        "mit-csail"
+      ],
+      "member_ids": [],
+      "member_names": [],
+      "authors": [],
+      "venue": "",
+      "citation_count": 0,
+      "influential_citation_count": 0,
+      "doi": "",
+      "arxiv_id": "",
+      "primary_category": "",
+      "categories": [],
+      "pdf_url": "",
+      "feed_url": "https://news.mit.edu/rss/topic/artificial-intelligence2",
+      "blog_label": "MIT News · AI",
+      "summary_cn": "",
+      "fetch_date": "2026-10-22",
+      "sources": [
+        "blog"
+      ]
+    },
+    {
+      "work_id": "blog-low-resource-programming-languages-63efcf02",
+      "kind": "blog",
+      "title": "Advancing coding in low‑resource programming languages",
+      "url": "https://openai.com/index/low-resource-programming-languages",
+      "published": "2026-10-19T12:00:00+00:00",
+      "updated": "2026-10-19T12:00:00+00:00",
+      "summary": "Learn how OpenAI is improving ChatGPT across low-resource programming languages, with new evaluations for software engineering, SQLite, and COBOL migration.",
+      "source": "blog",
+      "group_ids": [
+        "openai"
+      ],
+      "member_ids": [],
+      "member_names": [],
+      "authors": [],
+      "venue": "",
+      "citation_count": 0,
+      "influential_citation_count": 0,
+      "doi": "",
+      "arxiv_id": "",
+      "primary_category": "",
+      "categories": [],
+      "pdf_url": "",
+      "feed_url": "https://openai.com/news/rss.xml",
+      "blog_label": "OpenAI News",
+      "summary_cn": "",
+      "fetch_date": "2026-10-22",
+      "sources": [
+        "blog"
+      ]
+    },
+    {
+      "work_id": "2610.25711",
+      "kind": "paper",
+      "title": "SWAP: Test-Time Steerable Humanoid Whole-Body Collision Avoidance",
+      "url": "https://arxiv.org/abs/2610.25711",
+      "published": "2026-10-19T03:00:50+00:00",
+      "updated": "2026-10-19T03:00:50+00:00",
+      "summary": "Humanoid robots operating in human-centric environments must coordinate the entire body to traverse tight, cluttered spaces while maintaining balance. Existing methods often struggle to jointly consider dynamic stability and collision avoidance from high-dimensional perceptual inputs. Moreover, for humanoids, safe behavior is inherently multimodal: the same obstacle may admit multiple valid traversals, which is difficult to represent with a single deterministic policy. To address these challenges, we propose SWAP (Steerable Whole-body Avoidance Policy), a hierarchical framework that separates collision-aware decision making from stabilization. A high-level, perception-conditioned diffusion policy generates multimodal, collision-aware motion proposals, while a low-level whole-body RL controller tracks these proposals and maintains dynamic balance. To efficiently train the high-level policy, we obtain scalable supervision via hindsight labeling: we roll out the low-level policy under randomized commands, place obstacles only in the space that each executed motion did not sweep, so the motion is collision-free by construction, and re-render the perception the robot would have seen. At deployment, Monte Carlo sampling with simple cost signals steers the diffusion model toward safe, task-aligned behaviors without heavy reward tuning.   Experiments in simulation and on a real Unitree G1 humanoid show reliable avoidance with static and dynamic obstacles. Test-time steering further enables customization, improving targeted rewards (e.g., speed, orientation, or posture) by 34% on average while maintaining a high collision avoidance rate. Together, these results support a practical solution to humanoid whole-body collision avoidance with test-time steerability. Project website: https://iscoyizj.github.io/SWAP-steerable-humanoid-oa-website/",
+      "source": "arxiv",
+      "group_ids": [
+        "berkeley-bair"
+      ],
+      "member_ids": [
+        "pieter-abbeel"
+      ],
+      "member_names": [
+        "Pieter Abbeel"
+      ],
+      "authors": [
+        "Zeji Yi",
+        "Guanqi He",
+        "Xiaofeng Guo",
+        "Guannan Qu",
+        "Pieter Abbeel",
+        "Yan Duan",
+        "Karen Liu",
+        "Guanya Shi"
+      ],
+      "venue": "arXiv (Cornell University)",
+      "citation_count": 0,
+      "influential_citation_count": 0,
+      "doi": "10.48550/arxiv.2610.25711",
+      "arxiv_id": "2610.25711",
+      "primary_category": "cs.RO",
+      "categories": [
+        "cs.RO"
+      ],
+      "pdf_url": "https://arxiv.org/pdf/2610.25711v1",
+      "feed_url": "",
+      "blog_label": "",
+      "summary_cn": "",
+      "fetch_date": "2026-10-22",
+      "sources": [
+        "openalex",
+        "arxiv"
+      ]
+    },
+    {
+      "work_id": "2610.25988",
+      "kind": "paper",
+      "title": "Self-Supervised Inertial Odometry",
+      "url": "https://arxiv.org/abs/2610.25988",
+      "published": "2026-10-19",
+      "updated": "2026-10-21T09:56:26.102985",
+      "summary": "Learning inertial odometry for a new platform usually requires ground-truth trajectories. We show that an inertial odometry model can instead be trained from scratch by a myopic teacher that integrates the IMU over each short window independently, a scheme we call integration self-supervision.Interestingly, although supervised only by short-window velocity changes, the student learns to directly predict velocity, and does so more accurately than its integration teacher. Pose graph distillation then refines the model with sequence-consistent targets from a pose graph over many windows. Training on a new platform therefore no longer requires collecting ground-truth trajectories, but only calibrating the IMU and recording data during normal operation. Across six datasets spanning pedestrians, drones, quadrupeds, and a humanoid, the same recipe with no velocity or position labels trains models that come within $0.07$~m/s average velocity error of a same-architecture supervised baseline.",
+      "source": "openalex",
+      "group_ids": [
+        "berkeley-bair"
+      ],
+      "member_ids": [
+        "pieter-abbeel"
+      ],
+      "member_names": [
+        "Pieter Abbeel"
+      ],
+      "authors": [
+        "Yuheng Qiu",
+        "Yutian Chen",
+        "Carlton Cort",
+        "Weison Huang",
+        "Shibo Zhao",
+        "Pieter Abbeel",
+        "Rocky Duan",
+        "Koushil Sreenath",
+        "C. Karen Liu",
+        "Carmelo Sferrazza",
+        "Junyi Geng",
+        "Sebastian Scherer",
+        "Guanya Shi"
+      ],
+      "venue": "arXiv",
+      "citation_count": 0,
+      "influential_citation_count": 0,
+      "doi": "10.48550/arxiv.2610.25988",
+      "arxiv_id": "2610.25988",
+      "primary_category": "cs.RO",
+      "categories": [
+        "cs.RO"
+      ],
+      "pdf_url": "https://arxiv.org/pdf/2610.25988v2",
+      "feed_url": "",
+      "blog_label": "",
+      "summary_cn": "",
+      "fetch_date": "2026-10-22",
+      "sources": [
+        "openalex",
+        "arxiv"
+      ]
+    },
+    {
+      "work_id": "doi-10-3390-microorganisms14102388",
+      "kind": "paper",
+      "title": "Cervical Microbiota Dysbiosis as a Driver of Cervical Incompetence",
+      "url": "https://doi.org/10.3390/microorganisms14102388",
+      "published": "2026-10-19",
+      "updated": "2026-10-21T09:56:26.102985",
+      "summary": "Cervical incompetence (CIC) represents a significant cause of preterm birth globally. Clinical symptoms of CIC are typically delayed until mid-to-late pregnancy, thereby imposing challenges in CIC diagnosis. There is evidence that the microbiota contributes pivotal roles in reproductive health. By comparing the microbial structure and assembly between 30 CIC patients and 30 healthy controls, we found a close correlation between endocervical microbiota dysbiosis and CIC pathogenesis. The CIC group exhibited increased ɑ-diversity and significant alterations in microbial community composition, characterized by decreased relative abundances of Actinobacteria and Firmicutes. Functional characterization revealed a broad reduction in microbial metabolic potential in patients with CIC. NetShift network analysis identified 22 pivotal driver taxa, including Lactobacillus and Gardnerella species that triggered the progression to dysbiosis. Notably, a machine learning diagnostic model achieved 83.3% accuracy in clinical diagnosis based on the abundances of 10 biomarkers. These findings provide critical insights into microbial-mediated regulation of the cervical microenvironment by elucidating how specific microbial members and their metabolic potentials contribute to CIC pathogenesis. The diagnosis model offers a new paradigm for diagnosis using microbial biomarkers and reveals potential therapeutic targets via the intervention of driver taxa, thereby establishing innovative strategies to improve pregnancy outcomes.",
+      "source": "openalex",
+      "group_ids": [
+        "zhipu-ai"
+      ],
+      "member_ids": [
+        "jie-tang"
+      ],
+      "member_names": [
+        "Jie Tang"
+      ],
+      "authors": [
+        "Tingting Wang",
+        "Jiaqi Shi",
+        "Yinyin Wei",
+        "Jie Tang",
+        "Jiaqi Lu",
+        "Hao Zhang"
+      ],
+      "venue": "Microorganisms",
+      "citation_count": 0,
+      "influential_citation_count": 0,
+      "doi": "10.3390/microorganisms14102388",
+      "arxiv_id": "",
+      "primary_category": "",
+      "categories": [],
+      "pdf_url": "",
+      "feed_url": "",
+      "blog_label": "",
+      "summary_cn": "",
+      "fetch_date": "2026-10-22",
+      "sources": [
+        "openalex"
+      ]
+    },
+    {
+      "work_id": "2610.25651",
+      "kind": "paper",
+      "title": "OPDArena: Understanding Learning and Forgetting in On-Policy Distillation",
+      "url": "https://arxiv.org/abs/2610.25651",
+      "published": "2026-10-19",
+      "updated": "2026-10-21T09:56:26.102985",
+      "summary": "On-policy distillation (OPD) is increasingly used for language model post-training, yet how teacher supervision shapes learning and forgetting remains unclear. We present OPDArena, a framework comparing supervised fine-tuning (SFT), reinforcement learning with verifiable rewards (RLVR), and OPD across five pretrained models and diverse teacher sources. It jointly evaluates mathematical learning, general capability retention, and predictive distribution changes. Teacher choice strongly shapes retention: students of RLVR-trained teachers improve on the target task while retaining prior capabilities, whereas students of SFT-trained teachers incur greater capability loss. Across post-training methods, out-of-domain (OOD) distribution change shows a more consistent positive association with forgetting than in-domain change. To understand how teacher choice affects these changes, we examine the additional information teachers provide relative to the student's pretrained model. Controlled teacher comparisons show that the task-specific preferences teachers acquire through post-training make student updates more concentrated in-domain.",
+      "source": "openalex",
+      "group_ids": [
+        "msra"
+      ],
+      "member_ids": [
+        "furu-wei"
+      ],
+      "member_names": [
+        "Furu Wei"
+      ],
+      "authors": [
+        "Yuanze Xu",
+        "Tianzhu Ye",
+        "Hui Sun",
+        "Wenhui Wang",
+        "Li Dong",
+        "Furu Wei"
+      ],
+      "venue": "arXiv",
+      "citation_count": 0,
+      "influential_citation_count": 0,
+      "doi": "10.48550/arxiv.2610.25651",
+      "arxiv_id": "2610.25651",
+      "primary_category": "",
+      "categories": [],
+      "pdf_url": "https://arxiv.org/pdf/2610.25651",
+      "feed_url": "",
+      "blog_label": "",
+      "summary_cn": "",
+      "fetch_date": "2026-10-22",
+      "sources": [
+        "openalex"
+      ]
+    },
+    {
+      "work_id": "blog-giving-ai-crystal-clear-view-of-material-faf3d27c",
+      "kind": "blog",
+      "title": "Giving AI a “crystal clear” view of the materials world",
+      "url": "https://news.mit.edu/2026/giving-ai-crystal-clear-view-of-materials-world-1018",
+      "published": "2026-10-18T04:00:00+00:00",
+      "updated": "2026-10-18T04:00:00+00:00",
+      "summary": "New research can help AI models understand crystalline materials in 3D and reason about their properties.",
+      "source": "blog",
+      "group_ids": [
+        "mit-csail"
+      ],
+      "member_ids": [],
+      "member_names": [],
+      "authors": [],
+      "venue": "",
+      "citation_count": 0,
+      "influential_citation_count": 0,
+      "doi": "",
+      "arxiv_id": "",
+      "primary_category": "",
+      "categories": [],
+      "pdf_url": "",
+      "feed_url": "https://news.mit.edu/rss/topic/artificial-intelligence2",
+      "blog_label": "MIT News · AI",
+      "summary_cn": "",
+      "fetch_date": "2026-10-22",
+      "sources": [
+        "blog"
+      ]
+    },
+    {
+      "work_id": "2610.24461",
+      "kind": "paper",
+      "title": "Measuring Empowerment from Offline Data for Intrinsically Motivated Exploration",
+      "url": "https://arxiv.org/abs/2610.24461",
+      "published": "2026-10-17T05:02:09+00:00",
+      "updated": "2026-10-17T05:02:09+00:00",
+      "summary": "Large, unlabeled datasets of prior experience have become increasingly available for agentic tasks in domains such as robotics and coding. A common recipe for these tasks is to train a policy using the prior data, and then further improve it with online rollouts. But while much work has studied how to use both the offline and online data for policy extraction, far less work has been done to understand how the prior data can be used to efficiently \\textit{explore} during the online learning phase. Previous work has attempted to formalize this idea by defining the \\textit{empowerment}, a measure of how many future states an agent can realize; states with higher empowerment require more exploration as there are more futures to explore. However, existing methods for estimating empowerment require online policy rollouts in the environment. We propose the first method for estimating empowerment from unlabeled prior data, without any environment interaction. By jointly learning an empowerment-maximizing policy together with its discounted state-occupancy measure, our estimator can be trained on unlabeled trajectories generated from any unknown policy. We demonstrate that our empowerment estimator qualitatively gives intuitive empowerment measures and show that the pretrained estimator can be used to improve exploration in the online goal-conditioned reinforcement learning setting. Code is available at \\url{https://github.com/ishirgarg/offline-empowerment}.",
+      "source": "arxiv",
+      "group_ids": [
+        "berkeley-bair"
+      ],
+      "member_ids": [
+        "sergey-levine"
+      ],
+      "member_names": [
+        "Sergey Levine"
+      ],
+      "authors": [
+        "Ishir Garg",
+        "Vivek Myers",
+        "Qiyang Li",
+        "Catherine Ji",
+        "Benjamin Eysenbach",
+        "Sergey Levine"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "influential_citation_count": 0,
+      "doi": "",
+      "arxiv_id": "2610.24461",
+      "primary_category": "cs.LG",
+      "categories": [
+        "cs.LG"
+      ],
+      "pdf_url": "https://arxiv.org/pdf/2610.24461v1",
+      "feed_url": "",
+      "blog_label": "",
+      "summary_cn": "",
+      "fetch_date": "2026-10-22",
+      "sources": [
+        "arxiv"
+      ]
+    },
+    {
+      "work_id": "blog-itau-generative-ai-51607231",
+      "kind": "blog",
+      "title": "How Itaú is building generative AI for its entire customer base",
+      "url": "https://openai.com/index/itau-generative-ai",
+      "published": "2026-10-16T19:00:00+00:00",
+      "updated": "2026-10-16T19:00:00+00:00",
+      "summary": "With ia.i, a conversational interface, and the IARA governance platform, Itaú is applying its AI First strategy to customers and employees — in one of Brazil’s most regulated sectors.",
+      "source": "blog",
+      "group_ids": [
+        "openai"
+      ],
+      "member_ids": [],
+      "member_names": [],
+      "authors": [],
+      "venue": "",
+      "citation_count": 0,
+      "influential_citation_count": 0,
+      "doi": "",
+      "arxiv_id": "",
+      "primary_category": "",
+      "categories": [],
+      "pdf_url": "",
+      "feed_url": "https://openai.com/news/rss.xml",
+      "blog_label": "OpenAI News",
+      "summary_cn": "",
+      "fetch_date": "2026-10-22",
+      "sources": [
+        "blog"
+      ]
+    },
+    {
+      "work_id": "blog-fostering-community-amid-kendall-square--0d920f33",
+      "kind": "blog",
+      "title": "Fostering community amid Kendall Square’s innovation",
+      "url": "https://news.mit.edu/2026/fostering-community-amid-kendall-square-innovation-1016",
+      "published": "2026-10-16T16:00:00+00:00",
+      "updated": "2026-10-16T16:00:00+00:00",
+      "summary": "The 18th annual Kendall Square Association Annual Meeting explored how new technologies could be a force for shared prosperity in society.",
+      "source": "blog",
+      "group_ids": [
+        "mit-csail"
+      ],
+      "member_ids": [],
+      "member_names": [],
+      "authors": [],
+      "venue": "",
+      "citation_count": 0,
+      "influential_citation_count": 0,
+      "doi": "",
+      "arxiv_id": "",
+      "primary_category": "",
+      "categories": [],
+      "pdf_url": "",
+      "feed_url": "https://news.mit.edu/rss/topic/artificial-intelligence2",
+      "blog_label": "MIT News · AI",
+      "summary_cn": "",
+      "fetch_date": "2026-10-22",
+      "sources": [
+        "blog"
+      ]
+    },
+    {
+      "work_id": "blog-stack-overflow-chatgpt-plugin-c510a34c",
+      "kind": "blog",
+      "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
+      "url": "https://openai.com/index/stack-overflow-chatgpt-plugin",
+      "published": "2026-10-16T00:00:00+00:00",
+      "updated": "2026-10-16T00:00:00+00:00",
+      "summary": "Two engineers shipped Stack Overflow for Agents in a few weeks with Codex, and its ChatGPT plugin helped drive up to 10× growth in agent creation.",
+      "source": "blog",
+      "group_ids": [
+        "openai"
+      ],
+      "member_ids": [],
+      "member_names": [],
+      "authors": [],
+      "venue": "",
+      "citation_count": 0,
+      "influential_citation_count": 0,
+      "doi": "",
+      "arxiv_id": "",
+      "primary_category": "",
+      "categories": [],
+      "pdf_url": "",
+      "feed_url": "https://openai.com/news/rss.xml",
+      "blog_label": "OpenAI News",
+      "summary_cn": "",
+      "fetch_date": "2026-10-22",
+      "sources": [
+        "blog"
+      ]
+    },
+    {
+      "work_id": "blog-benefit-street-partners-6f649019",
+      "kind": "blog",
+      "title": "Benefit Street Partners answers questions faster with Codex",
+      "url": "https://openai.com/index/benefit-street-partners",
+      "published": "2026-10-16T00:00:00+00:00",
+      "updated": "2026-10-16T00:00:00+00:00",
+      "summary": "Anant Kumar builds tools to compare loan valuations and analyze credit agreements, using Codex for code review and faster follow-ups.",
+      "source": "blog",
+      "group_ids": [
+        "openai"
+      ],
+      "member_ids": [],
+      "member_names": [],
+      "authors": [],
+      "venue": "",
+      "citation_count": 0,
+      "influential_citation_count": 0,
+      "doi": "",
+      "arxiv_id": "",
+      "primary_category": "",
+      "categories": [],
+      "pdf_url": "",
+      "feed_url": "https://openai.com/news/rss.xml",
+      "blog_label": "OpenAI News",
+      "summary_cn": "",
+      "fetch_date": "2026-10-22",
+      "sources": [
+        "blog"
+      ]
+    },
+    {
+      "work_id": "2610.23841",
+      "kind": "paper",
+      "title": "StopWatch: Goal Grounding for Object-goal Navigation",
+      "url": "https://arxiv.org/abs/2610.23841",
+      "published": "2026-10-16",
+      "updated": "2026-10-21T09:56:26.102985",
+      "summary": "Pretrained VLMs bring rich world knowledge and semantic priors to object-goal navigation, and fine-tuning a VLM into a navigation policy has become a common recipe. Despite this progress, success rates remain low, and it is unclear which capability these fine-tuned policies lack. Our diagnosis identifies goal grounding as the dominant failure. These policies explore well, yet often fail to notice that the goal is already in view or to estimate how far away it is. To address this failure, we ground the goal explicitly. Explicit grounding substantially improves success and reaches state-of-the-art results on six benchmarks across three scene collections. We also correct annotation defects in these benchmarks, so that future methods are evaluated more faithfully. Our analysis on the clean benchmarks shows that, with ground-truth grounding, our policy nearly matches the expert that generated its demonstrations, leaving the headroom in perception rather than policy learning. Our work points to goal grounding as a missing piece of object-goal navigation and offers a simple and effective solution to the task.",
+      "source": "openalex",
+      "group_ids": [
+        "berkeley-bair"
+      ],
+      "member_ids": [
+        "pieter-abbeel"
+      ],
+      "member_names": [
+        "Pieter Abbeel"
+      ],
+      "authors": [
+        "Xinhao Liu",
+        "Yunsheng Tian",
+        "Yuheng Qiu",
+        "Pieter Abbeel",
+        "Xi Chen",
+        "Guanya Shi",
+        "Chen Feng"
+      ],
+      "venue": "arXiv",
+      "citation_count": 0,
+      "influential_citation_count": 0,
+      "doi": "10.48550/arxiv.2610.23841",
+      "arxiv_id": "2610.23841",
+      "primary_category": "cs.CV",
+      "categories": [
+        "cs.CV",
+        "cs.RO"
+      ],
+      "pdf_url": "https://arxiv.org/pdf/2610.23841",
+      "feed_url": "",
+      "blog_label": "",
+      "summary_cn": "",
+      "fetch_date": "2026-10-22",
+      "sources": [
+        "openalex",
+        "arxiv"
+      ]
+    },
+    {
+      "work_id": "2610.23849",
+      "kind": "paper",
+      "title": "Blind Precise Assembly: Proprioceptive Sim-to-Real Peg-in-Hole for Diverse Parts",
+      "url": "https://arxiv.org/abs/2610.23849",
+      "published": "2026-10-16",
+      "updated": "2026-10-21T09:56:26.102985",
+      "summary": "Every robot already carries high-resolution contact sensors: its own joints. Legged robots and humanoids exploit them to walk, run, and track whole-body motions without vision, but there the contacts are large and forceful. Is joint sensing also enough for precise, contact-rich assembly, where the robot must find a millimeter-scale opening, mesh gear teeth, or catch a thread through light contact? We study this question by training blind assembly policies that observe only a short history of joint positions, velocities, and their own actions, without visual, force, torque, or tactile sensing. The poses of both the fixture and the part are unknown to the policy, and the grasp is randomized substantially. The policy must therefore assemble the parts through contact, sensed exclusively through its own proprioception. Trained with reinforcement learning entirely in simulation over randomized parts, grasps, and contacts, such policies learn peg insertion, gear meshing, and nut threading. The peg insertion policy transfers zero-shot to the real world and inserts pegs of different shapes and sizes in 73% of trials. Controlled comparisons with matched visual policies in simulation show that blind policies generalize far better to unseen part shapes and sizes, though they can be slower. Training such policies needs thousands of different assemblies, each simulated with its clearance intact, so we also release an open-source generator that builds them procedurally from exact convex pieces for MuJoCo; it is more accurate and faster than convex decomposition or MuJoCo's signed-distance collision. Videos and interactive simulations are at https://younghyopark.me/blind-proprioceptive-assembly/.",
+      "source": "openalex",
+      "group_ids": [
+        "mit-csail"
+      ],
+      "member_ids": [
+        "pulkit-agrawal"
+      ],
+      "member_names": [
+        "Pulkit Agrawal"
+      ],
+      "authors": [
+        "Antonia Bronars",
+        "Younghyo Park",
+        "Kushal S. Kedia",
+        "Pulkit Agrawal"
+      ],
+      "venue": "arXiv",
+      "citation_count": 0,
+      "influential_citation_count": 0,
+      "doi": "10.48550/arxiv.2610.23849",
+      "arxiv_id": "2610.23849",
+      "primary_category": "cs.RO",
+      "categories": [
+        "cs.RO"
+      ],
+      "pdf_url": "https://arxiv.org/pdf/2610.23849",
+      "feed_url": "",
+      "blog_label": "",
+      "summary_cn": "",
+      "fetch_date": "2026-10-22",
+      "sources": [
+        "openalex",
+        "arxiv"
+      ]
+    },
+    {
+      "work_id": "blog-state-of-supply-chain-sustainability-rep-ce42c5d2",
+      "kind": "blog",
+      "title": "State of Supply Chain Sustainability Report finds corporate commitment at record high, but governance lags behind",
+      "url": "https://news.mit.edu/2026/state-of-supply-chain-sustainability-report-1015",
+      "published": "2026-10-15T21:00:00+00:00",
+      "updated": "2026-10-15T21:00:00+00:00",
+      "summary": "MIT's Center for Transportation and Logistics finds sustainability commitments are strong, but governance gaps and external disruptions prevent execution.",
+      "source": "blog",
+      "group_ids": [
+        "mit-csail"
+      ],
+      "member_ids": [],
+      "member_names": [],
+      "authors": [],
+      "venue": "",
+      "citation_count": 0,
+      "influential_citation_count": 0,
+      "doi": "",
+      "arxiv_id": "",
+      "primary_category": "",
+      "categories": [],
+      "pdf_url": "",
+      "feed_url": "https://news.mit.edu/rss/topic/artificial-intelligence2",
+      "blog_label": "MIT News · AI",
+      "summary_cn": "",
+      "fetch_date": "2026-10-22",
+      "sources": [
+        "blog"
+      ]
+    },
+    {
+      "work_id": "blog-ai-model-decodes-language-cells-use-comm-820326ac",
+      "kind": "blog",
+      "title": "AI model decodes the language cells use to communicate",
+      "url": "https://news.mit.edu/2026/ai-model-decodes-language-cells-use-communicate-1015",
+      "published": "2026-10-15T20:50:00+00:00",
+      "updated": "2026-10-15T20:50:00+00:00",
+      "summary": "A new computational approach reveals how cells communicate to assemble into tissues. This could accelerate stem cell engineering, improve disease models, and inform therapies.",
+      "source": "blog",
+      "group_ids": [
+        "mit-csail"
+      ],
+      "member_ids": [],
+      "member_names": [],
+      "authors": [],
+      "venue": "",
+      "citation_count": 0,
+      "influential_citation_count": 0,
+      "doi": "",
+      "arxiv_id": "",
+      "primary_category": "",
+      "categories": [],
+      "pdf_url": "",
+      "feed_url": "https://news.mit.edu/rss/topic/artificial-intelligence2",
+      "blog_label": "MIT News · AI",
+      "summary_cn": "",
+      "fetch_date": "2026-10-22",
+      "sources": [
+        "blog"
+      ]
+    },
+    {
+      "work_id": "blog-introducing-the-rosalind-academic-plan-fa9c6f97",
+      "kind": "blog",
+      "title": "Bringing GPT-Rosalind to academic research labs",
+      "url": "https://openai.com/index/introducing-the-rosalind-academic-plan",
+      "published": "2026-10-15T19:00:00+00:00",
+      "updated": "2026-10-15T19:00:00+00:00",
+      "summary": "Introducing the Rosalind Academic Plan, offering eligible academic labs sponsored access to GPT-Rosalind and tools to advance life sciences research.",
+      "source": "blog",
+      "group_ids": [
+        "openai"
+      ],
+      "member_ids": [],
+      "member_names": [],
+      "authors": [],
+      "venue": "",
+      "citation_count": 0,
+      "influential_citation_count": 0,
+      "doi": "",
+      "arxiv_id": "",
+      "primary_category": "",
+      "categories": [],
+      "pdf_url": "",
+      "feed_url": "https://openai.com/news/rss.xml",
+      "blog_label": "OpenAI News",
+      "summary_cn": "",
+      "fetch_date": "2026-10-22",
+      "sources": [
+        "blog"
+      ]
+    },
+    {
+      "work_id": "blog-magic-state-cultivation-quantum-computin-3f05965f",
+      "kind": "blog",
+      "title": "Bringing the magic: Google breaks open a bottleneck in quantum computing",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/quantum-computing/magic-state-cultivation-quantum-computing/",
+      "published": "2026-10-15T18:00:00+00:00",
+      "updated": "2026-10-15T18:00:00+00:00",
+      "summary": "Magic State video",
+      "source": "blog",
+      "group_ids": [
+        "google-research"
+      ],
+      "member_ids": [],
+      "member_names": [],
+      "authors": [],
+      "venue": "",
+      "citation_count": 0,
+      "influential_citation_count": 0,
+      "doi": "",
+      "arxiv_id": "",
+      "primary_category": "",
+      "categories": [],
+      "pdf_url": "",
+      "feed_url": "https://blog.google/technology/research/rss/",
+      "blog_label": "Google Research Blog",
+      "summary_cn": "",
+      "fetch_date": "2026-10-22",
+      "sources": [
+        "blog"
+      ]
+    },
+    {
+      "work_id": "blog-crisis-resilience-white-paper-3de27ae6",
+      "kind": "blog",
+      "title": "How we're helping the world prepare for natural disasters",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/crisis-resilience-white-paper/",
+      "published": "2026-10-15T16:00:00+00:00",
+      "updated": "2026-10-15T16:00:00+00:00",
+      "summary": "Our north star is simple yet ambitious: No one should be surprised by a natural disaster.",
+      "source": "blog",
+      "group_ids": [
+        "google-research"
+      ],
+      "member_ids": [],
+      "member_names": [],
+      "authors": [],
+      "venue": "",
+      "citation_count": 0,
+      "influential_citation_count": 0,
+      "doi": "",
+      "arxiv_id": "",
+      "primary_category": "",
+      "categories": [],
+      "pdf_url": "",
+      "feed_url": "https://blog.google/technology/research/rss/",
+      "blog_label": "Google Research Blog",
+      "summary_cn": "",
+      "fetch_date": "2026-10-22",
+      "sources": [
+        "blog"
+      ]
+    },
+    {
+      "work_id": "blog-proof-based-general-purpose-computing-wi-880cddc0",
+      "kind": "blog",
+      "title": "Proof-based general-purpose computing with Magnetar",
+      "url": "https://www.microsoft.com/en-us/research/blog/proof-based-general-purpose-computing-with-magnetar/",
+      "published": "2026-10-15T16:00:00+00:00",
+      "updated": "2026-10-15T16:00:00+00:00",
+      "summary": "Zero-knowledge proofs can verify computing results without rerunning workloads or exposing sensitive data. Magnetar helps bring them into the mainstream with support for standard programming languages, major speed gains, and quantum-resistant security. The post Proof-based general-purpose computing with Magnetar appeared first on Microsoft Research .",
+      "source": "blog",
+      "group_ids": [
+        "microsoft-research"
+      ],
+      "member_ids": [],
+      "member_names": [],
+      "authors": [],
+      "venue": "",
+      "citation_count": 0,
+      "influential_citation_count": 0,
+      "doi": "",
+      "arxiv_id": "",
+      "primary_category": "",
+      "categories": [],
+      "pdf_url": "",
+      "feed_url": "https://www.microsoft.com/en-us/research/feed/",
+      "blog_label": "Microsoft Research Blog",
+      "summary_cn": "",
+      "fetch_date": "2026-10-22",
+      "sources": [
+        "blog"
+      ]
+    },
+    {
+      "work_id": "blog-teaching-students-to-think-and-learn-thr-5678b941",
+      "kind": "blog",
+      "title": "Teaching students to think and learn through questions",
+      "url": "https://openai.com/index/teaching-students-to-think-and-learn-through-questions",
+      "published": "2026-10-15T13:00:00+00:00",
+      "updated": "2026-10-15T13:00:00+00:00",
+      "summary": "Celebrate Teachers’ Day with AI for Educators in Brazilian Portuguese and see how Study Mode can help teachers support active, step-by-step learning.",
+      "source": "blog",
+      "group_ids": [
+        "openai"
+      ],
+      "member_ids": [],
+      "member_names": [],
+      "authors": [],
+      "venue": "",
+      "citation_count": 0,
+      "influential_citation_count": 0,
+      "doi": "",
+      "arxiv_id": "",
+      "primary_category": "",
+      "categories": [],
+      "pdf_url": "",
+      "feed_url": "https://openai.com/news/rss.xml",
+      "blog_label": "OpenAI News",
+      "summary_cn": "",
+      "fetch_date": "2026-10-22",
+      "sources": [
+        "blog"
+      ]
+    },
+    {
+      "work_id": "blog-synthid-time-best-inventions-e2b2aa1a",
+      "kind": "blog",
+      "title": "TIME has named Google SynthID one of the Best Inventions of 2026.",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/synthid-time-best-inventions/",
+      "published": "2026-10-15T13:00:00+00:00",
+      "updated": "2026-10-15T13:00:00+00:00",
+      "summary": "TIME named Google SynthID a Best Invention of 2026 for its groundbreaking approach to AI watermarking and verification.",
+      "source": "blog",
+      "group_ids": [
+        "google-deepmind"
+      ],
+      "member_ids": [],
+      "member_names": [],
+      "authors": [],
+      "venue": "",
+      "citation_count": 0,
+      "influential_citation_count": 0,
+      "doi": "",
+      "arxiv_id": "",
+      "primary_category": "",
+      "categories": [],
+      "pdf_url": "",
+      "feed_url": "https://blog.google/technology/google-deepmind/rss/",
+      "blog_label": "Google DeepMind Blog",
+      "summary_cn": "",
+      "fetch_date": "2026-10-22",
+      "sources": [
+        "blog"
+      ]
+    },
+    {
+      "work_id": "2610.22496",
+      "kind": "paper",
+      "title": "Scaling Online Exploration for Robot Agents",
+      "url": "https://arxiv.org/abs/2610.22496",
+      "published": "2026-10-15",
+      "updated": "2026-10-21T09:56:26.102985",
+      "summary": "Robot learning has advanced by scaling demonstration datasets and model capacity; however, deploying a new robot embodiment or task typically necessitates a dedicated teleoperation corpus. The resulting policies remain bounded by their imitation distributions, limiting generalization and continual self-improvement. We introduce RAX (Robot Agent eXploration), an open-source framework for robot agents centered on scaling exploration: enabling agents to improve by acquiring online experience and synthesizing executable programs. In RAX, a general-purpose coding agent generates robot control code, operating without action demonstration data, hand-engineered action primitives, or value-function guidance. Through online exploration, the agent identifies decision sequences that achieve task goals and compiles them into modular programs encapsulating the full perception-planning-control loop. Using RAX, we present a systematic multi-embodiment study on scaling online exploration across precision and long-horizon manipulation tasks using single-arm, bimanual, dexterous, mobile, and humanoid systems in simulation and on real robots. Generalization performance on unseen environments improves consistently as exploration scales. In simulation, RAX outperforms top baseline models by +37.4% on average. On real robots, RAX autonomously learns memory-dependent, articulated, high-precision, deformable, and long-horizon mobile manipulation tasks without human demonstrations, continually improving performance by composing verified skills from prior exploration sessions. As exploration scales, we observe emergent capabilities including active perception, error recovery, safety guardrails, and human-robot collaboration. We open-source RAX as a generalist robot-agent platform in which new robot embodiments are integrated through their APIs alone, without teleoperated data collection or policy training.",
+      "source": "openalex",
+      "group_ids": [
+        "berkeley-bair",
+        "mit-csail"
+      ],
+      "member_ids": [
+        "pieter-abbeel",
+        "antonio-torralba"
+      ],
+      "member_names": [
+        "Pieter Abbeel",
+        "Antonio Torralba"
+      ],
+      "authors": [
+        "Runhan Huang",
+        "Xiangcheng Zhang",
+        "Haoyu Chen",
+        "Yitong Li",
+        "Yen‐Jen Wang",
+        "Bohan Lyu",
+        "Haotian Ye",
+        "Chuye Hong",
+        "Yixuan Wang",
+        "Chloe Su",
+        "Haoyu Xiong",
+        "Yangzhen Wu",
+        "Enze Xie",
+        "Travis Manderson",
+        "Stefano Ermon",
+        "Pieter Abbeel",
+        "Antonio B. Torralba",
+        "Dawn Song",
+        "Weirui Ye",
+        "Yilun Du"
+      ],
+      "venue": "arXiv",
+      "citation_count": 0,
+      "influential_citation_count": 0,
+      "doi": "10.48550/arxiv.2610.22496",
+      "arxiv_id": "2610.22496",
+      "primary_category": "cs.RO",
+      "categories": [
+        "cs.RO"
+      ],
+      "pdf_url": "https://arxiv.org/pdf/2610.22496",
+      "feed_url": "",
+      "blog_label": "",
+      "summary_cn": "",
+      "fetch_date": "2026-10-22",
+      "sources": [
+        "openalex",
+        "arxiv"
+      ]
+    },
+    {
+      "work_id": "2610.22273",
+      "kind": "paper",
+      "title": "Librarian Agents: Training LLMs to Curate Long-Context Workspaces that Anticipate Future Queries",
+      "url": "https://arxiv.org/abs/2610.22273",
+      "published": "2026-10-15",
+      "updated": "2026-10-19T09:35:57.686232",
+      "summary": "Reasoning over long document contexts remains a challenge for large language models (LLMs). Standard retrieval methods are inherently reactive, bottlenecking agents with complex, cross-document reasoning at inference time, while precomputed structures like knowledge graphs often fall short because they rely on rigid heuristics. Instead, can we allow agents to perform anticipatory directed curation: learning to proactively reorganize unstructured corpora prior to inference to efficiently serve diverse future queries. We build on a key asymmetry in modern agentic harnesses (e.g., Claude Code): while LLM agents are adept at navigating existing filesystems to solve an immediate task, they are rarely trained to construct reusable workspaces for future use. To instantiate this capability, we introduce Librarian Agents, a framework in which a builder agent transforms raw documents into a hierarchical filesystem of synthetic files and reference links, which forms a workspace tailored for a downstream answering agent. We formulate workspace construction as a Markov decision process and optimize the builder policy via reinforcement learning to directly maximize downstream answering accuracy. Empirically, Librarian Agents outperforms the strongest retrieval and precomputation baselines by 33 percentage points on BrowseComp-Plus, amortizes upfront construction costs across repeated queries, and generalizes zero-shot to unseen domains on BRIGHT with a 31-point average accuracy improvement.",
+      "source": "openalex",
+      "group_ids": [
+        "stanford-ai"
+      ],
+      "member_ids": [
+        "chelsea-finn"
+      ],
+      "member_names": [
+        "Chelsea Finn"
+      ],
+      "authors": [
+        "Anikait Singh",
+        "Teresa Zhang",
+        "Yoonho Lee",
+        "Roshen Sanjay Nair",
+        "Aviral Kumar",
+        "Chelsea Finn"
+      ],
+      "venue": "arXiv",
+      "citation_count": 0,
+      "influential_citation_count": 0,
+      "doi": "10.48550/arxiv.2610.22273",
+      "arxiv_id": "2610.22273",
+      "primary_category": "cs.LG",
+      "categories": [
+        "cs.LG",
+        "cs.AI",
+        "cs.CL"
+      ],
+      "pdf_url": "https://arxiv.org/pdf/2610.22273",
+      "feed_url": "",
+      "blog_label": "",
+      "summary_cn": "",
+      "fetch_date": "2026-10-22",
+      "sources": [
+        "openalex",
+        "arxiv"
+      ]
+    },
+    {
+      "work_id": "2610.22497",
+      "kind": "paper",
+      "title": "Generative Value Classifier",
+      "url": "https://arxiv.org/abs/2610.22497",
+      "published": "2026-10-15",
+      "updated": "2026-10-21T09:56:26.102985",
+      "summary": "Q-learning is premised on learning a function to predict the value of a state-action pair, with the goal of using such a function to guide policy improvement. Most approaches learn this function from scratch using scalar or distributional return targets. This discriminative approach leaves another source of supervision for learning representations unused: the actions themselves. Rather than directly predict the return of a state-action pair, we ask the reverse question: how likely is the action under each possible return? This perspective provides a critic whose generative component is a return-conditioned policy, which can share the actor's architecture. Training this policy supervises the critic with every action rather than with returns alone, and a squared-error loss anchors the critic's Q-value to the bootstrapped target. We evaluate our approach on both offline and online RL tasks and show gains over leading discriminative methods, including distributional RL methods.",
+      "source": "openalex",
+      "group_ids": [
+        "stanford-ai"
+      ],
+      "member_ids": [
+        "chelsea-finn"
+      ],
+      "member_names": [
+        "Chelsea Finn"
+      ],
+      "authors": [
+        "Alexander Swerdlow",
+        "Perry Dong",
+        "Chelsea Finn"
+      ],
+      "venue": "arXiv",
+      "citation_count": 0,
+      "influential_citation_count": 0,
+      "doi": "10.48550/arxiv.2610.22497",
+      "arxiv_id": "2610.22497",
+      "primary_category": "cs.LG",
+      "categories": [
+        "cs.LG"
+      ],
+      "pdf_url": "https://arxiv.org/pdf/2610.22497",
+      "feed_url": "",
+      "blog_label": "",
+      "summary_cn": "",
+      "fetch_date": "2026-10-22",
+      "sources": [
+        "openalex",
+        "arxiv"
+      ]
+    },
+    {
+      "work_id": "2610.22119",
+      "kind": "paper",
+      "title": "Compliant GMT: Making General Motion Tracking Compliant via Residual Reference Adaptation",
+      "url": "https://arxiv.org/abs/2610.22119",
+      "published": "2026-10-15",
+      "updated": "2026-10-18T09:31:52.927876",
+      "summary": "We propose Compliant GMT (C-GMT), a modular framework for full-body compliant responses in general motion tracking. As humanoid robots move into real world deployment, they not only need to perform any motion but also respond safely and robustly to interaction forces. Existing general motion tracking policies can imitate diverse motions but are trained to be stiff, leading to unexpected and unsafe behaviors under disturbance. Prior work in compliant humanoid control trades off compliance and generality. There exist examples of full-body compliant responses, but these are heavily curated to single-reference policies. On the other hand, general motion trackers (GMT) are trained to rigidly imitate massive motion capture datasets. Our key insight is to leverage the generality of pretrained GMTs for motion tracking while introducing compliance from a residual adapter that conditions on a history of proprioception. This enables our approach, C-GMT, to achieve both general motion tracking and whole-body compliant responses. Compared to state-of-the-art general motion trackers and single-motion compliant policies, C-GMT demonstrates competitive performance in both motion tracking accuracy and compliance adherence. We further demonstrate improved safety, robustness, and error tolerance in simulation and real-world G1 experiments.",
+      "source": "openalex",
+      "group_ids": [
+        "mit-csail"
+      ],
+      "member_ids": [
+        "pulkit-agrawal"
+      ],
+      "member_names": [
+        "Pulkit Agrawal"
+      ],
+      "authors": [
+        "Venki Parsuram",
+        "Michelle Wang",
+        "Jin-Hyuk Hong",
+        "Pulkit Agrawal"
+      ],
+      "venue": "arXiv",
+      "citation_count": 0,
+      "influential_citation_count": 0,
+      "doi": "10.48550/arxiv.2610.22119",
+      "arxiv_id": "2610.22119",
+      "primary_category": "cs.RO",
+      "categories": [
+        "cs.RO"
+      ],
+      "pdf_url": "https://arxiv.org/pdf/2610.22119",
+      "feed_url": "",
+      "blog_label": "",
+      "summary_cn": "",
+      "fetch_date": "2026-10-22",
+      "sources": [
+        "openalex",
+        "arxiv"
+      ]
+    }
+  ],
+  "source_stats": {
+    "openalex": 11,
+    "arxiv": 14,
+    "blog": 30
+  },
+  "kind_stats": {
+    "blog": 30,
+    "paper": 15
+  }
+}
