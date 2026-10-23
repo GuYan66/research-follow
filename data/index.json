@@ -6150,7 +6150,133 @@
       "venue": "arXiv",
       "citation_count": 0,
       "path": "works/works-2026-10-22.json"
+    },
+    "blog-qa-how-ai-came-to-model-messy-human-mind-71bdabea": {
+      "work_id": "blog-qa-how-ai-came-to-model-messy-human-mind-71bdabea",
+      "kind": "blog",
+      "title": "Q&A: How AI came to model the “messy” human mind",
+      "date": "2026-10-23",
+      "published": "2026-10-23T04:00:00+00:00",
+      "arxiv_id": "",
+      "group_ids": [
+        "mit-csail"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-10-23.json"
+    },
+    "blog-design-software-reimagines-everyday-obje-a48a860a": {
+      "work_id": "blog-design-software-reimagines-everyday-obje-a48a860a",
+      "kind": "blog",
+      "title": "This design software reimagines everyday objects as self-aware devices",
+      "date": "2026-10-23",
+      "published": "2026-10-22T20:45:00+00:00",
+      "arxiv_id": "",
+      "group_ids": [
+        "mit-csail"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-10-23.json"
+    },
+    "blog-decisions-api-a20ae9c1": {
+      "work_id": "blog-decisions-api-a20ae9c1",
+      "kind": "blog",
+      "title": "Build more responsive apps with the Decisions API",
+      "date": "2026-10-23",
+      "published": "2026-10-22T19:00:00+00:00",
+      "arxiv_id": "",
+      "group_ids": [
+        "openai"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-10-23.json"
+    },
+    "blog-flint-interactive-a-language-for-creatin-c68ad374": {
+      "work_id": "blog-flint-interactive-a-language-for-creatin-c68ad374",
+      "kind": "blog",
+      "title": "Flint-interactive: A language for creating interactive data visualizations",
+      "date": "2026-10-23",
+      "published": "2026-10-22T16:00:00+00:00",
+      "arxiv_id": "",
+      "group_ids": [
+        "microsoft-research"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-10-23.json"
+    },
+    "2610.30991": {
+      "work_id": "2610.30991",
+      "kind": "paper",
+      "title": "UniFlowWAM: A Unified World-Action Model with Visual Semantics and 4D Geometry",
+      "date": "2026-10-23",
+      "published": "2026-10-22T09:35:56+00:00",
+      "arxiv_id": "2610.30991",
+      "group_ids": [
+        "sjtu-ai"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-10-23.json"
+    },
+    "blog-forward-deployed-engineering-means-b2ed6229": {
+      "work_id": "blog-forward-deployed-engineering-means-b2ed6229",
+      "kind": "blog",
+      "title": "What FDE means at OpenAI",
+      "date": "2026-10-23",
+      "published": "2026-10-22T06:00:00+00:00",
+      "arxiv_id": "",
+      "group_ids": [
+        "openai"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-10-23.json"
+    },
+    "blog-uber-chatgpt-work-rollout-97918a8a": {
+      "work_id": "blog-uber-chatgpt-work-rollout-97918a8a",
+      "kind": "blog",
+      "title": "Uber brings ChatGPT Work to all employees with OpenAI",
+      "date": "2026-10-23",
+      "published": "2026-10-22T00:00:00+00:00",
+      "arxiv_id": "",
+      "group_ids": [
+        "openai"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-10-23.json"
+    },
+    "2610.29432": {
+      "work_id": "2610.29432",
+      "kind": "paper",
+      "title": "PRISM: Learning Realistic Depth via Physics-Grounded Noise Disentanglement with Semantic-Geometric Collaboration",
+      "date": "2026-10-23",
+      "published": "2026-10-21T08:56:51+00:00",
+      "arxiv_id": "2610.29432",
+      "group_ids": [
+        "sjtu-ai"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-10-23.json"
+    },
+    "2610.29246": {
+      "work_id": "2610.29246",
+      "kind": "paper",
+      "title": "DepState-JEPA: Learning Depth-Grounded State Representation for Visual Perception and Manipulation",
+      "date": "2026-10-23",
+      "published": "2026-10-21T05:51:06+00:00",
+      "arxiv_id": "2610.29246",
+      "group_ids": [
+        "sjtu-ai"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-10-23.json"
     }
   },
-  "last_updated": "2026-10-22T04:56:03.729687+00:00"
+  "last_updated": "2026-10-23T05:20:41.570126+00:00"
 }
