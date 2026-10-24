@@ -6276,7 +6276,77 @@
       "venue": "",
       "citation_count": 0,
       "path": "works/works-2026-10-23.json"
+    },
+    "blog-martha-minow-speaks-on-sustaining-democr-783532a2": {
+      "work_id": "blog-martha-minow-speaks-on-sustaining-democr-783532a2",
+      "kind": "blog",
+      "title": "At MIT, Martha Minow speaks on sustaining democracy, both by using and overcoming AI",
+      "date": "2026-10-24",
+      "published": "2026-10-23T21:00:00+00:00",
+      "arxiv_id": "",
+      "group_ids": [
+        "mit-csail"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-10-24.json"
+    },
+    "blog-reinforcing-value-of-human-understanding-9dfb85c5": {
+      "work_id": "blog-reinforcing-value-of-human-understanding-9dfb85c5",
+      "kind": "blog",
+      "title": "Reinforcing the value of human understanding at MIT",
+      "date": "2026-10-24",
+      "published": "2026-10-23T19:35:00+00:00",
+      "arxiv_id": "",
+      "group_ids": [
+        "mit-csail"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-10-24.json"
+    },
+    "blog-scaling-storage-one-billion-users-part-t-ee625a63": {
+      "work_id": "blog-scaling-storage-one-billion-users-part-t-ee625a63",
+      "kind": "blog",
+      "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
+      "date": "2026-10-24",
+      "published": "2026-10-23T17:00:00+00:00",
+      "arxiv_id": "",
+      "group_ids": [
+        "openai"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-10-24.json"
+    },
+    "blog-securing-our-frontier-model-training-env-d2b474a1": {
+      "work_id": "blog-securing-our-frontier-model-training-env-d2b474a1",
+      "kind": "blog",
+      "title": "Securing our frontier model training environment",
+      "date": "2026-10-24",
+      "published": "2026-10-23T10:00:00+00:00",
+      "arxiv_id": "",
+      "group_ids": [
+        "openai"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-10-24.json"
+    },
+    "blog-openai-nask-ai-safety-security-partnersh-46d9ea36": {
+      "work_id": "blog-openai-nask-ai-safety-security-partnersh-46d9ea36",
+      "kind": "blog",
+      "title": "OpenAI and Poland’s NASK partner to advance AI safety and security",
+      "date": "2026-10-24",
+      "published": "2026-10-23T00:00:00+00:00",
+      "arxiv_id": "",
+      "group_ids": [
+        "openai"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-10-24.json"
     }
   },
-  "last_updated": "2026-10-23T05:20:41.570126+00:00"
+  "last_updated": "2026-10-24T04:43:57.615926+00:00"
 }
