@@ -6360,7 +6360,147 @@
       "venue": "",
       "citation_count": 0,
       "path": "works/works-2026-10-26.json"
+    },
+    "blog-greptile-code-review-codex-astra-9094fcd0": {
+      "work_id": "blog-greptile-code-review-codex-astra-9094fcd0",
+      "kind": "blog",
+      "title": "Greptile takes bug detection beyond code review with GPT-6 Astra",
+      "date": "2026-10-27",
+      "published": "2026-10-26T22:00:00+00:00",
+      "arxiv_id": "",
+      "group_ids": [
+        "openai"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-10-27.json"
+    },
+    "blog-at-new-york-climate-week-mit-connects-gl-1e30e283": {
+      "work_id": "blog-at-new-york-climate-week-mit-connects-gl-1e30e283",
+      "kind": "blog",
+      "title": "At New York Climate Week 2026, MIT connects with a global network",
+      "date": "2026-10-27",
+      "published": "2026-10-26T19:00:00+00:00",
+      "arxiv_id": "",
+      "group_ids": [
+        "mit-csail"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-10-27.json"
+    },
+    "blog-ai-quests-polar-peaks-81889079": {
+      "work_id": "blog-ai-quests-polar-peaks-81889079",
+      "kind": "blog",
+      "title": "Our newest AI Quest: Mapping the human brain",
+      "date": "2026-10-27",
+      "published": "2026-10-26T16:00:00+00:00",
+      "arxiv_id": "",
+      "group_ids": [
+        "google-research"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-10-27.json"
+    },
+    "blog-building-scientific-understanding-with-a-ce7c8d42": {
+      "work_id": "blog-building-scientific-understanding-with-a-ce7c8d42",
+      "kind": "blog",
+      "title": "Working with academic communities to build scientific understanding",
+      "date": "2026-10-27",
+      "published": "2026-10-26T14:30:00+00:00",
+      "arxiv_id": "",
+      "group_ids": [
+        "openai"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-10-27.json"
+    },
+    "blog-gpt-6-1-sol-coderabbit-code-security-2081ae84": {
+      "work_id": "blog-gpt-6-1-sol-coderabbit-code-security-2081ae84",
+      "kind": "blog",
+      "title": "GPT-6.1 Sol helps CodeRabbit strengthen security across complex codebases",
+      "date": "2026-10-27",
+      "published": "2026-10-26T13:45:00+00:00",
+      "arxiv_id": "",
+      "group_ids": [
+        "openai"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-10-27.json"
+    },
+    "blog-google-beam-uso-docuseries-service-membe-ac37c758": {
+      "work_id": "blog-google-beam-uso-docuseries-service-membe-ac37c758",
+      "kind": "blog",
+      "title": "How Google Beam connects military families globally",
+      "date": "2026-10-27",
+      "published": "2026-10-26T13:00:00+00:00",
+      "arxiv_id": "",
+      "group_ids": [
+        "google-research"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-10-27.json"
+    },
+    "blog-chatgpt-expanding-world-of-work-381dea29": {
+      "work_id": "blog-chatgpt-expanding-world-of-work-381dea29",
+      "kind": "blog",
+      "title": "ChatGPT’s expanding world of work",
+      "date": "2026-10-27",
+      "published": "2026-10-26T10:00:00+00:00",
+      "arxiv_id": "",
+      "group_ids": [
+        "openai"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-10-27.json"
+    },
+    "blog-fanatics-streamline-fan-experience-77371102": {
+      "work_id": "blog-fanatics-streamline-fan-experience-77371102",
+      "kind": "blog",
+      "title": "How Fanatics and OpenAI streamline the fan experience",
+      "date": "2026-10-27",
+      "published": "2026-10-26T07:00:00+00:00",
+      "arxiv_id": "",
+      "group_ids": [
+        "openai"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-10-27.json"
+    },
+    "blog-openai-cut-incident-investigation-4aca51e7": {
+      "work_id": "blog-openai-cut-incident-investigation-4aca51e7",
+      "kind": "blog",
+      "title": "How Ultrafast cut incident investigation from hours to minutes at OpenAI",
+      "date": "2026-10-27",
+      "published": "2026-10-26T07:00:00+00:00",
+      "arxiv_id": "",
+      "group_ids": [
+        "openai"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-10-27.json"
+    },
+    "blog-introducing-gpt-6-1-terra-0dea0088": {
+      "work_id": "blog-introducing-gpt-6-1-terra-0dea0088",
+      "kind": "blog",
+      "title": "Introducing GPT-6.1 Terra",
+      "date": "2026-10-27",
+      "published": "2026-10-26T00:00:00+00:00",
+      "arxiv_id": "",
+      "group_ids": [
+        "openai"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-10-27.json"
     }
   },
-  "last_updated": "2026-10-26T04:54:51.238469+00:00"
+  "last_updated": "2026-10-27T05:13:20.689352+00:00"
 }
