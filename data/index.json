@@ -6500,7 +6500,105 @@
       "venue": "",
       "citation_count": 0,
       "path": "works/works-2026-10-27.json"
+    },
+    "blog-making-machines-that-can-listen-paris-sm-6a501219": {
+      "work_id": "blog-making-machines-that-can-listen-paris-sm-6a501219",
+      "kind": "blog",
+      "title": "Making machines that can listen",
+      "date": "2026-10-28",
+      "published": "2026-10-28T04:00:00+00:00",
+      "arxiv_id": "",
+      "group_ids": [
+        "mit-csail"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-10-28.json"
+    },
+    "blog-learner-prabha-jha-collaborates-with-mit-1e7bbd94": {
+      "work_id": "blog-learner-prabha-jha-collaborates-with-mit-1e7bbd94",
+      "kind": "blog",
+      "title": "Learner collaborates with MIT peers to develop book of AI insights",
+      "date": "2026-10-28",
+      "published": "2026-10-27T20:55:00+00:00",
+      "arxiv_id": "",
+      "group_ids": [
+        "mit-csail"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-10-28.json"
+    },
+    "blog-introducing-genie-4-d2975adc": {
+      "work_id": "blog-introducing-genie-4-d2975adc",
+      "kind": "blog",
+      "title": "We’re announcing Genie 4, our new world model for real-time interactive simulation.",
+      "date": "2026-10-28",
+      "published": "2026-10-27T16:00:00+00:00",
+      "arxiv_id": "",
+      "group_ids": [
+        "google-deepmind"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-10-28.json"
+    },
+    "blog-retell-ai-def971f6": {
+      "work_id": "blog-retell-ai-def971f6",
+      "kind": "blog",
+      "title": "Retell uses OpenAI models to help power 100M monthly calls",
+      "date": "2026-10-28",
+      "published": "2026-10-27T15:00:00+00:00",
+      "arxiv_id": "",
+      "group_ids": [
+        "openai"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-10-28.json"
+    },
+    "blog-oracle-apps-in-chatgpt-99363897": {
+      "work_id": "blog-oracle-apps-in-chatgpt-99363897",
+      "kind": "blog",
+      "title": "OpenAI expands partnership with Oracle to bring its apps to ChatGPT",
+      "date": "2026-10-28",
+      "published": "2026-10-27T07:00:00+00:00",
+      "arxiv_id": "",
+      "group_ids": [
+        "openai"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-10-28.json"
+    },
+    "blog-check-point-daybreak-7602aa96": {
+      "work_id": "blog-check-point-daybreak-7602aa96",
+      "kind": "blog",
+      "title": "How Check Point accelerates vulnerability research with Daybreak",
+      "date": "2026-10-28",
+      "published": "2026-10-27T00:00:00+00:00",
+      "arxiv_id": "",
+      "group_ids": [
+        "openai"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-10-28.json"
+    },
+    "blog-anima-c4055f53": {
+      "work_id": "blog-anima-c4055f53",
+      "kind": "blog",
+      "title": "Anima helps clinics cut call waits by 75% with GPT-6 and GPT-Live",
+      "date": "2026-10-28",
+      "published": "2026-10-23T00:00:00+00:00",
+      "arxiv_id": "",
+      "group_ids": [
+        "openai"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-10-28.json"
     }
   },
-  "last_updated": "2026-10-27T05:13:20.689352+00:00"
+  "last_updated": "2026-10-28T05:49:45.135075+00:00"
 }
