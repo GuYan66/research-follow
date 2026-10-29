@@ -6598,7 +6598,63 @@
       "venue": "",
       "citation_count": 0,
       "path": "works/works-2026-10-28.json"
+    },
+    "blog-3-questions-why-infrastructure-is-enteri-aa2585c1": {
+      "work_id": "blog-3-questions-why-infrastructure-is-enteri-aa2585c1",
+      "kind": "blog",
+      "title": "3 Questions: Why infrastructure is entering a defining era",
+      "date": "2026-10-29",
+      "published": "2026-10-28T16:00:00+00:00",
+      "arxiv_id": "",
+      "group_ids": [
+        "mit-csail"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-10-29.json"
+    },
+    "blog-openai-servicenow-partnership-expansion-ae837ad2": {
+      "work_id": "blog-openai-servicenow-partnership-expansion-ae837ad2",
+      "kind": "blog",
+      "title": "OpenAI and ServiceNow expand partnership across enterprise workflows",
+      "date": "2026-10-29",
+      "published": "2026-10-28T13:15:00+00:00",
+      "arxiv_id": "",
+      "group_ids": [
+        "openai"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-10-29.json"
+    },
+    "blog-the-future-of-the-firm-ce48e041": {
+      "work_id": "blog-the-future-of-the-firm-ce48e041",
+      "kind": "blog",
+      "title": "The future of the firm",
+      "date": "2026-10-29",
+      "published": "2026-10-28T10:00:00+00:00",
+      "arxiv_id": "",
+      "group_ids": [
+        "openai"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-10-29.json"
+    },
+    "blog-legora-78cade47": {
+      "work_id": "blog-legora-78cade47",
+      "kind": "blog",
+      "title": "Legora is building the agentic operating system for legal work",
+      "date": "2026-10-29",
+      "published": "2026-10-28T09:30:00+00:00",
+      "arxiv_id": "",
+      "group_ids": [
+        "openai"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-10-29.json"
     }
   },
-  "last_updated": "2026-10-28T05:49:45.135075+00:00"
+  "last_updated": "2026-10-29T05:54:59.960106+00:00"
 }
