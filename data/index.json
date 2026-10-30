@@ -6654,7 +6654,133 @@
       "venue": "",
       "citation_count": 0,
       "path": "works/works-2026-10-29.json"
+    },
+    "blog-microsoft-research-focus-edition-97-bd4671ba": {
+      "work_id": "blog-microsoft-research-focus-edition-97-bd4671ba",
+      "kind": "blog",
+      "title": "Microsoft Research Focus – Edition #97",
+      "date": "2026-10-30",
+      "published": "2026-10-29T19:19:16+00:00",
+      "arxiv_id": "",
+      "group_ids": [
+        "microsoft-research"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-10-30.json"
+    },
+    "2610.40655": {
+      "work_id": "2610.40655",
+      "kind": "paper",
+      "title": "Elucidating the Design Space of LM Data Attribution",
+      "date": "2026-10-30",
+      "published": "2026-10-29T17:59:53+00:00",
+      "arxiv_id": "2610.40655",
+      "group_ids": [
+        "mit-csail"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-10-30.json"
+    },
+    "2610.40564": {
+      "work_id": "2610.40564",
+      "kind": "paper",
+      "title": "Training Foundation Models with a Single Algorithm",
+      "date": "2026-10-30",
+      "published": "2026-10-29T17:42:05+00:00",
+      "arxiv_id": "2610.40564",
+      "group_ids": [
+        "cmu-ml"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-10-30.json"
+    },
+    "blog-updated-model-spec-95eea505": {
+      "work_id": "blog-updated-model-spec-95eea505",
+      "kind": "blog",
+      "title": "An updated Model Spec for more capable and beneficial AI",
+      "date": "2026-10-30",
+      "published": "2026-10-29T17:00:00+00:00",
+      "arxiv_id": "",
+      "group_ids": [
+        "openai"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-10-30.json"
+    },
+    "blog-how-we-detect-frontier-model-misalignmen-6bf295b0": {
+      "work_id": "blog-how-we-detect-frontier-model-misalignmen-6bf295b0",
+      "kind": "blog",
+      "title": "How we detect frontier model misalignment",
+      "date": "2026-10-30",
+      "published": "2026-10-29T09:00:00+00:00",
+      "arxiv_id": "",
+      "group_ids": [
+        "openai"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-10-30.json"
+    },
+    "blog-ropes-gray-ai-diligence-86a7c56b": {
+      "work_id": "blog-ropes-gray-ai-diligence-86a7c56b",
+      "kind": "blog",
+      "title": "How Ropes & Gray is developing AI for transactional diligence",
+      "date": "2026-10-30",
+      "published": "2026-10-29T07:00:00+00:00",
+      "arxiv_id": "",
+      "group_ids": [
+        "openai"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-10-30.json"
+    },
+    "2610.39302": {
+      "work_id": "2610.39302",
+      "kind": "paper",
+      "title": "Proving and Improving the Platonic Representation Hypothesis with JEPAs",
+      "date": "2026-10-30",
+      "published": "2026-10-29T03:49:53+00:00",
+      "arxiv_id": "2610.39302",
+      "group_ids": [
+        "meta-fair"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-10-30.json"
+    },
+    "2610.39280": {
+      "work_id": "2610.39280",
+      "kind": "paper",
+      "title": "Cross-Controller Transfer via In-Context Behavior Adaptation",
+      "date": "2026-10-30",
+      "published": "2026-10-29T03:31:22+00:00",
+      "arxiv_id": "2610.39280",
+      "group_ids": [
+        "stanford-ai"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-10-30.json"
+    },
+    "2610.39054": {
+      "work_id": "2610.39054",
+      "kind": "paper",
+      "title": "Robotic Data Inoculation",
+      "date": "2026-10-30",
+      "published": "2026-10-28T23:31:24+00:00",
+      "arxiv_id": "2610.39054",
+      "group_ids": [
+        "berkeley-bair"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-10-30.json"
     }
   },
-  "last_updated": "2026-10-29T05:54:59.960106+00:00"
+  "last_updated": "2026-10-30T05:56:26.351680+00:00"
 }
