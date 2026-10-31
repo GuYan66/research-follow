@@ -6780,7 +6780,119 @@
       "venue": "",
       "citation_count": 0,
       "path": "works/works-2026-10-30.json"
+    },
+    "blog-mit-affiliates-named-schmidt-sciences-ai-030df426": {
+      "work_id": "blog-mit-affiliates-named-schmidt-sciences-ai-030df426",
+      "kind": "blog",
+      "title": "MIT affiliates named 2026 Schmidt Sciences AI2050 Fellows",
+      "date": "2026-10-31",
+      "published": "2026-10-30T20:15:00+00:00",
+      "arxiv_id": "",
+      "group_ids": [
+        "mit-csail"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-10-31.json"
+    },
+    "blog-qa-hey-ai-who-should-i-vote-for-this-yea-ec85b2d7": {
+      "work_id": "blog-qa-hey-ai-who-should-i-vote-for-this-yea-ec85b2d7",
+      "kind": "blog",
+      "title": "Q&A: Hey AI, who should I vote for this year?",
+      "date": "2026-10-31",
+      "published": "2026-10-30T19:00:00+00:00",
+      "arxiv_id": "",
+      "group_ids": [
+        "mit-csail"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-10-31.json"
+    },
+    "blog-project-suncatcher-satellite-response-3dcfacee": {
+      "work_id": "blog-project-suncatcher-satellite-response-3dcfacee",
+      "kind": "blog",
+      "title": "We’ve received our first response from the Project Suncatcher prototype satellite.",
+      "date": "2026-10-31",
+      "published": "2026-10-30T17:00:00+00:00",
+      "arxiv_id": "",
+      "group_ids": [
+        "google-research"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-10-31.json"
+    },
+    "blog-from-synthetic-enterprise-data-evaluatio-f834bcf8": {
+      "work_id": "blog-from-synthetic-enterprise-data-evaluatio-f834bcf8",
+      "kind": "blog",
+      "title": "From synthetic enterprise data evaluations to real Microsoft Copilot AI confidence",
+      "date": "2026-10-31",
+      "published": "2026-10-30T13:05:28+00:00",
+      "arxiv_id": "",
+      "group_ids": [
+        "microsoft-research"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-10-31.json"
+    },
+    "blog-helping-websites-express-ai-training-pre-7a5a1ce3": {
+      "work_id": "blog-helping-websites-express-ai-training-pre-7a5a1ce3",
+      "kind": "blog",
+      "title": "Making it easier for websites to express AI training preferences",
+      "date": "2026-10-31",
+      "published": "2026-10-30T09:30:00+00:00",
+      "arxiv_id": "",
+      "group_ids": [
+        "openai"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-10-31.json"
+    },
+    "blog-community-safety-report-and-new-protecti-da75ccb4": {
+      "work_id": "blog-community-safety-report-and-new-protecti-da75ccb4",
+      "kind": "blog",
+      "title": "Community safety report and new protections for teens",
+      "date": "2026-10-31",
+      "published": "2026-10-30T09:00:00+00:00",
+      "arxiv_id": "",
+      "group_ids": [
+        "openai"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-10-31.json"
+    },
+    "blog-fair-use-benefits-everyone-ea490542": {
+      "work_id": "blog-fair-use-benefits-everyone-ea490542",
+      "kind": "blog",
+      "title": "Fair use benefits everyone",
+      "date": "2026-10-31",
+      "published": "2026-10-30T00:00:00+00:00",
+      "arxiv_id": "",
+      "group_ids": [
+        "openai"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-10-31.json"
+    },
+    "blog-credit-saison-e397a6cc": {
+      "work_id": "blog-credit-saison-e397a6cc",
+      "kind": "blog",
+      "title": "Credit Saison achieves 954% ROI in a ChatGPT Enterprise pilot",
+      "date": "2026-10-31",
+      "published": "2026-10-29T00:00:00+00:00",
+      "arxiv_id": "",
+      "group_ids": [
+        "openai"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-10-31.json"
     }
   },
-  "last_updated": "2026-10-30T05:56:26.351680+00:00"
+  "last_updated": "2026-10-31T05:51:14.306652+00:00"
 }
