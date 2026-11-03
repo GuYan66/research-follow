@@ -1,0 +1,1549 @@
+{
+  "date": "2026-11-03",
+  "groups": [
+    "openai",
+    "google-deepmind",
+    "google-research",
+    "anthropic",
+    "meta-fair",
+    "microsoft-research",
+    "berkeley-bair",
+    "stanford-ai",
+    "mit-csail",
+    "cmu-ml",
+    "deepseek",
+    "zhipu-ai",
+    "moonshot-ai",
+    "bytedance-seed",
+    "alibaba-qwen",
+    "minimax",
+    "stepfun",
+    "tsinghua-ai",
+    "pku-ai",
+    "shanghai-ai-lab",
+    "sjtu-ai",
+    "msra"
+  ],
+  "window_days": 7,
+  "works": [
+    {
+      "work_id": "blog-partnering-singapore-advance-scientific--02a50d14",
+      "kind": "blog",
+      "title": "Advancing research and partnering with universities in Singapore",
+      "url": "https://blog.google/innovation-and-ai/technology/research/partnering-singapore-advance-scientific-discovery/",
+      "published": "2026-11-03T04:30:00+00:00",
+      "updated": "2026-11-03T04:30:00+00:00",
+      "summary": "A light beam is focused through a lens into thin wires that pass through panels featuring increasingly complex patterns of blue dots, dashes, and other geometric shapes. The Google G is on the bottom left corner.",
+      "source": "blog",
+      "group_ids": [
+        "google-research"
+      ],
+      "member_ids": [],
+      "member_names": [],
+      "authors": [],
+      "venue": "",
+      "citation_count": 0,
+      "influential_citation_count": 0,
+      "doi": "",
+      "arxiv_id": "",
+      "primary_category": "",
+      "categories": [],
+      "pdf_url": "",
+      "feed_url": "https://blog.google/technology/research/rss/",
+      "blog_label": "Google Research Blog",
+      "summary_cn": "",
+      "fetch_date": "2026-11-03",
+      "sources": [
+        "blog"
+      ]
+    },
+    {
+      "work_id": "blog-powering-up-for-pivotal-moment-1102-b9dffee1",
+      "kind": "blog",
+      "title": "Powering up for a pivotal moment",
+      "url": "https://news.mit.edu/2026/powering-up-for-pivotal-moment-1102",
+      "published": "2026-11-02T19:55:00+00:00",
+      "updated": "2026-11-02T19:55:00+00:00",
+      "summary": "From a nuclear revival to qubits, the MIT Energy Initiative’s annual research conference tracked deployment of today’s technologies to discovery of tomorrow’s breakthroughs.",
+      "source": "blog",
+      "group_ids": [
+        "mit-csail"
+      ],
+      "member_ids": [],
+      "member_names": [],
+      "authors": [],
+      "venue": "",
+      "citation_count": 0,
+      "influential_citation_count": 0,
+      "doi": "",
+      "arxiv_id": "",
+      "primary_category": "",
+      "categories": [],
+      "pdf_url": "",
+      "feed_url": "https://news.mit.edu/rss/topic/artificial-intelligence2",
+      "blog_label": "MIT News · AI",
+      "summary_cn": "",
+      "fetch_date": "2026-11-03",
+      "sources": [
+        "blog"
+      ]
+    },
+    {
+      "work_id": "blog-rewarding-defenders-with-bigger-bug-boun-390695a0",
+      "kind": "blog",
+      "title": "Rewarding defenders with bigger bug bounties",
+      "url": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties",
+      "published": "2026-11-02T18:00:00+00:00",
+      "updated": "2026-11-02T18:00:00+00:00",
+      "summary": "OpenAI is raising Security Bug Bounty rewards and introducing report quality, loyalty, and priority campaign bonuses for independent security researchers.",
+      "source": "blog",
+      "group_ids": [
+        "openai"
+      ],
+      "member_ids": [],
+      "member_names": [],
+      "authors": [],
+      "venue": "",
+      "citation_count": 0,
+      "influential_citation_count": 0,
+      "doi": "",
+      "arxiv_id": "",
+      "primary_category": "",
+      "categories": [],
+      "pdf_url": "",
+      "feed_url": "https://openai.com/news/rss.xml",
+      "blog_label": "OpenAI News",
+      "summary_cn": "",
+      "fetch_date": "2026-11-03",
+      "sources": [
+        "blog"
+      ]
+    },
+    {
+      "work_id": "blog-preparing-our-next-security-sprint-to-ha-4e4c553e",
+      "kind": "blog",
+      "title": "Preparing our next security sprint to harden OpenAI",
+      "url": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai",
+      "published": "2026-11-02T18:00:00+00:00",
+      "updated": "2026-11-02T18:00:00+00:00",
+      "summary": "OpenAI is preparing its next internal security sprint with Cathedral Systems to test and strengthen its defenses using AI.",
+      "source": "blog",
+      "group_ids": [
+        "openai"
+      ],
+      "member_ids": [],
+      "member_names": [],
+      "authors": [],
+      "venue": "",
+      "citation_count": 0,
+      "influential_citation_count": 0,
+      "doi": "",
+      "arxiv_id": "",
+      "primary_category": "",
+      "categories": [],
+      "pdf_url": "",
+      "feed_url": "https://openai.com/news/rss.xml",
+      "blog_label": "OpenAI News",
+      "summary_cn": "",
+      "fetch_date": "2026-11-03",
+      "sources": [
+        "blog"
+      ]
+    },
+    {
+      "work_id": "blog-google-ai-updates-october-2026-a333ec27",
+      "kind": "blog",
+      "title": "The latest AI news we announced in October 2026",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-october-2026/",
+      "published": "2026-11-02T17:45:00+00:00",
+      "updated": "2026-11-02T17:45:00+00:00",
+      "summary": "Animated carousel of images from AI posts in October",
+      "source": "blog",
+      "group_ids": [
+        "google-deepmind",
+        "google-research"
+      ],
+      "member_ids": [],
+      "member_names": [],
+      "authors": [],
+      "venue": "",
+      "citation_count": 0,
+      "influential_citation_count": 0,
+      "doi": "",
+      "arxiv_id": "",
+      "primary_category": "",
+      "categories": [],
+      "pdf_url": "",
+      "feed_url": "https://blog.google/technology/google-deepmind/rss/",
+      "blog_label": "Google DeepMind Blog",
+      "summary_cn": "",
+      "fetch_date": "2026-11-03",
+      "sources": [
+        "blog"
+      ]
+    },
+    {
+      "work_id": "blog-scaling-git-at-openai-b103edcd",
+      "kind": "blog",
+      "title": "Scaling Git at OpenAI",
+      "url": "https://openai.com/index/scaling-git-at-openai",
+      "published": "2026-11-02T15:30:00+00:00",
+      "updated": "2026-11-02T15:30:00+00:00",
+      "summary": "How OpenAI built Pando, a Git-compatible backend designed for the scale of development that Codex makes possible.",
+      "source": "blog",
+      "group_ids": [
+        "openai"
+      ],
+      "member_ids": [],
+      "member_names": [],
+      "authors": [],
+      "venue": "",
+      "citation_count": 0,
+      "influential_citation_count": 0,
+      "doi": "",
+      "arxiv_id": "",
+      "primary_category": "",
+      "categories": [],
+      "pdf_url": "",
+      "feed_url": "https://openai.com/news/rss.xml",
+      "blog_label": "OpenAI News",
+      "summary_cn": "",
+      "fetch_date": "2026-11-03",
+      "sources": [
+        "blog"
+      ]
+    },
+    {
+      "work_id": "blog-grid-protectors-program-c69402c4",
+      "kind": "blog",
+      "title": "Introducing the Grid Protectors Program",
+      "url": "https://openai.com/index/grid-protectors-program",
+      "published": "2026-11-02T15:00:00+00:00",
+      "updated": "2026-11-02T15:00:00+00:00",
+      "summary": "OpenAI’s Grid Protectors Program will work with utilities to help future compute campuses support grid reliability and protect consumer electricity costs.",
+      "source": "blog",
+      "group_ids": [
+        "openai"
+      ],
+      "member_ids": [],
+      "member_names": [],
+      "authors": [],
+      "venue": "",
+      "citation_count": 0,
+      "influential_citation_count": 0,
+      "doi": "",
+      "arxiv_id": "",
+      "primary_category": "",
+      "categories": [],
+      "pdf_url": "",
+      "feed_url": "https://openai.com/news/rss.xml",
+      "blog_label": "OpenAI News",
+      "summary_cn": "",
+      "fetch_date": "2026-11-03",
+      "sources": [
+        "blog"
+      ]
+    },
+    {
+      "work_id": "blog-lifeval-f94917eb",
+      "kind": "blog",
+      "title": "LifeVal",
+      "url": "https://openai.com/index/lifeval",
+      "published": "2026-11-02T09:00:00+00:00",
+      "updated": "2026-11-02T09:00:00+00:00",
+      "summary": "Introducing LifeVal, a benchmark measuring how well AI helps people complete everyday tasks, from finding childcare to managing finances and government paperwork.",
+      "source": "blog",
+      "group_ids": [
+        "openai"
+      ],
+      "member_ids": [],
+      "member_names": [],
+      "authors": [],
+      "venue": "",
+      "citation_count": 0,
+      "influential_citation_count": 0,
+      "doi": "",
+      "arxiv_id": "",
+      "primary_category": "",
+      "categories": [],
+      "pdf_url": "",
+      "feed_url": "https://openai.com/news/rss.xml",
+      "blog_label": "OpenAI News",
+      "summary_cn": "",
+      "fetch_date": "2026-11-03",
+      "sources": [
+        "blog"
+      ]
+    },
+    {
+      "work_id": "blog-regina-barzilay-jim-collins-win-pritzker-f10867a2",
+      "kind": "blog",
+      "title": "Regina Barzilay and Jim Collins win Pritzker Prize for AI and Science Research Excellence for work in AI-enabled antibiotic discovery",
+      "url": "https://news.mit.edu/2026/regina-barzilay-jim-collins-win-pritzker-prize-ai-and-science-research-excellence-1102",
+      "published": "2026-11-02T05:35:00+00:00",
+      "updated": "2026-11-02T05:35:00+00:00",
+      "summary": "The MIT professors collaborated to identify the first AI-discovered antibiotic, a scientific breakthrough that is widely recognized as a milestone in AI-driven drug discovery.",
+      "source": "blog",
+      "group_ids": [
+        "mit-csail"
+      ],
+      "member_ids": [],
+      "member_names": [],
+      "authors": [],
+      "venue": "",
+      "citation_count": 0,
+      "influential_citation_count": 0,
+      "doi": "",
+      "arxiv_id": "",
+      "primary_category": "",
+      "categories": [],
+      "pdf_url": "",
+      "feed_url": "https://news.mit.edu/rss/topic/artificial-intelligence2",
+      "blog_label": "MIT News · AI",
+      "summary_cn": "",
+      "fetch_date": "2026-11-03",
+      "sources": [
+        "blog"
+      ]
+    },
+    {
+      "work_id": "2611.02546",
+      "kind": "paper",
+      "title": "Energy-Based Policy Orchestration",
+      "url": "https://arxiv.org/abs/2611.02546",
+      "published": "2026-11-02T05:16:05+00:00",
+      "updated": "2026-11-02T05:16:05+00:00",
+      "summary": "Hierarchical control scales robot behavior by separating task-level planning from low-level control. In dynamic, high-dimensional tasks, however, a fixed planner-to-policy interface can fail when contacts, balance, or disturbances evolve faster than high-level policy updates. Execution therefore requires choosing not only which low-level policy to run, but also which policy-specific goal should be given to it. We formulate this problem as policy orchestration: runtime selection of a policy-goal pair that is likely to remain feasible while tracking the planner target. We develop EPO, an energy-based policy orchestrator for modular goal-conditioned policy families. For each policy, EPO learns a composite energy over low-level goals, where lower energy corresponds to higher feasibility and more accurate target realization. At runtime, EPO refines each policy's goal and executes the lowest-energy policy-goal pair. Because energies are policy-specific, new policies can be incorporated by learning their own energy models, without retraining the existing policies or a centralized scheduler. In simulation, EPO improves the empirical precision-robustness trade-off by refining policy-specific goals before selectively switching among policies based on energy scores. We further demonstrate sim-to-real deployment of the same frozen policies and energy models on real humanoid loco-manipulation tasks. Project website: https://yewr.github.io/epo",
+      "source": "arxiv",
+      "group_ids": [
+        "berkeley-bair"
+      ],
+      "member_ids": [
+        "pieter-abbeel"
+      ],
+      "member_names": [
+        "Pieter Abbeel"
+      ],
+      "authors": [
+        "Weirui Ye",
+        "Yen-Jen Wang",
+        "Elvis Hsieh",
+        "Zhiyang Dou",
+        "Shibo Zhao",
+        "Pieter Abbeel",
+        "Yilun Du",
+        "Leslie Pack Kaelbling",
+        "Tomás Lozano-Pérez"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "influential_citation_count": 0,
+      "doi": "",
+      "arxiv_id": "2611.02546",
+      "primary_category": "cs.RO",
+      "categories": [
+        "cs.RO",
+        "cs.LG"
+      ],
+      "pdf_url": "https://arxiv.org/pdf/2611.02546v1",
+      "feed_url": "",
+      "blog_label": "",
+      "summary_cn": "",
+      "fetch_date": "2026-11-03",
+      "sources": [
+        "arxiv"
+      ]
+    },
+    {
+      "work_id": "blog-qodo-codex-plugin-23f8a0e3",
+      "kind": "blog",
+      "title": "Qodo builds context into AI code review with Codex",
+      "url": "https://openai.com/index/qodo-codex-plugin",
+      "published": "2026-11-02T00:00:00+00:00",
+      "updated": "2026-11-02T00:00:00+00:00",
+      "summary": "Qodo brings company knowledge and coding standards into Codex, helping developers catch P0 issues across repositories before opening a pull request.",
+      "source": "blog",
+      "group_ids": [
+        "openai"
+      ],
+      "member_ids": [],
+      "member_names": [],
+      "authors": [],
+      "venue": "",
+      "citation_count": 0,
+      "influential_citation_count": 0,
+      "doi": "",
+      "arxiv_id": "",
+      "primary_category": "",
+      "categories": [],
+      "pdf_url": "",
+      "feed_url": "https://openai.com/news/rss.xml",
+      "blog_label": "OpenAI News",
+      "summary_cn": "",
+      "fetch_date": "2026-11-03",
+      "sources": [
+        "blog"
+      ]
+    },
+    {
+      "work_id": "blog-dan-driscoll-joins-openai-4f8e7518",
+      "kind": "blog",
+      "title": "OpenAI appoints Dan Driscoll as Senior Counselor for National Security Modernization",
+      "url": "https://openai.com/index/dan-driscoll-joins-openai",
+      "published": "2026-11-02T00:00:00+00:00",
+      "updated": "2026-11-02T00:00:00+00:00",
+      "summary": "OpenAI appoints Dan Driscoll to advise on responsible AI for national security modernization, cyber resilience, and collaboration with U.S. allies.",
+      "source": "blog",
+      "group_ids": [
+        "openai"
+      ],
+      "member_ids": [],
+      "member_names": [],
+      "authors": [],
+      "venue": "",
+      "citation_count": 0,
+      "influential_citation_count": 0,
+      "doi": "",
+      "arxiv_id": "",
+      "primary_category": "",
+      "categories": [],
+      "pdf_url": "",
+      "feed_url": "https://openai.com/news/rss.xml",
+      "blog_label": "OpenAI News",
+      "summary_cn": "",
+      "fetch_date": "2026-11-03",
+      "sources": [
+        "blog"
+      ]
+    },
+    {
+      "work_id": "2611.02270",
+      "kind": "paper",
+      "title": "Hinted Scaling Laws",
+      "url": "https://arxiv.org/abs/2611.02270",
+      "published": "2026-11-01T22:50:43+00:00",
+      "updated": "2026-11-01T22:50:43+00:00",
+      "summary": "Scaling laws predict the outcome of large, expensive training runs by extrapolating trends from smaller, cheaper runs. On downstream accuracy evaluations, these predictions fail when the weaker models produced by the cheaper runs score near zero accuracy, because these scores give no trend to extrapolate to larger scales. We introduce hinted scaling laws, which use privileged information to turn a benchmark into a continuum of easier versions so that even the small models score above zero. We find that accuracy rises smoothly and predictably with the hint level, enabling new types of scaling laws that operate below the noise threshold. On the Delphi pretraining ladder, a hinted scaling law fit on models trained with at most $10^{20}$ FLOPs forecasts the GSM8K accuracy of a $10^{23}$ FLOP model (25.9%) to within 3 percentage points; a standard scaling law under-forecasts it by 13 percentage points when fit on the same models and by 12 even with models up to $10^{22}$ FLOPs in the fit. Across both this pretraining ladder and a collection of post-trained model families, hinted scaling laws reduce the median forecasting error on GSM8K, AIME and HLE from 21 percentage points to 4.3. Hinting also reduces the number of test examples needed to tell whether one model is better than another by widening the accuracy gaps between models while approximately preserving their order: a single hinted rollout per problem ranks nearly indistinguishable models as accurately as five unhinted rollouts. Our results suggest that hinting is a general primitive for improving the accuracy and cost of downstream scaling laws and other prediction tasks in model development.",
+      "source": "arxiv",
+      "group_ids": [
+        "stanford-ai"
+      ],
+      "member_ids": [
+        "percy-liang"
+      ],
+      "member_names": [
+        "Percy Liang"
+      ],
+      "authors": [
+        "Suze van Adrichem",
+        "Luke Bailey",
+        "Rohith Kuditipudi",
+        "Christine Ye",
+        "Neil Band",
+        "Ahmed Ahmed",
+        "John Duchi",
+        "Percy Liang",
+        "Tatsunori Hashimoto"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "influential_citation_count": 0,
+      "doi": "",
+      "arxiv_id": "2611.02270",
+      "primary_category": "cs.LG",
+      "categories": [
+        "cs.LG",
+        "cs.AI",
+        "cs.CL"
+      ],
+      "pdf_url": "https://arxiv.org/pdf/2611.02270v1",
+      "feed_url": "",
+      "blog_label": "",
+      "summary_cn": "",
+      "fetch_date": "2026-11-03",
+      "sources": [
+        "arxiv"
+      ]
+    },
+    {
+      "work_id": "2611.02160",
+      "kind": "paper",
+      "title": "Value Forcing: Aligning Return Distributions at All Noise Levels",
+      "url": "https://arxiv.org/abs/2611.02160",
+      "published": "2026-11-01T19:51:01+00:00",
+      "updated": "2026-11-01T19:51:01+00:00",
+      "summary": "Learning accurate value functions is central to reinforcement learning (RL), yet remains challenging because supervision is limited and indirect: ground-truth values are unavailable, and each transition in the data only provides an immediate reward that can be used to construct bootstrapped targets as supervision. This challenge is particularly pronounced when data is limited or reward signals are sparse, as is common in real-world applications such as robotics. We argue that the key to accurate value learning in this limited data regime is extracting richer learning signals from the available data. In this paper, we introduce Value Forcing, a new approach that uses flow matching to estimate return distributions and enables accurate value learning from limited data. Our key insight is that we can extract richer learning signals by enforcing Bellman consistency at every noise level. Empirically, Value Forcing improves the accuracy of estimating the return distribution, and prevents the distribution from collapsing to a single value, as occurs with prior methods. We instantiate Value Forcing with two practical value-learning algorithms: VF, an actor-critic method, and IVF, an implicit value-learning method. We evaluate both algorithms across $26$ long-horizon tasks in the offline RL setting and find that they outperform prior value-learning methods, with particularly large gains when data is limited. Our project website is available at https://chongyi-zheng.github.io/value-forcing.",
+      "source": "arxiv",
+      "group_ids": [
+        "berkeley-bair"
+      ],
+      "member_ids": [
+        "sergey-levine"
+      ],
+      "member_names": [
+        "Sergey Levine"
+      ],
+      "authors": [
+        "Chongyi Zheng",
+        "Zhiyuan Zhou",
+        "Qiyang Li",
+        "Benjamin Eysenbach",
+        "Sergey Levine"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "influential_citation_count": 0,
+      "doi": "",
+      "arxiv_id": "2611.02160",
+      "primary_category": "cs.LG",
+      "categories": [
+        "cs.LG",
+        "cs.AI"
+      ],
+      "pdf_url": "https://arxiv.org/pdf/2611.02160v1",
+      "feed_url": "",
+      "blog_label": "",
+      "summary_cn": "",
+      "fetch_date": "2026-11-03",
+      "sources": [
+        "arxiv"
+      ]
+    },
+    {
+      "work_id": "2611.01560",
+      "kind": "paper",
+      "title": "Democratizing Robot-Use Agents: A Unified Harness with Open Models",
+      "url": "https://arxiv.org/abs/2611.01560",
+      "published": "2026-11-01T04:32:23+00:00",
+      "updated": "2026-11-01T04:32:23+00:00",
+      "summary": "Robot-use Agents (RUAs) have shown promising zero-shot manipulation capabilities, but reliance on frontier, proprietary models limits research into further training. To democratize RUA research, we introduce uni-robot-agent, a unified harness for competitive open-weight robot use that supports further training. Without privileged inputs, an out-of-the-box Qwen3.8-Flash-Next achieves a RoboDojo Score of 31.39, surpassing the published GPT-6 Astra-RoboProbe result of 28.97 and many VLA/WAM baselines, and performs competitively on 19 real-world tasks. Our analysis across model generations, families, and sizes links effective robot use to four general capabilities, suggesting that future RUA training should develop them jointly.",
+      "source": "arxiv",
+      "group_ids": [
+        "berkeley-bair"
+      ],
+      "member_ids": [
+        "pieter-abbeel"
+      ],
+      "member_names": [
+        "Pieter Abbeel"
+      ],
+      "authors": [
+        "Jiarui Yuan",
+        "Yuxin Zuo",
+        "Xiaoyu Huang",
+        "Wenbo Zhang",
+        "Kwanyoung Park",
+        "Junlin Yang",
+        "Tianxiang Zhang",
+        "Ruoqu Chen",
+        "Yutao Ouyang",
+        "Bingxiang He",
+        "Xingtai Lv",
+        "Hongjin Wu",
+        "Jiajun Liu",
+        "Jiahao Zhao",
+        "Tianwei Luo",
+        "Haozhan Li",
+        "Cheng Qian",
+        "Jiaxin Ge",
+        "Huan-ang Gao",
+        "Kaisen Yang",
+        "Jiaqi Deng",
+        "Qixin Xu",
+        "Siqiao Huang",
+        "Bowen Zhou",
+        "Mengdi Xu",
+        "Zhiyuan Liu",
+        "Pieter Abbeel",
+        "Ning Ding"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "influential_citation_count": 0,
+      "doi": "",
+      "arxiv_id": "2611.01560",
+      "primary_category": "cs.RO",
+      "categories": [
+        "cs.RO"
+      ],
+      "pdf_url": "https://arxiv.org/pdf/2611.01560v1",
+      "feed_url": "",
+      "blog_label": "",
+      "summary_cn": "",
+      "fetch_date": "2026-11-03",
+      "sources": [
+        "arxiv"
+      ]
+    },
+    {
+      "work_id": "2611.00507",
+      "kind": "paper",
+      "title": "Selecting or Solving? What Best-of-N Verification Delivers in Video Reasoning",
+      "url": "https://arxiv.org/abs/2611.00507",
+      "published": "2026-10-31T00:54:03+00:00",
+      "updated": "2026-10-31T00:54:03+00:00",
+      "summary": "Answering a complex question about a long video is a grounding problem: the answer turns on a few seconds of evidence, and vision-language models remain well below human accuracy at finding them. The standard way to spend extra test-time compute on this kind of video reasoning is best-of-N selection: sample several chain-of-thought answers from a fixed model, then let a second model re-watch the video and pick one. Such pipelines are reported by a single headline number, their margin over a majority vote. That number conflates two effects with opposite deployment consequences: the benefit the second model adds by selecting among candidates, and the benefit it would have supplied by solving the question itself. We separate them, measuring the Selection Increment (SI) -- selection accuracy minus the same verifier's accuracy with the candidates withheld -- alongside the margin over self-consistency, across five long-video benchmarks. The Selection Increment is largest for the weakest verifiers: a verifier that solves poorly on its own leaves the candidates the most room to help. Beating the majority vote follows the opposite profile: where the vote already sits near its ceiling no verifier we test improves on it; below that ceiling only the strongest do. On Video-Holmes, the two come apart on a single pool of candidates -- a weak verifier gains +19.3 points from the candidates yet lands 7.1 points below the vote, while the frontier verifier gains the least and beats the vote. The weakest verifier also shows a failure mode: on EgoSchema it picks by where an option sits in the list rather than by what the video shows. Read as a merit score, SI puts a verifier that fails to beat a majority vote at the top of its ranking; read as an audit, it says which of the two effects a headline number delivers. Code is available at https://github.com/facebookresearch/best-n-selection-video-reasoning.",
+      "source": "arxiv",
+      "group_ids": [
+        "cmu-ml"
+      ],
+      "member_ids": [
+        "ruslan-salakhutdinov"
+      ],
+      "member_names": [
+        "Ruslan Salakhutdinov"
+      ],
+      "authors": [
+        "Martin Q. Ma",
+        "Yuxiao Qu",
+        "Ruslan Salakhutdinov",
+        "Louis-Philippe Morency",
+        "Paden Tomasello",
+        "Juan Pino"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "influential_citation_count": 0,
+      "doi": "",
+      "arxiv_id": "2611.00507",
+      "primary_category": "cs.CV",
+      "categories": [
+        "cs.CV"
+      ],
+      "pdf_url": "https://arxiv.org/pdf/2611.00507v1",
+      "feed_url": "",
+      "blog_label": "",
+      "summary_cn": "",
+      "fetch_date": "2026-11-03",
+      "sources": [
+        "arxiv"
+      ]
+    },
+    {
+      "work_id": "blog-mit-affiliates-named-schmidt-sciences-ai-030df426",
+      "kind": "blog",
+      "title": "MIT affiliates named 2026 Schmidt Sciences AI2050 Fellows",
+      "url": "https://news.mit.edu/2026/mit-affiliates-named-schmidt-sciences-ai2050-fellows-1030",
+      "published": "2026-10-30T20:15:00+00:00",
+      "updated": "2026-10-30T20:15:00+00:00",
+      "summary": "Five MIT faculty members and two additional alumni are honored with fellowships to advance research on beneficial AI.",
+      "source": "blog",
+      "group_ids": [
+        "mit-csail"
+      ],
+      "member_ids": [],
+      "member_names": [],
+      "authors": [],
+      "venue": "",
+      "citation_count": 0,
+      "influential_citation_count": 0,
+      "doi": "",
+      "arxiv_id": "",
+      "primary_category": "",
+      "categories": [],
+      "pdf_url": "",
+      "feed_url": "https://news.mit.edu/rss/topic/artificial-intelligence2",
+      "blog_label": "MIT News · AI",
+      "summary_cn": "",
+      "fetch_date": "2026-11-03",
+      "sources": [
+        "blog"
+      ]
+    },
+    {
+      "work_id": "blog-qa-hey-ai-who-should-i-vote-for-this-yea-ec85b2d7",
+      "kind": "blog",
+      "title": "Q&A: Hey AI, who should I vote for this year?",
+      "url": "https://news.mit.edu/2026/qa-hey-ai-who-should-i-vote-for-this-year-1030",
+      "published": "2026-10-30T19:00:00+00:00",
+      "updated": "2026-10-30T19:00:00+00:00",
+      "summary": "MIT professors Adam Berinsky and Chara Podimata discuss a new project to track how AI chatbots are responding to questions about the 2026 U.S. midterm elections.",
+      "source": "blog",
+      "group_ids": [
+        "mit-csail"
+      ],
+      "member_ids": [],
+      "member_names": [],
+      "authors": [],
+      "venue": "",
+      "citation_count": 0,
+      "influential_citation_count": 0,
+      "doi": "",
+      "arxiv_id": "",
+      "primary_category": "",
+      "categories": [],
+      "pdf_url": "",
+      "feed_url": "https://news.mit.edu/rss/topic/artificial-intelligence2",
+      "blog_label": "MIT News · AI",
+      "summary_cn": "",
+      "fetch_date": "2026-11-03",
+      "sources": [
+        "blog"
+      ]
+    },
+    {
+      "work_id": "2610.42146",
+      "kind": "paper",
+      "title": "Hierarchical World Models with Implicit Dynamics",
+      "url": "https://arxiv.org/abs/2610.42146",
+      "published": "2026-10-30T17:59:25+00:00",
+      "updated": "2026-10-30T17:59:25+00:00",
+      "summary": "Planning with world models enables test-time adaptation for embodied agents, offering superior generalization over direct policy learning. However, long-horizon tasks remain hindered by cumulative errors and search complexity. Existing hierarchical methods often use rigid macro-actions or latent skills, leading to brittle representations and limited fine-grained control. We introduce ID-WM (Implicit Dynamics World Models), a hierarchical world model that decouples state-space reachability from local control. Our framework utilizes a high-level model to sample feasible transitions across the state manifold and a low-level world model as an inverse dynamics solver to ground these transitions into precise actions. This allows the planner to identify reachable subgoals without being constrained by low-level execution details. By prioritizing local physical feasibility over global behavioral patterns, ID-WM synthesizes novel long-horizon plans from short segments, transcending the specific behavioral modes seen during training. We demonstrate its effectiveness across three navigation and manipulation suites, achieving a 38.5% improvement over state-of-the-art policy and diffusion-based planners. Crucially, by leveraging this hierarchical structure to mitigate compounding errors, our approach yields a 135% performance gain over single-level world model MPC, particularly in complex, unseen configurations for long-horizon tasks. Videos can be viewed at https://id-wm.github.io",
+      "source": "arxiv",
+      "group_ids": [
+        "meta-fair"
+      ],
+      "member_ids": [
+        "yann-lecun"
+      ],
+      "member_names": [
+        "Yann LeCun"
+      ],
+      "authors": [
+        "Gaoyue Zhou",
+        "Yvonne Wu",
+        "Zichen Jeff Cui",
+        "Nicolas Ballas",
+        "Mido Assran",
+        "Lerrel Pinto",
+        "Yann LeCun"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "influential_citation_count": 0,
+      "doi": "",
+      "arxiv_id": "2610.42146",
+      "primary_category": "cs.RO",
+      "categories": [
+        "cs.RO",
+        "cs.AI"
+      ],
+      "pdf_url": "https://arxiv.org/pdf/2610.42146v1",
+      "feed_url": "",
+      "blog_label": "",
+      "summary_cn": "",
+      "fetch_date": "2026-11-03",
+      "sources": [
+        "arxiv"
+      ]
+    },
+    {
+      "work_id": "blog-project-suncatcher-satellite-response-3dcfacee",
+      "kind": "blog",
+      "title": "We’ve received our first response from the Project Suncatcher prototype satellite.",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/project-suncatcher-satellite-response/",
+      "published": "2026-10-30T17:00:00+00:00",
+      "updated": "2026-10-30T17:00:00+00:00",
+      "summary": "Video showing the Project Suncatcher team explaining the project and reacting to the TPU-generated haiku",
+      "source": "blog",
+      "group_ids": [
+        "google-research"
+      ],
+      "member_ids": [],
+      "member_names": [],
+      "authors": [],
+      "venue": "",
+      "citation_count": 0,
+      "influential_citation_count": 0,
+      "doi": "",
+      "arxiv_id": "",
+      "primary_category": "",
+      "categories": [],
+      "pdf_url": "",
+      "feed_url": "https://blog.google/technology/research/rss/",
+      "blog_label": "Google Research Blog",
+      "summary_cn": "",
+      "fetch_date": "2026-11-03",
+      "sources": [
+        "blog"
+      ]
+    },
+    {
+      "work_id": "blog-from-synthetic-enterprise-data-evaluatio-f834bcf8",
+      "kind": "blog",
+      "title": "From synthetic enterprise data evaluations to real Microsoft Copilot AI confidence",
+      "url": "https://www.microsoft.com/en-us/research/blog/from-synthetic-enterprise-data-evaluations-to-real-microsoft-copilot-ai-confidence/",
+      "published": "2026-10-30T13:05:28+00:00",
+      "updated": "2026-10-30T13:05:28+00:00",
+      "summary": "Evaluating Microsoft Copilot at enterprise scale requires test data that captures the full complexity of real organizations, yet real enterprise data contains sensitive information that cannot be used for evaluation under any circumstances. The post From synthetic enterprise data evaluations to real Microsoft Copilot AI confidence appeared first on Microsoft Research .",
+      "source": "blog",
+      "group_ids": [
+        "microsoft-research"
+      ],
+      "member_ids": [],
+      "member_names": [],
+      "authors": [],
+      "venue": "",
+      "citation_count": 0,
+      "influential_citation_count": 0,
+      "doi": "",
+      "arxiv_id": "",
+      "primary_category": "",
+      "categories": [],
+      "pdf_url": "",
+      "feed_url": "https://www.microsoft.com/en-us/research/feed/",
+      "blog_label": "Microsoft Research Blog",
+      "summary_cn": "",
+      "fetch_date": "2026-11-03",
+      "sources": [
+        "blog"
+      ]
+    },
+    {
+      "work_id": "blog-helping-websites-express-ai-training-pre-7a5a1ce3",
+      "kind": "blog",
+      "title": "Making it easier for websites to express AI training preferences",
+      "url": "https://openai.com/index/helping-websites-express-ai-training-preferences",
+      "published": "2026-10-30T09:30:00+00:00",
+      "updated": "2026-10-30T09:30:00+00:00",
+      "summary": "OpenAI will honor a shared robots.txt signal to help website operators communicate their AI training preferences to participating providers.",
+      "source": "blog",
+      "group_ids": [
+        "openai"
+      ],
+      "member_ids": [],
+      "member_names": [],
+      "authors": [],
+      "venue": "",
+      "citation_count": 0,
+      "influential_citation_count": 0,
+      "doi": "",
+      "arxiv_id": "",
+      "primary_category": "",
+      "categories": [],
+      "pdf_url": "",
+      "feed_url": "https://openai.com/news/rss.xml",
+      "blog_label": "OpenAI News",
+      "summary_cn": "",
+      "fetch_date": "2026-11-03",
+      "sources": [
+        "blog"
+      ]
+    },
+    {
+      "work_id": "blog-community-safety-report-and-new-protecti-da75ccb4",
+      "kind": "blog",
+      "title": "Community safety report and new protections for teens",
+      "url": "https://openai.com/index/community-safety-report-and-new-protections-for-teens",
+      "published": "2026-10-30T09:00:00+00:00",
+      "updated": "2026-10-30T09:00:00+00:00",
+      "summary": "OpenAI is strengthening violence prevention in ChatGPT with expanded safeguards, earlier interventions, and a new commitment to public safety reporting.",
+      "source": "blog",
+      "group_ids": [
+        "openai"
+      ],
+      "member_ids": [],
+      "member_names": [],
+      "authors": [],
+      "venue": "",
+      "citation_count": 0,
+      "influential_citation_count": 0,
+      "doi": "",
+      "arxiv_id": "",
+      "primary_category": "",
+      "categories": [],
+      "pdf_url": "",
+      "feed_url": "https://openai.com/news/rss.xml",
+      "blog_label": "OpenAI News",
+      "summary_cn": "",
+      "fetch_date": "2026-11-03",
+      "sources": [
+        "blog"
+      ]
+    },
+    {
+      "work_id": "blog-fair-use-benefits-everyone-ea490542",
+      "kind": "blog",
+      "title": "Fair use benefits everyone",
+      "url": "https://openai.com/index/fair-use-benefits-everyone",
+      "published": "2026-10-30T00:00:00+00:00",
+      "updated": "2026-10-30T00:00:00+00:00",
+      "summary": "OpenAI shares excerpts from court briefs by creators, academics, accessibility advocates, and legal experts, among others, on how fair use supports AI training and innovation.",
+      "source": "blog",
+      "group_ids": [
+        "openai"
+      ],
+      "member_ids": [],
+      "member_names": [],
+      "authors": [],
+      "venue": "",
+      "citation_count": 0,
+      "influential_citation_count": 0,
+      "doi": "",
+      "arxiv_id": "",
+      "primary_category": "",
+      "categories": [],
+      "pdf_url": "",
+      "feed_url": "https://openai.com/news/rss.xml",
+      "blog_label": "OpenAI News",
+      "summary_cn": "",
+      "fetch_date": "2026-11-03",
+      "sources": [
+        "blog"
+      ]
+    },
+    {
+      "work_id": "blog-microsoft-research-focus-edition-97-bd4671ba",
+      "kind": "blog",
+      "title": "Microsoft Research Focus – Edition #97",
+      "url": "https://www.microsoft.com/en-us/research/podcast/microsoft-research-focus-edition-97/",
+      "published": "2026-10-29T19:19:16+00:00",
+      "updated": "2026-10-29T19:19:16+00:00",
+      "summary": "Host Sowbhagya Suresh shares some of the latest news and cutting-edge research from across Microsoft—from understanding the challenges facing coding agents to uncovering how people use AI at work and improving extended-range weather forecasting. The post Microsoft Research Focus – Edition #97 appeared first on Microsoft Research .",
+      "source": "blog",
+      "group_ids": [
+        "microsoft-research"
+      ],
+      "member_ids": [],
+      "member_names": [],
+      "authors": [],
+      "venue": "",
+      "citation_count": 0,
+      "influential_citation_count": 0,
+      "doi": "",
+      "arxiv_id": "",
+      "primary_category": "",
+      "categories": [],
+      "pdf_url": "",
+      "feed_url": "https://www.microsoft.com/en-us/research/feed/",
+      "blog_label": "Microsoft Research Blog",
+      "summary_cn": "",
+      "fetch_date": "2026-11-03",
+      "sources": [
+        "blog"
+      ]
+    },
+    {
+      "work_id": "blog-updated-model-spec-95eea505",
+      "kind": "blog",
+      "title": "An updated Model Spec for more capable and beneficial AI",
+      "url": "https://openai.com/index/updated-model-spec",
+      "published": "2026-10-29T17:00:00+00:00",
+      "updated": "2026-10-29T17:00:00+00:00",
+      "summary": "OpenAI’s updated Model Spec outlines five core values to guide more capable AI toward sound judgment, human agency, and faithfulness to human intent.",
+      "source": "blog",
+      "group_ids": [
+        "openai"
+      ],
+      "member_ids": [],
+      "member_names": [],
+      "authors": [],
+      "venue": "",
+      "citation_count": 0,
+      "influential_citation_count": 0,
+      "doi": "",
+      "arxiv_id": "",
+      "primary_category": "",
+      "categories": [],
+      "pdf_url": "",
+      "feed_url": "https://openai.com/news/rss.xml",
+      "blog_label": "OpenAI News",
+      "summary_cn": "",
+      "fetch_date": "2026-11-03",
+      "sources": [
+        "blog"
+      ]
+    },
+    {
+      "work_id": "blog-how-we-detect-frontier-model-misalignmen-6bf295b0",
+      "kind": "blog",
+      "title": "How we detect frontier model misalignment",
+      "url": "https://openai.com/index/how-we-detect-frontier-model-misalignment",
+      "published": "2026-10-29T09:00:00+00:00",
+      "updated": "2026-10-29T09:00:00+00:00",
+      "summary": "OpenAI uses layered monitoring to detect frontier model misalignment and unauthorized agent behavior so responders can intervene before incidents escalate.",
+      "source": "blog",
+      "group_ids": [
+        "openai"
+      ],
+      "member_ids": [],
+      "member_names": [],
+      "authors": [],
+      "venue": "",
+      "citation_count": 0,
+      "influential_citation_count": 0,
+      "doi": "",
+      "arxiv_id": "",
+      "primary_category": "",
+      "categories": [],
+      "pdf_url": "",
+      "feed_url": "https://openai.com/news/rss.xml",
+      "blog_label": "OpenAI News",
+      "summary_cn": "",
+      "fetch_date": "2026-11-03",
+      "sources": [
+        "blog"
+      ]
+    },
+    {
+      "work_id": "blog-ropes-gray-ai-diligence-86a7c56b",
+      "kind": "blog",
+      "title": "How Ropes & Gray is developing AI for transactional diligence",
+      "url": "https://openai.com/index/ropes-gray-ai-diligence",
+      "published": "2026-10-29T07:00:00+00:00",
+      "updated": "2026-10-29T07:00:00+00:00",
+      "summary": "Ropes & Gray is developing AI for transactional diligence with OpenAI. Lawyers review grouped documents, summaries, and reports before advising clients.",
+      "source": "blog",
+      "group_ids": [
+        "openai"
+      ],
+      "member_ids": [],
+      "member_names": [],
+      "authors": [],
+      "venue": "",
+      "citation_count": 0,
+      "influential_citation_count": 0,
+      "doi": "",
+      "arxiv_id": "",
+      "primary_category": "",
+      "categories": [],
+      "pdf_url": "",
+      "feed_url": "https://openai.com/news/rss.xml",
+      "blog_label": "OpenAI News",
+      "summary_cn": "",
+      "fetch_date": "2026-11-03",
+      "sources": [
+        "blog"
+      ]
+    },
+    {
+      "work_id": "blog-credit-saison-e397a6cc",
+      "kind": "blog",
+      "title": "Credit Saison achieves 954% ROI in a ChatGPT Enterprise pilot",
+      "url": "https://openai.com/index/credit-saison",
+      "published": "2026-10-29T00:00:00+00:00",
+      "updated": "2026-10-29T00:00:00+00:00",
+      "summary": "Credit Saison’s ChatGPT Enterprise pilot delivered 954% ROI. See how leaders and employees helped turn the results into companywide adoption.",
+      "source": "blog",
+      "group_ids": [
+        "openai"
+      ],
+      "member_ids": [],
+      "member_names": [],
+      "authors": [],
+      "venue": "",
+      "citation_count": 0,
+      "influential_citation_count": 0,
+      "doi": "",
+      "arxiv_id": "",
+      "primary_category": "",
+      "categories": [],
+      "pdf_url": "",
+      "feed_url": "https://openai.com/news/rss.xml",
+      "blog_label": "OpenAI News",
+      "summary_cn": "",
+      "fetch_date": "2026-11-03",
+      "sources": [
+        "blog"
+      ]
+    },
+    {
+      "work_id": "2610.39302",
+      "kind": "paper",
+      "title": "Proving and Improving the Platonic Representation Hypothesis with JEPAs",
+      "url": "https://arxiv.org/abs/2610.39302",
+      "published": "2026-10-29",
+      "updated": "2026-11-02T09:45:03.842371",
+      "summary": "Whether models trained on different modalities converge to the same representation of the world is central to AI. The Platonic Representation Hypothesis (PRH) conjectures that they do as they scale, but without a proof it offers neither a guarantee nor a recipe. We turn the hypothesis into a theorem. First, we prove a \\emph{Platonic Representation Theorem}: Joint-Embedding Predictive Architectures (JEPAs) trained separately on any number of modalities learn the same representation up to one rotation whenever their positive pairs are two observations of one scene--\\emph{good views}--and their misalignment is bounded otherwise. Second, we show that next-token prediction is a JEPA with \\emph{bad views}, parts of a single document, which explains why language models align with vision only through scale. Third, we validate the theory from 145k captions to the texts of 940M web images, and uncover a scaling law of alignment that predicts unseen runs within seed noise. Good views need 42 times fewer training samples than next-token prediction on the same corpus to reach the same alignment, and a 109M-parameter text JEPA aligns with DINOv2 and CLIP's image encoders better than every language model we evaluated, up to 72B parameters, and than CLIP's text encoder: next-token prediction is a remarkably inefficient route to platonic representations. As a showcase, one rotation turns separately trained encoders into an image captioner (CIDEr .838 on COCO). Even that rotation needs no pair: on the latest pair-free benchmark, our text JEPA beats every zero-shot accuracy reported with language models up to 8B parameters, e.g., 64\\% against at most 56\\% top-5 on ImageNet-100. Positive views, and not scale alone, are thus the lever to build platonic representations.",
+      "source": "openalex",
+      "group_ids": [
+        "meta-fair"
+      ],
+      "member_ids": [
+        "yann-lecun"
+      ],
+      "member_names": [
+        "Yann LeCun"
+      ],
+      "authors": [
+        "Randall Balestriero",
+        "Yann LeCun"
+      ],
+      "venue": "arXiv",
+      "citation_count": 0,
+      "influential_citation_count": 0,
+      "doi": "10.48550/arxiv.2610.39302",
+      "arxiv_id": "2610.39302",
+      "primary_category": "cs.AI",
+      "categories": [
+        "cs.AI",
+        "cs.CV",
+        "stat.ML"
+      ],
+      "pdf_url": "https://arxiv.org/pdf/2610.39302",
+      "feed_url": "",
+      "blog_label": "",
+      "summary_cn": "",
+      "fetch_date": "2026-11-03",
+      "sources": [
+        "openalex",
+        "arxiv"
+      ]
+    },
+    {
+      "work_id": "2610.39280",
+      "kind": "paper",
+      "title": "Cross-Controller Transfer via In-Context Behavior Adaptation",
+      "url": "https://arxiv.org/abs/2610.39280",
+      "published": "2026-10-29",
+      "updated": "2026-11-02T09:45:03.842371",
+      "summary": "Generalist robot policies increasingly learn from data collected across diverse tasks and embodiments, yet typically assume a single controller for each robot. This assumption limits transfer because different controllers can assign different physical meanings to the same action and may require different strategies to complete a task. We study how to transfer robot data across both embodiments and controllers without allowing conflicting action interpretations to interfere with learning. Our setting spans six controller types as well as variations in controller gains and compliance. We propose a framework that encodes behavioral interaction under a controller through examples of commanded actions and the resulting robot motions. A transformer context encoder summarizes these interactions, allowing a single policy to adapt in context. Across real-world experiments, our method improves average success by 33 percentage points over naive data pooling, achieves 50\\% success on unseen controller modes and 52\\% on unseen controller gains, and transfers to tasks with limited controller-specific data. On contact-rich tasks such as USB insertion and surface wiping, behavioral interaction context enables the policy to adapt not only its actions but also its strategy. Our results provide a path toward generalist robot policies that can leverage data collected across diverse action interpretations. For more information, visit \\href{https://controller-transfer.github.io}{https://controller-transfer.github.io}.",
+      "source": "openalex",
+      "group_ids": [
+        "stanford-ai"
+      ],
+      "member_ids": [
+        "chelsea-finn"
+      ],
+      "member_names": [
+        "Chelsea Finn"
+      ],
+      "authors": [
+        "Jonathan Yang",
+        "Chelsea Finn",
+        "Dorsa Sadigh"
+      ],
+      "venue": "arXiv",
+      "citation_count": 0,
+      "influential_citation_count": 0,
+      "doi": "10.48550/arxiv.2610.39280",
+      "arxiv_id": "2610.39280",
+      "primary_category": "cs.RO",
+      "categories": [
+        "cs.RO"
+      ],
+      "pdf_url": "https://arxiv.org/pdf/2610.39280",
+      "feed_url": "",
+      "blog_label": "",
+      "summary_cn": "",
+      "fetch_date": "2026-11-03",
+      "sources": [
+        "openalex",
+        "arxiv"
+      ]
+    },
+    {
+      "work_id": "2610.40655",
+      "kind": "paper",
+      "title": "Elucidating the Design Space of LM Data Attribution",
+      "url": "https://arxiv.org/abs/2610.40655",
+      "published": "2026-10-29",
+      "updated": "2026-11-02T09:45:03.842371",
+      "summary": "Data attribution methods for Language Models (LMs) are typically evaluated using downstream tasks like fact retrieval. However, existing evaluations vary multiple dataset properties simultaneously, making it impossible to isolate exactly why an attribution algorithm fails. To diagnose these failures, we explore the design space of LLM data attribution, with a primary focus on evaluation. We introduce the Controlled Attribution Benchmark (CATT) for fact tracing, in which we fine-tune LLMs on entirely fictitious knowledge, providing unambiguous ground truth for attribution. This synthetic setup allows us to systematically alter one dataset configuration at a time, such as document redundancy and lexical distractors. With this configurable evaluation, we demonstrate that redundancy and distractors consistently degrade attribution performance. Rather than proposing a new estimator, we examine two design choices that are underexplored: the loss used to compute gradients and how per-token attribution scores are aggregated into a document score. We find that the true causal evidence within a training document is highly localized, but standard methods dilute this evidence into noise by averaging attribution scores across the entire document. We find that replacing standard cross-entropy loss gradients with the negative log-odds gradients surfaces the critical tokens from other uninformative ones. We can then aggregate only the top token scores to improve ground truth recall by 35 to 72 percentage points across multiple baselines on our diagnostic benchmark. The negative log-odds correction also generalizes to FTRACE-TREX, improving counterfactual retraining performance for every method we test, by up to 4.9x.",
+      "source": "openalex",
+      "group_ids": [
+        "mit-csail"
+      ],
+      "member_ids": [
+        "antonio-torralba"
+      ],
+      "member_names": [
+        "Antonio Torralba"
+      ],
+      "authors": [
+        "Steven Yu",
+        "Sheng-Yu Wang",
+        "Kimia Hamidieh",
+        "Antonio B. Torralba",
+        "David Bau"
+      ],
+      "venue": "arXiv",
+      "citation_count": 0,
+      "influential_citation_count": 0,
+      "doi": "10.48550/arxiv.2610.40655",
+      "arxiv_id": "2610.40655",
+      "primary_category": "cs.CL",
+      "categories": [
+        "cs.CL"
+      ],
+      "pdf_url": "https://arxiv.org/pdf/2610.40655",
+      "feed_url": "",
+      "blog_label": "",
+      "summary_cn": "",
+      "fetch_date": "2026-11-03",
+      "sources": [
+        "openalex",
+        "arxiv"
+      ]
+    },
+    {
+      "work_id": "2610.40564",
+      "kind": "paper",
+      "title": "Training Foundation Models with a Single Algorithm",
+      "url": "https://arxiv.org/abs/2610.40564",
+      "published": "2026-10-29",
+      "updated": "2026-11-02T09:45:03.842371",
+      "summary": "Foundation models are typically trained in stages: pretraining, midtraining, supervised fine-tuning (SFT), and reinforcement learning (RL), with changes in both data and learning algorithms. We show that this algorithmic separation is not fundamental. By deriving suitable RL objectives as maximum-likelihood fitting to model-generated target distributions, we place all of these stages under a single likelihood-based training algorithm, unified training. This perspective turns the foundation-model training lifecycle into a problem of choosing which data to train on, in what proportions, and when, with conventional staged training as a special case. We instantiate this framework in a unified training system that mixes static data and RL generations within a single trainer. Across controlled and real-world experiments, unified training improves the accuracy-compute tradeoff and task coverage while preserving broader capabilities, and provides a stronger starting point for continual learning. This work lays the groundwork for a unified science of foundation-model training, connecting mathematical principles, training infrastructure, and the development of model capabilities.",
+      "source": "openalex",
+      "group_ids": [
+        "cmu-ml"
+      ],
+      "member_ids": [
+        "ruslan-salakhutdinov"
+      ],
+      "member_names": [
+        "Ruslan Salakhutdinov"
+      ],
+      "authors": [
+        "Yuda Song",
+        "Alvin Zhang",
+        "Fahim Tajwar",
+        "Daman Arora",
+        "Jeff Schneider",
+        "Daniel Khashabi",
+        "Ruslan Salakhutdinov",
+        "James Andrew Bagnell",
+        "Aarti Singh",
+        "Andrea Zanette"
+      ],
+      "venue": "arXiv",
+      "citation_count": 0,
+      "influential_citation_count": 0,
+      "doi": "10.48550/arxiv.2610.40564",
+      "arxiv_id": "2610.40564",
+      "primary_category": "cs.LG",
+      "categories": [
+        "cs.LG"
+      ],
+      "pdf_url": "https://arxiv.org/pdf/2610.40564",
+      "feed_url": "",
+      "blog_label": "",
+      "summary_cn": "",
+      "fetch_date": "2026-11-03",
+      "sources": [
+        "openalex",
+        "arxiv"
+      ]
+    },
+    {
+      "work_id": "2610.39054",
+      "kind": "paper",
+      "title": "Robotic Data Inoculation",
+      "url": "https://arxiv.org/abs/2610.39054",
+      "published": "2026-10-28T23:31:24+00:00",
+      "updated": "2026-10-28T23:31:24+00:00",
+      "summary": "Modern robot learning systems feed on high-quality demonstration data, and their performance hinges on coverage. Without good coverage, small errors compound and the policy can quickly go into out-of-distribution states from which it cannot recover. Yet there is no principled way of collecting high-coverage data, and data collection often relies on heuristic instructions to human operators. Purely online reinforcement learning (RL) explores at the cost of safety and sample efficiency, while DAgger-style interventions require the policy to fail by chance before a human can correct it. In this paper, we ask instead whether we can modify how the robot behaves during data collection to collect more useful data. We propose Data Inoculation (DI), a shared-control framework in which a human provide closed-loop teleoperation commands while a residual policy perturbs these commands. The residual policy is trained online, on the growing dataset, with the same reward-maximizing objective later used for policy extraction, so its perturbations steer data collection toward the deviations a policy trained on the data would make. These perturbations expose the robot to a wider range of states, while the human's continuous corrections provide recovery demonstrations, \"inoculating\" the dataset against the learner's future mistakes while the human remains in control. On three challenging real-world robotic tasks, DI consistently improves or matches the success rate of policies trained with both behavioral cloning and offline RL, showing DI as an effective data collection strategy for improving downstream policy performance.",
+      "source": "arxiv",
+      "group_ids": [
+        "berkeley-bair"
+      ],
+      "member_ids": [
+        "sergey-levine"
+      ],
+      "member_names": [
+        "Sergey Levine"
+      ],
+      "authors": [
+        "Qiyang Li",
+        "Zhiyuan Zhou",
+        "Charles Xu",
+        "Sergey Levine"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "influential_citation_count": 0,
+      "doi": "",
+      "arxiv_id": "2610.39054",
+      "primary_category": "cs.RO",
+      "categories": [
+        "cs.RO"
+      ],
+      "pdf_url": "https://arxiv.org/pdf/2610.39054v1",
+      "feed_url": "",
+      "blog_label": "",
+      "summary_cn": "",
+      "fetch_date": "2026-11-03",
+      "sources": [
+        "arxiv"
+      ]
+    },
+    {
+      "work_id": "blog-3-questions-why-infrastructure-is-enteri-aa2585c1",
+      "kind": "blog",
+      "title": "3 Questions: Why infrastructure is entering a defining era",
+      "url": "https://news.mit.edu/2026/3-questions-why-infrastructure-is-entering-defining-era-1028",
+      "published": "2026-10-28T16:00:00+00:00",
+      "updated": "2026-10-28T16:00:00+00:00",
+      "summary": "Professor Ali Jadbabaie describes how AI, digital transformation, climate change, and complex geopolitics are forcing engineers and policymakers to rethink how infrastructure is designed, built, and managed.",
+      "source": "blog",
+      "group_ids": [
+        "mit-csail"
+      ],
+      "member_ids": [],
+      "member_names": [],
+      "authors": [],
+      "venue": "",
+      "citation_count": 0,
+      "influential_citation_count": 0,
+      "doi": "",
+      "arxiv_id": "",
+      "primary_category": "",
+      "categories": [],
+      "pdf_url": "",
+      "feed_url": "https://news.mit.edu/rss/topic/artificial-intelligence2",
+      "blog_label": "MIT News · AI",
+      "summary_cn": "",
+      "fetch_date": "2026-11-03",
+      "sources": [
+        "blog"
+      ]
+    },
+    {
+      "work_id": "blog-openai-servicenow-partnership-expansion-ae837ad2",
+      "kind": "blog",
+      "title": "OpenAI and ServiceNow expand partnership across enterprise workflows",
+      "url": "https://openai.com/index/openai-servicenow-partnership-expansion",
+      "published": "2026-10-28T13:15:00+00:00",
+      "updated": "2026-10-28T13:15:00+00:00",
+      "summary": "OpenAI and ServiceNow expand their partnership to bring OpenAI models and agents into ServiceNow and ServiceNow workflows into ChatGPT and Codex.",
+      "source": "blog",
+      "group_ids": [
+        "openai"
+      ],
+      "member_ids": [],
+      "member_names": [],
+      "authors": [],
+      "venue": "",
+      "citation_count": 0,
+      "influential_citation_count": 0,
+      "doi": "",
+      "arxiv_id": "",
+      "primary_category": "",
+      "categories": [],
+      "pdf_url": "",
+      "feed_url": "https://openai.com/news/rss.xml",
+      "blog_label": "OpenAI News",
+      "summary_cn": "",
+      "fetch_date": "2026-11-03",
+      "sources": [
+        "blog"
+      ]
+    },
+    {
+      "work_id": "blog-the-future-of-the-firm-ce48e041",
+      "kind": "blog",
+      "title": "The future of the firm",
+      "url": "https://openai.com/index/the-future-of-the-firm",
+      "published": "2026-10-28T10:00:00+00:00",
+      "updated": "2026-10-28T10:00:00+00:00",
+      "summary": "How AI might enter the org chart—beneath, beside, and between us.",
+      "source": "blog",
+      "group_ids": [
+        "openai"
+      ],
+      "member_ids": [],
+      "member_names": [],
+      "authors": [],
+      "venue": "",
+      "citation_count": 0,
+      "influential_citation_count": 0,
+      "doi": "",
+      "arxiv_id": "",
+      "primary_category": "",
+      "categories": [],
+      "pdf_url": "",
+      "feed_url": "https://openai.com/news/rss.xml",
+      "blog_label": "OpenAI News",
+      "summary_cn": "",
+      "fetch_date": "2026-11-03",
+      "sources": [
+        "blog"
+      ]
+    },
+    {
+      "work_id": "blog-legora-78cade47",
+      "kind": "blog",
+      "title": "Legora is building the agentic operating system for legal work",
+      "url": "https://openai.com/index/legora",
+      "published": "2026-10-28T09:30:00+00:00",
+      "updated": "2026-10-28T09:30:00+00:00",
+      "summary": "See how Legora uses OpenAI models, ChatGPT, and Codex to accelerate legal workflows, expand contract analysis, and free lawyers to focus on higher-value work.",
+      "source": "blog",
+      "group_ids": [
+        "openai"
+      ],
+      "member_ids": [],
+      "member_names": [],
+      "authors": [],
+      "venue": "",
+      "citation_count": 0,
+      "influential_citation_count": 0,
+      "doi": "",
+      "arxiv_id": "",
+      "primary_category": "",
+      "categories": [],
+      "pdf_url": "",
+      "feed_url": "https://openai.com/news/rss.xml",
+      "blog_label": "OpenAI News",
+      "summary_cn": "",
+      "fetch_date": "2026-11-03",
+      "sources": [
+        "blog"
+      ]
+    },
+    {
+      "work_id": "blog-making-machines-that-can-listen-paris-sm-6a501219",
+      "kind": "blog",
+      "title": "Making machines that can listen",
+      "url": "https://news.mit.edu/2026/making-machines-that-can-listen-paris-smaragdis-1028",
+      "published": "2026-10-28T04:00:00+00:00",
+      "updated": "2026-10-28T04:00:00+00:00",
+      "summary": "Professor Paris Smaragdis develops computers with superhuman hearing for applications like speech recognition, music understanding, and environmental monitoring.",
+      "source": "blog",
+      "group_ids": [
+        "mit-csail"
+      ],
+      "member_ids": [],
+      "member_names": [],
+      "authors": [],
+      "venue": "",
+      "citation_count": 0,
+      "influential_citation_count": 0,
+      "doi": "",
+      "arxiv_id": "",
+      "primary_category": "",
+      "categories": [],
+      "pdf_url": "",
+      "feed_url": "https://news.mit.edu/rss/topic/artificial-intelligence2",
+      "blog_label": "MIT News · AI",
+      "summary_cn": "",
+      "fetch_date": "2026-11-03",
+      "sources": [
+        "blog"
+      ]
+    },
+    {
+      "work_id": "blog-learner-prabha-jha-collaborates-with-mit-1e7bbd94",
+      "kind": "blog",
+      "title": "Learner collaborates with MIT peers to develop book of AI insights",
+      "url": "https://news.mit.edu/2026/learner-prabha-jha-collaborates-with-mit-peers-to-develop-book-of-ai-insights-1027",
+      "published": "2026-10-27T20:55:00+00:00",
+      "updated": "2026-10-27T20:55:00+00:00",
+      "summary": "Prabha Jha used her experience with MIT Open Learning’s program for senior executives to develop AI solutions for her employer, Verizon, and to write a book.",
+      "source": "blog",
+      "group_ids": [
+        "mit-csail"
+      ],
+      "member_ids": [],
+      "member_names": [],
+      "authors": [],
+      "venue": "",
+      "citation_count": 0,
+      "influential_citation_count": 0,
+      "doi": "",
+      "arxiv_id": "",
+      "primary_category": "",
+      "categories": [],
+      "pdf_url": "",
+      "feed_url": "https://news.mit.edu/rss/topic/artificial-intelligence2",
+      "blog_label": "MIT News · AI",
+      "summary_cn": "",
+      "fetch_date": "2026-11-03",
+      "sources": [
+        "blog"
+      ]
+    },
+    {
+      "work_id": "blog-introducing-genie-4-d2975adc",
+      "kind": "blog",
+      "title": "We’re announcing Genie 4, our new world model for real-time interactive simulation.",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/introducing-genie-4/",
+      "published": "2026-10-27T16:00:00+00:00",
+      "updated": "2026-10-27T16:00:00+00:00",
+      "summary": "Today, we’re announcing our research on Genie 4, our new world model that brings unprecedented realism and native audio to real-time interactive simulation.The Genie 4 m…",
+      "source": "blog",
+      "group_ids": [
+        "google-deepmind"
+      ],
+      "member_ids": [],
+      "member_names": [],
+      "authors": [],
+      "venue": "",
+      "citation_count": 0,
+      "influential_citation_count": 0,
+      "doi": "",
+      "arxiv_id": "",
+      "primary_category": "",
+      "categories": [],
+      "pdf_url": "",
+      "feed_url": "https://blog.google/technology/google-deepmind/rss/",
+      "blog_label": "Google DeepMind Blog",
+      "summary_cn": "",
+      "fetch_date": "2026-11-03",
+      "sources": [
+        "blog"
+      ]
+    },
+    {
+      "work_id": "blog-retell-ai-def971f6",
+      "kind": "blog",
+      "title": "Retell uses OpenAI models to help power 100M monthly calls",
+      "url": "https://openai.com/index/retell-ai",
+      "published": "2026-10-27T15:00:00+00:00",
+      "updated": "2026-10-27T15:00:00+00:00",
+      "summary": "GPT-6 Astra tops Retell’s voice agent benchmark, while Codex helps it reach a $1.6M annual revenue run rate per employee.",
+      "source": "blog",
+      "group_ids": [
+        "openai"
+      ],
+      "member_ids": [],
+      "member_names": [],
+      "authors": [],
+      "venue": "",
+      "citation_count": 0,
+      "influential_citation_count": 0,
+      "doi": "",
+      "arxiv_id": "",
+      "primary_category": "",
+      "categories": [],
+      "pdf_url": "",
+      "feed_url": "https://openai.com/news/rss.xml",
+      "blog_label": "OpenAI News",
+      "summary_cn": "",
+      "fetch_date": "2026-11-03",
+      "sources": [
+        "blog"
+      ]
+    },
+    {
+      "work_id": "blog-oracle-apps-in-chatgpt-99363897",
+      "kind": "blog",
+      "title": "OpenAI expands partnership with Oracle to bring its apps to ChatGPT",
+      "url": "https://openai.com/index/oracle-apps-in-chatgpt",
+      "published": "2026-10-27T07:00:00+00:00",
+      "updated": "2026-10-27T07:00:00+00:00",
+      "summary": "OpenAI and Oracle are expanding their partnership to bring business applications and AI agents into ChatGPT and power new Oracle offerings.",
+      "source": "blog",
+      "group_ids": [
+        "openai"
+      ],
+      "member_ids": [],
+      "member_names": [],
+      "authors": [],
+      "venue": "",
+      "citation_count": 0,
+      "influential_citation_count": 0,
+      "doi": "",
+      "arxiv_id": "",
+      "primary_category": "",
+      "categories": [],
+      "pdf_url": "",
+      "feed_url": "https://openai.com/news/rss.xml",
+      "blog_label": "OpenAI News",
+      "summary_cn": "",
+      "fetch_date": "2026-11-03",
+      "sources": [
+        "blog"
+      ]
+    }
+  ],
+  "source_stats": {
+    "openalex": 4,
+    "arxiv": 11,
+    "blog": 33
+  },
+  "kind_stats": {
+    "blog": 32,
+    "paper": 11
+  }
+}

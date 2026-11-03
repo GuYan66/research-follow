@@ -6906,7 +6906,232 @@
       "venue": "",
       "citation_count": 0,
       "path": "works/works-2026-11-02.json"
+    },
+    "blog-partnering-singapore-advance-scientific--02a50d14": {
+      "work_id": "blog-partnering-singapore-advance-scientific--02a50d14",
+      "kind": "blog",
+      "title": "Advancing research and partnering with universities in Singapore",
+      "date": "2026-11-03",
+      "published": "2026-11-03T04:30:00+00:00",
+      "arxiv_id": "",
+      "group_ids": [
+        "google-research"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-11-03.json"
+    },
+    "blog-powering-up-for-pivotal-moment-1102-b9dffee1": {
+      "work_id": "blog-powering-up-for-pivotal-moment-1102-b9dffee1",
+      "kind": "blog",
+      "title": "Powering up for a pivotal moment",
+      "date": "2026-11-03",
+      "published": "2026-11-02T19:55:00+00:00",
+      "arxiv_id": "",
+      "group_ids": [
+        "mit-csail"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-11-03.json"
+    },
+    "blog-rewarding-defenders-with-bigger-bug-boun-390695a0": {
+      "work_id": "blog-rewarding-defenders-with-bigger-bug-boun-390695a0",
+      "kind": "blog",
+      "title": "Rewarding defenders with bigger bug bounties",
+      "date": "2026-11-03",
+      "published": "2026-11-02T18:00:00+00:00",
+      "arxiv_id": "",
+      "group_ids": [
+        "openai"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-11-03.json"
+    },
+    "blog-preparing-our-next-security-sprint-to-ha-4e4c553e": {
+      "work_id": "blog-preparing-our-next-security-sprint-to-ha-4e4c553e",
+      "kind": "blog",
+      "title": "Preparing our next security sprint to harden OpenAI",
+      "date": "2026-11-03",
+      "published": "2026-11-02T18:00:00+00:00",
+      "arxiv_id": "",
+      "group_ids": [
+        "openai"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-11-03.json"
+    },
+    "blog-google-ai-updates-october-2026-a333ec27": {
+      "work_id": "blog-google-ai-updates-october-2026-a333ec27",
+      "kind": "blog",
+      "title": "The latest AI news we announced in October 2026",
+      "date": "2026-11-03",
+      "published": "2026-11-02T17:45:00+00:00",
+      "arxiv_id": "",
+      "group_ids": [
+        "google-deepmind",
+        "google-research"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-11-03.json"
+    },
+    "blog-scaling-git-at-openai-b103edcd": {
+      "work_id": "blog-scaling-git-at-openai-b103edcd",
+      "kind": "blog",
+      "title": "Scaling Git at OpenAI",
+      "date": "2026-11-03",
+      "published": "2026-11-02T15:30:00+00:00",
+      "arxiv_id": "",
+      "group_ids": [
+        "openai"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-11-03.json"
+    },
+    "blog-grid-protectors-program-c69402c4": {
+      "work_id": "blog-grid-protectors-program-c69402c4",
+      "kind": "blog",
+      "title": "Introducing the Grid Protectors Program",
+      "date": "2026-11-03",
+      "published": "2026-11-02T15:00:00+00:00",
+      "arxiv_id": "",
+      "group_ids": [
+        "openai"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-11-03.json"
+    },
+    "blog-lifeval-f94917eb": {
+      "work_id": "blog-lifeval-f94917eb",
+      "kind": "blog",
+      "title": "LifeVal",
+      "date": "2026-11-03",
+      "published": "2026-11-02T09:00:00+00:00",
+      "arxiv_id": "",
+      "group_ids": [
+        "openai"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-11-03.json"
+    },
+    "blog-regina-barzilay-jim-collins-win-pritzker-f10867a2": {
+      "work_id": "blog-regina-barzilay-jim-collins-win-pritzker-f10867a2",
+      "kind": "blog",
+      "title": "Regina Barzilay and Jim Collins win Pritzker Prize for AI and Science Research Excellence for work in AI-enabled antibiotic discovery",
+      "date": "2026-11-03",
+      "published": "2026-11-02T05:35:00+00:00",
+      "arxiv_id": "",
+      "group_ids": [
+        "mit-csail"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-11-03.json"
+    },
+    "2611.02546": {
+      "work_id": "2611.02546",
+      "kind": "paper",
+      "title": "Energy-Based Policy Orchestration",
+      "date": "2026-11-03",
+      "published": "2026-11-02T05:16:05+00:00",
+      "arxiv_id": "2611.02546",
+      "group_ids": [
+        "berkeley-bair"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-11-03.json"
+    },
+    "blog-qodo-codex-plugin-23f8a0e3": {
+      "work_id": "blog-qodo-codex-plugin-23f8a0e3",
+      "kind": "blog",
+      "title": "Qodo builds context into AI code review with Codex",
+      "date": "2026-11-03",
+      "published": "2026-11-02T00:00:00+00:00",
+      "arxiv_id": "",
+      "group_ids": [
+        "openai"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-11-03.json"
+    },
+    "blog-dan-driscoll-joins-openai-4f8e7518": {
+      "work_id": "blog-dan-driscoll-joins-openai-4f8e7518",
+      "kind": "blog",
+      "title": "OpenAI appoints Dan Driscoll as Senior Counselor for National Security Modernization",
+      "date": "2026-11-03",
+      "published": "2026-11-02T00:00:00+00:00",
+      "arxiv_id": "",
+      "group_ids": [
+        "openai"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-11-03.json"
+    },
+    "2611.02270": {
+      "work_id": "2611.02270",
+      "kind": "paper",
+      "title": "Hinted Scaling Laws",
+      "date": "2026-11-03",
+      "published": "2026-11-01T22:50:43+00:00",
+      "arxiv_id": "2611.02270",
+      "group_ids": [
+        "stanford-ai"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-11-03.json"
+    },
+    "2611.02160": {
+      "work_id": "2611.02160",
+      "kind": "paper",
+      "title": "Value Forcing: Aligning Return Distributions at All Noise Levels",
+      "date": "2026-11-03",
+      "published": "2026-11-01T19:51:01+00:00",
+      "arxiv_id": "2611.02160",
+      "group_ids": [
+        "berkeley-bair"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-11-03.json"
+    },
+    "2611.01560": {
+      "work_id": "2611.01560",
+      "kind": "paper",
+      "title": "Democratizing Robot-Use Agents: A Unified Harness with Open Models",
+      "date": "2026-11-03",
+      "published": "2026-11-01T04:32:23+00:00",
+      "arxiv_id": "2611.01560",
+      "group_ids": [
+        "berkeley-bair"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-11-03.json"
+    },
+    "2611.00507": {
+      "work_id": "2611.00507",
+      "kind": "paper",
+      "title": "Selecting or Solving? What Best-of-N Verification Delivers in Video Reasoning",
+      "date": "2026-11-03",
+      "published": "2026-10-31T00:54:03+00:00",
+      "arxiv_id": "2611.00507",
+      "group_ids": [
+        "cmu-ml"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-11-03.json"
     }
   },
-  "last_updated": "2026-11-02T06:14:38.261635+00:00"
+  "last_updated": "2026-11-03T06:55:17.758269+00:00"
 }
