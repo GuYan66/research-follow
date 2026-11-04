@@ -7131,7 +7131,175 @@
       "venue": "",
       "citation_count": 0,
       "path": "works/works-2026-11-03.json"
+    },
+    "blog-building-connections-across-research-inf-f32aed51": {
+      "work_id": "blog-building-connections-across-research-inf-f32aed51",
+      "kind": "blog",
+      "title": "Building connections across the research infrastructure",
+      "date": "2026-11-04",
+      "published": "2026-11-03T19:30:00+00:00",
+      "arxiv_id": "",
+      "group_ids": [
+        "mit-csail"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-11-04.json"
+    },
+    "2611.05295": {
+      "work_id": "2611.05295",
+      "kind": "paper",
+      "title": "GSBR: Geometric Support Behavior Regularization for Online RL",
+      "date": "2026-11-04",
+      "published": "2026-11-03T18:08:32+00:00",
+      "arxiv_id": "2611.05295",
+      "group_ids": [
+        "berkeley-bair"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-11-04.json"
+    },
+    "2611.05266": {
+      "work_id": "2611.05266",
+      "kind": "paper",
+      "title": "Stabilizing On-Policy Targeted Guidance in Agentic Reinforcement Learning",
+      "date": "2026-11-04",
+      "published": "2026-11-03T17:54:33+00:00",
+      "arxiv_id": "2611.05266",
+      "group_ids": [
+        "berkeley-bair"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-11-04.json"
+    },
+    "blog-learn-the-rules-the-hacker-mindset-b36937b1": {
+      "work_id": "blog-learn-the-rules-the-hacker-mindset-b36937b1",
+      "kind": "blog",
+      "title": "Learn the rules: The hacker mindset",
+      "date": "2026-11-04",
+      "published": "2026-11-03T17:14:38+00:00",
+      "arxiv_id": "",
+      "group_ids": [
+        "microsoft-research"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-11-04.json"
+    },
+    "blog-accelerating-engineering-for-the-physica-2eb2afd4": {
+      "work_id": "blog-accelerating-engineering-for-the-physica-2eb2afd4",
+      "kind": "blog",
+      "title": "Accelerating engineering for the physical world",
+      "date": "2026-11-04",
+      "published": "2026-11-03T12:00:00+00:00",
+      "arxiv_id": "",
+      "group_ids": [
+        "openai"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-11-04.json"
+    },
+    "blog-cisco-cyber-073842f8": {
+      "work_id": "blog-cisco-cyber-073842f8",
+      "kind": "blog",
+      "title": "How Cisco defends at machine speed with OpenAI",
+      "date": "2026-11-04",
+      "published": "2026-11-03T08:00:00+00:00",
+      "arxiv_id": "",
+      "group_ids": [
+        "openai"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-11-04.json"
+    },
+    "blog-heimstaden-bb41e66f": {
+      "work_id": "blog-heimstaden-bb41e66f",
+      "kind": "blog",
+      "title": "Heimstaden is changing residential real estate management with AI",
+      "date": "2026-11-04",
+      "published": "2026-11-03T08:00:00+00:00",
+      "arxiv_id": "",
+      "group_ids": [
+        "openai"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-11-04.json"
+    },
+    "blog-jill-hazelbaker-chief-corporate-affairs--32c49ed5": {
+      "work_id": "blog-jill-hazelbaker-chief-corporate-affairs--32c49ed5",
+      "kind": "blog",
+      "title": "OpenAI appoints Jill Hazelbaker as Chief Corporate Affairs Officer",
+      "date": "2026-11-04",
+      "published": "2026-11-03T00:00:00+00:00",
+      "arxiv_id": "",
+      "group_ids": [
+        "openai"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-11-04.json"
+    },
+    "2611.03647": {
+      "work_id": "2611.03647",
+      "kind": "paper",
+      "title": "Pixel-UMI: Learning Environment-Aware Whole-Body Manipulation from Sensorized Human Demonstrations",
+      "date": "2026-11-04",
+      "published": "2026-11-02T18:59:32+00:00",
+      "arxiv_id": "2611.03647",
+      "group_ids": [
+        "cmu-ml"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-11-04.json"
+    },
+    "2611.03648": {
+      "work_id": "2611.03648",
+      "kind": "paper",
+      "title": "Pixel: A Co-Designed Full-Stack Robot System for Learning General-Purpose Mobile Manipulation",
+      "date": "2026-11-04",
+      "published": "2026-11-02T18:59:32+00:00",
+      "arxiv_id": "2611.03648",
+      "group_ids": [
+        "cmu-ml"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-11-04.json"
+    },
+    "2611.03501": {
+      "work_id": "2611.03501",
+      "kind": "paper",
+      "title": "When Robots Outweigh Objects: How Inertia Mismatch Shapes Robot Policy Learning",
+      "date": "2026-11-04",
+      "published": "2026-11-02T17:40:05+00:00",
+      "arxiv_id": "2611.03501",
+      "group_ids": [
+        "mit-csail"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-11-04.json"
+    },
+    "blog-evernote-006724e7": {
+      "work_id": "blog-evernote-006724e7",
+      "kind": "blog",
+      "title": "Evernote turns AI-driven discovery into paid subscriptions",
+      "date": "2026-11-04",
+      "published": "2026-10-28T19:40:49+00:00",
+      "arxiv_id": "",
+      "group_ids": [
+        "openai"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-11-04.json"
     }
   },
-  "last_updated": "2026-11-03T06:55:17.758269+00:00"
+  "last_updated": "2026-11-04T06:32:57.898708+00:00"
 }
