@@ -7299,7 +7299,91 @@
       "venue": "",
       "citation_count": 0,
       "path": "works/works-2026-11-04.json"
+    },
+    "blog-clearing-up-robot-fuzzy-memory-1105-c5af0beb": {
+      "work_id": "blog-clearing-up-robot-fuzzy-memory-1105-c5af0beb",
+      "kind": "blog",
+      "title": "Clearing up a robot’s fuzzy memory",
+      "date": "2026-11-05",
+      "published": "2026-11-05T05:00:00+00:00",
+      "arxiv_id": "",
+      "group_ids": [
+        "mit-csail"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-11-05.json"
+    },
+    "blog-openai-to-acquire-pierre-86043e7d": {
+      "work_id": "blog-openai-to-acquire-pierre-86043e7d",
+      "kind": "blog",
+      "title": "OpenAI to acquire Pierre Computer Company, Inc.",
+      "date": "2026-11-05",
+      "published": "2026-11-04T14:30:00+00:00",
+      "arxiv_id": "",
+      "group_ids": [
+        "openai"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-11-05.json"
+    },
+    "blog-a-thousand-fewer-paths-to-root-699f8fc0": {
+      "work_id": "blog-a-thousand-fewer-paths-to-root-699f8fc0",
+      "kind": "blog",
+      "title": "A thousand fewer paths to root",
+      "date": "2026-11-05",
+      "published": "2026-11-04T08:00:00+00:00",
+      "arxiv_id": "",
+      "group_ids": [
+        "openai"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-11-05.json"
+    },
+    "blog-daybreak-red-aws-govcloud-c7461421": {
+      "work_id": "blog-daybreak-red-aws-govcloud-c7461421",
+      "kind": "blog",
+      "title": "Daybreak Red is now available in AWS GovCloud (US-East)",
+      "date": "2026-11-05",
+      "published": "2026-11-04T07:00:00+00:00",
+      "arxiv_id": "",
+      "group_ids": [
+        "openai"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-11-05.json"
+    },
+    "blog-introducing-images-2-6-23da7c14": {
+      "work_id": "blog-introducing-images-2-6-23da7c14",
+      "kind": "blog",
+      "title": "Introducing Images 2.6",
+      "date": "2026-11-05",
+      "published": "2026-11-04T00:00:00+00:00",
+      "arxiv_id": "",
+      "group_ids": [
+        "openai"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-11-05.json"
+    },
+    "blog-devrev-enterprise-self-service-3ec3f746": {
+      "work_id": "blog-devrev-enterprise-self-service-3ec3f746",
+      "kind": "blog",
+      "title": "DevRev delivers autonomous self-service with GPT-6.1 Sol",
+      "date": "2026-11-05",
+      "published": "2026-11-04T00:00:00+00:00",
+      "arxiv_id": "",
+      "group_ids": [
+        "openai"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-11-05.json"
     }
   },
-  "last_updated": "2026-11-04T06:32:57.898708+00:00"
+  "last_updated": "2026-11-05T06:55:17.670714+00:00"
 }
