@@ -7537,7 +7537,49 @@
       "venue": "arXiv",
       "citation_count": 0,
       "path": "works/works-2026-11-06.json"
+    },
+    "blog-how-to-predict-molecule-behavior-with-sc-95d60247": {
+      "work_id": "blog-how-to-predict-molecule-behavior-with-sc-95d60247",
+      "kind": "blog",
+      "title": "How to predict the behavior of molecules from scant data",
+      "date": "2026-11-07",
+      "published": "2026-11-06T19:00:00+00:00",
+      "arxiv_id": "",
+      "group_ids": [
+        "mit-csail"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-11-07.json"
+    },
+    "blog-partnering-with-hacktron-94467178": {
+      "work_id": "blog-partnering-with-hacktron-94467178",
+      "kind": "blog",
+      "title": "Partnering with Hacktron to find vulnerabilities in OpenAI’s systems",
+      "date": "2026-11-07",
+      "published": "2026-11-06T08:00:00+00:00",
+      "arxiv_id": "",
+      "group_ids": [
+        "openai"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-11-07.json"
+    },
+    "blog-measuring-how-ai-agents-handle-wet-lab-s-bfd94b0d": {
+      "work_id": "blog-measuring-how-ai-agents-handle-wet-lab-s-bfd94b0d",
+      "kind": "blog",
+      "title": "Measuring how AI agents handle everyday wet-lab science",
+      "date": "2026-11-07",
+      "published": "2026-11-06T00:00:00+00:00",
+      "arxiv_id": "",
+      "group_ids": [
+        "openai"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-11-07.json"
     }
   },
-  "last_updated": "2026-11-06T06:55:16.716532+00:00"
+  "last_updated": "2026-11-07T06:05:32.946708+00:00"
 }
