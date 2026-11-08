@@ -7579,7 +7579,21 @@
       "venue": "",
       "citation_count": 0,
       "path": "works/works-2026-11-07.json"
+    },
+    "doi-10-1038-s41598-026-79072-2": {
+      "work_id": "doi-10-1038-s41598-026-79072-2",
+      "kind": "paper",
+      "title": "Maternal autophagy contributes to grain yield in maize",
+      "date": "2026-11-08",
+      "published": "2026-11-07",
+      "arxiv_id": "",
+      "group_ids": [
+        "zhipu-ai"
+      ],
+      "venue": "Scientific Reports",
+      "citation_count": 0,
+      "path": "works/works-2026-11-08.json"
     }
   },
-  "last_updated": "2026-11-07T06:05:32.946708+00:00"
+  "last_updated": "2026-11-08T06:09:33.684179+00:00"
 }
