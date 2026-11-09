@@ -7593,7 +7593,35 @@
       "venue": "Scientific Reports",
       "citation_count": 0,
       "path": "works/works-2026-11-08.json"
+    },
+    "blog-single-ai-model-simulates-many-substance-b48e01d3": {
+      "work_id": "blog-single-ai-model-simulates-many-substance-b48e01d3",
+      "kind": "blog",
+      "title": "A single AI model simulates the behavior of many substances, from sliding sand to folding proteins",
+      "date": "2026-11-09",
+      "published": "2026-11-09T05:00:00+00:00",
+      "arxiv_id": "",
+      "group_ids": [
+        "mit-csail"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-11-09.json"
+    },
+    "blog-ai-assisted-learning-platform-helps-robo-bd1eb81e": {
+      "work_id": "blog-ai-assisted-learning-platform-helps-robo-bd1eb81e",
+      "kind": "blog",
+      "title": "AI-assisted learning platform helps robots reason beyond literal commands",
+      "date": "2026-11-09",
+      "published": "2026-11-09T05:00:00+00:00",
+      "arxiv_id": "",
+      "group_ids": [
+        "mit-csail"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-11-09.json"
     }
   },
-  "last_updated": "2026-11-08T06:09:33.684179+00:00"
+  "last_updated": "2026-11-09T06:42:20.888809+00:00"
 }
