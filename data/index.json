@@ -7621,7 +7621,133 @@
       "venue": "",
       "citation_count": 0,
       "path": "works/works-2026-11-09.json"
+    },
+    "blog-mit-led-team-receives-funding-next-gener-5beed53c": {
+      "work_id": "blog-mit-led-team-receives-funding-next-gener-5beed53c",
+      "kind": "blog",
+      "title": "MIT-led team receives funding to develop next-generation alternatives to modern weed killers",
+      "date": "2026-11-10",
+      "published": "2026-11-10T05:00:00+00:00",
+      "arxiv_id": "",
+      "group_ids": [
+        "mit-csail"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-11-10.json"
+    },
+    "blog-chatgpt-enterprise-aws-marketplace-c9c90e01": {
+      "work_id": "blog-chatgpt-enterprise-aws-marketplace-c9c90e01",
+      "kind": "blog",
+      "title": "ChatGPT Enterprise now available in AWS Marketplace",
+      "date": "2026-11-10",
+      "published": "2026-11-09T19:00:00+00:00",
+      "arxiv_id": "",
+      "group_ids": [
+        "openai"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-11-10.json"
+    },
+    "blog-control-room-2d21b67e": {
+      "work_id": "blog-control-room-2d21b67e",
+      "kind": "blog",
+      "title": "Control Room: A central system to track and stop model workloads across our research infrastructure",
+      "date": "2026-11-10",
+      "published": "2026-11-09T13:00:00+00:00",
+      "arxiv_id": "",
+      "group_ids": [
+        "openai"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-11-10.json"
+    },
+    "2611.12177": {
+      "work_id": "2611.12177",
+      "kind": "paper",
+      "title": "Embodied First Exam",
+      "date": "2026-11-10",
+      "published": "2026-11-09T10:29:19+00:00",
+      "arxiv_id": "2611.12177",
+      "group_ids": [
+        "berkeley-bair"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-11-10.json"
+    },
+    "blog-bair-at-corl-2026-e591eec5": {
+      "work_id": "blog-bair-at-corl-2026-e591eec5",
+      "kind": "blog",
+      "title": "BAIR at CoRL 2026",
+      "date": "2026-11-10",
+      "published": "2026-11-09T09:00:00+00:00",
+      "arxiv_id": "",
+      "group_ids": [
+        "berkeley-bair"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-11-10.json"
+    },
+    "blog-coderabbit-codex-daybreak-8fc300a7": {
+      "work_id": "blog-coderabbit-codex-daybreak-8fc300a7",
+      "kind": "blog",
+      "title": "CodeRabbit scales agentic software development and ships 20x more",
+      "date": "2026-11-10",
+      "published": "2026-11-09T08:00:00+00:00",
+      "arxiv_id": "",
+      "group_ids": [
+        "openai"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-11-10.json"
+    },
+    "blog-kuken-51f5761c": {
+      "work_id": "blog-kuken-51f5761c",
+      "kind": "blog",
+      "title": "Kuken Industries searches 70 years of drawings in minutes",
+      "date": "2026-11-10",
+      "published": "2026-11-09T08:00:00+00:00",
+      "arxiv_id": "",
+      "group_ids": [
+        "openai"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-11-10.json"
+    },
+    "2611.11962": {
+      "work_id": "2611.11962",
+      "kind": "paper",
+      "title": "Shaping Useful Noise: Energy Distributions Predict Visual Pretraining Quality",
+      "date": "2026-11-10",
+      "published": "2026-11-09T06:31:22+00:00",
+      "arxiv_id": "2611.11962",
+      "group_ids": [
+        "mit-csail"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-11-10.json"
+    },
+    "2611.11379": {
+      "work_id": "2611.11379",
+      "kind": "paper",
+      "title": "Self-Supervised Collapse Prevention with Score-Based Entropy Maximization",
+      "date": "2026-11-10",
+      "published": "2026-11-08T13:40:24+00:00",
+      "arxiv_id": "2611.11379",
+      "group_ids": [
+        "meta-fair"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-11-10.json"
     }
   },
-  "last_updated": "2026-11-09T06:42:20.888809+00:00"
+  "last_updated": "2026-11-10T07:26:22.335014+00:00"
 }
