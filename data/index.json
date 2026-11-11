@@ -7747,7 +7747,133 @@
       "venue": "",
       "citation_count": 0,
       "path": "works/works-2026-11-10.json"
+    },
+    "blog-gilbert-tobin-sam-nickless-a27fa72f": {
+      "work_id": "blog-gilbert-tobin-sam-nickless-a27fa72f",
+      "kind": "blog",
+      "title": "Gilbert + Tobin rethinks the business of law with AI",
+      "date": "2026-11-11",
+      "published": "2026-11-12T00:00:00+00:00",
+      "arxiv_id": "",
+      "group_ids": [
+        "openai"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-11-11.json"
+    },
+    "blog-chatgpt-plus-for-veterans-44f57bd2": {
+      "work_id": "blog-chatgpt-plus-for-veterans-44f57bd2",
+      "kind": "blog",
+      "title": "ChatGPT Plus for veterans and servicemembers",
+      "date": "2026-11-11",
+      "published": "2026-11-11T08:00:00+00:00",
+      "arxiv_id": "",
+      "group_ids": [
+        "openai"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-11-11.json"
+    },
+    "blog-lazare-veni-foras-reprogramming-dormant--790aa327": {
+      "work_id": "blog-lazare-veni-foras-reprogramming-dormant--790aa327",
+      "kind": "blog",
+      "title": "Lazare, veni foras: Reprogramming Dormant Neurons to Backdoor AI Agents",
+      "date": "2026-11-11",
+      "published": "2026-11-10T20:52:56+00:00",
+      "arxiv_id": "",
+      "group_ids": [
+        "microsoft-research"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-11-11.json"
+    },
+    "blog-adobe-google-partnership-integration-2634f736": {
+      "work_id": "blog-adobe-google-partnership-integration-2634f736",
+      "kind": "blog",
+      "title": "We’re bringing Adobe’s creative and productivity tools closer to your everyday Google apps.",
+      "date": "2026-11-11",
+      "published": "2026-11-10T14:00:00+00:00",
+      "arxiv_id": "",
+      "group_ids": [
+        "google-deepmind"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-11-11.json"
+    },
+    "blog-helping-caregivers-use-ai-in-everyday-li-71e5336c": {
+      "work_id": "blog-helping-caregivers-use-ai-in-everyday-li-71e5336c",
+      "kind": "blog",
+      "title": "Helping caregivers use AI in everyday life",
+      "date": "2026-11-11",
+      "published": "2026-11-10T12:00:00+00:00",
+      "arxiv_id": "",
+      "group_ids": [
+        "openai"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-11-11.json"
+    },
+    "blog-introducing-businesses-chatgpt-92cbd532": {
+      "work_id": "blog-introducing-businesses-chatgpt-92cbd532",
+      "kind": "blog",
+      "title": "Introducing Businesses in ChatGPT",
+      "date": "2026-11-11",
+      "published": "2026-11-10T10:00:00+00:00",
+      "arxiv_id": "",
+      "group_ids": [
+        "openai"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-11-11.json"
+    },
+    "blog-closing-ai-guidance-gap-education-2ae8139c": {
+      "work_id": "blog-closing-ai-guidance-gap-education-2ae8139c",
+      "kind": "blog",
+      "title": "Closing the AI guidance gap in education",
+      "date": "2026-11-11",
+      "published": "2026-11-10T09:00:00+00:00",
+      "arxiv_id": "",
+      "group_ids": [
+        "openai"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-11-11.json"
+    },
+    "blog-ai-effect-on-freelance-work-ce35d328": {
+      "work_id": "blog-ai-effect-on-freelance-work-ce35d328",
+      "kind": "blog",
+      "title": "Work at the Frontier: AI’s effect on freelance work",
+      "date": "2026-11-11",
+      "published": "2026-11-10T07:00:00+00:00",
+      "arxiv_id": "",
+      "group_ids": [
+        "openai"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-11-11.json"
+    },
+    "blog-cogent-security-d5103b1a": {
+      "work_id": "blog-cogent-security-d5103b1a",
+      "kind": "blog",
+      "title": "Cogent and OpenAI build cyber defense factories for enterprises",
+      "date": "2026-11-11",
+      "published": "2026-11-10T00:00:00+00:00",
+      "arxiv_id": "",
+      "group_ids": [
+        "openai"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-11-11.json"
     }
   },
-  "last_updated": "2026-11-10T07:26:22.335014+00:00"
+  "last_updated": "2026-11-11T06:32:15.765629+00:00"
 }
