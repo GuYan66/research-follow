@@ -7873,7 +7873,77 @@
       "venue": "",
       "citation_count": 0,
       "path": "works/works-2026-11-11.json"
+    },
+    "blog-new-research-could-lead-faster-trustwort-fc893ed1": {
+      "work_id": "blog-new-research-could-lead-faster-trustwort-fc893ed1",
+      "kind": "blog",
+      "title": "New research could lead to faster, trustworthy AI models for climate prediction",
+      "date": "2026-11-12",
+      "published": "2026-11-12T05:00:00+00:00",
+      "arxiv_id": "",
+      "group_ids": [
+        "mit-csail"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-11-12.json"
+    },
+    "blog-jiostar-vijay-seshadri-46b84858": {
+      "work_id": "blog-jiostar-vijay-seshadri-46b84858",
+      "kind": "blog",
+      "title": "JioStar’s chief architect on AI discovery at 500M-user scale",
+      "date": "2026-11-12",
+      "published": "2026-11-11T00:00:00+00:00",
+      "arxiv_id": "",
+      "group_ids": [
+        "openai"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-11-12.json"
+    },
+    "blog-singapore-airlines-travel-work-48888502": {
+      "work_id": "blog-singapore-airlines-travel-work-48888502",
+      "kind": "blog",
+      "title": "Singapore Airlines elevates travel & work with OpenAI technology",
+      "date": "2026-11-12",
+      "published": "2026-11-10T08:00:00+00:00",
+      "arxiv_id": "",
+      "group_ids": [
+        "openai"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-11-12.json"
+    },
+    "2611.12870": {
+      "work_id": "2611.12870",
+      "kind": "paper",
+      "title": "SWAM: Scaling World Action Models with Cross-Modal Alignment",
+      "date": "2026-11-12",
+      "published": "2026-11-09T18:55:04+00:00",
+      "arxiv_id": "2611.12870",
+      "group_ids": [
+        "sjtu-ai"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-11-12.json"
+    },
+    "2611.10475": {
+      "work_id": "2611.10475",
+      "kind": "paper",
+      "title": "WordEval: Evaluating Word-Native Operation Fidelity in Document Editing",
+      "date": "2026-11-12",
+      "published": "2026-11-07",
+      "arxiv_id": "2611.10475",
+      "group_ids": [
+        "msra"
+      ],
+      "venue": "arXiv",
+      "citation_count": 0,
+      "path": "works/works-2026-11-12.json"
     }
   },
-  "last_updated": "2026-11-11T06:32:15.765629+00:00"
+  "last_updated": "2026-11-12T07:17:58.429011+00:00"
 }
