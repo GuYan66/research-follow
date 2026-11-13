@@ -7943,7 +7943,161 @@
       "venue": "arXiv",
       "citation_count": 0,
       "path": "works/works-2026-11-12.json"
+    },
+    "blog-new-ai-copilot-helps-engineers-design-be-ac497f8d": {
+      "work_id": "blog-new-ai-copilot-helps-engineers-design-be-ac497f8d",
+      "kind": "blog",
+      "title": "New AI “copilot” helps engineers design better structures",
+      "date": "2026-11-13",
+      "published": "2026-11-13T05:00:00+00:00",
+      "arxiv_id": "",
+      "group_ids": [
+        "mit-csail"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-11-13.json"
+    },
+    "blog-helping-robots-fit-into-human-workplace--8c502639": {
+      "work_id": "blog-helping-robots-fit-into-human-workplace--8c502639",
+      "kind": "blog",
+      "title": "Helping robots fit into the human workplace",
+      "date": "2026-11-13",
+      "published": "2026-11-13T05:00:00+00:00",
+      "arxiv_id": "",
+      "group_ids": [
+        "mit-csail"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-11-13.json"
+    },
+    "blog-microsoft-research-focus-edition-98-b4a8cf47": {
+      "work_id": "blog-microsoft-research-focus-edition-98-b4a8cf47",
+      "kind": "blog",
+      "title": "Microsoft Research Focus – Edition #98",
+      "date": "2026-11-13",
+      "published": "2026-11-12T21:31:57+00:00",
+      "arxiv_id": "",
+      "group_ids": [
+        "microsoft-research"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-11-13.json"
+    },
+    "blog-lincoln-laboratory-technologies-receive--a47ca7c5": {
+      "work_id": "blog-lincoln-laboratory-technologies-receive--a47ca7c5",
+      "kind": "blog",
+      "title": "Three Lincoln Laboratory technologies receive 2026 R&D 100 Awards",
+      "date": "2026-11-13",
+      "published": "2026-11-12T21:15:00+00:00",
+      "arxiv_id": "",
+      "group_ids": [
+        "mit-csail"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-11-13.json"
+    },
+    "blog-amplitude-fbb454a6": {
+      "work_id": "blog-amplitude-fbb454a6",
+      "kind": "blog",
+      "title": "How Amplitude ships product improvements in 1–2 days with OpenAI",
+      "date": "2026-11-13",
+      "published": "2026-11-12T20:00:00+00:00",
+      "arxiv_id": "",
+      "group_ids": [
+        "openai"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-11-13.json"
+    },
+    "blog-saving-giant-kelp-australia-947ec2fd": {
+      "work_id": "blog-saving-giant-kelp-australia-947ec2fd",
+      "kind": "blog",
+      "title": "Scientists are using Google AI to help restore giant kelp forests.",
+      "date": "2026-11-13",
+      "published": "2026-11-12T17:00:00+00:00",
+      "arxiv_id": "",
+      "group_ids": [
+        "google-research"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-11-13.json"
+    },
+    "blog-phd-fellows-2026-22226dfa": {
+      "work_id": "blog-phd-fellows-2026-22226dfa",
+      "kind": "blog",
+      "title": "Meet the 2026 Google PhD Fellows",
+      "date": "2026-11-13",
+      "published": "2026-11-12T17:00:00+00:00",
+      "arxiv_id": "",
+      "group_ids": [
+        "google-research"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-11-13.json"
+    },
+    "blog-gondola-3d376432": {
+      "work_id": "blog-gondola-3d376432",
+      "kind": "blog",
+      "title": "Gondola doubles revenue as its team builds more with Codex",
+      "date": "2026-11-13",
+      "published": "2026-11-12T12:00:00+00:00",
+      "arxiv_id": "",
+      "group_ids": [
+        "openai"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-11-13.json"
+    },
+    "2611.16642": {
+      "work_id": "2611.16642",
+      "kind": "paper",
+      "title": "Dataset Distillation via Drifting",
+      "date": "2026-11-13",
+      "published": "2026-11-12T11:17:40+00:00",
+      "arxiv_id": "2611.16642",
+      "group_ids": [
+        "mit-csail"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-11-13.json"
+    },
+    "blog-holidays-extras-codex-bba83e39": {
+      "work_id": "blog-holidays-extras-codex-bba83e39",
+      "kind": "blog",
+      "title": "Holiday Extras is rethinking what it can build with Codex",
+      "date": "2026-11-13",
+      "published": "2026-11-12T09:30:00+00:00",
+      "arxiv_id": "",
+      "group_ids": [
+        "openai"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-11-13.json"
+    },
+    "blog-children-first-declaration-84bf2843": {
+      "work_id": "blog-children-first-declaration-84bf2843",
+      "kind": "blog",
+      "title": "Supporting research on AI and children’s safety",
+      "date": "2026-11-13",
+      "published": "2026-11-12T00:00:00+00:00",
+      "arxiv_id": "",
+      "group_ids": [
+        "openai"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-11-13.json"
     }
   },
-  "last_updated": "2026-11-12T07:17:58.429011+00:00"
+  "last_updated": "2026-11-13T06:52:49.793964+00:00"
 }
