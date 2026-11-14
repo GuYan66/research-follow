@@ -1,0 +1,1335 @@
+{
+  "date": "2026-11-14",
+  "groups": [
+    "openai",
+    "google-deepmind",
+    "google-research",
+    "anthropic",
+    "meta-fair",
+    "microsoft-research",
+    "berkeley-bair",
+    "stanford-ai",
+    "mit-csail",
+    "cmu-ml",
+    "deepseek",
+    "zhipu-ai",
+    "moonshot-ai",
+    "bytedance-seed",
+    "alibaba-qwen",
+    "minimax",
+    "stepfun",
+    "tsinghua-ai",
+    "pku-ai",
+    "shanghai-ai-lab",
+    "sjtu-ai",
+    "msra"
+  ],
+  "window_days": 7,
+  "works": [
+    {
+      "work_id": "blog-introducing-chatgpt-wallet-e1440b38",
+      "kind": "blog",
+      "title": "Introducing ChatGPT Wallet",
+      "url": "https://openai.com/index/introducing-chatgpt-wallet",
+      "published": "2026-11-13T15:00:00+00:00",
+      "updated": "2026-11-13T15:00:00+00:00",
+      "summary": "Introducing ChatGPT Wallet, a secure way for agents in ChatGPT Work, Codex, and dots to complete purchases with user approval and existing card protections.",
+      "source": "blog",
+      "group_ids": [
+        "openai"
+      ],
+      "member_ids": [],
+      "member_names": [],
+      "authors": [],
+      "venue": "",
+      "citation_count": 0,
+      "influential_citation_count": 0,
+      "doi": "",
+      "arxiv_id": "",
+      "primary_category": "",
+      "categories": [],
+      "pdf_url": "",
+      "feed_url": "https://openai.com/news/rss.xml",
+      "blog_label": "OpenAI News",
+      "summary_cn": "",
+      "fetch_date": "2026-11-14",
+      "sources": [
+        "blog"
+      ]
+    },
+    {
+      "work_id": "blog-shield-f7f88c65",
+      "kind": "blog",
+      "title": "Shield helps technicians hand off legacy portal work with OpenAI",
+      "url": "https://openai.com/business/customer-stories/shield",
+      "published": "2026-11-13T08:00:00+00:00",
+      "updated": "2026-11-13T08:00:00+00:00",
+      "summary": "Shield uses OpenAI to help IT technicians hand off work in legacy portals. Its Forge agents navigate systems so technicians can focus on issues needing their judgment.",
+      "source": "blog",
+      "group_ids": [
+        "openai"
+      ],
+      "member_ids": [],
+      "member_names": [],
+      "authors": [],
+      "venue": "",
+      "citation_count": 0,
+      "influential_citation_count": 0,
+      "doi": "",
+      "arxiv_id": "",
+      "primary_category": "",
+      "categories": [],
+      "pdf_url": "",
+      "feed_url": "https://openai.com/news/rss.xml",
+      "blog_label": "OpenAI News",
+      "summary_cn": "",
+      "fetch_date": "2026-11-14",
+      "sources": [
+        "blog"
+      ]
+    },
+    {
+      "work_id": "blog-new-ai-copilot-helps-engineers-design-be-ac497f8d",
+      "kind": "blog",
+      "title": "New AI “copilot” helps engineers design better structures",
+      "url": "https://news.mit.edu/2026/new-ai-copilot-helps-engineers-design-better-structures-1113",
+      "published": "2026-11-13T05:00:00+00:00",
+      "updated": "2026-11-13T05:00:00+00:00",
+      "summary": "The system asks humans for feedback to increase trust in machine-generated designs for buildings and bridges.",
+      "source": "blog",
+      "group_ids": [
+        "mit-csail"
+      ],
+      "member_ids": [],
+      "member_names": [],
+      "authors": [],
+      "venue": "",
+      "citation_count": 0,
+      "influential_citation_count": 0,
+      "doi": "",
+      "arxiv_id": "",
+      "primary_category": "",
+      "categories": [],
+      "pdf_url": "",
+      "feed_url": "https://news.mit.edu/rss/topic/artificial-intelligence2",
+      "blog_label": "MIT News · AI",
+      "summary_cn": "",
+      "fetch_date": "2026-11-14",
+      "sources": [
+        "blog"
+      ]
+    },
+    {
+      "work_id": "blog-helping-robots-fit-into-human-workplace--8c502639",
+      "kind": "blog",
+      "title": "Helping robots fit into the human workplace",
+      "url": "https://news.mit.edu/2026/helping-robots-fit-into-human-workplace-1113",
+      "published": "2026-11-13T05:00:00+00:00",
+      "updated": "2026-11-13T05:00:00+00:00",
+      "summary": "Founded by Anthony Jules ’92, SM ’92 and Professor Emeritus Rodney Brooks, Robust AI’s robots are designed to collaborate with humans in factories and warehouses.",
+      "source": "blog",
+      "group_ids": [
+        "mit-csail"
+      ],
+      "member_ids": [],
+      "member_names": [],
+      "authors": [],
+      "venue": "",
+      "citation_count": 0,
+      "influential_citation_count": 0,
+      "doi": "",
+      "arxiv_id": "",
+      "primary_category": "",
+      "categories": [],
+      "pdf_url": "",
+      "feed_url": "https://news.mit.edu/rss/topic/artificial-intelligence2",
+      "blog_label": "MIT News · AI",
+      "summary_cn": "",
+      "fetch_date": "2026-11-14",
+      "sources": [
+        "blog"
+      ]
+    },
+    {
+      "work_id": "blog-microsoft-research-focus-edition-98-b4a8cf47",
+      "kind": "blog",
+      "title": "Microsoft Research Focus – Edition #98",
+      "url": "https://www.microsoft.com/en-us/research/podcast/microsoft-research-focus-edition-98/",
+      "published": "2026-11-12T21:31:57+00:00",
+      "updated": "2026-11-12T21:31:57+00:00",
+      "summary": "What's new in research at Microsoft? Host Anson Ho explores the latest, including AI-powered universal translation, a breakthrough in a 31-year-old mathematics challenge, and advances making AI coding agents faster and more efficient. The post Microsoft Research Focus – Edition #98 appeared first on Microsoft Research .",
+      "source": "blog",
+      "group_ids": [
+        "microsoft-research"
+      ],
+      "member_ids": [],
+      "member_names": [],
+      "authors": [],
+      "venue": "",
+      "citation_count": 0,
+      "influential_citation_count": 0,
+      "doi": "",
+      "arxiv_id": "",
+      "primary_category": "",
+      "categories": [],
+      "pdf_url": "",
+      "feed_url": "https://www.microsoft.com/en-us/research/feed/",
+      "blog_label": "Microsoft Research Blog",
+      "summary_cn": "",
+      "fetch_date": "2026-11-14",
+      "sources": [
+        "blog"
+      ]
+    },
+    {
+      "work_id": "blog-lincoln-laboratory-technologies-receive--a47ca7c5",
+      "kind": "blog",
+      "title": "Three Lincoln Laboratory technologies receive 2026 R&D 100 Awards",
+      "url": "https://news.mit.edu/2026/lincoln-laboratory-technologies-receive-rd-100-awards-1112",
+      "published": "2026-11-12T21:15:00+00:00",
+      "updated": "2026-11-12T21:15:00+00:00",
+      "summary": "A secure operating system, a quantum microsystem platform, and a 5G interference-canceling algorithm are named among the year's most significant innovations.",
+      "source": "blog",
+      "group_ids": [
+        "mit-csail"
+      ],
+      "member_ids": [],
+      "member_names": [],
+      "authors": [],
+      "venue": "",
+      "citation_count": 0,
+      "influential_citation_count": 0,
+      "doi": "",
+      "arxiv_id": "",
+      "primary_category": "",
+      "categories": [],
+      "pdf_url": "",
+      "feed_url": "https://news.mit.edu/rss/topic/artificial-intelligence2",
+      "blog_label": "MIT News · AI",
+      "summary_cn": "",
+      "fetch_date": "2026-11-14",
+      "sources": [
+        "blog"
+      ]
+    },
+    {
+      "work_id": "blog-amplitude-fbb454a6",
+      "kind": "blog",
+      "title": "How Amplitude ships product improvements in 1–2 days with OpenAI",
+      "url": "https://openai.com/business/customer-stories/amplitude",
+      "published": "2026-11-12T20:00:00+00:00",
+      "updated": "2026-11-12T20:00:00+00:00",
+      "summary": "Built primarily on OpenAI models, Amplitude’s proactive product agent, Wave, identifies what to build, helps teams ship changes with coding agents, and measures the impact.",
+      "source": "blog",
+      "group_ids": [
+        "openai"
+      ],
+      "member_ids": [],
+      "member_names": [],
+      "authors": [],
+      "venue": "",
+      "citation_count": 0,
+      "influential_citation_count": 0,
+      "doi": "",
+      "arxiv_id": "",
+      "primary_category": "",
+      "categories": [],
+      "pdf_url": "",
+      "feed_url": "https://openai.com/news/rss.xml",
+      "blog_label": "OpenAI News",
+      "summary_cn": "",
+      "fetch_date": "2026-11-14",
+      "sources": [
+        "blog"
+      ]
+    },
+    {
+      "work_id": "blog-saving-giant-kelp-australia-947ec2fd",
+      "kind": "blog",
+      "title": "Scientists are using Google AI to help restore giant kelp forests.",
+      "url": "https://blog.google/company-news/outreach-and-initiatives/sustainability/saving-giant-kelp-australia/",
+      "published": "2026-11-12T17:00:00+00:00",
+      "updated": "2026-11-12T17:00:00+00:00",
+      "summary": "Underwater forests of giant kelp protect coastlines, provide habitat, and support marine ecosystems — but they’re disappearing worldwide due to ocean warming. As COP31 k…",
+      "source": "blog",
+      "group_ids": [
+        "google-research"
+      ],
+      "member_ids": [],
+      "member_names": [],
+      "authors": [],
+      "venue": "",
+      "citation_count": 0,
+      "influential_citation_count": 0,
+      "doi": "",
+      "arxiv_id": "",
+      "primary_category": "",
+      "categories": [],
+      "pdf_url": "",
+      "feed_url": "https://blog.google/technology/research/rss/",
+      "blog_label": "Google Research Blog",
+      "summary_cn": "",
+      "fetch_date": "2026-11-14",
+      "sources": [
+        "blog"
+      ]
+    },
+    {
+      "work_id": "blog-phd-fellows-2026-22226dfa",
+      "kind": "blog",
+      "title": "Meet the 2026 Google PhD Fellows",
+      "url": "https://blog.google/company-news/outreach-and-initiatives/google-org/phd-fellows-2026/",
+      "published": "2026-11-12T17:00:00+00:00",
+      "updated": "2026-11-12T17:00:00+00:00",
+      "summary": "A classroom lecture scene on the lower left showing students listening to an instructor, and a researcher in a lab coat working at a computer station with laboratory equipment on the upper right.",
+      "source": "blog",
+      "group_ids": [
+        "google-research"
+      ],
+      "member_ids": [],
+      "member_names": [],
+      "authors": [],
+      "venue": "",
+      "citation_count": 0,
+      "influential_citation_count": 0,
+      "doi": "",
+      "arxiv_id": "",
+      "primary_category": "",
+      "categories": [],
+      "pdf_url": "",
+      "feed_url": "https://blog.google/technology/research/rss/",
+      "blog_label": "Google Research Blog",
+      "summary_cn": "",
+      "fetch_date": "2026-11-14",
+      "sources": [
+        "blog"
+      ]
+    },
+    {
+      "work_id": "blog-gondola-3d376432",
+      "kind": "blog",
+      "title": "Gondola doubles revenue as its team builds more with Codex",
+      "url": "https://openai.com/business/customer-stories/gondola",
+      "published": "2026-11-12T12:00:00+00:00",
+      "updated": "2026-11-12T12:00:00+00:00",
+      "summary": "Gondola helps creatives get credit and get hired, with Codex raising its lead engineer’s output by 50% and ChatGPT simplifying daily work.",
+      "source": "blog",
+      "group_ids": [
+        "openai"
+      ],
+      "member_ids": [],
+      "member_names": [],
+      "authors": [],
+      "venue": "",
+      "citation_count": 0,
+      "influential_citation_count": 0,
+      "doi": "",
+      "arxiv_id": "",
+      "primary_category": "",
+      "categories": [],
+      "pdf_url": "",
+      "feed_url": "https://openai.com/news/rss.xml",
+      "blog_label": "OpenAI News",
+      "summary_cn": "",
+      "fetch_date": "2026-11-14",
+      "sources": [
+        "blog"
+      ]
+    },
+    {
+      "work_id": "2611.16642",
+      "kind": "paper",
+      "title": "Dataset Distillation via Drifting",
+      "url": "https://arxiv.org/abs/2611.16642",
+      "published": "2026-11-12T11:17:40+00:00",
+      "updated": "2026-11-12T11:17:40+00:00",
+      "summary": "The task of dataset distillation concerns the learning of a small set of synthetic samples that can serve as an effective replacement for a large real dataset when used for downstream tasks. While many solutions have been proposed since the problem's inception, most of them primarily seek to optimize the distilled data with respect to a classifier. In this work, we propose a new distillation method that learns a set of samples such that they directly approximate the per-class data distribution. Specifically, we \"drift\" our distilled data in the latent space of a feature extractor such that they move both toward the real data and away from each other without using a classification objective. We find that our drifted data cover the real distribution significantly better than existing methods while still serving as powerful training samples for classification. Furthermore, we showcase our method's use as a visualization tool for better interpreting models and extend it beyond images to other modalities. Our work advances the frontier of dataset distillation, offering a novel synthesis method and proposing distribution-based metrics as a complementary evaluation. More broadly, our findings help address the growing need to understand both data and models by uncovering more about how they interact.",
+      "source": "arxiv",
+      "group_ids": [
+        "mit-csail"
+      ],
+      "member_ids": [
+        "antonio-torralba"
+      ],
+      "member_names": [
+        "Antonio Torralba"
+      ],
+      "authors": [
+        "George Cazenavette",
+        "Angelina Quan",
+        "Giannis Daras",
+        "Antonio Torralba",
+        "Vincent Sitzmann"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "influential_citation_count": 0,
+      "doi": "",
+      "arxiv_id": "2611.16642",
+      "primary_category": "cs.LG",
+      "categories": [
+        "cs.LG",
+        "cs.AI",
+        "cs.CV"
+      ],
+      "pdf_url": "https://arxiv.org/pdf/2611.16642v1",
+      "feed_url": "",
+      "blog_label": "",
+      "summary_cn": "",
+      "fetch_date": "2026-11-14",
+      "sources": [
+        "arxiv"
+      ]
+    },
+    {
+      "work_id": "blog-holidays-extras-codex-bba83e39",
+      "kind": "blog",
+      "title": "Holiday Extras is rethinking what it can build with Codex",
+      "url": "https://openai.com/business/customer-stories/holidays-extras-codex",
+      "published": "2026-11-12T09:30:00+00:00",
+      "updated": "2026-11-12T09:30:00+00:00",
+      "summary": "With Codex, Holiday Extras is turning customer expertise into better apps, higher booking conversion and new possibilities for growth.",
+      "source": "blog",
+      "group_ids": [
+        "openai"
+      ],
+      "member_ids": [],
+      "member_names": [],
+      "authors": [],
+      "venue": "",
+      "citation_count": 0,
+      "influential_citation_count": 0,
+      "doi": "",
+      "arxiv_id": "",
+      "primary_category": "",
+      "categories": [],
+      "pdf_url": "",
+      "feed_url": "https://openai.com/news/rss.xml",
+      "blog_label": "OpenAI News",
+      "summary_cn": "",
+      "fetch_date": "2026-11-14",
+      "sources": [
+        "blog"
+      ]
+    },
+    {
+      "work_id": "blog-new-research-could-lead-faster-trustwort-fc893ed1",
+      "kind": "blog",
+      "title": "New research could lead to faster, trustworthy AI models for climate prediction",
+      "url": "https://news.mit.edu/2026/new-research-could-lead-faster-trustworthy-ai-models-climate-prediction-1112",
+      "published": "2026-11-12T05:00:00+00:00",
+      "updated": "2026-11-12T05:00:00+00:00",
+      "summary": "MIT scientists developed a training method to generate models that simulate the effects of human activities on climate much more quickly than other approaches.",
+      "source": "blog",
+      "group_ids": [
+        "mit-csail"
+      ],
+      "member_ids": [],
+      "member_names": [],
+      "authors": [],
+      "venue": "",
+      "citation_count": 0,
+      "influential_citation_count": 0,
+      "doi": "",
+      "arxiv_id": "",
+      "primary_category": "",
+      "categories": [],
+      "pdf_url": "",
+      "feed_url": "https://news.mit.edu/rss/topic/artificial-intelligence2",
+      "blog_label": "MIT News · AI",
+      "summary_cn": "",
+      "fetch_date": "2026-11-14",
+      "sources": [
+        "blog"
+      ]
+    },
+    {
+      "work_id": "blog-children-first-declaration-84bf2843",
+      "kind": "blog",
+      "title": "Supporting research on AI and children’s safety",
+      "url": "https://openai.com/index/children-first-declaration",
+      "published": "2026-11-12T00:00:00+00:00",
+      "updated": "2026-11-12T00:00:00+00:00",
+      "summary": "OpenAI commits $2 million to research on AI and children’s safety. The work supports shared tools to measure risks and opportunities for young people.",
+      "source": "blog",
+      "group_ids": [
+        "openai"
+      ],
+      "member_ids": [],
+      "member_names": [],
+      "authors": [],
+      "venue": "",
+      "citation_count": 0,
+      "influential_citation_count": 0,
+      "doi": "",
+      "arxiv_id": "",
+      "primary_category": "",
+      "categories": [],
+      "pdf_url": "",
+      "feed_url": "https://openai.com/news/rss.xml",
+      "blog_label": "OpenAI News",
+      "summary_cn": "",
+      "fetch_date": "2026-11-14",
+      "sources": [
+        "blog"
+      ]
+    },
+    {
+      "work_id": "blog-gilbert-tobin-sam-nickless-a27fa72f",
+      "kind": "blog",
+      "title": "Gilbert + Tobin rethinks the business of law with AI",
+      "url": "https://openai.com/index/gilbert-tobin-sam-nickless",
+      "published": "2026-11-12T00:00:00+00:00",
+      "updated": "2026-11-12T00:00:00+00:00",
+      "summary": "A conversation with Sam Nickless, Partner and Chief Executive Officer at Gilbert + Tobin.",
+      "source": "blog",
+      "group_ids": [
+        "openai"
+      ],
+      "member_ids": [],
+      "member_names": [],
+      "authors": [],
+      "venue": "",
+      "citation_count": 0,
+      "influential_citation_count": 0,
+      "doi": "",
+      "arxiv_id": "",
+      "primary_category": "",
+      "categories": [],
+      "pdf_url": "",
+      "feed_url": "https://openai.com/news/rss.xml",
+      "blog_label": "OpenAI News",
+      "summary_cn": "",
+      "fetch_date": "2026-11-14",
+      "sources": [
+        "blog"
+      ]
+    },
+    {
+      "work_id": "blog-chatgpt-plus-for-veterans-44f57bd2",
+      "kind": "blog",
+      "title": "ChatGPT Plus for veterans and servicemembers",
+      "url": "https://openai.com/index/chatgpt-plus-for-veterans",
+      "published": "2026-11-11T08:00:00+00:00",
+      "updated": "2026-11-11T08:00:00+00:00",
+      "summary": "More than 20,000 veterans and transitioning service members have claimed a free year of ChatGPT Plus. See how they use it to prepare for civilian careers.",
+      "source": "blog",
+      "group_ids": [
+        "openai"
+      ],
+      "member_ids": [],
+      "member_names": [],
+      "authors": [],
+      "venue": "",
+      "citation_count": 0,
+      "influential_citation_count": 0,
+      "doi": "",
+      "arxiv_id": "",
+      "primary_category": "",
+      "categories": [],
+      "pdf_url": "",
+      "feed_url": "https://openai.com/news/rss.xml",
+      "blog_label": "OpenAI News",
+      "summary_cn": "",
+      "fetch_date": "2026-11-14",
+      "sources": [
+        "blog"
+      ]
+    },
+    {
+      "work_id": "blog-jiostar-vijay-seshadri-46b84858",
+      "kind": "blog",
+      "title": "JioStar’s chief architect on AI discovery at 500M-user scale",
+      "url": "https://openai.com/index/jiostar-vijay-seshadri",
+      "published": "2026-11-11T00:00:00+00:00",
+      "updated": "2026-11-11T00:00:00+00:00",
+      "summary": "JioStar’s Vijay Seshadri explains AI discovery at 500M-user scale. Read his lessons on evals, guardrails, and taking AI into production.",
+      "source": "blog",
+      "group_ids": [
+        "openai"
+      ],
+      "member_ids": [],
+      "member_names": [],
+      "authors": [],
+      "venue": "",
+      "citation_count": 0,
+      "influential_citation_count": 0,
+      "doi": "",
+      "arxiv_id": "",
+      "primary_category": "",
+      "categories": [],
+      "pdf_url": "",
+      "feed_url": "https://openai.com/news/rss.xml",
+      "blog_label": "OpenAI News",
+      "summary_cn": "",
+      "fetch_date": "2026-11-14",
+      "sources": [
+        "blog"
+      ]
+    },
+    {
+      "work_id": "blog-lazare-veni-foras-reprogramming-dormant--790aa327",
+      "kind": "blog",
+      "title": "Lazare, veni foras: Reprogramming Dormant Neurons to Backdoor AI Agents",
+      "url": "https://www.microsoft.com/en-us/research/blog/lazare-veni-foras-reprogramming-dormant-neurons-to-backdoor-ai-agents/",
+      "published": "2026-11-10T20:52:56+00:00",
+      "updated": "2026-11-10T20:52:56+00:00",
+      "summary": "Microsoft researchers have discovered “Lazarus,” a backdoor technique that can reprogram dormant neurons in an AI model, causing an otherwise normal AI agent to execute malicious commands when a hidden trigger appears. The threat is especially serious for AI agents with tool or terminal access. A triggered model could quietly download and run attacker code, […] The post Lazare, veni foras: Reprogramming Dormant Neurons to Backdoor AI Agents appeared first on Microsoft Research .",
+      "source": "blog",
+      "group_ids": [
+        "microsoft-research"
+      ],
+      "member_ids": [],
+      "member_names": [],
+      "authors": [],
+      "venue": "",
+      "citation_count": 0,
+      "influential_citation_count": 0,
+      "doi": "",
+      "arxiv_id": "",
+      "primary_category": "",
+      "categories": [],
+      "pdf_url": "",
+      "feed_url": "https://www.microsoft.com/en-us/research/feed/",
+      "blog_label": "Microsoft Research Blog",
+      "summary_cn": "",
+      "fetch_date": "2026-11-14",
+      "sources": [
+        "blog"
+      ]
+    },
+    {
+      "work_id": "blog-adobe-google-partnership-integration-2634f736",
+      "kind": "blog",
+      "title": "We’re bringing Adobe’s creative and productivity tools closer to your everyday Google apps.",
+      "url": "https://blog.google/company-news/inside-google/company-announcements/adobe-google-partnership-integration/",
+      "published": "2026-11-10T14:00:00+00:00",
+      "updated": "2026-11-10T14:00:00+00:00",
+      "summary": "Google and Adobe are integrating creative and productivity tools. Edit PDFs in Drive and use Adobe AI in Gemini. See what’s new in this partnership.",
+      "source": "blog",
+      "group_ids": [
+        "google-deepmind"
+      ],
+      "member_ids": [],
+      "member_names": [],
+      "authors": [],
+      "venue": "",
+      "citation_count": 0,
+      "influential_citation_count": 0,
+      "doi": "",
+      "arxiv_id": "",
+      "primary_category": "",
+      "categories": [],
+      "pdf_url": "",
+      "feed_url": "https://blog.google/technology/google-deepmind/rss/",
+      "blog_label": "Google DeepMind Blog",
+      "summary_cn": "",
+      "fetch_date": "2026-11-14",
+      "sources": [
+        "blog"
+      ]
+    },
+    {
+      "work_id": "blog-helping-caregivers-use-ai-in-everyday-li-71e5336c",
+      "kind": "blog",
+      "title": "Helping caregivers use AI in everyday life",
+      "url": "https://openai.com/index/helping-caregivers-use-ai-in-everyday-life",
+      "published": "2026-11-10T12:00:00+00:00",
+      "updated": "2026-11-10T12:00:00+00:00",
+      "summary": "OpenAI Academy is bringing free, hands-on ChatGPT workshops to caregivers in five U.S. cities, helping them build practical AI skills for everyday life.",
+      "source": "blog",
+      "group_ids": [
+        "openai"
+      ],
+      "member_ids": [],
+      "member_names": [],
+      "authors": [],
+      "venue": "",
+      "citation_count": 0,
+      "influential_citation_count": 0,
+      "doi": "",
+      "arxiv_id": "",
+      "primary_category": "",
+      "categories": [],
+      "pdf_url": "",
+      "feed_url": "https://openai.com/news/rss.xml",
+      "blog_label": "OpenAI News",
+      "summary_cn": "",
+      "fetch_date": "2026-11-14",
+      "sources": [
+        "blog"
+      ]
+    },
+    {
+      "work_id": "blog-introducing-businesses-chatgpt-92cbd532",
+      "kind": "blog",
+      "title": "Introducing Businesses in ChatGPT",
+      "url": "https://openai.com/index/introducing-businesses-chatgpt",
+      "published": "2026-11-10T10:00:00+00:00",
+      "updated": "2026-11-10T10:00:00+00:00",
+      "summary": "Manage your business information, get insights about how your business shows up, and turn interest into action in ChatGPT.",
+      "source": "blog",
+      "group_ids": [
+        "openai"
+      ],
+      "member_ids": [],
+      "member_names": [],
+      "authors": [],
+      "venue": "",
+      "citation_count": 0,
+      "influential_citation_count": 0,
+      "doi": "",
+      "arxiv_id": "",
+      "primary_category": "",
+      "categories": [],
+      "pdf_url": "",
+      "feed_url": "https://openai.com/news/rss.xml",
+      "blog_label": "OpenAI News",
+      "summary_cn": "",
+      "fetch_date": "2026-11-14",
+      "sources": [
+        "blog"
+      ]
+    },
+    {
+      "work_id": "blog-closing-ai-guidance-gap-education-2ae8139c",
+      "kind": "blog",
+      "title": "Closing the AI guidance gap in education",
+      "url": "https://openai.com/index/closing-ai-guidance-gap-education",
+      "published": "2026-11-10T09:00:00+00:00",
+      "updated": "2026-11-10T09:00:00+00:00",
+      "summary": "New ThinkYoung research and lessons from OpenAI’s EMEA education partnerships on supporting teachers, AI literacy, and independent learning.",
+      "source": "blog",
+      "group_ids": [
+        "openai"
+      ],
+      "member_ids": [],
+      "member_names": [],
+      "authors": [],
+      "venue": "",
+      "citation_count": 0,
+      "influential_citation_count": 0,
+      "doi": "",
+      "arxiv_id": "",
+      "primary_category": "",
+      "categories": [],
+      "pdf_url": "",
+      "feed_url": "https://openai.com/news/rss.xml",
+      "blog_label": "OpenAI News",
+      "summary_cn": "",
+      "fetch_date": "2026-11-14",
+      "sources": [
+        "blog"
+      ]
+    },
+    {
+      "work_id": "blog-singapore-airlines-travel-work-48888502",
+      "kind": "blog",
+      "title": "Singapore Airlines elevates travel & work with OpenAI technology",
+      "url": "https://openai.com/index/singapore-airlines-travel-work",
+      "published": "2026-11-10T08:00:00+00:00",
+      "updated": "2026-11-10T08:00:00+00:00",
+      "summary": "Discover how Singapore Airlines uses OpenAI models and API to enhance customer support, travel discovery, and employee productivity, doubling CSAT for its Kris chatbot.",
+      "source": "blog",
+      "group_ids": [
+        "openai"
+      ],
+      "member_ids": [],
+      "member_names": [],
+      "authors": [],
+      "venue": "",
+      "citation_count": 0,
+      "influential_citation_count": 0,
+      "doi": "",
+      "arxiv_id": "",
+      "primary_category": "",
+      "categories": [],
+      "pdf_url": "",
+      "feed_url": "https://openai.com/news/rss.xml",
+      "blog_label": "OpenAI News",
+      "summary_cn": "",
+      "fetch_date": "2026-11-14",
+      "sources": [
+        "blog"
+      ]
+    },
+    {
+      "work_id": "blog-ai-effect-on-freelance-work-ce35d328",
+      "kind": "blog",
+      "title": "Work at the Frontier: AI’s effect on freelance work",
+      "url": "https://openai.com/index/ai-effect-on-freelance-work",
+      "published": "2026-11-10T07:00:00+00:00",
+      "updated": "2026-11-10T07:00:00+00:00",
+      "summary": "New research from OpenAI and Upwork finds shifting demand for freelance work, new skill combinations, and larger budgets and more hours for AI-related projects.",
+      "source": "blog",
+      "group_ids": [
+        "openai"
+      ],
+      "member_ids": [],
+      "member_names": [],
+      "authors": [],
+      "venue": "",
+      "citation_count": 0,
+      "influential_citation_count": 0,
+      "doi": "",
+      "arxiv_id": "",
+      "primary_category": "",
+      "categories": [],
+      "pdf_url": "",
+      "feed_url": "https://openai.com/news/rss.xml",
+      "blog_label": "OpenAI News",
+      "summary_cn": "",
+      "fetch_date": "2026-11-14",
+      "sources": [
+        "blog"
+      ]
+    },
+    {
+      "work_id": "blog-mit-led-team-receives-funding-next-gener-5beed53c",
+      "kind": "blog",
+      "title": "MIT-led team receives funding to develop next-generation alternatives to modern weed killers",
+      "url": "https://news.mit.edu/2026/mit-led-team-receives-funding-next-generation-alternatives-modern-weed-killers-1110",
+      "published": "2026-11-10T05:00:00+00:00",
+      "updated": "2026-11-10T05:00:00+00:00",
+      "summary": "With up to $53 million from ARPA-H, the researchers will use AI to generate safer herbicides that reduce dependence on imports and improve the security of the U.S. food supply.",
+      "source": "blog",
+      "group_ids": [
+        "mit-csail"
+      ],
+      "member_ids": [],
+      "member_names": [],
+      "authors": [],
+      "venue": "",
+      "citation_count": 0,
+      "influential_citation_count": 0,
+      "doi": "",
+      "arxiv_id": "",
+      "primary_category": "",
+      "categories": [],
+      "pdf_url": "",
+      "feed_url": "https://news.mit.edu/rss/topic/artificial-intelligence2",
+      "blog_label": "MIT News · AI",
+      "summary_cn": "",
+      "fetch_date": "2026-11-14",
+      "sources": [
+        "blog"
+      ]
+    },
+    {
+      "work_id": "blog-cogent-security-d5103b1a",
+      "kind": "blog",
+      "title": "Cogent and OpenAI build cyber defense factories for enterprises",
+      "url": "https://openai.com/index/cogent-security",
+      "published": "2026-11-10T00:00:00+00:00",
+      "updated": "2026-11-10T00:00:00+00:00",
+      "summary": "Cogent combines OpenAI models with enterprise context to help automatically remediate vulnerabilities with agents.",
+      "source": "blog",
+      "group_ids": [
+        "openai"
+      ],
+      "member_ids": [],
+      "member_names": [],
+      "authors": [],
+      "venue": "",
+      "citation_count": 0,
+      "influential_citation_count": 0,
+      "doi": "",
+      "arxiv_id": "",
+      "primary_category": "",
+      "categories": [],
+      "pdf_url": "",
+      "feed_url": "https://openai.com/news/rss.xml",
+      "blog_label": "OpenAI News",
+      "summary_cn": "",
+      "fetch_date": "2026-11-14",
+      "sources": [
+        "blog"
+      ]
+    },
+    {
+      "work_id": "blog-chatgpt-enterprise-aws-marketplace-c9c90e01",
+      "kind": "blog",
+      "title": "ChatGPT Enterprise now available in AWS Marketplace",
+      "url": "https://openai.com/index/chatgpt-enterprise-aws-marketplace",
+      "published": "2026-11-09T19:00:00+00:00",
+      "updated": "2026-11-09T19:00:00+00:00",
+      "summary": "ChatGPT Enterprise is now available through AWS Marketplace, helping organizations simplify procurement through existing AWS purchasing and billing relationships.",
+      "source": "blog",
+      "group_ids": [
+        "openai"
+      ],
+      "member_ids": [],
+      "member_names": [],
+      "authors": [],
+      "venue": "",
+      "citation_count": 0,
+      "influential_citation_count": 0,
+      "doi": "",
+      "arxiv_id": "",
+      "primary_category": "",
+      "categories": [],
+      "pdf_url": "",
+      "feed_url": "https://openai.com/news/rss.xml",
+      "blog_label": "OpenAI News",
+      "summary_cn": "",
+      "fetch_date": "2026-11-14",
+      "sources": [
+        "blog"
+      ]
+    },
+    {
+      "work_id": "blog-control-room-2d21b67e",
+      "kind": "blog",
+      "title": "Control Room: A central system to track and stop model workloads across our research infrastructure",
+      "url": "https://openai.com/index/control-room",
+      "published": "2026-11-09T13:00:00+00:00",
+      "updated": "2026-11-09T13:00:00+00:00",
+      "summary": "Learn how OpenAI’s Control Room tracks model workloads across our research infrastructure and can rapidly stop them when safety or security concerns arise.",
+      "source": "blog",
+      "group_ids": [
+        "openai"
+      ],
+      "member_ids": [],
+      "member_names": [],
+      "authors": [],
+      "venue": "",
+      "citation_count": 0,
+      "influential_citation_count": 0,
+      "doi": "",
+      "arxiv_id": "",
+      "primary_category": "",
+      "categories": [],
+      "pdf_url": "",
+      "feed_url": "https://openai.com/news/rss.xml",
+      "blog_label": "OpenAI News",
+      "summary_cn": "",
+      "fetch_date": "2026-11-14",
+      "sources": [
+        "blog"
+      ]
+    },
+    {
+      "work_id": "blog-bair-at-corl-2026-e591eec5",
+      "kind": "blog",
+      "title": "BAIR at CoRL 2026",
+      "url": "http://bair.berkeley.edu/blog/2026/11/09/bair-at-corl-2026/",
+      "published": "2026-11-09T09:00:00+00:00",
+      "updated": "2026-11-09T09:00:00+00:00",
+      "summary": "The Conference on Robot Learning (CoRL) takes place November 9–12, 2026, in Austin, Texas. BAIR faculty, postdocs and students will be presenting research at various sessions, including an Early Career Keynote from Professor Negar Mehr. See below for the full schedule of sessions with BAIR members, including papers co-authored with collaborators at other universities and companies. November 9–12, 2026 Austin, Texas All times CST · UTC−6 33 Main-conference papers 4 Late-breaking results (LBR) posters 10 Orals & spotlights 3 orals · 7 spotlights 4 Days of research November 9–12 Mon Nov 9 Tue Nov",
+      "source": "blog",
+      "group_ids": [
+        "berkeley-bair"
+      ],
+      "member_ids": [],
+      "member_names": [],
+      "authors": [],
+      "venue": "",
+      "citation_count": 0,
+      "influential_citation_count": 0,
+      "doi": "",
+      "arxiv_id": "",
+      "primary_category": "",
+      "categories": [],
+      "pdf_url": "",
+      "feed_url": "https://bair.berkeley.edu/blog/feed.xml",
+      "blog_label": "BAIR Blog",
+      "summary_cn": "",
+      "fetch_date": "2026-11-14",
+      "sources": [
+        "blog"
+      ]
+    },
+    {
+      "work_id": "blog-coderabbit-codex-daybreak-8fc300a7",
+      "kind": "blog",
+      "title": "CodeRabbit scales agentic software development and ships 20x more",
+      "url": "https://openai.com/index/coderabbit-codex-daybreak",
+      "published": "2026-11-09T08:00:00+00:00",
+      "updated": "2026-11-09T08:00:00+00:00",
+      "summary": "CodeRabbit uses OpenAI models to govern and trust AI-generated code and Codex to ship 20 times more software with the same engineering team.",
+      "source": "blog",
+      "group_ids": [
+        "openai"
+      ],
+      "member_ids": [],
+      "member_names": [],
+      "authors": [],
+      "venue": "",
+      "citation_count": 0,
+      "influential_citation_count": 0,
+      "doi": "",
+      "arxiv_id": "",
+      "primary_category": "",
+      "categories": [],
+      "pdf_url": "",
+      "feed_url": "https://openai.com/news/rss.xml",
+      "blog_label": "OpenAI News",
+      "summary_cn": "",
+      "fetch_date": "2026-11-14",
+      "sources": [
+        "blog"
+      ]
+    },
+    {
+      "work_id": "blog-kuken-51f5761c",
+      "kind": "blog",
+      "title": "Kuken Industries searches 70 years of drawings in minutes",
+      "url": "https://openai.com/index/kuken",
+      "published": "2026-11-09T08:00:00+00:00",
+      "updated": "2026-11-09T08:00:00+00:00",
+      "summary": "Kuken Industries uses the OpenAI API to search 70 years of cooling tower drawings. Engineers can find the drawing for a repair in 4.5 minutes, down from nearly an hour.",
+      "source": "blog",
+      "group_ids": [
+        "openai"
+      ],
+      "member_ids": [],
+      "member_names": [],
+      "authors": [],
+      "venue": "",
+      "citation_count": 0,
+      "influential_citation_count": 0,
+      "doi": "",
+      "arxiv_id": "",
+      "primary_category": "",
+      "categories": [],
+      "pdf_url": "",
+      "feed_url": "https://openai.com/news/rss.xml",
+      "blog_label": "OpenAI News",
+      "summary_cn": "",
+      "fetch_date": "2026-11-14",
+      "sources": [
+        "blog"
+      ]
+    },
+    {
+      "work_id": "blog-single-ai-model-simulates-many-substance-b48e01d3",
+      "kind": "blog",
+      "title": "A single AI model simulates the behavior of many substances, from sliding sand to folding proteins",
+      "url": "https://news.mit.edu/2026/single-ai-model-simulates-many-substances-behavior-1109",
+      "published": "2026-11-09T05:00:00+00:00",
+      "updated": "2026-11-09T05:00:00+00:00",
+      "summary": "By learning how matter moves, the WorldParticle system could assist with developing soft robots, medicines, and more.",
+      "source": "blog",
+      "group_ids": [
+        "mit-csail"
+      ],
+      "member_ids": [],
+      "member_names": [],
+      "authors": [],
+      "venue": "",
+      "citation_count": 0,
+      "influential_citation_count": 0,
+      "doi": "",
+      "arxiv_id": "",
+      "primary_category": "",
+      "categories": [],
+      "pdf_url": "",
+      "feed_url": "https://news.mit.edu/rss/topic/artificial-intelligence2",
+      "blog_label": "MIT News · AI",
+      "summary_cn": "",
+      "fetch_date": "2026-11-14",
+      "sources": [
+        "blog"
+      ]
+    },
+    {
+      "work_id": "blog-ai-assisted-learning-platform-helps-robo-bd1eb81e",
+      "kind": "blog",
+      "title": "AI-assisted learning platform helps robots reason beyond literal commands",
+      "url": "https://news.mit.edu/2026/ai-assisted-learning-platform-helps-robots-reason-beyond-literal-commands-1109",
+      "published": "2026-11-09T05:00:00+00:00",
+      "updated": "2026-11-09T05:00:00+00:00",
+      "summary": "The new approach, known as FLEX, could lead to more intuitive, interactive household and assistive robots.",
+      "source": "blog",
+      "group_ids": [
+        "mit-csail"
+      ],
+      "member_ids": [],
+      "member_names": [],
+      "authors": [],
+      "venue": "",
+      "citation_count": 0,
+      "influential_citation_count": 0,
+      "doi": "",
+      "arxiv_id": "",
+      "primary_category": "",
+      "categories": [],
+      "pdf_url": "",
+      "feed_url": "https://news.mit.edu/rss/topic/artificial-intelligence2",
+      "blog_label": "MIT News · AI",
+      "summary_cn": "",
+      "fetch_date": "2026-11-14",
+      "sources": [
+        "blog"
+      ]
+    },
+    {
+      "work_id": "2611.12177",
+      "kind": "paper",
+      "title": "Embodied First Exam",
+      "url": "https://arxiv.org/abs/2611.12177",
+      "published": "2026-11-09",
+      "updated": "2026-11-13T13:42:25.865203",
+      "summary": "Early successes on agentic robotics point to a potential paradigm shift toward using coding agents to control robots. Existing robotics benchmarks are built around visuomotor policy learning, leaving it open whether coding agents can reliably control diverse robots under physical-world constraints. We therefore introduce the Embodied First Exam, a unified, comprehensive, and agent-native evaluation framework where coding agents can choose their own control approach: direct control, code to control, or train a policy to control. We hope it serves as a first exam for coding agents before they enter the physical world, with 1,156 tasks in 35 suites on 47 robots, including 9 new suites that go beyond pick-and-place to spatial puzzles, dexterous manipulation, multi-robot interaction, dynamic whole-body control, and sim-to-sim engineering. Each task can be run in up to three evaluation settings. The Standard Setting mimics the real world: the agent receives only sensor observations and, by default, cannot reset the environment. Its Realtime variant keeps the environment running while the agent reasons. The Privileged Setting gives the agent access to the full simulator state and unlimited resets, allowing it to search for an oracle solution for training purposes. Success rates in this setting serve as an approximate upper bound. On the 456 core tasks, the strongest of eight agents, GPT-6 Astra in Codex, achieves a success rate of 34% in the Standard Setting, leaving much room for improvement. To see where agents fail, we label the stage at which failed attempts go wrong and compare failures across agents, settings, and stage categories.",
+      "source": "openalex",
+      "group_ids": [
+        "berkeley-bair"
+      ],
+      "member_ids": [
+        "pieter-abbeel"
+      ],
+      "member_names": [
+        "Pieter Abbeel"
+      ],
+      "authors": [
+        "Kangrui Wang",
+        "Qineng Wang",
+        "Changhe Chen",
+        "Pingyue Zhang",
+        "Chi Gui",
+        "Feishi Wang",
+        "Canyu Chen",
+        "Wenli Xiao",
+        "Xiaoyu Huang",
+        "Tonghe Zhang",
+        "Linjie Li",
+        "Zihan Wang",
+        "Minyeong Kim",
+        "Yiyou Sun",
+        "Mingkai Deng",
+        "Jinyu Hou",
+        "Qi Zhu",
+        "Han Liu",
+        "Eric P. Xing",
+        "Huaxiu Yao",
+        "Zhiwen Fan",
+        "Yuejiang Liu",
+        "Dawn Song",
+        "Pieter Abbeel",
+        "Li Fei-Fei",
+        "Jiajun Wu",
+        "Yuke Zhu",
+        "Guanya Shi",
+        "Ruohan Zhang",
+        "Manling Li"
+      ],
+      "venue": "arXiv",
+      "citation_count": 0,
+      "influential_citation_count": 0,
+      "doi": "10.48550/arxiv.2611.12177",
+      "arxiv_id": "2611.12177",
+      "primary_category": "cs.RO",
+      "categories": [
+        "cs.RO",
+        "cs.AI"
+      ],
+      "pdf_url": "https://arxiv.org/pdf/2611.12177",
+      "feed_url": "",
+      "blog_label": "",
+      "summary_cn": "",
+      "fetch_date": "2026-11-14",
+      "sources": [
+        "openalex",
+        "arxiv"
+      ]
+    },
+    {
+      "work_id": "2611.11962",
+      "kind": "paper",
+      "title": "Shaping Useful Noise: Energy Distributions Predict Visual Pretraining Quality",
+      "url": "https://arxiv.org/abs/2611.11962",
+      "published": "2026-11-09",
+      "updated": "2026-11-12T12:28:57.059296",
+      "summary": "Synthetic data can scale visual pretraining, but current selection criteria only partially explain which datasets train strong representations. We propose using the energy profile of a dataset--the distribution of log-probability levels it occupies under a normalised real-image density model--as an audit and curation principle for synthetic data. To operationalise this view, we introduce Energy-Level Distribution Distance (ELD), which compares real and synthetic energy distributions. Real images span sparse high-likelihood scenes and dense low-likelihood textures, so useful synthetic data should cover this energy range rather than collapse to likely but low-variation samples. Across diverse synthetic datasets, ELD exposes mismatches missed by FID and predicts pretraining performance beyond FID, LPIPS variation, and feature-space recall, including across CNN and ViT self-supervised settings. We then use ELD to resample and mix synthetic sources, matching the real-image energy histogram while preserving diversity and improving downstream transfer.",
+      "source": "openalex",
+      "group_ids": [
+        "mit-csail"
+      ],
+      "member_ids": [
+        "antonio-torralba"
+      ],
+      "member_names": [
+        "Antonio Torralba"
+      ],
+      "authors": [
+        "Ching Lam Choi",
+        "Antonio B. Torralba",
+        "Phillip Isola",
+        "Stefanie Jegelka"
+      ],
+      "venue": "arXiv",
+      "citation_count": 0,
+      "influential_citation_count": 0,
+      "doi": "10.48550/arxiv.2611.11962",
+      "arxiv_id": "2611.11962",
+      "primary_category": "cs.LG",
+      "categories": [
+        "cs.LG",
+        "cs.AI",
+        "cs.CV"
+      ],
+      "pdf_url": "https://arxiv.org/pdf/2611.11962",
+      "feed_url": "",
+      "blog_label": "",
+      "summary_cn": "",
+      "fetch_date": "2026-11-14",
+      "sources": [
+        "openalex",
+        "arxiv"
+      ]
+    },
+    {
+      "work_id": "2611.11379",
+      "kind": "paper",
+      "title": "Self-Supervised Collapse Prevention with Score-Based Entropy Maximization",
+      "url": "https://arxiv.org/abs/2611.11379",
+      "published": "2026-11-08",
+      "updated": "2026-11-12T12:28:57.059296",
+      "summary": "Diffusion models have demonstrated the effectiveness of score-based objectives for generative modeling, yet their potential for self-supervised representation learning remains underexplored. We introduce Entropy-Based Regularization (EBReg), a framework that uses latent score estimation to regularize the latent distribution during self-supervised training. EBReg jointly learns an encoder and a latent score model, and utilizes the learned score to provide a diversity-preserving signal that prevents representational collapse. Motivated by a mutual-information lower bound, we formulate the objective as view alignment with smoothed marginal entropy maximization and optimize the marginal entropy without explicit density evaluation. The same score model can additionally be used at test time to refine corrupted representations toward the training latent distribution. Empirically, EBReg learns competitive representations on ImageNet-1K, achieving 75.57% linear-probe accuracy with ViT-L. Across diverse architectures, score-guided test-time adaptation further improves robustness on ImageNet-C, yielding an average relative accuracy gain of approximately 5%.",
+      "source": "openalex",
+      "group_ids": [
+        "meta-fair"
+      ],
+      "member_ids": [
+        "yann-lecun"
+      ],
+      "member_names": [
+        "Yann LeCun"
+      ],
+      "authors": [
+        "Adarsh Kappiyath",
+        "Silpa Vadakkeeveetil Sreelatha",
+        "Xiatian Zhu",
+        "Yann LeCun",
+        "Lu Yin",
+        "Amir Bar"
+      ],
+      "venue": "arXiv",
+      "citation_count": 0,
+      "influential_citation_count": 0,
+      "doi": "10.48550/arxiv.2611.11379",
+      "arxiv_id": "2611.11379",
+      "primary_category": "cs.LG",
+      "categories": [
+        "cs.LG"
+      ],
+      "pdf_url": "https://arxiv.org/pdf/2611.11379",
+      "feed_url": "",
+      "blog_label": "",
+      "summary_cn": "",
+      "fetch_date": "2026-11-14",
+      "sources": [
+        "openalex",
+        "arxiv"
+      ]
+    },
+    {
+      "work_id": "doi-10-1038-s41598-026-79072-2",
+      "kind": "paper",
+      "title": "Maternal autophagy contributes to grain yield in maize",
+      "url": "https://doi.org/10.1038/s41598-026-79072-2",
+      "published": "2026-11-07",
+      "updated": "2026-11-13T13:42:25.865203",
+      "summary": "Maize ( Zea mays ) is an important crop species that is cultivated worldwide, and increasing maize yield is one of the major goals of plant breeding. The subcellular degradation and recycling pathway known as autophagy is involved in many plant developmental processes including vegetative growth, reproductive development, seed development, and senescence. Here, we demonstrate that maize autophagy-defective atg10 mutants have delayed flowering and reduced kernel size, weight and number, leading to reduced grain yield. Reciprocal crosses between mutant and parental lines indicate that, in contrast to the model plant Arabidopsis thaliana , the maternal maize plant genotype is the major contributor to the kernel phenotype in atg10 mutants, rather than the seed genotype.",
+      "source": "openalex",
+      "group_ids": [
+        "zhipu-ai"
+      ],
+      "member_ids": [
+        "jie-tang"
+      ],
+      "member_names": [
+        "Jie Tang"
+      ],
+      "authors": [
+        "Jie Tang",
+        "Xia Wan",
+        "Alan M. Myers",
+        "Tamar Avin‐Wittenberg",
+        "Erik Vollbrecht",
+        "Diane C. Bassham"
+      ],
+      "venue": "Scientific Reports",
+      "citation_count": 0,
+      "influential_citation_count": 0,
+      "doi": "10.1038/s41598-026-79072-2",
+      "arxiv_id": "",
+      "primary_category": "",
+      "categories": [],
+      "pdf_url": "https://www.nature.com/articles/s41598-026-79072-2_reference.pdf",
+      "feed_url": "",
+      "blog_label": "",
+      "summary_cn": "",
+      "fetch_date": "2026-11-14",
+      "sources": [
+        "openalex"
+      ]
+    },
+    {
+      "work_id": "2611.10475",
+      "kind": "paper",
+      "title": "WordEval: Evaluating Word-Native Operation Fidelity in Document Editing",
+      "url": "https://arxiv.org/abs/2611.10475",
+      "published": "2026-11-07",
+      "updated": "2026-11-12T12:28:57.059296",
+      "summary": "Microsoft Word is a central environment for office automation, and the faithful execution of its editing operations is an important capability for document agents. Unlike plain-text editing, editing in Word modifies a structured object model, where the requested effect is realized in object properties. Existing benchmarks, however, evaluate office workflows or desktop automation, treating word-processor documents as one task domain among many and verifying outcomes with keyword matching, per-task property checks, or screenshot comparison. We introduce WordEval, an operation-fidelity benchmark that instead centers evaluation on Word editing operations, testing whether each requested edit is realized as intended changes to Word objects and properties. It contains 642 cases across 15 Word feature areas, ranging from text and lists to charts, shape geometry, and SmartArt. 546 atomic cases cover 231 commands, 96 compositional cases combine multiple edits in a single document, and a Word-native oracle checks task-specific object properties and preservation conditions. Cases are constructed from editing-unit specifications, yielding controlled input documents, reference documents, and aligned oracle checks. Each compositional case is linked to corresponding atomic cases, supporting fine-grained diagnosis of editing failures. We evaluate eight agent systems and find that many struggle on the Atomic track, with performance varying across feature areas. Moreover, every system scores lower on Compositional than on Atomic, with gaps that vary substantially by system. Exact atomic-intent links and recorded failure diagnoses provide complementary views of this variation.",
+      "source": "openalex",
+      "group_ids": [
+        "msra"
+      ],
+      "member_ids": [
+        "furu-wei"
+      ],
+      "member_names": [
+        "Furu Wei"
+      ],
+      "authors": [
+        "Jinyoung Park",
+        "Yupan Huang",
+        "Shimin Zhang",
+        "Ding Jiayu",
+        "Yilin Jia",
+        "Yuzhong Zhao",
+        "Tengchao Lv",
+        "Wenshan Wu",
+        "Shaohan Huang",
+        "Nan Yang",
+        "Xiangyang Zhou",
+        "Dongdong Zhang",
+        "Li Dong",
+        "Lei Cui",
+        "Sun Mao",
+        "Xun Wang",
+        "Tao Ge",
+        "H. Jiao",
+        "Si-Qing Chen",
+        "Changick Kim",
+        "Furu Wei"
+      ],
+      "venue": "arXiv",
+      "citation_count": 0,
+      "influential_citation_count": 0,
+      "doi": "10.48550/arxiv.2611.10475",
+      "arxiv_id": "2611.10475",
+      "primary_category": "",
+      "categories": [],
+      "pdf_url": "https://arxiv.org/pdf/2611.10475",
+      "feed_url": "",
+      "blog_label": "",
+      "summary_cn": "",
+      "fetch_date": "2026-11-14",
+      "sources": [
+        "openalex"
+      ]
+    }
+  ],
+  "source_stats": {
+    "openalex": 5,
+    "arxiv": 4,
+    "blog": 32
+  },
+  "kind_stats": {
+    "blog": 32,
+    "paper": 6
+  }
+}

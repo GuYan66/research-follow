@@ -8097,7 +8097,35 @@
       "venue": "",
       "citation_count": 0,
       "path": "works/works-2026-11-13.json"
+    },
+    "blog-introducing-chatgpt-wallet-e1440b38": {
+      "work_id": "blog-introducing-chatgpt-wallet-e1440b38",
+      "kind": "blog",
+      "title": "Introducing ChatGPT Wallet",
+      "date": "2026-11-14",
+      "published": "2026-11-13T15:00:00+00:00",
+      "arxiv_id": "",
+      "group_ids": [
+        "openai"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-11-14.json"
+    },
+    "blog-shield-f7f88c65": {
+      "work_id": "blog-shield-f7f88c65",
+      "kind": "blog",
+      "title": "Shield helps technicians hand off legacy portal work with OpenAI",
+      "date": "2026-11-14",
+      "published": "2026-11-13T08:00:00+00:00",
+      "arxiv_id": "",
+      "group_ids": [
+        "openai"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-11-14.json"
     }
   },
-  "last_updated": "2026-11-13T06:52:49.793964+00:00"
+  "last_updated": "2026-11-14T06:31:57.049781+00:00"
 }
