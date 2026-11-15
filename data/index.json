@@ -8125,7 +8125,35 @@
       "venue": "",
       "citation_count": 0,
       "path": "works/works-2026-11-14.json"
+    },
+    "doi-10-1002-aaai-70110": {
+      "work_id": "doi-10-1002-aaai-70110",
+      "kind": "paper",
+      "title": "World models: Enabling the next AI revolution",
+      "date": "2026-11-15",
+      "published": "2026-11-13",
+      "arxiv_id": "",
+      "group_ids": [
+        "meta-fair"
+      ],
+      "venue": "AI Magazine",
+      "citation_count": 0,
+      "path": "works/works-2026-11-15.json"
+    },
+    "2611.15189": {
+      "work_id": "2611.15189",
+      "kind": "paper",
+      "title": "WordInferBench: Can Agents Infer How to Edit from Word Document Context?",
+      "date": "2026-11-15",
+      "published": "2026-11-11",
+      "arxiv_id": "2611.15189",
+      "group_ids": [
+        "msra"
+      ],
+      "venue": "arXiv",
+      "citation_count": 0,
+      "path": "works/works-2026-11-15.json"
     }
   },
-  "last_updated": "2026-11-14T06:31:57.049781+00:00"
+  "last_updated": "2026-11-15T06:41:53.470130+00:00"
 }
