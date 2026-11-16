@@ -8153,7 +8153,35 @@
       "venue": "arXiv",
       "citation_count": 0,
       "path": "works/works-2026-11-15.json"
+    },
+    "blog-step-toward-defining-the-standard-model-724f7432": {
+      "work_id": "blog-step-toward-defining-the-standard-model-724f7432",
+      "kind": "blog",
+      "title": "A step toward defining the Standard Model on a lattice",
+      "date": "2026-11-16",
+      "published": "2026-11-15T22:00:01+00:00",
+      "arxiv_id": "",
+      "group_ids": [
+        "openai"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-11-16.json"
+    },
+    "blog-our-new-blog-for-science-c4761de5": {
+      "work_id": "blog-our-new-blog-for-science-c4761de5",
+      "kind": "blog",
+      "title": "Our new blog for science",
+      "date": "2026-11-16",
+      "published": "2026-11-15T22:00:00+00:00",
+      "arxiv_id": "",
+      "group_ids": [
+        "openai"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-11-16.json"
     }
   },
-  "last_updated": "2026-11-15T06:41:53.470130+00:00"
+  "last_updated": "2026-11-16T06:38:23.743519+00:00"
 }
