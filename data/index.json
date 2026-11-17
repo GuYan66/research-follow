@@ -8181,7 +8181,217 @@
       "venue": "",
       "citation_count": 0,
       "path": "works/works-2026-11-16.json"
+    },
+    "blog-qa-why-building-math-muscles-remains-imp-ef07b832": {
+      "work_id": "blog-qa-why-building-math-muscles-remains-imp-ef07b832",
+      "kind": "blog",
+      "title": "Q&A: Why building math muscles remains important in the AI era",
+      "date": "2026-11-17",
+      "published": "2026-11-17T05:00:00+00:00",
+      "arxiv_id": "",
+      "group_ids": [
+        "mit-csail"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-11-17.json"
+    },
+    "blog-learning-language-of-machine-learning-ja-b2d39cf6": {
+      "work_id": "blog-learning-language-of-machine-learning-ja-b2d39cf6",
+      "kind": "blog",
+      "title": "Learning the language of machine learning",
+      "date": "2026-11-17",
+      "published": "2026-11-17T05:00:00+00:00",
+      "arxiv_id": "",
+      "group_ids": [
+        "mit-csail"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-11-17.json"
+    },
+    "blog-strengthening-nato-allied-cyber-defences-833aaecc": {
+      "work_id": "blog-strengthening-nato-allied-cyber-defences-833aaecc",
+      "kind": "blog",
+      "title": "Strengthening NATO and allied cyber defenses with AI",
+      "date": "2026-11-17",
+      "published": "2026-11-17T00:00:00+00:00",
+      "arxiv_id": "",
+      "group_ids": [
+        "openai"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-11-17.json"
+    },
+    "2611.21608": {
+      "work_id": "2611.21608",
+      "kind": "paper",
+      "title": "Latent Lattice Language Models",
+      "date": "2026-11-17",
+      "published": "2026-11-16T18:59:38+00:00",
+      "arxiv_id": "2611.21608",
+      "group_ids": [
+        "mit-csail"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-11-17.json"
+    },
+    "blog-tokeneconomizer-learning-from-experience-316647da": {
+      "work_id": "blog-tokeneconomizer-learning-from-experience-316647da",
+      "kind": "blog",
+      "title": "TokenEconomizer: Learning from Experience to Make AI Coding Agents More Efficient",
+      "date": "2026-11-17",
+      "published": "2026-11-16T17:01:35+00:00",
+      "arxiv_id": "",
+      "group_ids": [
+        "microsoft-research"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-11-17.json"
+    },
+    "blog-expanding-chatgpt-for-academic-researche-bb4f73f3": {
+      "work_id": "blog-expanding-chatgpt-for-academic-researche-bb4f73f3",
+      "kind": "blog",
+      "title": "Broadening access to AI for scientists",
+      "date": "2026-11-17",
+      "published": "2026-11-16T17:00:00+00:00",
+      "arxiv_id": "",
+      "group_ids": [
+        "openai"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-11-17.json"
+    },
+    "blog-strengthening-online-child-safety-35c81f29": {
+      "work_id": "blog-strengthening-online-child-safety-35c81f29",
+      "kind": "blog",
+      "title": "Strengthening the fight against online child sexual abuse with new tools and support",
+      "date": "2026-11-17",
+      "published": "2026-11-16T17:00:00+00:00",
+      "arxiv_id": "",
+      "group_ids": [
+        "openai"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-11-17.json"
+    },
+    "blog-science-at-the-frontier-471d06f4": {
+      "work_id": "blog-science-at-the-frontier-471d06f4",
+      "kind": "blog",
+      "title": "Science at the Frontier: How scientists use ChatGPT",
+      "date": "2026-11-17",
+      "published": "2026-11-16T12:00:00+00:00",
+      "arxiv_id": "",
+      "group_ids": [
+        "openai"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-11-17.json"
+    },
+    "blog-revolut-62067a80": {
+      "work_id": "blog-revolut-62067a80",
+      "kind": "blog",
+      "title": "How Revolut raises ambition without lowering the bar",
+      "date": "2026-11-17",
+      "published": "2026-11-16T09:30:00+00:00",
+      "arxiv_id": "",
+      "group_ids": [
+        "openai"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-11-17.json"
+    },
+    "blog-lvmh-media-division-partnership-77bde5ab": {
+      "work_id": "blog-lvmh-media-division-partnership-77bde5ab",
+      "kind": "blog",
+      "title": "LVMH’s Media Division announces strategic partnership with OpenAI",
+      "date": "2026-11-17",
+      "published": "2026-11-16T09:00:00+00:00",
+      "arxiv_id": "",
+      "group_ids": [
+        "openai"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-11-17.json"
+    },
+    "blog-our-first-phase-of-embedded-assessments-d939a66e": {
+      "work_id": "blog-our-first-phase-of-embedded-assessments-d939a66e",
+      "kind": "blog",
+      "title": "Our first phase of embedded assessments",
+      "date": "2026-11-17",
+      "published": "2026-11-16T08:00:00+00:00",
+      "arxiv_id": "",
+      "group_ids": [
+        "openai"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-11-17.json"
+    },
+    "blog-more-ways-to-move-care-forward-with-chat-ec664a18": {
+      "work_id": "blog-more-ways-to-move-care-forward-with-chat-ec664a18",
+      "kind": "blog",
+      "title": "More ways to move care forward with ChatGPT for Healthcare",
+      "date": "2026-11-17",
+      "published": "2026-11-16T06:00:00+00:00",
+      "arxiv_id": "",
+      "group_ids": [
+        "openai"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-11-17.json"
+    },
+    "blog-advancing-computer-use-for-healthcare-te-6aa8f4d3": {
+      "work_id": "blog-advancing-computer-use-for-healthcare-te-6aa8f4d3",
+      "kind": "blog",
+      "title": "Advancing computer-use agents for healthcare teams",
+      "date": "2026-11-17",
+      "published": "2026-11-16T06:00:00+00:00",
+      "arxiv_id": "",
+      "group_ids": [
+        "openai"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-11-17.json"
+    },
+    "blog-the-kings-trust-and-openai-e1214426": {
+      "work_id": "blog-the-kings-trust-and-openai-e1214426",
+      "kind": "blog",
+      "title": "The King’s Trust and OpenAI launch £1m partnership",
+      "date": "2026-11-17",
+      "published": "2026-11-16T00:00:00+00:00",
+      "arxiv_id": "",
+      "group_ids": [
+        "openai"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-11-17.json"
+    },
+    "blog-holiday-extras-dots-6aa2cc11": {
+      "work_id": "blog-holiday-extras-dots-6aa2cc11",
+      "kind": "blog",
+      "title": "At Holiday Extras, dots get to work before anyone asks",
+      "date": "2026-11-17",
+      "published": "2026-11-16T00:00:00+00:00",
+      "arxiv_id": "",
+      "group_ids": [
+        "openai"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-11-17.json"
     }
   },
-  "last_updated": "2026-11-16T06:38:23.743519+00:00"
+  "last_updated": "2026-11-17T08:01:27.198344+00:00"
 }
