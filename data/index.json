@@ -8391,7 +8391,162 @@
       "venue": "",
       "citation_count": 0,
       "path": "works/works-2026-11-17.json"
+    },
+    "blog-helping-ai-text-detectors-keep-up-with-c-5d93cf01": {
+      "work_id": "blog-helping-ai-text-detectors-keep-up-with-c-5d93cf01",
+      "kind": "blog",
+      "title": "Helping AI text detectors keep up with changing conditions",
+      "date": "2026-11-18",
+      "published": "2026-11-18T05:00:00+00:00",
+      "arxiv_id": "",
+      "group_ids": [
+        "mit-csail"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-11-18.json"
+    },
+    "blog-alphagenome-disease-research-429c30e4": {
+      "work_id": "blog-alphagenome-disease-research-429c30e4",
+      "kind": "blog",
+      "title": "How genome mapping can help researchers better understand disease",
+      "date": "2026-11-18",
+      "published": "2026-11-17T22:00:00+00:00",
+      "arxiv_id": "",
+      "group_ids": [
+        "google-deepmind",
+        "google-research"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-11-18.json"
+    },
+    "blog-putting-spotlight-ai-society-humanity-11-0fa8bf8a": {
+      "work_id": "blog-putting-spotlight-ai-society-humanity-11-0fa8bf8a",
+      "kind": "blog",
+      "title": "Putting a spotlight on AI, society, and humanity",
+      "date": "2026-11-18",
+      "published": "2026-11-17T20:40:00+00:00",
+      "arxiv_id": "",
+      "group_ids": [
+        "mit-csail"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-11-18.json"
+    },
+    "2611.23229": {
+      "work_id": "2611.23229",
+      "kind": "paper",
+      "title": "Ambient LLMs: Data-Efficient Supervised Fine-tuning via Temperature Matching",
+      "date": "2026-11-18",
+      "published": "2026-11-17T18:59:37+00:00",
+      "arxiv_id": "2611.23229",
+      "group_ids": [
+        "mit-csail"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-11-18.json"
+    },
+    "blog-introducing-gpt-6-2-astra-sol-556c5051": {
+      "work_id": "blog-introducing-gpt-6-2-astra-sol-556c5051",
+      "kind": "blog",
+      "title": "Introducing GPT-6.2 Astra and Sol",
+      "date": "2026-11-18",
+      "published": "2026-11-17T17:45:00+00:00",
+      "arxiv_id": "",
+      "group_ids": [
+        "openai"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-11-18.json"
+    },
+    "blog-can-ai-help-build-a-healthier-future-ca4da2a0": {
+      "work_id": "blog-can-ai-help-build-a-healthier-future-ca4da2a0",
+      "kind": "blog",
+      "title": "Can AI help build a healthier future?",
+      "date": "2026-11-18",
+      "published": "2026-11-17T16:52:17+00:00",
+      "arxiv_id": "",
+      "group_ids": [
+        "microsoft-research"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-11-18.json"
+    },
+    "blog-introducing-chatgpt-for-sales-24605a91": {
+      "work_id": "blog-introducing-chatgpt-for-sales-24605a91",
+      "kind": "blog",
+      "title": "Introducing ChatGPT for Sales",
+      "date": "2026-11-18",
+      "published": "2026-11-17T08:00:00+00:00",
+      "arxiv_id": "",
+      "group_ids": [
+        "openai"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-11-18.json"
+    },
+    "blog-astra-law-6-2-ef69739c": {
+      "work_id": "blog-astra-law-6-2-ef69739c",
+      "kind": "blog",
+      "title": "Astra for Law leads in legal intelligence",
+      "date": "2026-11-18",
+      "published": "2026-11-17T00:00:00+00:00",
+      "arxiv_id": "",
+      "group_ids": [
+        "openai"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-11-18.json"
+    },
+    "blog-introducing-openai-for-chile-a5b7d990": {
+      "work_id": "blog-introducing-openai-for-chile-a5b7d990",
+      "kind": "blog",
+      "title": "Introducing OpenAI for Chile",
+      "date": "2026-11-18",
+      "published": "2026-11-17T00:00:00+00:00",
+      "arxiv_id": "",
+      "group_ids": [
+        "openai"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-11-18.json"
+    },
+    "2611.21919": {
+      "work_id": "2611.21919",
+      "kind": "paper",
+      "title": "ALOHA Lightning: Learning Fast and Precise Manipulation",
+      "date": "2026-11-18",
+      "published": "2026-11-16T21:31:18+00:00",
+      "arxiv_id": "2611.21919",
+      "group_ids": [
+        "stanford-ai"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-11-18.json"
+    },
+    "blog-chatgpt-ads-increases-its-market-presenc-8566bde9": {
+      "work_id": "blog-chatgpt-ads-increases-its-market-presenc-8566bde9",
+      "kind": "blog",
+      "title": "ChatGPT Ads increases its market presence in 44 countries",
+      "date": "2026-11-18",
+      "published": "2026-11-12T00:00:00+00:00",
+      "arxiv_id": "",
+      "group_ids": [
+        "openai"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-11-18.json"
     }
   },
-  "last_updated": "2026-11-17T08:01:27.198344+00:00"
+  "last_updated": "2026-11-18T07:35:55.344074+00:00"
 }
