@@ -8546,7 +8546,161 @@
       "venue": "",
       "citation_count": 0,
       "path": "works/works-2026-11-18.json"
+    },
+    "blog-featherweight-flying-robot-carries-its-o-380fed88": {
+      "work_id": "blog-featherweight-flying-robot-carries-its-o-380fed88",
+      "kind": "blog",
+      "title": "This featherweight, flying robot carries its own sensors and computers",
+      "date": "2026-11-19",
+      "published": "2026-11-18T19:00:00+00:00",
+      "arxiv_id": "",
+      "group_ids": [
+        "mit-csail"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-11-19.json"
+    },
+    "2611.24927": {
+      "work_id": "2611.24927",
+      "kind": "paper",
+      "title": "Mapping the AI Supply Chain: Dependencies, Vulnerabilities, and Market Concentration in the AI Ecosystem",
+      "date": "2026-11-19",
+      "published": "2026-11-18T18:53:58+00:00",
+      "arxiv_id": "2611.24927",
+      "group_ids": [
+        "stanford-ai"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-11-19.json"
+    },
+    "blog-genie-4-now-available-project-genie-4d729ecf": {
+      "work_id": "blog-genie-4-now-available-project-genie-4d729ecf",
+      "kind": "blog",
+      "title": "Genie 4 is now available",
+      "date": "2026-11-19",
+      "published": "2026-11-18T18:00:00+00:00",
+      "arxiv_id": "",
+      "group_ids": [
+        "google-deepmind"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-11-19.json"
+    },
+    "2611.24778": {
+      "work_id": "2611.24778",
+      "kind": "paper",
+      "title": "Counterfactual World Models: JEPAs That Reason About \"What If\"",
+      "date": "2026-11-19",
+      "published": "2026-11-18T17:24:00+00:00",
+      "arxiv_id": "2611.24778",
+      "group_ids": [
+        "meta-fair"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-11-19.json"
+    },
+    "blog-the-silent-consensus-5afb1a80": {
+      "work_id": "blog-the-silent-consensus-5afb1a80",
+      "kind": "blog",
+      "title": "The Silent Consensus",
+      "date": "2026-11-19",
+      "published": "2026-11-18T10:00:00+00:00",
+      "arxiv_id": "",
+      "group_ids": [
+        "openai"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-11-19.json"
+    },
+    "blog-research-acceleration-jagged-frontier-036524e0": {
+      "work_id": "blog-research-acceleration-jagged-frontier-036524e0",
+      "kind": "blog",
+      "title": "Research acceleration: The jagged frontier",
+      "date": "2026-11-19",
+      "published": "2026-11-18T08:00:00+00:00",
+      "arxiv_id": "",
+      "group_ids": [
+        "openai"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-11-19.json"
+    },
+    "blog-sumitomo-life-3f6877ea": {
+      "work_id": "blog-sumitomo-life-3f6877ea",
+      "kind": "blog",
+      "title": "How Sumitomo Life’s leaders helped teams adopt ChatGPT Enterprise",
+      "date": "2026-11-19",
+      "published": "2026-11-18T08:00:00+00:00",
+      "arxiv_id": "",
+      "group_ids": [
+        "openai"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-11-19.json"
+    },
+    "blog-inside-the-codex-sandbox-2e586242": {
+      "work_id": "blog-inside-the-codex-sandbox-2e586242",
+      "kind": "blog",
+      "title": "Inside the Codex sandbox",
+      "date": "2026-11-19",
+      "published": "2026-11-18T08:00:00+00:00",
+      "arxiv_id": "",
+      "group_ids": [
+        "openai"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-11-19.json"
+    },
+    "blog-managing-frontier-ai-risk-45720383": {
+      "work_id": "blog-managing-frontier-ai-risk-45720383",
+      "kind": "blog",
+      "title": "Managing frontier AI risk: From training to deployment",
+      "date": "2026-11-19",
+      "published": "2026-11-18T06:00:00+00:00",
+      "arxiv_id": "",
+      "group_ids": [
+        "openai"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-11-19.json"
+    },
+    "blog-le-groupe-figaro-and-openai-announce-par-11c25326": {
+      "work_id": "blog-le-groupe-figaro-and-openai-announce-par-11c25326",
+      "kind": "blog",
+      "title": "Le Groupe Figaro and OpenAI partner to bring Le Figaro journalism to ChatGPT",
+      "date": "2026-11-19",
+      "published": "2026-11-18T00:00:00+00:00",
+      "arxiv_id": "",
+      "group_ids": [
+        "openai"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-11-19.json"
+    },
+    "blog-advancing-chip-design-with-our-models-da6a81d0": {
+      "work_id": "blog-advancing-chip-design-with-our-models-da6a81d0",
+      "kind": "blog",
+      "title": "Advancing chip design with OpenAI models",
+      "date": "2026-11-19",
+      "published": "2026-11-18T00:00:00+00:00",
+      "arxiv_id": "",
+      "group_ids": [
+        "openai"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-11-19.json"
     }
   },
-  "last_updated": "2026-11-18T07:35:55.344074+00:00"
+  "last_updated": "2026-11-19T07:33:09.923068+00:00"
 }
