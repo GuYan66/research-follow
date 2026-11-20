@@ -8700,7 +8700,147 @@
       "venue": "",
       "citation_count": 0,
       "path": "works/works-2026-11-19.json"
+    },
+    "blog-ai-helps-researchers-investigate-how-med-5ac833a2": {
+      "work_id": "blog-ai-helps-researchers-investigate-how-med-5ac833a2",
+      "kind": "blog",
+      "title": "AI helps researchers investigate how thousands of medical studies share code",
+      "date": "2026-11-20",
+      "published": "2026-11-19T22:15:00+00:00",
+      "arxiv_id": "",
+      "group_ids": [
+        "mit-csail"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-11-20.json"
+    },
+    "blog-genie-4-in-gemini-api-1358adde": {
+      "work_id": "blog-genie-4-in-gemini-api-1358adde",
+      "kind": "blog",
+      "title": "Genie 4 is now available on the Gemini API.",
+      "date": "2026-11-20",
+      "published": "2026-11-19T17:00:00+00:00",
+      "arxiv_id": "",
+      "group_ids": [
+        "google-deepmind"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-11-20.json"
+    },
+    "blog-towards-a-science-of-capable-autonomous--9a4b7a00": {
+      "work_id": "blog-towards-a-science-of-capable-autonomous--9a4b7a00",
+      "kind": "blog",
+      "title": "Towards a Science of Capable Autonomous Agents & Provable Safety — Part II",
+      "date": "2026-11-20",
+      "published": "2026-11-19T15:13:59+00:00",
+      "arxiv_id": "",
+      "group_ids": [
+        "cmu-ml"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-11-20.json"
+    },
+    "blog-study-reveals-data-centers-long-distance-f16d1537": {
+      "work_id": "blog-study-reveals-data-centers-long-distance-f16d1537",
+      "kind": "blog",
+      "title": "Study reveals data centers’ long-distance damage to air quality",
+      "date": "2026-11-20",
+      "published": "2026-11-19T14:00:00+00:00",
+      "arxiv_id": "",
+      "group_ids": [
+        "mit-csail"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-11-20.json"
+    },
+    "blog-blue-origin-project-suncatcher-partnersh-b0a64ceb": {
+      "work_id": "blog-blue-origin-project-suncatcher-partnersh-b0a64ceb",
+      "kind": "blog",
+      "title": "We’re partnering with Blue Origin on our first heavy-lift Project Suncatcher launch.",
+      "date": "2026-11-20",
+      "published": "2026-11-19T13:00:00+00:00",
+      "arxiv_id": "",
+      "group_ids": [
+        "google-research"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-11-20.json"
+    },
+    "blog-how-openai-performance-factory-keeps-cha-06f8cfd0": {
+      "work_id": "blog-how-openai-performance-factory-keeps-cha-06f8cfd0",
+      "kind": "blog",
+      "title": "How OpenAI’s Performance Factory keeps ChatGPT fast",
+      "date": "2026-11-20",
+      "published": "2026-11-19T08:00:00+00:00",
+      "arxiv_id": "",
+      "group_ids": [
+        "openai"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-11-20.json"
+    },
+    "blog-deploying-daybreak-red-bc1ce405": {
+      "work_id": "blog-deploying-daybreak-red-bc1ce405",
+      "kind": "blog",
+      "title": "Deploying Daybreak Red",
+      "date": "2026-11-20",
+      "published": "2026-11-19T00:00:00+00:00",
+      "arxiv_id": "",
+      "group_ids": [
+        "openai"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-11-20.json"
+    },
+    "blog-pr-scans-demo-7546ab2b": {
+      "work_id": "blog-pr-scans-demo-7546ab2b",
+      "kind": "blog",
+      "title": "See PR scans in action",
+      "date": "2026-11-20",
+      "published": "2026-11-19T00:00:00+00:00",
+      "arxiv_id": "",
+      "group_ids": [
+        "openai"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-11-20.json"
+    },
+    "blog-codex-security-plugin-demo-9b15b18e": {
+      "work_id": "blog-codex-security-plugin-demo-9b15b18e",
+      "kind": "blog",
+      "title": "Explore the Codex Security Plugin",
+      "date": "2026-11-20",
+      "published": "2026-11-19T00:00:00+00:00",
+      "arxiv_id": "",
+      "group_ids": [
+        "openai"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-11-20.json"
+    },
+    "blog-daybreak-blue-onboarding-demo-302889cb": {
+      "work_id": "blog-daybreak-blue-onboarding-demo-302889cb",
+      "kind": "blog",
+      "title": "Get started with Daybreak Blue",
+      "date": "2026-11-20",
+      "published": "2026-11-19T00:00:00+00:00",
+      "arxiv_id": "",
+      "group_ids": [
+        "openai"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-11-20.json"
     }
   },
-  "last_updated": "2026-11-19T07:33:09.923068+00:00"
+  "last_updated": "2026-11-20T07:24:06.795516+00:00"
 }
