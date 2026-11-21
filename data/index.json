@@ -8840,7 +8840,119 @@
       "venue": "",
       "citation_count": 0,
       "path": "works/works-2026-11-20.json"
+    },
+    "blog-qa-enabling-more-human-interactions-unde-07c5ae88": {
+      "work_id": "blog-qa-enabling-more-human-interactions-unde-07c5ae88",
+      "kind": "blog",
+      "title": "Q&A: Enabling more human-like interactions and understanding in multimodal foundation models",
+      "date": "2026-11-21",
+      "published": "2026-11-20T21:00:00+00:00",
+      "arxiv_id": "",
+      "group_ids": [
+        "mit-csail"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-11-21.json"
+    },
+    "blog-new-approach-enables-physically-consiste-c9121acd": {
+      "work_id": "blog-new-approach-enables-physically-consiste-c9121acd",
+      "kind": "blog",
+      "title": "New approach enables physically consistent AI models of chaotic systems",
+      "date": "2026-11-21",
+      "published": "2026-11-20T20:00:00+00:00",
+      "arxiv_id": "",
+      "group_ids": [
+        "mit-csail"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-11-21.json"
+    },
+    "blog-watch-duty-gemini-tool-2f7ca900": {
+      "work_id": "blog-watch-duty-gemini-tool-2f7ca900",
+      "kind": "blog",
+      "title": "How Watch Duty is using Gemini to get wildfire alerts out faster",
+      "date": "2026-11-21",
+      "published": "2026-11-20T17:00:00+00:00",
+      "arxiv_id": "",
+      "group_ids": [
+        "google-research"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-11-21.json"
+    },
+    "blog-following-mathocalypse-mathematicians-co-e11d9652": {
+      "work_id": "blog-following-mathocalypse-mathematicians-co-e11d9652",
+      "kind": "blog",
+      "title": "Following the “mathocalypse,” mathematicians consider the future",
+      "date": "2026-11-21",
+      "published": "2026-11-20T15:20:00+00:00",
+      "arxiv_id": "",
+      "group_ids": [
+        "mit-csail"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-11-21.json"
+    },
+    "blog-combatting-adversarial-distillation-c697d04d": {
+      "work_id": "blog-combatting-adversarial-distillation-c697d04d",
+      "kind": "blog",
+      "title": "Combatting adversarial distillation",
+      "date": "2026-11-21",
+      "published": "2026-11-20T10:00:00+00:00",
+      "arxiv_id": "",
+      "group_ids": [
+        "openai"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-11-21.json"
+    },
+    "blog-hebbia-f83c1eb3": {
+      "work_id": "blog-hebbia-f83c1eb3",
+      "kind": "blog",
+      "title": "Hebbia sees improvements in financial research with GPT-6 Astra",
+      "date": "2026-11-21",
+      "published": "2026-11-20T00:00:00+00:00",
+      "arxiv_id": "",
+      "group_ids": [
+        "openai"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-11-21.json"
+    },
+    "blog-introducing-medchembench-c322352b": {
+      "work_id": "blog-introducing-medchembench-c322352b",
+      "kind": "blog",
+      "title": "Can AI help scientists identify promising drug candidates?",
+      "date": "2026-11-21",
+      "published": "2026-11-20T00:00:00+00:00",
+      "arxiv_id": "",
+      "group_ids": [
+        "openai"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-11-21.json"
+    },
+    "doi-10-5281-zenodo-24356796": {
+      "work_id": "doi-10-5281-zenodo-24356796",
+      "kind": "paper",
+      "title": "The Content–Geometry Tradeoff in World Models: When JEPA Learns Latent Maps",
+      "date": "2026-11-21",
+      "published": "2026-11-18",
+      "arxiv_id": "",
+      "group_ids": [
+        "meta-fair"
+      ],
+      "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+      "citation_count": 0,
+      "path": "works/works-2026-11-21.json"
     }
   },
-  "last_updated": "2026-11-20T07:24:06.795516+00:00"
+  "last_updated": "2026-11-21T07:16:45.696311+00:00"
 }
