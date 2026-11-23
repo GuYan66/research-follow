@@ -8952,7 +8952,35 @@
       "venue": "Zenodo (CERN European Organization for Nuclear Research)",
       "citation_count": 0,
       "path": "works/works-2026-11-21.json"
+    },
+    "blog-ai-driven-technique-could-help-engineers-6bec1d86": {
+      "work_id": "blog-ai-driven-technique-could-help-engineers-6bec1d86",
+      "kind": "blog",
+      "title": "AI-driven technique could help engineers design analog chips faster and with less expense",
+      "date": "2026-11-23",
+      "published": "2026-11-23T05:00:00+00:00",
+      "arxiv_id": "",
+      "group_ids": [
+        "mit-csail"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-11-23.json"
+    },
+    "blog-perplexity-and-intelligence-aa3d0f2e": {
+      "work_id": "blog-perplexity-and-intelligence-aa3d0f2e",
+      "kind": "blog",
+      "title": "Perplexity and Intelligence",
+      "date": "2026-11-23",
+      "published": "2026-11-22T00:00:00+00:00",
+      "arxiv_id": "",
+      "group_ids": [
+        "openai"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-11-23.json"
     }
   },
-  "last_updated": "2026-11-22T06:57:36.559256+00:00"
+  "last_updated": "2026-11-23T07:46:53.002754+00:00"
 }
