@@ -8980,7 +8980,77 @@
       "venue": "",
       "citation_count": 0,
       "path": "works/works-2026-11-23.json"
+    },
+    "blog-introducing-shirudo-5bf4d347": {
+      "work_id": "blog-introducing-shirudo-5bf4d347",
+      "kind": "blog",
+      "title": "OpenAI and Cisco introduce Shirudo",
+      "date": "2026-11-24",
+      "published": "2026-11-23T21:20:00+00:00",
+      "arxiv_id": "",
+      "group_ids": [
+        "openai"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-11-24.json"
+    },
+    "blog-many-languages-one-common-neural-code-11-0349b6e2": {
+      "work_id": "blog-many-languages-one-common-neural-code-11-0349b6e2",
+      "kind": "blog",
+      "title": "Many languages, one common neural code",
+      "date": "2026-11-24",
+      "published": "2026-11-23T21:15:00+00:00",
+      "arxiv_id": "",
+      "group_ids": [
+        "mit-csail"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-11-24.json"
+    },
+    "blog-connected-intelligence-for-in-house-lega-276a0bb7": {
+      "work_id": "blog-connected-intelligence-for-in-house-lega-276a0bb7",
+      "kind": "blog",
+      "title": "Connected intelligence for in-house legal",
+      "date": "2026-11-24",
+      "published": "2026-11-23T08:00:00+00:00",
+      "arxiv_id": "",
+      "group_ids": [
+        "openai"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-11-24.json"
+    },
+    "blog-richpanel-ai-customer-support-d9b84878": {
+      "work_id": "blog-richpanel-ai-customer-support-d9b84878",
+      "kind": "blog",
+      "title": "Richpanel helps companies automate 50% of support in 30 days",
+      "date": "2026-11-24",
+      "published": "2026-11-23T08:00:00+00:00",
+      "arxiv_id": "",
+      "group_ids": [
+        "openai"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-11-24.json"
+    },
+    "p-title-neurips-2025-foundation-models-mee": {
+      "work_id": "p-title-neurips-2025-foundation-models-mee",
+      "kind": "paper",
+      "title": "NeurIPS 2025 Foundation Models Meet Embodied Agents Challenge: Systems, Analysis, and Lessons Learned",
+      "date": "2026-11-24",
+      "published": "2026-11-21",
+      "arxiv_id": "",
+      "group_ids": [
+        "stanford-ai"
+      ],
+      "venue": "Proceedings of Machine Learning Research",
+      "citation_count": 0,
+      "path": "works/works-2026-11-24.json"
     }
   },
-  "last_updated": "2026-11-23T07:46:53.002754+00:00"
+  "last_updated": "2026-11-24T10:00:55.045460+00:00"
 }
