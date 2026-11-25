@@ -9050,7 +9050,133 @@
       "venue": "Proceedings of Machine Learning Research",
       "citation_count": 0,
       "path": "works/works-2026-11-24.json"
+    },
+    "blog-humanitys-first-exam-a55a6a9d": {
+      "work_id": "blog-humanitys-first-exam-a55a6a9d",
+      "kind": "blog",
+      "title": "We’re launching Humanity’s First Exam and a Kaggle hackathon to test LLM reliability.",
+      "date": "2026-11-25",
+      "published": "2026-11-24T19:30:00+00:00",
+      "arxiv_id": "",
+      "group_ids": [
+        "google-deepmind"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-11-25.json"
+    },
+    "blog-tangimap-agentic-system-personalizes-phy-431aaf9b": {
+      "work_id": "blog-tangimap-agentic-system-personalizes-phy-431aaf9b",
+      "kind": "blog",
+      "title": "Agentic system personalizes physical controls to help users “DJ their art”",
+      "date": "2026-11-25",
+      "published": "2026-11-24T19:30:00+00:00",
+      "arxiv_id": "",
+      "group_ids": [
+        "mit-csail"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-11-25.json"
+    },
+    "blog-gpt-6-models-demonstrate-intrinsic-prote-7d9478f3": {
+      "work_id": "blog-gpt-6-models-demonstrate-intrinsic-prote-7d9478f3",
+      "kind": "blog",
+      "title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
+      "date": "2026-11-25",
+      "published": "2026-11-24T13:00:00+00:00",
+      "arxiv_id": "",
+      "group_ids": [
+        "openai"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-11-25.json"
+    },
+    "blog-searching-for-distant-planets-with-astra-28ef2939": {
+      "work_id": "blog-searching-for-distant-planets-with-astra-28ef2939",
+      "kind": "blog",
+      "title": "Searching for distant planets with Astra",
+      "date": "2026-11-25",
+      "published": "2026-11-24T11:00:00+00:00",
+      "arxiv_id": "",
+      "group_ids": [
+        "openai"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-11-25.json"
+    },
+    "2611.31870": {
+      "work_id": "2611.31870",
+      "kind": "paper",
+      "title": "Subliminal Learning Crosses Modalities",
+      "date": "2026-11-25",
+      "published": "2026-11-24T03:21:35+00:00",
+      "arxiv_id": "2611.31870",
+      "group_ids": [
+        "mit-csail"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-11-25.json"
+    },
+    "blog-intentful-dots-7473f849": {
+      "work_id": "blog-intentful-dots-7473f849",
+      "kind": "blog",
+      "title": "How Intentful uses dots to make more time for growth",
+      "date": "2026-11-25",
+      "published": "2026-11-24T00:00:00+00:00",
+      "arxiv_id": "",
+      "group_ids": [
+        "openai"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-11-25.json"
+    },
+    "blog-ifood-fc16149c": {
+      "work_id": "blog-ifood-fc16149c",
+      "kind": "blog",
+      "title": "How iFood scales coding agents across 15,000 repositories",
+      "date": "2026-11-25",
+      "published": "2026-11-24T00:00:00+00:00",
+      "arxiv_id": "",
+      "group_ids": [
+        "openai"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-11-25.json"
+    },
+    "blog-clay-plugins-openai-87a30c08": {
+      "work_id": "blog-clay-plugins-openai-87a30c08",
+      "kind": "blog",
+      "title": "Clay helps sales teams win with Codex and ChatGPT",
+      "date": "2026-11-25",
+      "published": "2026-11-24T00:00:00+00:00",
+      "arxiv_id": "",
+      "group_ids": [
+        "openai"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-11-25.json"
+    },
+    "2611.31588": {
+      "work_id": "2611.31588",
+      "kind": "paper",
+      "title": "One Phase Is Enough: Sim-to-Real Transfer with Direct Visual Reinforcement Learning",
+      "date": "2026-11-25",
+      "published": "2026-11-23T21:32:12+00:00",
+      "arxiv_id": "2611.31588",
+      "group_ids": [
+        "mit-csail"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-11-25.json"
     }
   },
-  "last_updated": "2026-11-24T10:00:55.045460+00:00"
+  "last_updated": "2026-11-25T08:43:45.197506+00:00"
 }
