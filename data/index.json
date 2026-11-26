@@ -9176,7 +9176,21 @@
       "venue": "",
       "citation_count": 0,
       "path": "works/works-2026-11-25.json"
+    },
+    "doi-10-4121-340c08e6-8cad-4b61-8108-b0dce490": {
+      "work_id": "doi-10-4121-340c08e6-8cad-4b61-8108-b0dce490",
+      "kind": "paper",
+      "title": "Data underlying the publication \"Fingertip mechanics and tactile sensing make independent, quantifiable contributions to dexterous manipulation throughput\"",
+      "date": "2026-11-26",
+      "published": "2026-11-24",
+      "arxiv_id": "",
+      "group_ids": [
+        "mit-csail"
+      ],
+      "venue": "4TU.ResearchData",
+      "citation_count": 0,
+      "path": "works/works-2026-11-26.json"
     }
   },
-  "last_updated": "2026-11-25T08:43:45.197506+00:00"
+  "last_updated": "2026-11-26T08:27:57.014214+00:00"
 }
