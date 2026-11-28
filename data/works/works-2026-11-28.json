@@ -1,0 +1,706 @@
+{
+  "date": "2026-11-28",
+  "groups": [
+    "openai",
+    "google-deepmind",
+    "google-research",
+    "anthropic",
+    "meta-fair",
+    "microsoft-research",
+    "berkeley-bair",
+    "stanford-ai",
+    "mit-csail",
+    "cmu-ml",
+    "deepseek",
+    "zhipu-ai",
+    "moonshot-ai",
+    "bytedance-seed",
+    "alibaba-qwen",
+    "minimax",
+    "stepfun",
+    "tsinghua-ai",
+    "pku-ai",
+    "shanghai-ai-lab",
+    "sjtu-ai",
+    "msra"
+  ],
+  "window_days": 7,
+  "works": [
+    {
+      "work_id": "blog-humanitys-first-exam-a55a6a9d",
+      "kind": "blog",
+      "title": "We’re launching Humanity’s First Exam and a Kaggle hackathon to test LLM reliability.",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/humanitys-first-exam/",
+      "published": "2026-11-24T19:30:00+00:00",
+      "updated": "2026-11-24T19:30:00+00:00",
+      "summary": "Google launches Humanity’s First Exam to test LLM reliability across 544 prompts.",
+      "source": "blog",
+      "group_ids": [
+        "google-deepmind"
+      ],
+      "member_ids": [],
+      "member_names": [],
+      "authors": [],
+      "venue": "",
+      "citation_count": 0,
+      "influential_citation_count": 0,
+      "doi": "",
+      "arxiv_id": "",
+      "primary_category": "",
+      "categories": [],
+      "pdf_url": "",
+      "feed_url": "https://blog.google/technology/google-deepmind/rss/",
+      "blog_label": "Google DeepMind Blog",
+      "summary_cn": "",
+      "fetch_date": "2026-11-28",
+      "sources": [
+        "blog"
+      ]
+    },
+    {
+      "work_id": "blog-tangimap-agentic-system-personalizes-phy-431aaf9b",
+      "kind": "blog",
+      "title": "Agentic system personalizes physical controls to help users “DJ their art”",
+      "url": "https://news.mit.edu/2026/tangimap-agentic-system-personalizes-physical-controls-help-users-dj-their-art-1124",
+      "published": "2026-11-24T19:30:00+00:00",
+      "updated": "2026-11-24T19:30:00+00:00",
+      "summary": "“TangiMap” uses an AI agent to reprogram how buttons, knobs, and sliders are used, helping users do things like edit photos and perform music in a more dynamic, tactile way.",
+      "source": "blog",
+      "group_ids": [
+        "mit-csail"
+      ],
+      "member_ids": [],
+      "member_names": [],
+      "authors": [],
+      "venue": "",
+      "citation_count": 0,
+      "influential_citation_count": 0,
+      "doi": "",
+      "arxiv_id": "",
+      "primary_category": "",
+      "categories": [],
+      "pdf_url": "",
+      "feed_url": "https://news.mit.edu/rss/topic/artificial-intelligence2",
+      "blog_label": "MIT News · AI",
+      "summary_cn": "",
+      "fetch_date": "2026-11-28",
+      "sources": [
+        "blog"
+      ]
+    },
+    {
+      "work_id": "blog-gpt-6-models-demonstrate-intrinsic-prote-7d9478f3",
+      "kind": "blog",
+      "title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
+      "url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities",
+      "published": "2026-11-24T13:00:00+00:00",
+      "updated": "2026-11-24T13:00:00+00:00",
+      "summary": "GPT-6 models design protein structures and sequences using reasoning and code. Lab tests found evidence of binding across five targets.",
+      "source": "blog",
+      "group_ids": [
+        "openai"
+      ],
+      "member_ids": [],
+      "member_names": [],
+      "authors": [],
+      "venue": "",
+      "citation_count": 0,
+      "influential_citation_count": 0,
+      "doi": "",
+      "arxiv_id": "",
+      "primary_category": "",
+      "categories": [],
+      "pdf_url": "",
+      "feed_url": "https://openai.com/news/rss.xml",
+      "blog_label": "OpenAI News",
+      "summary_cn": "",
+      "fetch_date": "2026-11-28",
+      "sources": [
+        "blog"
+      ]
+    },
+    {
+      "work_id": "blog-searching-for-distant-planets-with-astra-28ef2939",
+      "kind": "blog",
+      "title": "Searching for distant planets with Astra",
+      "url": "https://openai.com/index/searching-for-distant-planets-with-astra",
+      "published": "2026-11-24T11:00:00+00:00",
+      "updated": "2026-11-24T11:00:00+00:00",
+      "summary": "See how two amateur astronomers used Codex and Astra to find potential exoplanets in public data from NASA’s Kepler and TESS space telescopes.",
+      "source": "blog",
+      "group_ids": [
+        "openai"
+      ],
+      "member_ids": [],
+      "member_names": [],
+      "authors": [],
+      "venue": "",
+      "citation_count": 0,
+      "influential_citation_count": 0,
+      "doi": "",
+      "arxiv_id": "",
+      "primary_category": "",
+      "categories": [],
+      "pdf_url": "",
+      "feed_url": "https://openai.com/news/rss.xml",
+      "blog_label": "OpenAI News",
+      "summary_cn": "",
+      "fetch_date": "2026-11-28",
+      "sources": [
+        "blog"
+      ]
+    },
+    {
+      "work_id": "blog-intentful-dots-7473f849",
+      "kind": "blog",
+      "title": "How Intentful uses dots to make more time for growth",
+      "url": "https://openai.com/business/customer-stories/intentful-dots",
+      "published": "2026-11-24T00:00:00+00:00",
+      "updated": "2026-11-24T00:00:00+00:00",
+      "summary": "Marina Petrova’s dot Aria helps research websites and build proposals, while proactively flagging messages and resolving issues.",
+      "source": "blog",
+      "group_ids": [
+        "openai"
+      ],
+      "member_ids": [],
+      "member_names": [],
+      "authors": [],
+      "venue": "",
+      "citation_count": 0,
+      "influential_citation_count": 0,
+      "doi": "",
+      "arxiv_id": "",
+      "primary_category": "",
+      "categories": [],
+      "pdf_url": "",
+      "feed_url": "https://openai.com/news/rss.xml",
+      "blog_label": "OpenAI News",
+      "summary_cn": "",
+      "fetch_date": "2026-11-28",
+      "sources": [
+        "blog"
+      ]
+    },
+    {
+      "work_id": "blog-ifood-fc16149c",
+      "kind": "blog",
+      "title": "How iFood scales coding agents across 15,000 repositories",
+      "url": "https://openai.com/business/customer-stories/ifood",
+      "published": "2026-11-24T00:00:00+00:00",
+      "updated": "2026-11-24T00:00:00+00:00",
+      "summary": "",
+      "source": "blog",
+      "group_ids": [
+        "openai"
+      ],
+      "member_ids": [],
+      "member_names": [],
+      "authors": [],
+      "venue": "",
+      "citation_count": 0,
+      "influential_citation_count": 0,
+      "doi": "",
+      "arxiv_id": "",
+      "primary_category": "",
+      "categories": [],
+      "pdf_url": "",
+      "feed_url": "https://openai.com/news/rss.xml",
+      "blog_label": "OpenAI News",
+      "summary_cn": "",
+      "fetch_date": "2026-11-28",
+      "sources": [
+        "blog"
+      ]
+    },
+    {
+      "work_id": "blog-clay-plugins-openai-87a30c08",
+      "kind": "blog",
+      "title": "Clay helps sales teams win with Codex and ChatGPT",
+      "url": "https://openai.com/business/customer-stories/clay-plugins-openai",
+      "published": "2026-11-24T00:00:00+00:00",
+      "updated": "2026-11-24T00:00:00+00:00",
+      "summary": "ChatGPT and Codex integrations help Clay’s users research deals and turn data into go-to-market plays, with GPT-6 models handling the reasoning.",
+      "source": "blog",
+      "group_ids": [
+        "openai"
+      ],
+      "member_ids": [],
+      "member_names": [],
+      "authors": [],
+      "venue": "",
+      "citation_count": 0,
+      "influential_citation_count": 0,
+      "doi": "",
+      "arxiv_id": "",
+      "primary_category": "",
+      "categories": [],
+      "pdf_url": "",
+      "feed_url": "https://openai.com/news/rss.xml",
+      "blog_label": "OpenAI News",
+      "summary_cn": "",
+      "fetch_date": "2026-11-28",
+      "sources": [
+        "blog"
+      ]
+    },
+    {
+      "work_id": "2611.31870",
+      "kind": "paper",
+      "title": "Subliminal Learning Crosses Modalities",
+      "url": "https://arxiv.org/abs/2611.31870",
+      "published": "2026-11-24",
+      "updated": "2026-11-27T09:11:17.138145",
+      "summary": "Subliminal learning refers to a surprising phenomenon in language models wherein a prompt given to one model (e.g., preference for cats) can be subliminally distilled to another model via training on data that is ostensibly meaningless (e.g., number sequences). This paper shows that text-based subliminal learning transfers cross-modally, in particular, a topic/preference (e.g., animals) transferred through number sequences across vision-language models also changes how images are generated and represented. First, we show that a diffusion model using the student as its text encoder generates the student's animal more often than with the original model as its text encoder, but not its color or style. We then investigate the mechanism behind this phenomenon and which concepts transfer across modalities. A constant component of the student's change accounts for much of the shift of image representations toward the trait. Adding this component uniformly can change the generated animal, which depends on the whole prompt, but not concepts such as color or style, which are encoded in a single token. Finally, we introduce weight lens as an approach to identify a subliminal trait from the weights of a single trained model, and show that it identifies the trait of nearly every student, including traits that do not surface in generated images.",
+      "source": "openalex",
+      "group_ids": [
+        "mit-csail"
+      ],
+      "member_ids": [
+        "antonio-torralba"
+      ],
+      "member_names": [
+        "Antonio Torralba"
+      ],
+      "authors": [
+        "Saraswathy Amjith",
+        "Kimia Hamidieh",
+        "Antonio B. Torralba",
+        "Yoon Kim"
+      ],
+      "venue": "arXiv",
+      "citation_count": 0,
+      "influential_citation_count": 0,
+      "doi": "10.48550/arxiv.2611.31870",
+      "arxiv_id": "2611.31870",
+      "primary_category": "cs.LG",
+      "categories": [
+        "cs.LG",
+        "cs.CL",
+        "cs.CV"
+      ],
+      "pdf_url": "https://arxiv.org/pdf/2611.31870",
+      "feed_url": "",
+      "blog_label": "",
+      "summary_cn": "",
+      "fetch_date": "2026-11-28",
+      "sources": [
+        "openalex",
+        "arxiv"
+      ]
+    },
+    {
+      "work_id": "doi-10-4121-340c08e6-8cad-4b61-8108-b0dce490",
+      "kind": "paper",
+      "title": "Data underlying the publication \"Fingertip mechanics and tactile sensing make independent, quantifiable contributions to dexterous manipulation throughput\"",
+      "url": "https://doi.org/10.4121/340c08e6-8cad-4b61-8108-b0dce490c882",
+      "published": "2026-11-24",
+      "updated": "2026-11-26T09:34:50.682384",
+      "summary": "This dataset contains experimental measurements from three human studies investigating how tactile sensory and mechanical degradation affect dexterous manipulation. It includes tactile sensitivity measurements, fingertip mechanical properties, performance in pegboard and screwing tasks, and sensory adaptation during manipulation.",
+      "source": "openalex",
+      "group_ids": [
+        "mit-csail"
+      ],
+      "member_ids": [
+        "pulkit-agrawal"
+      ],
+      "member_names": [
+        "Pulkit Agrawal"
+      ],
+      "authors": [
+        "Laurence Willemet",
+        "Haoshu Fang",
+        "Edward H. Adelson",
+        "Pulkit Agrawal"
+      ],
+      "venue": "4TU.ResearchData",
+      "citation_count": 0,
+      "influential_citation_count": 0,
+      "doi": "10.4121/340c08e6-8cad-4b61-8108-b0dce490c882",
+      "arxiv_id": "",
+      "primary_category": "",
+      "categories": [],
+      "pdf_url": "",
+      "feed_url": "",
+      "blog_label": "",
+      "summary_cn": "",
+      "fetch_date": "2026-11-28",
+      "sources": [
+        "openalex"
+      ]
+    },
+    {
+      "work_id": "doi-10-4121-340c08e6-8cad-4b61-8108-b0dce490",
+      "kind": "paper",
+      "title": "Data underlying the publication \"Fingertip mechanics and tactile sensing make independent, quantifiable contributions to dexterous manipulation throughput\"",
+      "url": "https://doi.org/10.4121/340c08e6-8cad-4b61-8108-b0dce490c882.v1",
+      "published": "2026-11-24",
+      "updated": "2026-11-26T09:34:50.682384",
+      "summary": "This dataset contains experimental measurements from three human studies investigating how tactile sensory and mechanical degradation affect dexterous manipulation. It includes tactile sensitivity measurements, fingertip mechanical properties, performance in pegboard and screwing tasks, and sensory adaptation during manipulation.",
+      "source": "openalex",
+      "group_ids": [
+        "mit-csail"
+      ],
+      "member_ids": [
+        "pulkit-agrawal"
+      ],
+      "member_names": [
+        "Pulkit Agrawal"
+      ],
+      "authors": [
+        "Laurence Willemet",
+        "Haoshu Fang",
+        "Edward H. Adelson",
+        "Pulkit Agrawal"
+      ],
+      "venue": "4TU.ResearchData",
+      "citation_count": 0,
+      "influential_citation_count": 0,
+      "doi": "10.4121/340c08e6-8cad-4b61-8108-b0dce490c882.v1",
+      "arxiv_id": "",
+      "primary_category": "",
+      "categories": [],
+      "pdf_url": "",
+      "feed_url": "",
+      "blog_label": "",
+      "summary_cn": "",
+      "fetch_date": "2026-11-28",
+      "sources": [
+        "openalex"
+      ]
+    },
+    {
+      "work_id": "blog-introducing-shirudo-5bf4d347",
+      "kind": "blog",
+      "title": "OpenAI and Cisco introduce Shirudo",
+      "url": "https://openai.com/index/introducing-shirudo",
+      "published": "2026-11-23T21:20:00+00:00",
+      "updated": "2026-11-23T21:20:00+00:00",
+      "summary": "OpenAI and Cisco introduce Shirudo, an open-source runtime for Linux. It helps teams protect running systems while they roll out patches.",
+      "source": "blog",
+      "group_ids": [
+        "openai"
+      ],
+      "member_ids": [],
+      "member_names": [],
+      "authors": [],
+      "venue": "",
+      "citation_count": 0,
+      "influential_citation_count": 0,
+      "doi": "",
+      "arxiv_id": "",
+      "primary_category": "",
+      "categories": [],
+      "pdf_url": "",
+      "feed_url": "https://openai.com/news/rss.xml",
+      "blog_label": "OpenAI News",
+      "summary_cn": "",
+      "fetch_date": "2026-11-28",
+      "sources": [
+        "blog"
+      ]
+    },
+    {
+      "work_id": "blog-many-languages-one-common-neural-code-11-0349b6e2",
+      "kind": "blog",
+      "title": "Many languages, one common neural code",
+      "url": "https://news.mit.edu/2026/many-languages-one-common-neural-code-1123",
+      "published": "2026-11-23T21:15:00+00:00",
+      "updated": "2026-11-23T21:15:00+00:00",
+      "summary": "Analyzing speakers of 21 languages, an MIT study using multilingual AI finds the human brain may represent meaning in much the same way.",
+      "source": "blog",
+      "group_ids": [
+        "mit-csail"
+      ],
+      "member_ids": [],
+      "member_names": [],
+      "authors": [],
+      "venue": "",
+      "citation_count": 0,
+      "influential_citation_count": 0,
+      "doi": "",
+      "arxiv_id": "",
+      "primary_category": "",
+      "categories": [],
+      "pdf_url": "",
+      "feed_url": "https://news.mit.edu/rss/topic/artificial-intelligence2",
+      "blog_label": "MIT News · AI",
+      "summary_cn": "",
+      "fetch_date": "2026-11-28",
+      "sources": [
+        "blog"
+      ]
+    },
+    {
+      "work_id": "blog-connected-intelligence-for-in-house-lega-276a0bb7",
+      "kind": "blog",
+      "title": "Connected intelligence for in-house legal",
+      "url": "https://openai.com/business/learn/connected-intelligence-for-in-house-legal",
+      "published": "2026-11-23T08:00:00+00:00",
+      "updated": "2026-11-23T08:00:00+00:00",
+      "summary": "Watch OpenAI’s Stacey Wang and Craig Bruney, Mary O’Carroll of LECG, and Cooley’s Richard Segal explore how AI can help in-house legal teams connect business context, build reusable workflows and get more from outside counsel.",
+      "source": "blog",
+      "group_ids": [
+        "openai"
+      ],
+      "member_ids": [],
+      "member_names": [],
+      "authors": [],
+      "venue": "",
+      "citation_count": 0,
+      "influential_citation_count": 0,
+      "doi": "",
+      "arxiv_id": "",
+      "primary_category": "",
+      "categories": [],
+      "pdf_url": "",
+      "feed_url": "https://openai.com/news/rss.xml",
+      "blog_label": "OpenAI News",
+      "summary_cn": "",
+      "fetch_date": "2026-11-28",
+      "sources": [
+        "blog"
+      ]
+    },
+    {
+      "work_id": "blog-richpanel-ai-customer-support-d9b84878",
+      "kind": "blog",
+      "title": "Richpanel helps companies automate 50% of support in 30 days",
+      "url": "https://openai.com/business/customer-stories/richpanel-ai-customer-support",
+      "published": "2026-11-23T08:00:00+00:00",
+      "updated": "2026-11-23T08:00:00+00:00",
+      "summary": "Richpanel uses GPT-6 Astra and GPT-6.1 Sol to equip its AI support agents with tools and procedures, and GPT-6 Luna for their conversations.",
+      "source": "blog",
+      "group_ids": [
+        "openai"
+      ],
+      "member_ids": [],
+      "member_names": [],
+      "authors": [],
+      "venue": "",
+      "citation_count": 0,
+      "influential_citation_count": 0,
+      "doi": "",
+      "arxiv_id": "",
+      "primary_category": "",
+      "categories": [],
+      "pdf_url": "",
+      "feed_url": "https://openai.com/news/rss.xml",
+      "blog_label": "OpenAI News",
+      "summary_cn": "",
+      "fetch_date": "2026-11-28",
+      "sources": [
+        "blog"
+      ]
+    },
+    {
+      "work_id": "blog-ai-driven-technique-could-help-engineers-6bec1d86",
+      "kind": "blog",
+      "title": "AI-driven technique could help engineers design analog chips faster and with less expense",
+      "url": "https://news.mit.edu/2026/ai-driven-technique-could-help-engineers-design-analog-chips-faster-and-less-expensive-1123",
+      "published": "2026-11-23T05:00:00+00:00",
+      "updated": "2026-11-23T05:00:00+00:00",
+      "summary": "The “SLIC” training method enables a small LLM to compete with much more resource-intensive models in complex circuit design tasks.",
+      "source": "blog",
+      "group_ids": [
+        "mit-csail"
+      ],
+      "member_ids": [],
+      "member_names": [],
+      "authors": [],
+      "venue": "",
+      "citation_count": 0,
+      "influential_citation_count": 0,
+      "doi": "",
+      "arxiv_id": "",
+      "primary_category": "",
+      "categories": [],
+      "pdf_url": "",
+      "feed_url": "https://news.mit.edu/rss/topic/artificial-intelligence2",
+      "blog_label": "MIT News · AI",
+      "summary_cn": "",
+      "fetch_date": "2026-11-28",
+      "sources": [
+        "blog"
+      ]
+    },
+    {
+      "work_id": "2611.29913",
+      "kind": "paper",
+      "title": "MoMa-NMP: Scene-Scale Neural Motion Planning for Mobile Manipulators",
+      "url": "https://arxiv.org/abs/2611.29913",
+      "published": "2026-11-23T02:10:52+00:00",
+      "updated": "2026-11-23T02:10:52+00:00",
+      "summary": "Mobile manipulators operating in homes and other complex environments must coordinate their base and arm over long horizons, navigating around obstacles, through narrow passages, and between constrained workspaces. Neural motion planners can provide fast closed-loop planning from partial observations, but scaling them to room-sized environments is difficult because generating high-quality training trajectories is itself a challenging motion-planning problem. To address this, we introduce MoMa-DemoSmith, a demonstration-generation pipeline that separates the problem into global path discovery for large complex scenes and local motion refinement for collision avoidance. This key separation enables the generation of millions of challenging whole-body trajectories across our procedurally generated scenes. We train MoMa-NMP on these demonstrations through behavior cloning (BC) followed by privileged on-policy distillation, achieving 87.0% success on our simulation benchmark and 77.5% across 80 trials in unseen real-world scenes. See video results at https://adamhkan.com/moma-nmp/.",
+      "source": "arxiv",
+      "group_ids": [
+        "cmu-ml"
+      ],
+      "member_ids": [
+        "deepak-pathak"
+      ],
+      "member_names": [
+        "Deepak Pathak"
+      ],
+      "authors": [
+        "Adam Kan",
+        "Jason Jingzhou Liu",
+        "Jiahui Yang",
+        "Kenneth Shaw",
+        "Deepak Pathak"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "influential_citation_count": 0,
+      "doi": "",
+      "arxiv_id": "2611.29913",
+      "primary_category": "cs.RO",
+      "categories": [
+        "cs.RO"
+      ],
+      "pdf_url": "https://arxiv.org/pdf/2611.29913v1",
+      "feed_url": "",
+      "blog_label": "",
+      "summary_cn": "",
+      "fetch_date": "2026-11-28",
+      "sources": [
+        "arxiv"
+      ]
+    },
+    {
+      "work_id": "2611.31588",
+      "kind": "paper",
+      "title": "One Phase Is Enough: Sim-to-Real Transfer with Direct Visual Reinforcement Learning",
+      "url": "https://arxiv.org/abs/2611.31588",
+      "published": "2026-11-23",
+      "updated": "2026-11-27T09:11:17.138145",
+      "summary": "Sim-to-real reinforcement learning (RL) has enabled impressive robotic behaviors, yet deploying policies directly from vision remains challenging. A common approach first trains a teacher policy with RL using privileged state observations, then distills its behavior into a vision-based student via imitation. However, the resulting student can substantially underperform its teacher. Directly training visual policies with RL offers a promising alternative, but learning task-relevant visual representations from scratch can be sample-inefficient, making one-phase visual RL intractable. We propose DRIFT, a simple recipe for efficient one-phase visual RL using image observations available at test time. Our key insight is to use frozen, pretrained foundation vision encoders, allowing RL to focus on learning control from existing visual representations. Freezing the encoder avoids costly backpropagation through the vision backbone, while its pretrained representations enable real-world transfer from fast, rasterized simulation rendering. Under matched architectures, observations, and compute budgets, DRIFT outperforms two-phase distillation and achieves a 58.8% relative improvement in average real-world success rate across three manipulation tasks. Controlled simulation evaluations demonstrate that DRIFT's relative advantage grows from roughly 9% in-distribution to over 61% under out-of-distribution shifts, suggesting that stronger generalization contributes to superior real-world transfer. Project website: https://jmarangola.github.io/one-phase-visual-rl/",
+      "source": "openalex",
+      "group_ids": [
+        "mit-csail"
+      ],
+      "member_ids": [
+        "pulkit-agrawal"
+      ],
+      "member_names": [
+        "Pulkit Agrawal"
+      ],
+      "authors": [
+        "John Marangola",
+        "Antonia Bronars",
+        "Younghyo Park",
+        "Stephen Andrews",
+        "Kushal S. Kedia",
+        "Pulkit Agrawal"
+      ],
+      "venue": "arXiv",
+      "citation_count": 0,
+      "influential_citation_count": 0,
+      "doi": "10.48550/arxiv.2611.31588",
+      "arxiv_id": "2611.31588",
+      "primary_category": "cs.LG",
+      "categories": [
+        "cs.LG",
+        "cs.RO"
+      ],
+      "pdf_url": "https://arxiv.org/pdf/2611.31588",
+      "feed_url": "",
+      "blog_label": "",
+      "summary_cn": "",
+      "fetch_date": "2026-11-28",
+      "sources": [
+        "openalex",
+        "arxiv"
+      ]
+    },
+    {
+      "work_id": "blog-perplexity-and-intelligence-aa3d0f2e",
+      "kind": "blog",
+      "title": "Perplexity and Intelligence",
+      "url": "https://openai.com/index/perplexity-and-intelligence",
+      "published": "2026-11-22T00:00:00+00:00",
+      "updated": "2026-11-22T00:00:00+00:00",
+      "summary": "How perplexity measures progress in AI models, and why it could help developers establish a shared approach to evaluating emerging capabilities.",
+      "source": "blog",
+      "group_ids": [
+        "openai"
+      ],
+      "member_ids": [],
+      "member_names": [],
+      "authors": [],
+      "venue": "",
+      "citation_count": 0,
+      "influential_citation_count": 0,
+      "doi": "",
+      "arxiv_id": "",
+      "primary_category": "",
+      "categories": [],
+      "pdf_url": "",
+      "feed_url": "https://openai.com/news/rss.xml",
+      "blog_label": "OpenAI News",
+      "summary_cn": "",
+      "fetch_date": "2026-11-28",
+      "sources": [
+        "blog"
+      ]
+    },
+    {
+      "work_id": "p-title-neurips-2025-foundation-models-mee",
+      "kind": "paper",
+      "title": "NeurIPS 2025 Foundation Models Meet Embodied Agents Challenge: Systems, Analysis, and Lessons Learned",
+      "url": "https://proceedings.mlr.press/v276/bao26a.html",
+      "published": "2026-11-21",
+      "updated": "2026-11-24T14:10:38.155754",
+      "summary": "While Large Language Models (LLMs) have demonstrated impressive high-level reasoning capabilities, their deployment in embodied decision-making tasks remains hindered by a lack of standardized, diagnostic evaluations. We present a retrospective on the NeurIPS 2025 Embodied Agent Interface Challenge, which systematically benchmarked LLMs across four critical reasoning modules: goal interpretation, subgoal decomposition, action sequencing, and transition modeling. Hosted on the BEHAVIOR and VirtualHome simulators, the competition departed from traditional, binary task-success metrics. Instead, it leveraged Linear Temporal Logic (LTL) to evaluate alternative viable trajectories and introduced fine-grained metrics to pinpoint specific failures, such as affordance violations, hallucinations, and missing preconditions. The competition attracted significant engagement globally, with 58 registered teams developing diverse solutions. An analysis of the winning and most innovative submissions reveals a clear trend: while hybrid neuro-symbolic pipelines and test-time compute significantly enhance trajectory feasibility, spatial relationship modeling remains a pervasive bottleneck for current LLMs. In this report, we detail the competition design, summarize the top-performing methodologies, and present key lessons learned to guide the future development of robust, interpretable embodied AI systems.",
+      "source": "openalex",
+      "group_ids": [
+        "stanford-ai"
+      ],
+      "member_ids": [
+        "percy-liang"
+      ],
+      "member_names": [
+        "Percy Liang"
+      ],
+      "authors": [
+        "Tianwei Bao",
+        "Qineng Wang",
+        "Kangrui Wang",
+        "Bryan Yu Zhou",
+        "Tony Lee",
+        "Li Erran Li",
+        "Weiyu Liu",
+        "Ruohan Zhang",
+        "Yejin Choi",
+        "Percy Liang",
+        "Jiayuan Mao",
+        "Li Fei-Fei",
+        "Jiajun Wu",
+        "Manling Li"
+      ],
+      "venue": "Proceedings of Machine Learning Research",
+      "citation_count": 0,
+      "influential_citation_count": 0,
+      "doi": "",
+      "arxiv_id": "",
+      "primary_category": "",
+      "categories": [],
+      "pdf_url": "https://raw.githubusercontent.com/mlresearch/v276/main/assets/bao26a/bao26a.pdf",
+      "feed_url": "",
+      "blog_label": "",
+      "summary_cn": "",
+      "fetch_date": "2026-11-28",
+      "sources": [
+        "openalex"
+      ]
+    }
+  ],
+  "source_stats": {
+    "openalex": 5,
+    "arxiv": 3,
+    "blog": 13
+  },
+  "kind_stats": {
+    "blog": 13,
+    "paper": 6
+  }
+}

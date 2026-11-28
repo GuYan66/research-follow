@@ -9190,7 +9190,21 @@
       "venue": "4TU.ResearchData",
       "citation_count": 0,
       "path": "works/works-2026-11-26.json"
+    },
+    "2611.29913": {
+      "work_id": "2611.29913",
+      "kind": "paper",
+      "title": "MoMa-NMP: Scene-Scale Neural Motion Planning for Mobile Manipulators",
+      "date": "2026-11-28",
+      "published": "2026-11-23T02:10:52+00:00",
+      "arxiv_id": "2611.29913",
+      "group_ids": [
+        "cmu-ml"
+      ],
+      "venue": "",
+      "citation_count": 0,
+      "path": "works/works-2026-11-28.json"
     }
   },
-  "last_updated": "2026-11-27T08:42:41.438000+00:00"
+  "last_updated": "2026-11-28T07:56:44.843693+00:00"
 }
